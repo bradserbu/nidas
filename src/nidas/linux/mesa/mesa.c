@@ -419,12 +419,12 @@ static int load_finish(struct MESA_Board *brd)
                         outb(0xFF, brd->addr + R_4I34DATA);
 
                 ret = 0;
-        } else
+        } else {
                 config = M_4I34CFGCSOFF | M_4I34CFGINITDEASSERT |
                         M_4I34CFGWRITEDISABLE | M_4I34LEDOFF;
                 outb(config, brd->addr + R_4I34CONTROL);
                 KLOG_ERR("FPGA programming not successful.\n");
-
+        }
         return ret;
 }
 
