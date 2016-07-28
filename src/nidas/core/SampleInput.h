@@ -48,7 +48,7 @@ class SampleInput: public SampleSource, public IOChannelRequester, public DOMabl
 {
 public:
 
-    virtual ~SampleInput() {}
+    virtual ~SampleInput() throw (nidas::util::Exception) {}
 
     virtual std::string getName() const = 0;
 

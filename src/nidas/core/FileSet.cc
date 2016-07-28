@@ -55,7 +55,7 @@ FileSet::FileSet(const FileSet& x):
     if (x._mount) _mount = new FsMount(*x._mount);
 }
 
-FileSet::~FileSet()
+FileSet::~FileSet() throw (nidas::util::Exception)
 {
     delete _fset;
     delete _mount;

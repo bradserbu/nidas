@@ -53,7 +53,7 @@ public:
      */
     DSMService(const std::string& name);
 
-    virtual ~DSMService();
+    virtual ~DSMService() throw (nidas::util::Exception);
 
     const std::string& getName() const
     {

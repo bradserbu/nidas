@@ -48,7 +48,7 @@ public:
      */
     SensorOpener(SensorHandler*);
 
-    ~SensorOpener();
+    ~SensorOpener() throw (nidas::util::Exception);
 
     /**
      * A SensorHandler calls this method to schedule

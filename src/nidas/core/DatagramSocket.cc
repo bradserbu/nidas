@@ -85,7 +85,7 @@ DatagramSocket::DatagramSocket(nidas::util::DatagramSocket* sock):
 {
 }
 
-DatagramSocket::~DatagramSocket()
+DatagramSocket::~DatagramSocket() throw (nidas::util::Exception)
 {
     close();
     delete _nusocket;

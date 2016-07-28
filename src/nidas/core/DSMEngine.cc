@@ -95,7 +95,7 @@ DSMEngine::DSMEngine():
     setupSignals();
 }
 
-DSMEngine::~DSMEngine()
+DSMEngine::~DSMEngine() throw (nidas::util::Exception)
 {
     delete _statusThread;
     delete _xmlrpcThread;

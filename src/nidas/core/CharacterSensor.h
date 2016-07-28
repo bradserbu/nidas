@@ -51,7 +51,7 @@ public:
      */
     CharacterSensor();
 
-    virtual ~CharacterSensor();
+    virtual ~CharacterSensor() throw (nidas::util::Exception);
 
     /**
      * Creates an IODevice depending on the device name prefix:

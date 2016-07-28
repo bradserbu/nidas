@@ -64,7 +64,7 @@ CharacterSensor::CharacterSensor():
 {
 }
 
-CharacterSensor::~CharacterSensor() {
+CharacterSensor::~CharacterSensor() throw (nidas::util::Exception) {
     std::list<AsciiSscanf*>::iterator si;
     for (si = _sscanfers.begin(); si != _sscanfers.end(); ++si) {
         AsciiSscanf* sscanf = *si;

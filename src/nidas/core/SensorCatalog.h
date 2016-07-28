@@ -45,7 +45,7 @@ public:
 
     SensorCatalog(const SensorCatalog&);
 
-    ~SensorCatalog();
+    ~SensorCatalog() throw (nidas::util::Exception);
 
     SensorCatalog& operator=(const SensorCatalog&);
 

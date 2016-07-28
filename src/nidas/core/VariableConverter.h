@@ -57,7 +57,7 @@ public:
      */
     VariableConverter& operator=(const VariableConverter& x);
 
-    virtual ~VariableConverter() {}
+    virtual ~VariableConverter() throw (nidas::util::Exception) {}
 
     virtual VariableConverter* clone() const = 0;
 
@@ -157,7 +157,7 @@ public:
 
     Linear* clone() const;
 
-    ~Linear();
+    ~Linear() throw (nidas::util::Exception);
 
     void setCalFile(CalFile*);
 
@@ -216,7 +216,7 @@ public:
 
     Polynomial& operator=(const Polynomial&);
 
-    ~Polynomial();
+    ~Polynomial() throw (nidas::util::Exception);
 
     Polynomial* clone() const;
 

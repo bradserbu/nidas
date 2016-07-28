@@ -97,7 +97,7 @@ public:
      * attributes must be set before the sensor device is opened.
      */
     DSMArincSensor();
-    ~DSMArincSensor();
+    ~DSMArincSensor() throw (nidas::util::Exception);
 
     IODevice* buildIODevice() throw(nidas::util::IOException);
 

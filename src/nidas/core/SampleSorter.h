@@ -61,7 +61,7 @@ public:
      */
     SampleSorter(const std::string& name,bool raw);
 
-    virtual ~SampleSorter();
+    virtual ~SampleSorter() throw (nidas::util::Exception);
 
     void setKeepStats(bool val)
     {

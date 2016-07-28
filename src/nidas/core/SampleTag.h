@@ -104,7 +104,7 @@ public:
      */
     SampleTag(const SampleTag&);
 
-    virtual ~SampleTag();
+    virtual ~SampleTag() throw (nidas::util::Exception);
 
     SampleTag& operator=(const SampleTag& rhs);
 

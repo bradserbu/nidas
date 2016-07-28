@@ -61,7 +61,7 @@ public:
 
     NearestResampler(const std::vector<Variable*>& vars,bool nansVariable=true);
 
-    ~NearestResampler();
+    ~NearestResampler() throw (nidas::util::Exception);
 
     SampleSource* getRawSampleSource() { return 0; }
 

@@ -45,7 +45,7 @@ public:
     RemoteSerialListener(unsigned short port, SensorHandler*)
         throw(nidas::util::IOException);
 
-    ~RemoteSerialListener();
+    ~RemoteSerialListener() throw (nidas::util::Exception);
 
 #if POLLING_METHOD == POLL_EPOLL_ET
     bool handlePollEvents(uint32_t events) throw();

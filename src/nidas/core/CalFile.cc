@@ -158,7 +158,7 @@ CalFile& CalFile::operator=(const CalFile& rhs)
     return *this;
 }
 
-CalFile::~CalFile()
+CalFile::~CalFile() throw (nidas::util::Exception)
 {
     close();
     delete _include;

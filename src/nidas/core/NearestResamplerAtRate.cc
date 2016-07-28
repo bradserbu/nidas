@@ -69,7 +69,8 @@ NearestResamplerAtRate::NearestResamplerAtRate(const std::vector<Variable*>& var
     ctorCommon(newvars,nansVariable);
 }
 
-NearestResamplerAtRate::~NearestResamplerAtRate()
+NearestResamplerAtRate::~NearestResamplerAtRate() 
+    throw (nidas::util::Exception)
 {
     delete [] _prevTT;
     delete [] _nearTT;

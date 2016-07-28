@@ -283,7 +283,7 @@ public:
 
 protected:
     XMLCachingParser() throw(nidas::core::XMLException);
-    ~XMLCachingParser();
+    ~XMLCachingParser() throw (nidas::util::Exception);
 
 protected:
     static XMLCachingParser* _instance;

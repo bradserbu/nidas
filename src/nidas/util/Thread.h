@@ -146,7 +146,7 @@ public:
      * above situations exists.  These situations are errors on the
      * part of the user of Thread and should be corrected.
      */
-    virtual ~Thread();
+    virtual ~Thread() throw (nidas::util::Exception);
 
     /**
      * Start the thread running, meaning execute the run method in a
@@ -575,7 +575,7 @@ class ThreadJoiner: public DetachedThread
 public:
     ThreadJoiner(Thread* thrd);
 
-    ~ThreadJoiner();
+    ~ThreadJoiner() throw (nidas::util::Exception);
 
     int run() throw();
 private:

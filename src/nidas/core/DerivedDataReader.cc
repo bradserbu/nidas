@@ -78,7 +78,7 @@ DerivedDataReader::DerivedDataReader(const n_u::SocketAddress& addr):
     _fields.push_back(IWG1_Field(22,&_ps));       // static pressure is 22nd field
 }
 
-DerivedDataReader::~DerivedDataReader()
+DerivedDataReader::~DerivedDataReader() throw (nidas::util::Exception)
 {
     delete _saddr;
 }

@@ -183,7 +183,7 @@ public:
     /**
      * Closes the file if necessary.
      */
-    ~CalFile();
+    ~CalFile() throw (nidas::util::Exception);
 
     const std::string& getFile() const;
 

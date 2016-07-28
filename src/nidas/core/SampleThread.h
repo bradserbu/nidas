@@ -56,7 +56,7 @@ public:
 
     SampleThread(const std::string& name): Thread(name) {}
 
-    virtual ~SampleThread() {}
+    virtual ~SampleThread() throw (nidas::util::Exception) {}
 
     /**
      * Both SampleClient and SampleSource have a flush() method.

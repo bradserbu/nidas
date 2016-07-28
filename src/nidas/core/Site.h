@@ -50,7 +50,7 @@ class Site : public DOMable {
 public:
     Site();
 
-    virtual ~Site();
+    virtual ~Site() throw (nidas::util::Exception);
 
     /**
      * Set the name of the Site.

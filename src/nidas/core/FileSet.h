@@ -51,7 +51,7 @@ public:
      */
     FileSet(nidas::util::FileSet* fset);
 
-    ~FileSet();
+    ~FileSet() throw (nidas::util::Exception);
 
     int getReconnectDelaySecs() const
     {

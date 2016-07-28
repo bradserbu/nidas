@@ -59,7 +59,7 @@ public:
      */
     FsMount(const FsMount& x);
 
-    ~FsMount() {}
+    ~FsMount() throw (nidas::util::Exception) {}
 
     /**
      * Assignment.

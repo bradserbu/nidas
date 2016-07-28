@@ -46,6 +46,10 @@ class DSMEngineIntf : public XmlRpcThread
 public:
     DSMEngineIntf();
 
+    virtual
+    ~DSMEngineIntf() throw (nidas::util::Exception)
+    {}
+
     int run() throw(nidas::util::Exception);
 
     /**

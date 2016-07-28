@@ -63,7 +63,7 @@ public:
     DSMEngineStat(const std::string& name,const nidas::util::SocketAddress& saddr):
         StatusThread(name),_sockAddr(saddr.clone()) {};
 
-    ~DSMEngineStat()
+    ~DSMEngineStat() throw (nidas::util::Exception)
     {
         delete _sockAddr;
     }

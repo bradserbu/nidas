@@ -53,6 +53,10 @@ public:
 
     Looper();
 
+    virtual
+    ~Looper() throw (nidas::util::Exception)
+    {}
+
     /**
      * Add a client to the Looper whose
      * LooperClient::looperNotify() method should be

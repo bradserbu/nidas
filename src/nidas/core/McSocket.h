@@ -49,7 +49,7 @@ public:
      */
     McSocket();
 
-    ~McSocket() {
+    ~McSocket() throw (nidas::util::Exception) {
     }
 
     McSocket* clone() const;

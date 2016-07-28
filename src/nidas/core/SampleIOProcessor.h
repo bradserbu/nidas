@@ -57,7 +57,7 @@ public:
      */
     SampleIOProcessor(bool raw);
 
-    virtual ~SampleIOProcessor();
+    virtual ~SampleIOProcessor() throw (nidas::util::Exception);
 
     virtual const std::string& getName() const;
 

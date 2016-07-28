@@ -45,7 +45,7 @@ public:
 
     DSMCatalog(const DSMCatalog&);
 
-    ~DSMCatalog();
+    ~DSMCatalog() throw (nidas::util::Exception);
 
     DSMCatalog& operator=(const DSMCatalog&);
 

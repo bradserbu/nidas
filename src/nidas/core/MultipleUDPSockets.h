@@ -39,6 +39,10 @@ class MultipleUDPSockets: public McSocketUDP
 public:
     MultipleUDPSockets();
 
+    virtual 
+    ~MultipleUDPSockets() throw (nidas::util::Exception)
+    {}
+
     MultipleUDPSockets(const MultipleUDPSockets&x);
 
     MultipleUDPSockets* clone() const;

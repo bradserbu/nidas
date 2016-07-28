@@ -39,7 +39,7 @@ namespace nidas { namespace core {
 class Resampler : public SampleClient, public SampleSource {
 public:
 
-    virtual ~Resampler() {}
+    virtual ~Resampler() throw (nidas::util::Exception) {}
 
     /**
      * Both SampleClient and SampleSource have a flush() method.

@@ -58,7 +58,7 @@ public:
      */
     McSocketUDP(const McSocketUDP&);
 
-    ~McSocketUDP() { }
+    ~McSocketUDP() throw (nidas::util::Exception) { }
 
     McSocketUDP* clone() const;
 

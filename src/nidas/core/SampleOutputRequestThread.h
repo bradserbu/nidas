@@ -90,7 +90,7 @@ private:
 
     SampleOutputRequestThread();
 
-    ~SampleOutputRequestThread() {}
+    ~SampleOutputRequestThread() throw (nidas::util::Exception) {}
 
     static SampleOutputRequestThread * _instance;
 

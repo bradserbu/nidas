@@ -59,7 +59,7 @@ public:
      */
     Socket(nidas::util::Socket* sock);
 
-    ~Socket();
+    ~Socket() throw (nidas::util::Exception);
 
     Socket* clone() const;
 
@@ -237,7 +237,7 @@ public:
     {
     public:
         ConnectionThread(Socket* sock);
-        ~ConnectionThread();
+        ~ConnectionThread() throw (nidas::util::Exception);
 
         int run() throw(nidas::util::IOException);
 
@@ -308,7 +308,7 @@ public:
      */
     ServerSocket(const nidas::util::SocketAddress& addr);
 
-    ~ServerSocket();
+    ~ServerSocket() throw (nidas::util::Exception);
 
     ServerSocket* clone() const;
 

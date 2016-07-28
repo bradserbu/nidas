@@ -58,7 +58,7 @@ DSMConfig::DSMConfig():
 {
 }
 
-DSMConfig::~DSMConfig()
+DSMConfig::~DSMConfig() throw (nidas::util::Exception)
 {
     // delete the sensors I own
     for (list<DSMSensor*>::const_iterator si = _ownedSensors.begin();

@@ -45,7 +45,7 @@ public:
 
     ServiceCatalog(const ServiceCatalog&);
 
-    ~ServiceCatalog();
+    ~ServiceCatalog() throw (nidas::util::Exception);
 
     ServiceCatalog& operator=(const ServiceCatalog&);
 

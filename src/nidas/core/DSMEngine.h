@@ -58,7 +58,7 @@ public:
     /**
      * Nuke it.
      */
-    ~DSMEngine();
+    ~DSMEngine() throw (nidas::util::Exception);
 
     /**
      * Entry point to run a DSMEngine process from a command line.

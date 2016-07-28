@@ -81,7 +81,7 @@ class SamplePipeline: public SampleSource
 public:
     SamplePipeline();
 
-    virtual ~SamplePipeline();
+    virtual ~SamplePipeline() throw (nidas::util::Exception);
 
     std::string getName() const { return _name; }
 

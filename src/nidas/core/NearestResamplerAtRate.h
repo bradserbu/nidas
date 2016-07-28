@@ -82,7 +82,7 @@ public:
 
     NearestResamplerAtRate(const std::vector<Variable*>& vars,bool nansVariable=true);
 
-    ~NearestResamplerAtRate();
+    ~NearestResamplerAtRate() throw (nidas::util::Exception);
 
     /**
      * Set the requested output rate, in Hz. For rates < 1 it is best to choose

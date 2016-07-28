@@ -94,7 +94,7 @@ public:
 
     DSMSensor();
 
-    virtual ~DSMSensor();
+    virtual ~DSMSensor() throw (nidas::util::Exception);
 
     /**
      * Set the DSMConfig for this sensor.

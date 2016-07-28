@@ -48,7 +48,7 @@ DSMServer::DSMServer(): _name(),_project(0),_site(0),
 {
 }
 
-DSMServer::~DSMServer()
+DSMServer::~DSMServer() throw (nidas::util::Exception)
 {
     // delete services.
     list<DSMService*>::const_iterator si;

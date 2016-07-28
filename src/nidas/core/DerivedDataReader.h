@@ -94,7 +94,7 @@ private:
      */
     DerivedDataReader(const nidas::util::SocketAddress&);
 
-    ~DerivedDataReader();
+    ~DerivedDataReader() throw (nidas::util::Exception);
 
     void notifyClients();
 

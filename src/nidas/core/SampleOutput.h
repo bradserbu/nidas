@@ -48,7 +48,7 @@ class SampleOutput: public SampleClient, public IOChannelRequester, public DOMab
 {
 public:
 
-    virtual ~SampleOutput() {}
+    virtual ~SampleOutput() throw (nidas::util::Exception) {}
 
     /**
      * Get pointer to SampleOutput that was cloned. Will be NULL
@@ -157,7 +157,7 @@ public:
      */
     SampleOutputBase(IOChannel* iochan,SampleConnectionRequester* rqstr=0);
 
-    ~SampleOutputBase();
+    ~SampleOutputBase() throw (nidas::util::Exception);
 
     /**
      * Set the IOChannel for this SampleOutput.

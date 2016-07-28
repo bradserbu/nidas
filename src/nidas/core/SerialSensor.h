@@ -72,7 +72,7 @@ public:
      */
     SerialSensor();
 
-    ~SerialSensor();
+    ~SerialSensor() throw (nidas::util::Exception);
 
     /**
      * Expose the Termios. One must call applyTermios() to

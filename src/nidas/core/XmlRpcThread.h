@@ -43,7 +43,7 @@ public:
     /** Constructor. */
     XmlRpcThread(const std::string& name);
 
-    ~XmlRpcThread();
+    ~XmlRpcThread() throw (nidas::util::Exception);
 
     void interrupt();
 

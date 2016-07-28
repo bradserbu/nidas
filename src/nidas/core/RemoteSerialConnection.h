@@ -44,7 +44,7 @@ public:
 
     RemoteSerialConnection(nidas::util::Socket* sock,SensorHandler* handler);
 
-    ~RemoteSerialConnection();
+    ~RemoteSerialConnection() throw (nidas::util::Exception);
 
     /**
      * Implementation of SampleClient::flush().

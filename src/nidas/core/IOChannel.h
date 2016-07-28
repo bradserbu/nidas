@@ -78,7 +78,7 @@ public:
         return *this;
     }
 
-    virtual ~IOChannel() {}
+    virtual ~IOChannel() throw (nidas::util::Exception) {}
 
     /**
      * Derived classes must provide clone.

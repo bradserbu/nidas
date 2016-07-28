@@ -47,7 +47,7 @@ DSMService::DSMService(const std::string& name): _name(name),
 {
 }
 
-DSMService::~DSMService()
+DSMService::~DSMService() throw (nidas::util::Exception)
 {
     list<SampleInput*>::iterator li = _inputs.begin();
     for ( ; li != _inputs.end(); ++li) {

@@ -59,7 +59,7 @@ public:
 
     DatagramSocket(nidas::util::DatagramSocket* sock);
 
-    ~DatagramSocket();
+    ~DatagramSocket() throw (nidas::util::Exception);
 
     DatagramSocket* clone() const;
 

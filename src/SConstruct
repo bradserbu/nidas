@@ -141,8 +141,10 @@ opts.Update(env)
 # print 'CXXFLAGS=' + str(env['CXXFLAGS'])
 # print 'SHCXXFLAGS=' + str(env['SHCXXFLAGS'])
 
-env['CFLAGS'] = [ '-Wall','-O2' ]
-env['CXXFLAGS'] = [ '-Wall','-O2' ]
+env['CFLAGS'] = ['-std=c++11', '-Wall', '-O2']
+env['CXXFLAGS'] = ['-std=c++11', '-Wall', '-O2']
+env['CFLAGS'] = ['-Wall', '-O2']
+env['CXXFLAGS'] = ['-Wall', '-O2', '-Dunique_ptr=auto_ptr']
 
 env['CCFLAGS'] = [ ]
 

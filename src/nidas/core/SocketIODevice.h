@@ -31,7 +31,7 @@
 #include <nidas/util/Socket.h>
 #include <nidas/util/ParseException.h>
 
-#include <memory> // auto_ptr<>
+#include <memory> // unique_ptr<>
 
 namespace nidas { namespace core {
 

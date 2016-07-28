@@ -55,7 +55,7 @@ class SampleOutput;
 class DSMConfig : public DOMable {
 public:
     DSMConfig();
-    virtual ~DSMConfig();
+    virtual ~DSMConfig() throw (nidas::util::Exception);
 
     void setSite(const Site* val) { _site = val; }
     const Site* getSite() const { return _site; }

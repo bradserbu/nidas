@@ -55,7 +55,7 @@ public:
      */
     SampleSourceSupport(const SampleSourceSupport& x);
 
-    virtual ~SampleSourceSupport() {}
+    virtual ~SampleSourceSupport() throw (nidas::util::Exception) {}
 
     SampleSource* getRawSampleSource()
     {

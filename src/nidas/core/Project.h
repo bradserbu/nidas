@@ -62,7 +62,7 @@ public:
 
     Project();
 
-    virtual ~Project();
+    virtual ~Project() throw (nidas::util::Exception);
 
     /**
      * Convenient method to fill this Project instance from the

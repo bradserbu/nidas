@@ -513,7 +513,7 @@ private:
 private:
     McSocketListener(const Inet4SocketAddress& addr);
 
-    ~McSocketListener();
+    ~McSocketListener() throw (nidas::util::Exception);
 
     void add(McSocket<Socket>* mcsocket);
 
@@ -565,7 +565,7 @@ private:
     /** No assignment */
     McSocketMulticaster& operator=(const McSocketMulticaster&);
 
-    virtual ~McSocketMulticaster();
+    virtual ~McSocketMulticaster() throw (nidas::util::Exception);
 
     int run() throw(Exception);
 
@@ -857,7 +857,8 @@ McSocketMulticaster<SocketTT>::McSocketMulticaster(McSocket<SocketTT>* mcsock) :
 }
 
 template<class SocketT>
-McSocketMulticaster<SocketT>::~McSocketMulticaster()
+McSocketMulticaster<SocketT>::~McSocketMulticaster() 
+throw (nidas::util::Exception)
 {
     if (_serverSocket) {
         _serverSocket->close();

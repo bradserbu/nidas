@@ -53,7 +53,7 @@ public:
 
     virtual void assign(const Parameter&) = 0;
 
-    virtual ~Parameter() {}
+    virtual ~Parameter() throw (nidas::util::Exception) {}
 
     virtual Parameter* clone() const = 0;
 

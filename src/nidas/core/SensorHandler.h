@@ -92,7 +92,7 @@ public:
      */
     SensorHandler(unsigned short rserialPort = 0);
 
-    ~SensorHandler();
+    ~SensorHandler() throw (nidas::util::Exception);
 
     /**
      * Override default implementation of Thread::signalHandler().
@@ -197,7 +197,7 @@ private:
         /**
          * Destructor does not close().
          */
-        ~PolledDSMSensor() {}
+        ~PolledDSMSensor() throw (nidas::util::Exception) {}
 
         /**
          * @return: true: read consumed all available data.

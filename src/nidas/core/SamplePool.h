@@ -133,7 +133,7 @@ private:
 
     SamplePool();
 
-    ~SamplePool();
+    ~SamplePool() throw (nidas::util::Exception);
 
     static SamplePool* _instance;
 
@@ -243,7 +243,7 @@ template<class SampleType>
 }
 
 template<class SampleType>
-SamplePool<SampleType>::~SamplePool() {
+SamplePool<SampleType>::~SamplePool() throw (nidas::util::Exception) {
     int i;
     for (i = 0; i < _nsmall; i++) delete _smallSamples[i];
     delete [] _smallSamples;

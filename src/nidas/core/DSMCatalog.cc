@@ -42,7 +42,7 @@ DSMCatalog::DSMCatalog(const DSMCatalog& x):
 {
 }
 
-DSMCatalog::~DSMCatalog()
+DSMCatalog::~DSMCatalog() throw (nidas::util::Exception)
 {
 }
 

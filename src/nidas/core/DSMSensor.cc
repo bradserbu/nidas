@@ -76,7 +76,7 @@ DSMSensor::DSMSensor() :
 {
 }
 
-DSMSensor::~DSMSensor()
+DSMSensor::~DSMSensor() throw (nidas::util::Exception)
 {
 
     for (list<SampleTag*>::const_iterator si = _sampleTags.begin();

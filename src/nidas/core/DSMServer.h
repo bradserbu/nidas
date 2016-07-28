@@ -52,7 +52,7 @@ public:
 
     DSMServer();
 
-    virtual ~DSMServer();
+    virtual ~DSMServer() throw (nidas::util::Exception);
 
     const std::string& getName() const { return _name; }
 

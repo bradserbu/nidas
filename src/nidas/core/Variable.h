@@ -64,7 +64,7 @@ public:
      */
     Variable& operator=(const Variable&);
 
-    virtual ~Variable();
+    virtual ~Variable() throw (nidas::util::Exception);
 
     /**
      * Equivalence operator for Variable, checks
