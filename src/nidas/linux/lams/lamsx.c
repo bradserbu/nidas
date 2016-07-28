@@ -800,8 +800,10 @@ static void lams_cleanup(void)
             unregister_chrdev_region(lams_device, numboards);
 
         if (lams_class && !IS_ERR(lams_class))
+        {
                 class_destroy(lams_class);
                 lams_class = 0;
+        }
 
         if (work_queue) destroy_workqueue(work_queue);
 
