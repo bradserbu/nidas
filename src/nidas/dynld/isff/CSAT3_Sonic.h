@@ -246,8 +246,6 @@ private:
     CSAT3_Sonic& operator=(const CSAT3_Sonic&);
 };
 
-const float CSAT3_Sonic::GAMMA_R = 402.684;
-
 }}}	// namespace nidas namespace dynld namespace isff
 
 #endif

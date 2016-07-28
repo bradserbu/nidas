@@ -46,6 +46,10 @@ namespace n_u = nidas::util;
 
 NIDAS_CREATOR_FUNCTION_NS(isff,CSAT3_Sonic)
 
+
+const float CSAT3_Sonic::GAMMA_R = 402.684;
+
+
 CSAT3_Sonic::CSAT3_Sonic():
     SonicAnemometer(),
     _ldiagIndex(-1),
@@ -71,6 +75,7 @@ CSAT3_Sonic::CSAT3_Sonic():
     _checkCounter(true)
 {
 }
+
 
 bool CSAT3_Sonic::dataMode() throw(n_u::IOException)
 {

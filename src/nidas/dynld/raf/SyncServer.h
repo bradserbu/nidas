@@ -238,9 +238,6 @@ private:
 
 };
 
-const float SyncServer::RAW_SORTER_LENGTH_SECS = 5.0;
-const float SyncServer::SORTER_LENGTH_SECS = 5.0;
-
 
 }}}	// namespace nidas namespace dynld namespace raf
 
