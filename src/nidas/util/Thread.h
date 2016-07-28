@@ -41,7 +41,7 @@ namespace nidas { namespace util {
 class Runnable {
 public:
 
-    virtual ~Runnable() {}
+    virtual ~Runnable() throw (nidas::util::Exception) {}
     /**
      * The method which will run in its own thread.  This method must
      * be supplied by the Runnable or Thread subclass.

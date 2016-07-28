@@ -161,7 +161,7 @@ private:
     /**
      * The destination socket address.
      */
-    std::auto_ptr<nidas::util::SocketAddress> _sockAddr;
+    std::unique_ptr<nidas::util::SocketAddress> _sockAddr;
 
     /**
      * The listen socket.  This isn't in an auto_ptr because

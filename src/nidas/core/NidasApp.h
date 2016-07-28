@@ -683,7 +683,7 @@ private:
 
     std::list<std::string> _dataFileNames;
 
-    std::auto_ptr<nidas::util::SocketAddress> _sockAddr;
+    std::unique_ptr<nidas::util::SocketAddress> _sockAddr;
 
     std::string _outputFileName;
     int _outputFileLength;

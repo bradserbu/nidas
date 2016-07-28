@@ -48,7 +48,7 @@ class Sample;
 class SampleSource {
 public:
 
-    virtual ~SampleSource() {}
+    virtual ~SampleSource() throw (nidas::util::Exception) {}
 
     /**
      * Several objects in NIDAS can be both a SampleSource of raw Samples

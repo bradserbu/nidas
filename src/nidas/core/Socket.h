@@ -257,7 +257,7 @@ protected:
 
 private:
 
-    std::auto_ptr<nidas::util::SocketAddress> _remoteSockAddr;
+    std::unique_ptr<nidas::util::SocketAddress> _remoteSockAddr;
 
     std::string _remoteHost;
 
@@ -430,7 +430,7 @@ protected:
 
 private:
 
-    std::auto_ptr<nidas::util::SocketAddress> _localSockAddr;
+    std::unique_ptr<nidas::util::SocketAddress> _localSockAddr;
 
     std::string _name;
 

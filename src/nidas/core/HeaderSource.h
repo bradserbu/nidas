@@ -41,7 +41,7 @@ class SampleOutput;
 class HeaderSource
 {
 public:
-    virtual ~HeaderSource() {}
+    virtual ~HeaderSource() throw (nidas::util::Exception) {}
 
     static void sendDefaultHeader(SampleOutput* output)
     	throw(nidas::util::IOException);

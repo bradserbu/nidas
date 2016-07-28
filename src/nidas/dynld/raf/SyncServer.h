@@ -169,9 +169,9 @@ public:
 
     static const int DEFAULT_PORT = 30001;
 
-    static const float SORTER_LENGTH_SECS = 5.0;
+    static const float SORTER_LENGTH_SECS;
 
-    static const float RAW_SORTER_LENGTH_SECS = 5.0;
+    static const float RAW_SORTER_LENGTH_SECS;
 
     /**
      * Implementation of SampleConnectionRequester::connect().
@@ -213,7 +213,7 @@ private:
 
     std::list<std::string> _dataFileNames;
 
-    std::auto_ptr<nidas::util::SocketAddress> _address;
+    std::unique_ptr<nidas::util::SocketAddress> _address;
 
     float _sorterLengthSecs;
 
@@ -237,6 +237,10 @@ private:
     operator=(const SyncServer&);
 
 };
+
+const float SyncServer::RAW_SORTER_LENGTH_SECS = 5.0;
+const float SyncServer::SORTER_LENGTH_SECS = 5.0;
+
 
 }}}	// namespace nidas namespace dynld namespace raf
 

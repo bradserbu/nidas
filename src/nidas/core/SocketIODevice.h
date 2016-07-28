@@ -111,7 +111,7 @@ protected:
     /**
      * The destination socket address.
      */
-    std::auto_ptr<nidas::util::SocketAddress> _sockAddr;
+    std::unique_ptr<nidas::util::SocketAddress> _sockAddr;
 
     /**
      * The local bind socket address.

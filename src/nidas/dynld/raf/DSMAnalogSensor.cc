@@ -74,6 +74,10 @@ DSMAnalogSensor::~DSMAnalogSensor()
 {
 }
 
+
+// static const float DSMAnalogSensor::DEGC_PER_CNT = 0.0625;
+
+
 IODevice* DSMAnalogSensor::buildIODevice() throw(n_u::IOException)
 {
     return new UnixIODevice();

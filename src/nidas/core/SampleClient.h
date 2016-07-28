@@ -38,7 +38,7 @@ namespace nidas { namespace core {
 class SampleClient {
 public:
 
-  virtual ~SampleClient() {}
+  virtual ~SampleClient() throw (nidas::util::Exception) {}
   /**
    * Method called to pass a sample to this client.
    * This method is typically called by a SampleSource

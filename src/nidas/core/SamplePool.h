@@ -42,7 +42,7 @@ namespace nidas { namespace core {
 class SamplePoolInterface
 {
 public:
-    virtual ~SamplePoolInterface() {}
+    virtual ~SamplePoolInterface() throw (nidas::util::Exception) {}
     virtual int getNSamplesAlloc() const = 0;
     virtual int getNSamplesOut() const = 0;
     virtual int getNSmallSamplesIn() const = 0;

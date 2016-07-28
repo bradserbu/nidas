@@ -54,7 +54,7 @@ class IOChannel;
 class IOChannelRequester
 {
 public:
-    virtual ~IOChannelRequester() {}
+    virtual ~IOChannelRequester() throw (nidas::util::Exception) {}
     virtual IOChannelRequester* connected(IOChannel*) throw() = 0;
 };
 

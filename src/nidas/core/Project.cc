@@ -116,7 +116,7 @@ parseXMLConfigFile(const std::string& xmlfilepath)
     throw(nidas::core::XMLException)
 {
     {
-        auto_ptr<xercesc::DOMDocument> 
+        unique_ptr<xercesc::DOMDocument> 
             doc(nidas::core::parseXMLConfigFile(xmlfilepath));
         this->fromDOMElement(doc->getDocumentElement());
     }

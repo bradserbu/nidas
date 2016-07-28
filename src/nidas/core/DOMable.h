@@ -54,7 +54,7 @@ public:
     /**
      * Virtual destructor.
      */
-    virtual ~DOMable() {}
+    virtual ~DOMable() throw (nidas::util::Exception) {}
 
     /**
      * Initialize myself from a xercesc::DOMElement.

@@ -81,7 +81,7 @@ namespace nidas { namespace core {
  */
 class Polled {
 public:
-    virtual ~Polled() {}
+    virtual ~Polled() throw (nidas::util::Exception) {}
 
     virtual int getFd() const = 0;
 

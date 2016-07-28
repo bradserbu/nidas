@@ -204,7 +204,7 @@ void XMLParser::setXercesDoXInclude(bool val)
 #endif
 }
 
-XMLParser::~XMLParser() 
+XMLParser::~XMLParser() throw (nidas::util::Exception)
 {
     //  Delete the parser itself.  Must be done prior to calling Terminate.
     //  In xerces-c-src_2_6_0/src/xercesc/parsers/DOMBuilderImpl.cpp
@@ -271,7 +271,7 @@ xercesc::DOMDocument* nidas::core::parseXMLConfigFile(const std::string& xmlFile
 {
     // NLOG(("parsing: ") << xmlFileName);
 
-    auto_ptr<XMLParser> parser(new XMLParser());
+    unique_ptr<XMLParser> parser(new XMLParser());
     // throws XMLException
 
     // If parsing a local file, turn on validation

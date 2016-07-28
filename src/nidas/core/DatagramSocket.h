@@ -194,7 +194,7 @@ public:
 
 private:
 
-    std::auto_ptr<nidas::util::SocketAddress> _sockAddr;
+    std::unique_ptr<nidas::util::SocketAddress> _sockAddr;
 
     std::string _host;
 

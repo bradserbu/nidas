@@ -127,7 +127,7 @@ public:
      * Nuke the parser. This does a release() (delete) of the
      * associated DOMBuilder.
      */
-    virtual ~XMLParser();
+    virtual ~XMLParser() throw (nidas::util::Exception);
 
     /**
      * DOMBuilder::setFilter is not yet implemented in xerces c++ 2.6.0 

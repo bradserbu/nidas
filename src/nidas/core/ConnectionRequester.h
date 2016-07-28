@@ -42,7 +42,7 @@ class SampleOutput;
 class SampleConnectionRequester
 {
 public:
-    virtual ~SampleConnectionRequester() {}
+    virtual ~SampleConnectionRequester() throw (nidas::util::Exception) {}
 
     /**
      * How SampleOutputs notify their SampleConnectionRequester

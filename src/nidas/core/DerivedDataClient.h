@@ -37,7 +37,7 @@ namespace nidas { namespace core {
 class DerivedDataClient {
 public:
 
-  virtual ~DerivedDataClient() {}
+  virtual ~DerivedDataClient() throw (nidas::util::Exception) {}
 
   /**
    * Method called on a DerivedDataClient by the DerivedDataReader
