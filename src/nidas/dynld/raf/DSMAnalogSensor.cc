@@ -59,6 +59,9 @@ const float DSMAnalogSensor::TemperatureTableGain4[][N_COEFF] =
   { -4.873845e-02, 1.054765e-03, 3.243052e-06 },
 };
 
+const float DSMAnalogSensor::DEGC_PER_CNT = 0.0625;
+
+
 NIDAS_CREATOR_FUNCTION_NS(raf,DSMAnalogSensor)
 
 DSMAnalogSensor::DSMAnalogSensor() :

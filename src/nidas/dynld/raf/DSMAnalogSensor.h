@@ -231,8 +231,6 @@ private:
 
 };
 
-const float DSMAnalogSensor::DEGC_PER_CNT = 0.0625;
-
 }}}	// namespace nidas namespace dynld namespace raf
 
 #endif

@@ -890,7 +890,7 @@ int main(int argc, char**argv)
         return 0;
     }
 
-    std::auto_ptr<Sender> sender;
+    std::unique_ptr<Sender> sender;
 
     if (isSender) {
         sender.reset(new Sender(ascii,dataSize));

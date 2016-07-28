@@ -62,6 +62,15 @@ public:
 
     AutoCalClient();
 
+    /** 
+     * Since QObject::~QObject() is nothrow but
+     * SampleClient::~SampleClient() is not, we must define a destructor
+     * here to tighten the exceptions to satisfy the QObect interface.
+     * However, this just allows it to compile.  If the destructor ever
+     * throws an exception, the application will terminate.
+     **/
+    virtual ~AutoCalClient() throw();
+
     /// Implementation of SampleClient::flush().
     void flush() throw() {}
 

@@ -127,8 +127,7 @@ bool CounterClient::receive(const Sample* samp) throw()
     map<dsm_sample_id_t,dsm_time_t>::iterator t1i =
 	t1s.find(sampid);
     if (t1i == t1s.end()) {
-	t1s.insert(
-	    make_pair<dsm_sample_id_t,dsm_time_t>(sampid,sampt));
+	t1s.insert(make_pair(sampid,sampt));
 	minDeltaTs[sampid] = INT_MAX;
     }
     else {
@@ -264,7 +263,7 @@ private:
 
     list<string> dataFileNames;
 
-    auto_ptr<n_u::SocketAddress> sockAddr;
+    unique_ptr<n_u::SocketAddress> sockAddr;
 
     bool hexIds;
 
@@ -310,7 +309,7 @@ void DataStats::setupSignals()
 DataStats::DataStats():
     logLevel(n_u::LOGGER_NOTICE),
     processData(false),xmlFileName(),dataFileNames(),
-    sockAddr(0), hexIds(false)
+    sockAddr(), hexIds(false)
 {
 }
 
@@ -466,7 +465,7 @@ int DataStats::run() throw()
 	struct stat statbuf;
 	if (::stat(xmlFileName.c_str(),&statbuf) == 0 || processData) {
 
-	    auto_ptr<xercesc::DOMDocument> doc(parseXMLConfigFile(xmlFileName));
+	    unique_ptr<xercesc::DOMDocument> doc(parseXMLConfigFile(xmlFileName));
 
 	    Project::getInstance()->fromDOMElement(doc->getDocumentElement());
 

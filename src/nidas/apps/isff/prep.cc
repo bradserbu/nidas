@@ -158,7 +158,7 @@ public:
     static const int defaultLogLevel = n_u::LOGGER_INFO;
     static const int defaultNCInterval = 1;
     static const int defaultNCLength = 86400;
-    static const float defaultNCFillValue = 1.e37;
+    static const float defaultNCFillValue;
     static const int defaultNCTimeout = 60;
     static const int defaultNCBatchPeriod = 300;
 
@@ -176,7 +176,7 @@ private:
 
     list<string> _dataFileNames;
 
-    auto_ptr<n_u::SocketAddress> _sockAddr;
+    unique_ptr<n_u::SocketAddress> _sockAddr;
 
     static const int DEFAULT_PORT = 30000;
 
@@ -236,8 +236,10 @@ private:
 
 };
 
+const float DataPrep::defaultNCFillValue = 1.e37;
+
 DataPrep::DataPrep(): 
-    _progname(),_xmlFileName(),_dataFileNames(),_sockAddr(0),
+    _progname(),_xmlFileName(),_dataFileNames(),_sockAddr(),
     _sorterLength(1.00), _format(DumpClient::ASCII),
     _reqVarsByRate(),_sites(),
     _startTime((time_t)0),_endTime((time_t)0),_configName(),
@@ -844,7 +846,8 @@ int DataPrep::run() throw()
 
             _xmlFileName = n_u::Process::expandEnvVars(_xmlFileName);
 
-            auto_ptr<xercesc::DOMDocument> doc(nidas::core::parseXMLConfigFile(_xmlFileName));
+            unique_ptr<xercesc::DOMDocument> doc;
+            doc.reset(nidas::core::parseXMLConfigFile(_xmlFileName));
 
             project.fromDOMElement(doc->getDocumentElement());
         }
@@ -991,7 +994,8 @@ int DataPrep::run() throw()
 	    _xmlFileName = header.getConfigName();
             _xmlFileName = n_u::Process::expandEnvVars(_xmlFileName);
 
-            auto_ptr<xercesc::DOMDocument> doc(nidas::core::parseXMLConfigFile(_xmlFileName));
+            unique_ptr<xercesc::DOMDocument> doc;
+            doc.reset(nidas::core::parseXMLConfigFile(_xmlFileName));
 
 	    project.fromDOMElement(doc->getDocumentElement());
         }

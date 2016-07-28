@@ -28,7 +28,7 @@
 #include <iostream>
 #include <fstream>
 #include <cstring>
-#include <memory> // auto_ptr<>
+#include <memory> // unique_ptr<>
 
 #include <nidas/core/Looper.h>
 
@@ -677,8 +677,8 @@ Usage: " << argv0 << " [-b sep] [-c] [-e sep] [-f file|-] [-F file|-]\n\
 int SensorSimApp::main()
 {
     try {
-	auto_ptr<n_u::SerialPort> port;
-	auto_ptr<SensorSimulator> sim;
+	unique_ptr<n_u::SerialPort> port;
+	unique_ptr<SensorSimulator> sim;
 
 	if (_openpty) {
 	    int fd = n_u::SerialPort::createPtyLink(_device);

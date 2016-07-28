@@ -86,7 +86,7 @@ private:
 
     list<string> inputFileNames;
 
-    auto_ptr<n_u::SocketAddress> sockAddr;
+    unique_ptr<n_u::SocketAddress> sockAddr;
 
     string outputFileName;
 
@@ -210,7 +210,7 @@ int SensorExtract::main(int argc, char** argv) throw()
 
 
 SensorExtract::SensorExtract():
-    inputFileNames(),sockAddr(0),outputFileName(),
+    inputFileNames(),sockAddr(),outputFileName(),
     outputFileLength(0),header(),
     includeIds(),includeDSMIds(),
     excludeIds(),excludeDSMIds(),

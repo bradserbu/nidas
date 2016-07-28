@@ -76,7 +76,7 @@ private:
 
     string _dataFileName;
 
-    auto_ptr<n_u::SocketAddress> _sockAddr;
+    unique_ptr<n_u::SocketAddress> _sockAddr;
 
     static const int DEFAULT_PORT = 30001;
 
@@ -88,7 +88,7 @@ private:
     string _dumpJSON;
 };
 
-SyncDumper::SyncDumper(): _dataFileName(),_sockAddr(0),
+SyncDumper::SyncDumper(): _dataFileName(),_sockAddr(),
 			  _varnames(),
 			  _vars(),
 			  _dumpHeader(),

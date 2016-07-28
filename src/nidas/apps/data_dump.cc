@@ -550,7 +550,7 @@ int DataDump::run() throw()
 
 	struct stat statbuf;
 	if (::stat(xmlFileName.c_str(),&statbuf) == 0 || app.processData()) {
-	    auto_ptr<xercesc::DOMDocument> doc(parseXMLConfigFile(xmlFileName));
+	    unique_ptr<xercesc::DOMDocument> doc(parseXMLConfigFile(xmlFileName));
 
 	    Project::getInstance()->fromDOMElement(doc->getDocumentElement());
 

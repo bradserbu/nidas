@@ -95,7 +95,7 @@ private:
 
     string _configName;
 
-    auto_ptr<n_u::SocketAddress> _sockAddr;
+    unique_ptr<n_u::SocketAddress> _sockAddr;
 
     static const int DEFAULT_PORT = 30000;
 
@@ -219,7 +219,7 @@ int StatsProcess::main(int argc, char** argv) throw()
 
 StatsProcess::StatsProcess():
     _argv0(),_xmlFileName(),_dataFileNames(),_dsmName(),
-    _configName(),_sockAddr(0),
+    _configName(),_sockAddr(),
     _sorterLength(5.0),_daemonMode(false),
     _startTime(LONG_LONG_MIN),_endTime(LONG_LONG_MAX),
     _niceValue(0),_period(DEFAULT_PERIOD),
@@ -538,7 +538,8 @@ int StatsProcess::run() throw()
 
         if (_xmlFileName.length() > 0) {
             _xmlFileName = n_u::Process::expandEnvVars(_xmlFileName);
-            auto_ptr<xercesc::DOMDocument> doc(nidas::core::parseXMLConfigFile(_xmlFileName));
+            unique_ptr<xercesc::DOMDocument> doc;
+            doc.reset(nidas::core::parseXMLConfigFile(_xmlFileName));
             project.fromDOMElement(doc->getDocumentElement());
         }
         XMLImplementation::terminate();
@@ -684,7 +685,8 @@ int StatsProcess::run() throw()
             // parse the config file.
             _xmlFileName = header.getConfigName();
             _xmlFileName = n_u::Process::expandEnvVars(_xmlFileName);
-            auto_ptr<xercesc::DOMDocument> doc(nidas::core::parseXMLConfigFile(_xmlFileName));
+            unique_ptr<xercesc::DOMDocument> doc;
+            doc.reset(nidas::core::parseXMLConfigFile(_xmlFileName));
             project.fromDOMElement(doc->getDocumentElement());
         }
 
@@ -843,7 +845,8 @@ int StatsProcess::listOutputSamples()
 
         if (_xmlFileName.length() > 0) {
             _xmlFileName = n_u::Process::expandEnvVars(_xmlFileName);
-            auto_ptr<xercesc::DOMDocument> doc(nidas::core::parseXMLConfigFile(_xmlFileName));
+            unique_ptr<xercesc::DOMDocument> doc;
+            doc.reset(nidas::core::parseXMLConfigFile(_xmlFileName));
             project.fromDOMElement(doc->getDocumentElement());
         }
         else {

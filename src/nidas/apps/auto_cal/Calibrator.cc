@@ -132,7 +132,8 @@ bool Calibrator::setup(QString host) throw()
             return true;
         }
         // Pull in the XML configuration from the DSM server.
-        auto_ptr<xercesc::DOMDocument> doc(requestXMLConfig(true,_configSockAddr));
+        unique_ptr<xercesc::DOMDocument> doc;
+        doc.reset(requestXMLConfig(true, _configSockAddr));
 
         Project::getInstance()->fromDOMElement(doc->getDocumentElement());
         doc.release();

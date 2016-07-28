@@ -80,6 +80,12 @@ AutoCalClient::AutoCalClient():
 };
 
 
+AutoCalClient::
+~AutoCalClient() throw()
+{
+}
+
+
 string AutoCalClient::ChnSetDesc(unsigned int val) {
     ostringstream ostr;
     for (int i=7; i>-1; i--) {
