@@ -1,0 +1,5 @@
+<map id="nidas::core::SampleOutput" name="nidas::core::SampleOutput">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="5,5,189,32"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOChannelRequester.html" title="Interface for an object that requests connections to Inputs or Outputs. " alt="" coords="215,5,444,32"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="469,5,627,32"/>
+</map>

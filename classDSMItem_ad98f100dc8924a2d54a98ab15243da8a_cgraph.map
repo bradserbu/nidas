@@ -1,0 +1,12 @@
+<map id="DSMItem::child" name="DSMItem::child">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a6b720dff1e917e65dd506de35310c408" title="Fetch the name of the catalog entry for this sensor. " alt="" coords="182,5,357,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a77ce4233e5dc65544504c4d0ff94dc02" title="Fetch the class name. " alt="" coords="182,70,357,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="173,135,365,177"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SensorIterator.html#ad941790929716a792881727f02b6c792" title="nidas::core::SensorIterator\l::next" alt="" coords="173,201,365,242"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="414,70,631,111"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="414,135,631,177"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="437,201,608,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="681,5,853,46"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="681,70,853,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="700,135,833,177"/>
+</map>

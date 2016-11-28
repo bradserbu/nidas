@@ -1,0 +1,11 @@
+<map id="dmmat_ioctl_d2a" name="dmmat_ioctl_d2a">
+<area shape="rect" id="node2" href="$dmd__mmat_8c.html#a0ce977efb7fc52892b5506835156d8ea" title="getD2A_conv" alt="" coords="195,5,301,32"/>
+<area shape="rect" id="node3" href="$dmd__mmat_8c.html#a6b72ac8688ca39b4358a63d138e855ed" title="getD2A_mult" alt="" coords="195,56,301,83"/>
+<area shape="rect" id="node4" href="$dmd__mmat_8c.html#a63e0e9daa73c143bc9a64c7122dc8968" title="setD2A_mult" alt="" coords="195,107,301,133"/>
+<area shape="rect" id="node5" href="$dmd__mmat_8c.html#ac10b3076f85c41ce2fd130e2982ac536" title="startWaveforms" alt="" coords="187,157,309,184"/>
+<area shape="rect" id="node9" href="$dmd__mmat_8c.html#a291c12d7b697bf823818377e6181a61e" title="General function to stop the D2A waveform. " alt="" coords="188,208,308,235"/>
+<area shape="rect" id="node6" href="$dmd__mmat_8c.html#ac4e63a34bb8b0bd9775fcd2a57587603" title="setupClock12" alt="" coords="363,157,471,184"/>
+<area shape="rect" id="node7" href="$dmd__mmat_8c.html#a33b4f7074a420eae05f11e55cf1e9afa" title="div_10" alt="" coords="550,132,613,159"/>
+<area shape="rect" id="node8" href="$dmd__mmat_8c.html#a84c7b29f15529e4b982a75eb6624ecd3" title="Set counter value in a 82C54 clock. " alt="" coords="525,183,637,209"/>
+<area shape="rect" id="node10" href="$dmd__mmat_8c.html#af2af3b3155c0133048cb9ca2e922263a" title="releaseClock12" alt="" coords="358,208,477,235"/>
+</map>

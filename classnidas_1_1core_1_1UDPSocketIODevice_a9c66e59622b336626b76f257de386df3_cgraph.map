@@ -1,0 +1,7 @@
+<map id="nidas::core::UDPSocketIODevice::open" name="nidas::core::UDPSocketIODevice::open">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SocketIODevice.html#acb3b1a548967011045f626b1b37c4091" title="Prepare to open the socket. " alt="" coords="283,103,483,145"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="543,5,718,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1IODevice.html#a319ef1fd16ca1af6b0835aac031dcac1" title="nidas::core::IODevice\l::getName" alt="" coords="553,70,709,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SocketIODevice.html#a83c5820a274dedcdded5a5065496fe86" title="Parse the getName() string to extract a socket type, destination address and optional port number..." alt="" coords="531,135,731,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="554,201,707,242"/>
+</map>

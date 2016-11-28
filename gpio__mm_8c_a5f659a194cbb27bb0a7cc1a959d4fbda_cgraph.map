@@ -1,0 +1,5 @@
+<map id="start_event" name="start_event">
+<area shape="rect" id="node2" href="$gpio__mm_8c.html#a83d9856118f7c29523d4ac8abc5846b0" title="gpio_mm_setup_event" alt="" coords="149,31,317,57"/>
+<area shape="rect" id="node3" href="$gpio__mm_8c.html#ae641d80dfdd2224503b5bf770d229664" title="gpio_mm_event_irq_handler" alt="" coords="365,5,568,32"/>
+<area shape="rect" id="node4" href="$gpio__mm_8c.html#a5f1d195211badcb52f68d2856450b768" title="gpio_mm_set_irq_user" alt="" coords="383,56,550,83"/>
+</map>

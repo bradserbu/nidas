@@ -1,0 +1,9 @@
+<map id="nidas::dynld::psql::PSQLProcessor::connected" name="nidas::dynld::psql::PSQLProcessor::connected">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1psql_1_1PSQLSampleOutput.html#a2ca01ba66dbccab8504bf73b37fdf481" title="nidas::dynld::psql\l::PSQLSampleOutput::\laddSampleTag" alt="" coords="256,5,421,61"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="271,86,406,127"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="257,155,420,181"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="485,82,619,123"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="683,82,818,123"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="470,147,634,189"/>
+<area shape="rect" id="node8" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="519,213,585,240"/>
+</map>

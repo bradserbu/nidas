@@ -1,0 +1,11 @@
+<map id="nidas::core::Variable::setSampleTag" name="nidas::core::Variable::setSampleTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Variable.html#a44378bbc7bc86ddd645d1d02a0e18efc" title="Return the measurement site for this variable. " alt="" coords="215,5,366,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#a26f7fdabd2831a7fc65df68484ba0b17" title="Get the Site of this SampleTag, which will be non&#45;NULL only if getDSMConfig() returns non&#45;NULL..." alt="" coords="205,70,376,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#a59af25e0c61a9329e3bc30661d84a4ed" title="Station number of this variable: " alt="" coords="434,129,585,170"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleTag.html#aa147bf35d9512a5359995cf8fd26e82b" title="Station number, which is also known as the Site number. " alt="" coords="205,318,376,359"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Variable.html#aab6af993db077456a1f9b3c5e5591aa5" title="Set the Site where this variable was measured. " alt="" coords="215,187,366,229"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Variable.html#a311e982fd8a58d717627fe5a4a89306a" title="nidas::core::Variable\l::setStation" alt="" coords="215,253,366,294"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMConfig.html#a8ccb88d7ac2785f1e1c85acdd23205dc" title="nidas::core::DSMConfig\l::getSite" alt="" coords="424,63,595,105"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Site.html#a03c9baf2d9b0633360916e73956490f2" title="nidas::core::Site::\lgetSuffix" alt="" coords="443,194,576,235"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Variable.html#a4c4262fd33f1cc834ea736feb5757417" title="nidas::core::Variable\l::setSiteSuffix" alt="" coords="434,259,585,301"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="cleanup_gpio_timer" name="cleanup_gpio_timer">
+<area shape="rect" id="node2" href="$gpio__mm_8c.html#aacbda27fa1e48fdddb26f191f668e644" title="free_timer_callbacks" alt="" coords="213,5,366,32"/>
+<area shape="rect" id="node3" href="$gpio__mm_8c.html#aa44de8e7147af62688d29dbf94577fe8" title="gpio_mm_remove_timer\l_irq_user" alt="" coords="200,57,379,98"/>
+<area shape="rect" id="node5" href="$gpio__mm_8c.html#ad68eb129d7e8082672f101bc3f4378a0" title="stop_gpio_timer" alt="" coords="227,123,352,149"/>
+<area shape="rect" id="node4" href="$gpio__mm_8c.html#acca5dd2a193b5f030d70e5076abac74a" title="gpio_mm_remove_irq_user" alt="" coords="427,64,623,91"/>
+<area shape="rect" id="node6" href="$gpio__mm_8c.html#a20a7fe4932de53a18ae6372a0c8e21d4" title="gpio_mm_disarm_counter" alt="" coords="431,123,620,149"/>
+<area shape="rect" id="node7" href="$gpio__mm_8c.html#a74ee7b4744c0688b4575c9827242e6bd" title="gpio_mm_cmd_counter" alt="" coords="672,123,845,149"/>
+</map>

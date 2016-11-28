@@ -1,0 +1,9 @@
+<map id="nidas::core::StatusThread::StatusThread" name="nidas::core::StatusThread::StatusThread">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a152f4d45c1e247c5fb6179e5a49229ed" title="Install a signal handler and unblock the signal. " alt="" coords="241,70,375,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a46662ffa7482f1c1e52b654c51639fd2" title="Return the thread object for the current thread. " alt="" coords="425,5,559,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="425,70,559,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#a11ae9e429566f0be72393793cae6e2a3" title="nidas::util::Thread\l::thr_add_sig" alt="" coords="425,135,559,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a9034d1ab82dfd5abced04f65c25c7441" title="nidas::util::Thread\l::sigAction" alt="" coords="609,135,743,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="793,102,927,143"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Thread.html#a3c6de48c411bc2b1a7752f1f4b031e1f" title="Signal handler function for this thread. " alt="" coords="793,167,927,209"/>
+</map>

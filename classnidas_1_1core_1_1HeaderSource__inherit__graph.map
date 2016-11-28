@@ -1,0 +1,7 @@
+<map id="nidas::core::HeaderSource" name="nidas::core::HeaderSource">
+<area shape="rect" id="node2" href="$classARLIngest.html" title="ARLIngest" alt="" coords="5,88,91,115"/>
+<area shape="rect" id="node3" href="$classExtract2D.html" title="Extract2D" alt="" coords="115,88,200,115"/>
+<area shape="rect" id="node4" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordGenerator.html" title="nidas::dynld::raf::\lSyncRecordGenerator" alt="" coords="225,81,385,122"/>
+<area shape="rect" id="node5" href="$classNidsMerge.html" title="NidsMerge" alt="" coords="411,88,501,115"/>
+<area shape="rect" id="node6" href="$classSensorExtract.html" title="SensorExtract" alt="" coords="525,88,637,115"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="nidas::dynld::raf::SyncServer::handleSample" name="nidas::dynld::raf::SyncServer::handleSample">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a1ca07a3af7b2ec7629a9208dd7f9e42b" title="Distribute a sample to my clients. " alt="" coords="248,37,435,78"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Sample.html#a355553922b04c738465e06c7e7d21767" title="Decrement the reference count for this sample. " alt="" coords="267,102,416,143"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="267,167,416,209"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a4f57b47ab525c419326c0884cd1d5962" title="Distribute a sample to my clients, calling the receive() method of each client, passing the const poi..." alt="" coords="484,37,679,78"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleClientList.html#a1d0229196b4d3317468e422af3d3892a" title="get a const_iterator pointing to first element. " alt="" coords="729,5,914,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleClientList.html#a78261da3f72cf13f92354247424fd82a" title="get a const_iterator pointing to one&#45;past&#45;last element. " alt="" coords="729,70,914,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="483,167,679,209"/>
+</map>

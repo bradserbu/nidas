@@ -1,0 +1,8 @@
+<map id="nidas/core/McSocketUDP.h" name="nidas/core/McSocketUDP.h">
+<area shape="rect" id="node2" href="$DatagramSocket_8cc.html" title="nidas/core/DatagramSocket.cc" alt="" coords="5,80,224,107"/>
+<area shape="rect" id="node3" href="$McSocketUDP_8cc.html" title="nidas/core/McSocketUDP.cc" alt="" coords="249,80,447,107"/>
+<area shape="rect" id="node4" href="$MultipleUDPSockets_8h.html" title="nidas/core/MultipleUDPSockets.h" alt="" coords="472,80,704,107"/>
+<area shape="rect" id="node6" href="$core_2Socket_8cc.html" title="nidas/core/Socket.cc" alt="" coords="713,155,868,181"/>
+<area shape="rect" id="node5" href="$MultipleUDPSockets_8cc.html" title="nidas/core/MultipleUDPSockets.cc" alt="" coords="189,155,427,181"/>
+<area shape="rect" id="node7" href="$UDPSampleOutput_8cc.html" title="nidas/dynld/UDPSampleOutput.cc" alt="" coords="452,155,689,181"/>
+</map>

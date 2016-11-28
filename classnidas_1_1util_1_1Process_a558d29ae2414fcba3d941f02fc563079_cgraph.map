@@ -1,0 +1,5 @@
+<map id="nidas::util::Process::spawn" name="nidas::util::Process::spawn">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Process.html#a769477f6efb4f0e2428c5102d8b3b226" title="nidas::util::Process\l::setErrFd" alt="" coords="195,5,336,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Process.html#a9f815e29072e947f304e851032880482" title="nidas::util::Process\l::setInFd" alt="" coords="195,70,336,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Process.html#a3278a5ed89e5bc3c3d89a73bc15c6810" title="nidas::util::Process\l::setOutFd" alt="" coords="195,135,336,177"/>
+</map>

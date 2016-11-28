@@ -1,0 +1,14 @@
+<map id="emerald_init_module" name="emerald_init_module">
+<area shape="rect" id="node2" href="$emerald_8c.html#ad11f72516571b183304b680b46257516" title="emerald_cleanup_module" alt="" coords="211,5,397,32"/>
+<area shape="rect" id="node3" href="$emerald_8c.html#ab60c5d92bad1404442f7c233d0e61bc1" title="emm_check_config" alt="" coords="231,56,377,83"/>
+<area shape="rect" id="node4" href="$emerald_8c.html#a69700dea2deed6593cf09f43946d0145" title="emm_check_model" alt="" coords="231,107,377,133"/>
+<area shape="rect" id="node5" href="$emerald_8c.html#ad6b844a17ac5a2da16dafbbf05e0ce9e" title="emm_enable_ports" alt="" coords="453,157,600,184"/>
+<area shape="rect" id="node6" href="$emerald_8c.html#a4b87792f16b3d2caca776fe0a50c970c" title="emm_printk_port_modes" alt="" coords="213,208,395,235"/>
+<area shape="rect" id="node8" href="$emerald_8c.html#a238cdd0b0998df1e4df57c42d0d89633" title="emm_read_config" alt="" coords="235,259,373,285"/>
+<area shape="rect" id="node9" href="$emerald_8c.html#adc06962cfad9825f1dc1db760c375bcf" title="emm_read_digio" alt="" coords="239,309,369,336"/>
+<area shape="rect" id="node10" href="$emerald_8c.html#a10c5112b6381474949c2483f583cb742" title="emm_read_eeconfig" alt="" coords="227,360,381,387"/>
+<area shape="rect" id="node11" href="$emerald_8c.html#a7597f5c3c01af1fcc1f7c7d396af1aa6" title="emm_set_digio_out" alt="" coords="230,411,378,437"/>
+<area shape="rect" id="node12" href="$emerald_8c.html#aaa04f0872458ddb3724eeb7dcf123cef" title="emm_write_config" alt="" coords="235,461,373,488"/>
+<area shape="rect" id="node13" href="$emerald_8c.html#a7c448a43aecc46f68955d80671d78d14" title="emm_write_eeconfig" alt="" coords="227,512,381,539"/>
+<area shape="rect" id="node7" href="$emerald_8c.html#a267489b31bfd806dca2cff1d73290c17" title="emm_mode_to_string" alt="" coords="445,208,608,235"/>
+</map>

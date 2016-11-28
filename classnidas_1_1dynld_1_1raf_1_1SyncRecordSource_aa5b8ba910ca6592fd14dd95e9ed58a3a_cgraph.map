@@ -1,0 +1,8 @@
+<map id="nidas::dynld::raf::SyncRecordSource::layoutSyncRecord" name="nidas::dynld::raf::SyncRecordSource::layoutSyncRecord">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#adb0e42568c0a11b93d0a50249caa9863" title="Add a variable to this SampleTag. " alt="" coords="272,5,443,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="272,70,443,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Variable.html#abb2281682a7ee9bf5e85da363713a60f" title="How many values in this variable? " alt="" coords="282,135,433,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="272,201,443,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Variable.html#aa1b4f57a805b4eaec9e86d0da542d3da" title="What sample am I a part of? " alt="" coords="282,266,433,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="272,331,443,373"/>
+</map>

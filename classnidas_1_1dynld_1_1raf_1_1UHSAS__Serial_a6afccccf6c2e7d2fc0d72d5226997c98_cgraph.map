@@ -1,0 +1,32 @@
+<map id="nidas::dynld::raf::UHSAS_Serial::init" name="nidas::dynld::raf::UHSAS_Serial::init">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#aad55338873bff345fb1c0db16c57e6e9" title="nidas::core::DSMSensor\l::getApplyVariableConversions" alt="" coords="193,5,407,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a93633805e3605f24f1041b004b1cf1e0" title="nidas::core::Variable\l::getConverter" alt="" coords="225,70,375,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="217,135,383,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#abb2281682a7ee9bf5e85da363713a60f" title="How many values in this variable? " alt="" coords="734,177,885,218"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="722,242,897,283"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Parameter.html#a1409f9713ed0e3ceaec10900716b6b35" title="nidas::core::Parameter\l::getNumericValue" alt="" coords="217,665,383,706"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DSMSensor.html#a3dcccb0a41d2b3dbc6fdaa479e3c4fa9" title="Fetch a parameter by name. " alt="" coords="213,730,387,771"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="215,795,385,837"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMSensor.html#ae0a23210df32b4296a473c2089297d30" title="Implementation of SampleSource::getSampleTags(). " alt="" coords="473,990,647,1031"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="724,555,895,597"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1CharacterSensor.html#a3e93f3beccb5d987c25a2966c538e6e1" title="Initialize the CharacterSensor instance for post&#45;processing. " alt="" coords="196,547,404,589"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="955,177,1130,218"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="955,242,1130,283"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="1179,242,1349,283"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a2a2fca8de4087ee4921e0dc1d358fc3d" title="What SampleTags am I a SampleSource for? " alt="" coords="712,990,907,1031"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1AsciiSscanf.html#ae0e33a5a33bad43ec84133b0db4beec2" title="nidas::core::AsciiSscanf\l::getNumberOfFields" alt="" coords="723,490,895,531"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SampleTag.html#a922d9a9ab5f853f98319c4fb1fa846a3" title="nidas::core::SampleTag\l::getScanfFormat" alt="" coords="475,598,645,639"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1DSMSensor.html#ac8c5cc0c08bd086613971b606e9221b2" title="Initialize the DSMSensor. " alt="" coords="473,663,647,705"/>
+<area shape="rect" id="node20" href="$namespacenidas_1_1util.html#acccb588a1000e0dbe252c59a3a7f2a3a" title="Utility function for replacing backslash sequences in a string. " alt="" coords="459,729,661,770"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1AsciiSscanf.html#aaabbc957e5f76ee81f44cf5f69227dea" title="Set the format to be used to sscanf samples. " alt="" coords="474,794,646,835"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1AsciiSscanf.html#ad5ed9d756d390a2378654021070ada32" title="nidas::core::AsciiSscanf\l::setSampleTag" alt="" coords="474,859,646,901"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1CharacterSensor.html#ad9e1d84f643cd62acaa217cfaf5d1578" title="Virtual method to check that the Sscanfs for this CharacterSensor are OK. " alt="" coords="456,379,664,421"/>
+<area shape="rect" id="node31" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="483,925,637,966"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="742,307,877,349"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1AsciiSscanf.html#a7d5a4b027f721fef95e8d1441c828ffa" title="nidas::core::AsciiSscanf\l::getSampleTag" alt="" coords="723,373,895,414"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="728,439,891,465"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="975,307,1110,349"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="1197,307,1331,349"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="961,402,1125,443"/>
+<area shape="rect" id="node30" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="1009,468,1076,495"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="nidas::dynld::isff::CSI_CRX_Binary::validate" name="nidas::dynld::isff::CSI_CRX_Binary::validate">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="240,5,411,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="240,70,411,111"/>
+</map>

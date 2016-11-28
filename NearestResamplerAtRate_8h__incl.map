@@ -1,0 +1,32 @@
+<map id="nidas/core/NearestResamplerAtRate.h" name="nidas/core/NearestResamplerAtRate.h">
+<area shape="rect" id="node2" href="$Resampler_8h.html" title="Resampler.h" alt="" coords="2933,96,3032,123"/>
+<area shape="rect" id="node49" href="$SampleTag_8h.html" title="SampleTag.h" alt="" coords="3348,469,3452,496"/>
+<area shape="rect" id="node3" href="$SampleSource_8h.html" title="SampleSource.h" alt="" coords="3045,395,3173,421"/>
+<area shape="rect" id="node22" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="1827,395,1945,421"/>
+<area shape="rect" id="node25" href="$SampleInput_8h.html" title="SampleInput.h" alt="" coords="2773,171,2888,197"/>
+<area shape="rect" id="node4" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="3293,544,3408,571"/>
+<area shape="rect" id="node7" href="$SampleStats_8h.html" title="SampleStats.h" alt="" coords="3048,469,3165,496"/>
+<area shape="rect" id="node21" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="498,710,688,751"/>
+<area shape="rect" id="node8" href="$Sample_8h.html" title="Sample.h" alt="" coords="2723,544,2805,571"/>
+<area shape="rect" id="node9" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="2009,717,2199,744"/>
+<area shape="rect" id="node12" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="2739,717,2929,744"/>
+<area shape="rect" id="node14" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="2749,627,2920,653"/>
+<area shape="rect" id="node15" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="2192,627,2387,653"/>
+<area shape="rect" id="node16" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="2411,627,2551,653"/>
+<area shape="rect" id="node20" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="3098,627,3208,653"/>
+<area shape="rect" id="node10" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="319,800,476,827"/>
+<area shape="rect" id="node23" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="273,544,444,571"/>
+<area shape="rect" id="node26" href="$IOStream_8h.html" title="IOStream.h" alt="" coords="2022,395,2116,421"/>
+<area shape="rect" id="node42" href="$SampleSorter_8h.html" title="SampleSorter.h" alt="" coords="2769,245,2892,272"/>
+<area shape="rect" id="node46" href="$SampleInputHeader_8h.html" title="SampleInputHeader.h" alt="" coords="1963,245,2124,272"/>
+<area shape="rect" id="node27" href="$IOChannel_8h.html" title="IOChannel.h" alt="" coords="396,469,495,496"/>
+<area shape="rect" id="node28" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="991,544,1083,571"/>
+<area shape="rect" id="node29" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="323,717,473,744"/>
+<area shape="rect" id="node30" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="926,627,999,653"/>
+<area shape="rect" id="node31" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="1519,717,1679,744"/>
+<area shape="rect" id="node43" href="$SampleThread_8h.html" title="SampleThread.h" alt="" coords="2438,320,2564,347"/>
+<area shape="rect" id="node44" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="2868,320,3047,347"/>
+<area shape="rect" id="node45" href="$SortedSampleSet_8h.html" title="SortedSampleSet.h" alt="" coords="2802,395,2949,421"/>
+<area shape="rect" id="node47" href="$SampleOutput_8h.html" title="SampleOutput.h" alt="" coords="1913,320,2039,347"/>
+<area shape="rect" id="node48" href="$ParseException_8h.html" title="nidas/util/ParseException.h" alt="" coords="5,717,197,744"/>
+</map>

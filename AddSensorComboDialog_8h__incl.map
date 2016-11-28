@@ -1,0 +1,32 @@
+<map id="nidas/apps/config/AddSensorComboDialog.h" name="nidas/apps/config/AddSensorComboDialog.h">
+<area shape="rect" id="node6" href="$Document_8h.html" title="Document.h" alt="" coords="1487,96,1588,123"/>
+<area shape="rect" id="node14" href="$Project_8h.html" title="nidas/core/Project.h" alt="" coords="1314,501,1461,528"/>
+<area shape="rect" id="node34" href="$SensorCatalog_8h.html" title="nidas/core/SensorCatalog.h" alt="" coords="2186,419,2384,445"/>
+<area shape="rect" id="node35" href="$DSMItem_8h.html" title="nidas_qmv/DSMItem.h" alt="" coords="511,336,677,363"/>
+<area shape="rect" id="node38" href="$SensorItem_8h.html" title="nidas_qmv/SensorItem.h" alt="" coords="1871,336,2052,363"/>
+<area shape="rect" id="node43" href="$ProjectItem_8h.html" title="nidas_qmv/ProjectItem.h" alt="" coords="633,179,812,205"/>
+<area shape="rect" id="node45" href="$A2DVariableItem_8h.html" title="nidas_qmv/A2DVariableItem.h" alt="" coords="1466,336,1680,363"/>
+<area shape="rect" id="node47" href="$A2DSensorItem_8h.html" title="nidas_qmv/A2DSensorItem.h" alt="" coords="1861,261,2069,288"/>
+<area shape="rect" id="node48" href="$PMSSensorItem_8h.html" title="nidas_qmv/PMSSensorItem.h" alt="" coords="2094,261,2303,288"/>
+<area shape="rect" id="node49" href="$VariableItem_8h.html" title="nidas_qmv/VariableItem.h" alt="" coords="1600,261,1787,288"/>
+<area shape="rect" id="node15" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="2133,576,2224,603"/>
+<area shape="rect" id="node24" href="$Sample_8h.html" title="Sample.h" alt="" coords="1059,576,1141,603"/>
+<area shape="rect" id="node26" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="1839,576,1955,603"/>
+<area shape="rect" id="node29" href="$Dictionary_8h.html" title="Dictionary.h" alt="" coords="744,576,840,603"/>
+<area shape="rect" id="node30" href="$Datasets_8h.html" title="Datasets.h" alt="" coords="1723,576,1815,603"/>
+<area shape="rect" id="node25" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="1006,659,1196,685"/>
+<area shape="rect" id="node31" href="$Inet4Address_8h.html" title="nidas/util/Inet4Address.h" alt="" coords="1267,576,1445,603"/>
+<area shape="rect" id="node32" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="864,576,1035,603"/>
+<area shape="rect" id="node16" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1438,651,1628,693"/>
+<area shape="rect" id="node17" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="2486,659,2636,685"/>
+<area shape="rect" id="node18" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="2059,659,2132,685"/>
+<area shape="rect" id="node19" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="2368,741,2528,768"/>
+<area shape="rect" id="node36" href="$NidasItem_8h.html" title="NidasItem.h" alt="" coords="804,419,903,445"/>
+<area shape="rect" id="node37" href="$DSMConfig_8h.html" title="DSMConfig.h" alt="" coords="1048,501,1152,528"/>
+<area shape="rect" id="node39" href="$DSMSensor_8h.html" title="nidas/core/DSMSensor.h" alt="" coords="1764,419,1943,445"/>
+<area shape="rect" id="node41" href="$DSMAnalogSensor_8h.html" title="nidas/dynld/raf/DSMAnalog\lSensor.h" alt="" coords="2409,411,2601,453"/>
+<area shape="rect" id="node42" href="$CalFile_8h.html" title="nidas/core/CalFile.h" alt="" coords="2017,419,2161,445"/>
+<area shape="rect" id="node40" href="$SampleTag_8h.html" title="SampleTag.h" alt="" coords="1801,501,1905,528"/>
+<area shape="rect" id="node44" href="$SiteItem_8h.html" title="SiteItem.h" alt="" coords="652,261,740,288"/>
+<area shape="rect" id="node46" href="$Variable_8h.html" title="nidas/core/Variable.h" alt="" coords="1613,501,1768,528"/>
+</map>

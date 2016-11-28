@@ -1,0 +1,9 @@
+<map id="nidas::dynld::SampleInputStream::flush" name="nidas::dynld::SampleInputStream::flush">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a4f57b47ab525c419326c0884cd1d5962" title="Distribute a sample to my clients, calling the receive() method of each client, passing the const poi..." alt="" coords="240,37,435,78"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a16ba1a17277bd1cd43801326134a8313" title="How many SampleClients are currently in my list. " alt="" coords="240,102,435,143"/>
+<area shape="rect" id="node6" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a3203b232b7b12a9055766408f4edbe0f" title="nidas::dynld::SampleInput\lStream::getName" alt="" coords="244,167,431,209"/>
+<area shape="rect" id="node8" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a127bd00318c77ae253ef1c5a8284bc36" title="Unpack the next sample from the InputStream. " alt="" coords="244,233,431,274"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleClientList.html#a1d0229196b4d3317468e422af3d3892a" title="get a const_iterator pointing to first element. " alt="" coords="483,5,669,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleClientList.html#a78261da3f72cf13f92354247424fd82a" title="get a const_iterator pointing to one&#45;past&#45;last element. " alt="" coords="483,70,669,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1IOChannel.html#ac7b72aca1f3d3a39996ce5cf3a32d490" title="nidas::core::IOChannel\l::getName" alt="" coords="493,167,659,209"/>
+</map>

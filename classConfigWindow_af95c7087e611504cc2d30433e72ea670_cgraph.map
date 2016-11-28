@@ -1,0 +1,9 @@
+<map id="ConfigWindow::saveOldFile" name="ConfigWindow::saveOldFile">
+<area shape="rect" id="node2" href="$classConfigWindow.html#a34eb1b3a5dc6b361c9a03ed5ee84604c" title="ConfigWindow::saveFile" alt="" coords="241,126,407,153"/>
+<area shape="rect" id="node3" href="$classDocument.html#a344c2daa36962d7ea8c7601ac694bdd7" title="Document::getFilename" alt="" coords="715,42,890,69"/>
+<area shape="rect" id="node4" href="$classDocument.html#ae5bd2cdcf78f45904dee5e9a122f82dd" title="Document::getMissingEngCal\lFiles" alt="" coords="457,35,666,76"/>
+<area shape="rect" id="node5" href="$classConfigWindow.html#a8aac6852ba4b7d663256342933d598ff" title="ConfigWindow::saveFileCopy" alt="" coords="462,101,661,128"/>
+<area shape="rect" id="node6" href="$classDocument.html#a35017bf8f68e61f8938a991df5c48ffd" title="Document::setIsChanged" alt="" coords="469,152,653,178"/>
+<area shape="rect" id="node7" href="$classDocument.html#a4dcddfe1c04faeed78b472a0edb41ddc" title="Document::setIsChangedBig" alt="" coords="459,202,663,229"/>
+<area shape="rect" id="node8" href="$classDocument.html#a3900d1d26f66e22faf3dba01d06b16cd" title="Document::writeDocument" alt="" coords="464,253,659,280"/>
+</map>

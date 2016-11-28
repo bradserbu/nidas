@@ -1,0 +1,6 @@
+<map id="SensorSimulator" name="SensorSimulator">
+<area shape="rect" id="node3" href="$classCsat3Sim.html" title="Simulate a CSAT3 sonic. " alt="" coords="5,155,88,181"/>
+<area shape="rect" id="node4" href="$classFileSim.html" title="Read serial records from a file and send them at a given rate or after a prompt. " alt="" coords="113,155,180,181"/>
+<area shape="rect" id="node5" href="$classFixedSim.html" title="Send a fixed message at a given rate or after a prompt. " alt="" coords="205,155,283,181"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1LooperClient.html" title="Interface of a client of Looper. " alt="" coords="57,5,236,32"/>
+</map>

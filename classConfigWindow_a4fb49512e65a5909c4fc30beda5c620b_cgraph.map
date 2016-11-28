@@ -1,0 +1,8 @@
+<map id="ConfigWindow::editProjName" name="ConfigWindow::editProjName">
+<area shape="rect" id="node2" href="$classDocument.html#a848a566f24fbe5cd613a4bd8ad71205c" title="Document::getProjectName" alt="" coords="270,5,471,32"/>
+<area shape="rect" id="node3" href="$classConfigWindow.html#a68d789c8b4f012db30c6b740a8e5d699" title="ConfigWindow::writeProjectName" alt="" coords="256,56,485,83"/>
+<area shape="rect" id="node4" href="$classDocument.html#aa63585eebeed0636811ad3cd36ec9518" title="Document::setProjectName" alt="" coords="533,31,733,57"/>
+<area shape="rect" id="node7" href="$classDocument.html#a3cc8419f8ff1735524f2452d51aa1203" title="Document::getDirectory" alt="" coords="545,81,721,108"/>
+<area shape="rect" id="node5" href="$classNidasModel.html#ad8a9e175f5e53b34c2305e1346cdb26c" title="NidasModel::getRootItem" alt="" coords="785,5,967,32"/>
+<area shape="rect" id="node6" href="$classProjectItem.html#ae153e7f74c5a551c1053d0535bc02486" title="ProjectItem::getDOMNode" alt="" coords="781,56,971,83"/>
+</map>

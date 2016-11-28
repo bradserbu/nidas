@@ -1,0 +1,8 @@
+<map id="nidas::core::IODevice" name="nidas::core::IODevice">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1ServerSocketIODevice.html" title="An IODevice supporting a TCP or UNIX server socket. " alt="" coords="217,5,404,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SocketIODevice.html" title="A IODevice providing support for UDP and TCP sockets. " alt="" coords="211,71,411,97"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1UnixIODevice.html" title="A basic Unix I/O device, such as a named pipe, or a watched file. " alt="" coords="219,121,403,148"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1TCPSocketIODevice.html" title="An IODevice consisting of a TCP socket. " alt="" coords="462,20,685,47"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1UDPSocketIODevice.html" title="An IODevice consisting of an UDP socket. " alt="" coords="459,71,687,97"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SerialPortIODevice.html" title="A serial port. " alt="" coords="464,121,683,148"/>
+</map>

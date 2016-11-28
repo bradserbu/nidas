@@ -1,0 +1,4 @@
+<map id="FileSim::sendBinaryMessage" name="FileSim::sendBinaryMessage">
+<area shape="rect" id="node2" href="$classSensorSimulator.html#aae6a70c4798d0357e83a55eb1fc574db" title="Stop the simulation. " alt="" coords="272,5,464,32"/>
+<area shape="rect" id="node3" href="$classSensorSimulator.html#a261b971c21a0c802b125f365d67c2713" title="Subclasses generate the message to send, then call writeMessage() to send it out. ..." alt="" coords="256,56,480,83"/>
+</map>

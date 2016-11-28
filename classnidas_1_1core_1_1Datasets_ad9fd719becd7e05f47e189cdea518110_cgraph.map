@@ -1,0 +1,5 @@
+<map id="nidas::core::Datasets::fromDOMElement" name="nidas::core::Datasets::fromDOMElement">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Dataset.html#a4adfdd7d187497d408d056f70606987b" title="nidas::core::Dataset\l::fromDOMElement" alt="" coords="214,11,365,53"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1XDOMElement.html#aa5cf2414389cde3adfac301a290b1a7f" title="nidas::core::XDOMElement\l::getNodeName" alt="" coords="413,70,605,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1XDOMAttr.html#a2b378f967bc25e190f8b920936a675d9" title="nidas::core::XDOMAttr\l::getName" alt="" coords="428,5,591,46"/>
+</map>

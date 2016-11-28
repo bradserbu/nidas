@@ -1,0 +1,8 @@
+<map id="ir104_ioctl" name="ir104_ioctl">
+<area shape="rect" id="node2" href="$ir104_8c.html#ab5dd23eaf7ef7dae92d074751068737c" title="add_sample" alt="" coords="147,5,247,32"/>
+<area shape="rect" id="node3" href="$ir104_8c.html#a83cee6d262b9d825c18691e13c10c864" title="clear_douts" alt="" coords="149,56,245,83"/>
+<area shape="rect" id="node4" href="$ir104_8c.html#a36c70863fef1aa6013378557635d60bb" title="get_dins" alt="" coords="159,107,235,133"/>
+<area shape="rect" id="node5" href="$ir104_8c.html#ad15ad42afed073fd0fe4cc2b64c81099" title="get_douts" alt="" coords="154,157,241,184"/>
+<area shape="rect" id="node6" href="$ir104_8c.html#a31bc9ea42877a0d1cccae20351771c00" title="set_douts" alt="" coords="155,208,240,235"/>
+<area shape="rect" id="node7" href="$ir104_8c.html#ac8c44354c8701e3ddb216fe997b1affd" title="set_douts_val" alt="" coords="142,259,253,285"/>
+</map>

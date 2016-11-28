@@ -1,0 +1,6 @@
+<map id="nidas::util::svnStatus" name="nidas::util::svnStatus">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Process.html#a22aa607e41e04047dbc64a9c523b6994" title="Get the istream of the pipe that is connected to the standard error of the Process. " alt="" coords="215,5,356,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Process.html#a0f83c14f38395556ed6d95020da22bc2" title="Get the istream of the pipe that is connected to the standard out of the Process. ..." alt="" coords="215,70,356,111"/>
+<area shape="rect" id="node4" href="$namespacenidas_1_1util.html#aee4920ee1f24d59b1e2deae8dd980ca7" title="Utility to remove white space characters (matching isspace()) from end of string. ..." alt="" coords="208,136,363,163"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Process.html#a740e9c3a469d2f425e83fe8c3d430ad6" title="Do a system wait on a process. " alt="" coords="215,187,356,229"/>
+</map>

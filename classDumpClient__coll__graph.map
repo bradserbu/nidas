@@ -1,0 +1,8 @@
+<map id="DumpClient" name="DumpClient">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="955,7,1141,33"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleMatcher.html" title="Match samples according to DSM and Sample ID ranges, and configure the ranges with criteria in text f..." alt="" coords="947,120,1149,147"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html" title="A class for parsing, formatting and doing operations on time, based on Unix time conventions, where leap seconds are ignored, so that there are always 60 seconds in a minute, 3600 seconds in an hour and 86400 seconds in a day. " alt="" coords="569,135,701,161"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="291,79,421,105"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1EndianConverter.html" title="Virtual base class declaring methods for converting numeric values between little&#45;endian and big&#45;endi..." alt="" coords="725,59,923,85"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,79,199,105"/>
+</map>

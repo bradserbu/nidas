@@ -1,0 +1,12 @@
+<map id="nidas::core::HeaderSource::setDefaults" name="nidas::core::HeaderSource::setDefaults">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Version.html#a87df7ba537516b5c1748513e6fc9f45d" title="nidas::core::Version\l::getArchiveVersion" alt="" coords="272,5,419,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="273,70,417,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Version.html#a5d0f899b4fdad8f2b62f608cd617decf" title="nidas::core::Version\l::getSoftwareVersion" alt="" coords="268,135,423,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Project.html#aa6e91bd9097306413e00e8fb6715f6f7" title="nidas::core::Project\l::getSystemName" alt="" coords="273,201,417,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleInputHeader.html#aa346d703fda2b8df2ebbf39d8147888d" title="nidas::core::SampleInput\lHeader::setArchiveVersion" alt="" coords="250,266,441,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleInputHeader.html#a4e11292dd5bd4b32282d7a41728084a4" title="nidas::core::SampleInput\lHeader::setConfigName" alt="" coords="255,331,436,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleInputHeader.html#a883f7929a9e1dede78ed5355fb7049ca" title="nidas::core::SampleInput\lHeader::setConfigVersion" alt="" coords="253,397,437,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleInputHeader.html#a3cc1dd28aa881e6733dfb312fd3a4fe2" title="nidas::core::SampleInput\lHeader::setProjectName" alt="" coords="255,462,436,503"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleInputHeader.html#ab7471fa331a9046184d69afe142d975a" title="nidas::core::SampleInput\lHeader::setSoftwareVersion" alt="" coords="245,527,445,569"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SampleInputHeader.html#a2af8d185fd68ee53a7e8c2283747a786" title="nidas::core::SampleInput\lHeader::setSystemName" alt="" coords="253,593,438,634"/>
+</map>

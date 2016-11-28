@@ -1,0 +1,6 @@
+<map id="nidas::core::DatagramSocket::~DatagramSocket" name="nidas::core::DatagramSocket::~DatagramSocket">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DatagramSocket.html#a15d91daff3ce2db4a9b6e7fa67256743" title="nidas::core::DatagramSocket\l::close" alt="" coords="265,5,474,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DatagramSocket.html#aaf4197785b025003856b2581929261b5" title="nidas::core::DatagramSocket\l::getName" alt="" coords="265,70,474,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="293,135,446,177"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1DatagramSocket.html#a3ab2156eb9dcf6cc93a53bde7c4770da" title="nidas::util::DatagramSocket\l::close" alt="" coords="523,5,723,46"/>
+</map>

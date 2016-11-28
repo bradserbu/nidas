@@ -1,0 +1,8 @@
+<map id="nidas::dynld::SampleInputStream::parseInputHeader" name="nidas::dynld::SampleInputStream::parseInputHeader">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html#a355553922b04c738465e06c7e7d21767" title="Decrement the reference count for this sample. " alt="" coords="272,5,421,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a3203b232b7b12a9055766408f4edbe0f" title="nidas::dynld::SampleInput\lStream::getName" alt="" coords="253,70,440,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleHeader.html#ac3e18adbfd3fb1ae67f168ee98de005f" title="nidas::core::SampleHeader\l::getSizeOf" alt="" coords="249,135,445,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleInputHeader.html#a772d9af903cabe85939298b204631b33" title="Parse the current contents of the IOStream for the SampleInputHeader. " alt="" coords="256,201,437,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="270,266,423,307"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1IOChannel.html#ac7b72aca1f3d3a39996ce5cf3a32d490" title="nidas::core::IOChannel\l::getName" alt="" coords="493,70,659,111"/>
+</map>

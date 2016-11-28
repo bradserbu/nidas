@@ -1,0 +1,32 @@
+<map id="nidas/dynld/GPS_NMEA_Serial.h" name="nidas/dynld/GPS_NMEA_Serial.h">
+<area shape="rect" id="node2" href="$DSMSerialSensor_8h.html" title="DSMSerialSensor.h" alt="" coords="2522,96,2666,123"/>
+<area shape="rect" id="node3" href="$SerialSensor_8h.html" title="nidas/core/SerialSensor.h" alt="" coords="2502,171,2686,197"/>
+<area shape="rect" id="node4" href="$CharacterSensor_8h.html" title="CharacterSensor.h" alt="" coords="2059,245,2201,272"/>
+<area shape="rect" id="node41" href="$LooperClient_8h.html" title="LooperClient.h" alt="" coords="2537,245,2651,272"/>
+<area shape="rect" id="node42" href="$SerialPortIODevice_8h.html" title="SerialPortIODevice.h" alt="" coords="3123,395,3275,421"/>
+<area shape="rect" id="node5" href="$DSMSensor_8h.html" title="DSMSensor.h" alt="" coords="1920,320,2027,347"/>
+<area shape="rect" id="node39" href="$Prompt_8h.html" title="Prompt.h" alt="" coords="1507,627,1587,653"/>
+<area shape="rect" id="node40" href="$util_2util_8h.html" title="nidas/util/util.h" alt="" coords="2373,544,2487,571"/>
+<area shape="rect" id="node6" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="1912,544,2030,571"/>
+<area shape="rect" id="node12" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="1629,395,1807,421"/>
+<area shape="rect" id="node21" href="$SampleScanner_8h.html" title="SampleScanner.h" alt="" coords="1896,469,2030,496"/>
+<area shape="rect" id="node23" href="$SampleTag_8h.html" title="SampleTag.h" alt="" coords="1157,469,1261,496"/>
+<area shape="rect" id="node34" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="2258,544,2349,571"/>
+<area shape="rect" id="node24" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="671,544,762,571"/>
+<area shape="rect" id="node36" href="$Dictionary_8h.html" title="Dictionary.h" alt="" coords="2037,395,2133,421"/>
+<area shape="rect" id="node10" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="2218,627,2389,653"/>
+<area shape="rect" id="node17" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1612,619,1802,661"/>
+<area shape="rect" id="node7" href="$Sample_8h.html" title="Sample.h" alt="" coords="1827,627,1910,653"/>
+<area shape="rect" id="node8" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="2754,709,2949,736"/>
+<area shape="rect" id="node13" href="$SampleSource_8h.html" title="SampleSource.h" alt="" coords="1461,469,1589,496"/>
+<area shape="rect" id="node18" href="$SampleClientList_8h.html" title="SampleClientList.h" alt="" coords="1679,469,1821,496"/>
+<area shape="rect" id="node14" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="1275,544,1390,571"/>
+<area shape="rect" id="node22" href="$SampleClock_8h.html" title="SampleClock.h" alt="" coords="1770,544,1887,571"/>
+<area shape="rect" id="node25" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="939,627,1089,653"/>
+<area shape="rect" id="node26" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="841,627,914,653"/>
+<area shape="rect" id="node27" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="274,709,434,736"/>
+<area shape="rect" id="node43" href="$UnixIODevice_8h.html" title="UnixIODevice.h" alt="" coords="3180,469,3298,496"/>
+<area shape="rect" id="node49" href="$Termios_8h.html" title="nidas/util/Termios.h" alt="" coords="3051,544,3195,571"/>
+<area shape="rect" id="node45" href="$IOTimeoutException_8h.html" title="nidas/util/IOTimeoutException.h" alt="" coords="2804,544,3026,571"/>
+<area shape="rect" id="node44" href="$EOFException_8h.html" title="nidas/util/EOFException.h" alt="" coords="2597,544,2779,571"/>
+</map>

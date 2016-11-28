@@ -1,0 +1,10 @@
+<map id="init_cntr" name="init_cntr">
+<area shape="rect" id="node2" href="$nidas__util_8c.html#a300153253ae0c68c2c41206be69adb45" title="alloc_dsm_circ_buf" alt="" coords="129,5,271,32"/>
+<area shape="rect" id="node3" href="$dmd__mmat_8c.html#a001dccf4a08b167dcf87559f0686475c" title="Timer function which fetches the current counter value, makes a timetagged sample out of it..." alt="" coords="147,56,253,83"/>
+<area shape="rect" id="node5" href="$dmd__mmat_8c.html#a9615d93f90eff21a64d943606e9546fc" title="startCntr_MM16AT" alt="" coords="131,107,269,133"/>
+<area shape="rect" id="node7" href="$dmd__mmat_8c.html#acd81fd90ed797708c7c88b209c66343d" title="startCntr_MM32AT" alt="" coords="131,157,269,184"/>
+<area shape="rect" id="node8" href="$dmd__mmat_8c.html#a975cfaaf5fae9a9ab2fe8c412fc02e07" title="stopCntr_MM16AT" alt="" coords="131,208,269,235"/>
+<area shape="rect" id="node9" href="$dmd__mmat_8c.html#a47aabd2addee506cbcbd087234dfa230" title="stopCntr_MM32AT" alt="" coords="131,259,269,285"/>
+<area shape="rect" id="node4" href="$dmd__mmat_8c.html#a55efff55515d946c272a7f9ed7e2402d" title="Read counter value in a 82C54 clock. " alt="" coords="320,56,459,83"/>
+<area shape="rect" id="node6" href="$dmd__mmat_8c.html#a84c7b29f15529e4b982a75eb6624ecd3" title="Set counter value in a 82C54 clock. " alt="" coords="333,132,445,159"/>
+</map>

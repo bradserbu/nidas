@@ -1,0 +1,5 @@
+<map id="nidas::core::MessageStreamScanner::readBuffer" name="nidas::core::MessageStreamScanner::readBuffer">
+<area shape="rect" id="node2" href="$namespacenidas_1_1util.html#a2520059fec3fedb0affd25e8422f4257" title="Return the current unix system time, in microseconds since Jan 1, 1970, 00:00 GMT. " alt="" coords="264,5,456,32"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleScanner.html#ac5dcefd12ad4b90599e4fb22829d0509" title="Read from the sensor into the internal buffer of this SampleScanner. " alt="" coords="259,57,461,98"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="509,57,653,98"/>
+</map>

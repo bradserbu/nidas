@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1DSC__AnalogOut.html#affba46199428303ed8297ece8466d55c" title="Return the maximum setable voltage of an output. " alt="" coords="110,5,295,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1DSC__AnalogOut.html#a861c944d3c4f9de0628842028ce04745" title="Return the minimum setable voltage of an output. " alt="" coords="110,70,295,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1dynld_1_1DSC__AnalogOut.html#a78455c98cfd08c59c0c9ddec050f3419" title="Return number of VOUT pins on this device. " alt="" coords="110,135,295,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1dynld_1_1DSC__AnalogOut.html#a7f0015994536b44e8d52e3c1a2d995a4" title="Open the D2A. " alt="" coords="110,201,295,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1dynld_1_1DSC__AnalogOut.html#a8e2121e7a132ee8e0d0790e27710d4e4" title="nidas::dynld::DSC_Analog\lOut::setDeviceName" alt="" coords="110,266,295,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1dynld_1_1DSC__AnalogOut.html#ab97c1e93b2f9926ec732dc98fa7e6aca" title="Set one or more outputs. " alt="" coords="110,331,295,373"/>
+</map>

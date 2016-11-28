@@ -1,0 +1,14 @@
+<map id="nidas::dynld::RawSampleService::~RawSampleService" name="nidas::dynld::RawSampleService::~RawSampleService">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMService.html#a55ca26b73194c59e3429cb803d7c60db" title="nidas::core::DSMService\l::join" alt="" coords="281,135,458,177"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="521,10,655,51"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="733,70,867,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="521,135,655,177"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="507,237,669,264"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="511,289,665,330"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="733,5,867,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="931,5,1066,46"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="723,135,877,177"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="733,201,867,242"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="718,266,882,307"/>
+<area shape="rect" id="node12" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="767,332,833,359"/>
+</map>

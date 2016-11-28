@@ -1,0 +1,6 @@
+<map id="nidas::core::ProcessorIterator" name="nidas::core::ProcessorIterator">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMConfigIterator.html" title="Class for iterating over the DSMConfigs of a Project or Site. " alt="" coords="18,147,235,173"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SiteIterator.html" title="Class for iterating over the Sites of a Project, or the Sites served by a DSMServer. " alt="" coords="115,5,287,32"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMServerIterator.html" title="Class for iterating over the DSMServers of a Project. " alt="" coords="179,96,397,123"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMServiceIterator.html" title="Class for iterating over the DSMServices of a DSMServer. " alt="" coords="200,197,424,224"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="nidas::core::SamplePipeline::getNumDiscardedProcSamples" name="nidas::core::SamplePipeline::getNumDiscardedProcSamples">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleThread.html#ae566739c07819c2536654353ce75a99a" title="Number of samples discarded because of _heapSize &gt; _heapMax and heapBlock == true. " alt="" coords="285,5,488,46"/>
+</map>

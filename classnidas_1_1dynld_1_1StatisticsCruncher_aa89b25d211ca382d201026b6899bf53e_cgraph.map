@@ -1,0 +1,6 @@
+<map id="nidas::dynld::StatisticsCruncher::setupWindDir" name="nidas::dynld::StatisticsCruncher::setupWindDir">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#adb0e42568c0a11b93d0a50249caa9863" title="Add a variable to this SampleTag. " alt="" coords="227,5,397,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a8f4c4db9944a63fa3f1c2a6787cce368" title="Descriptive, long name, e.g. " alt="" coords="237,70,387,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Variable.html#a5f4fb95e6cc453a415a12d47052f068c" title="Set the full name. " alt="" coords="237,135,387,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#aa487faa9a2b4def6a2786158a6b8fbc3" title="The string discription of the units for this variable. " alt="" coords="237,201,387,242"/>
+</map>

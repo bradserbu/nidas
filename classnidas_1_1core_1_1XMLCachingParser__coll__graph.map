@@ -1,0 +1,8 @@
+<map id="nidas::core::XMLCachingParser" name="nidas::core::XMLCachingParser">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XMLParser.html" title="Wrapper class around xerces&#45;c DOMBuilder to parse XML. " alt="" coords="43,355,209,381"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1XMLErrorHandler.html" title="nidas::core::XMLErrorHandler" alt="" coords="5,264,211,291"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1XMLException.html" title="Exception which can be built from an xerces::XMLException, xercesc::SAXException, or xercesc::DOMExce..." alt="" coords="178,173,365,200"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="195,96,348,123"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="260,355,391,381"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="235,264,428,291"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nidas::core::SampleOutputBase::disconnect" name="nidas::core::SampleOutputBase::disconnect">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#a7cca225499b66837e23ddf095fb2adac" title="nidas::core::SampleOutput\lBase::close" alt="" coords="262,5,455,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleConnectionRequester.html#acb802616399dafdda2a4db8644527e60" title="How SampleOutputs notify their SampleConnectionRequester that they wish to be closed, likely do to an IOException. " alt="" coords="248,70,469,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="518,99,711,141"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOChannel.html#aa3d9e2949bee9a54712eb4d7addbe3e4" title="nidas::core::IOChannel\l::close" alt="" coords="532,5,697,46"/>
+</map>

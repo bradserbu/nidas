@@ -1,0 +1,4 @@
+<map id="nidas::core::SensorIterator" name="nidas::core::SensorIterator">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMConfigIterator.html" title="Class for iterating over the DSMConfigs of a Project or Site. " alt="" coords="5,96,221,123"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SiteIterator.html" title="Class for iterating over the Sites of a Project, or the Sites served by a DSMServer. " alt="" coords="27,5,199,32"/>
+</map>

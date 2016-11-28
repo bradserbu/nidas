@@ -1,0 +1,5 @@
+<map id="nidas::core::Variable::operator!=" name="nidas::core::Variable::operator!=">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Variable.html#aeedb119d681c55ed011fd6ca6752b31e" title="Equivalence operator for Variable, checks equivalence of their length, the variables&#39;s names without ..." alt="" coords="206,38,357,79"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#abb2281682a7ee9bf5e85da363713a60f" title="How many values in this variable? " alt="" coords="406,5,557,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Variable.html#a44378bbc7bc86ddd645d1d02a0e18efc" title="Return the measurement site for this variable. " alt="" coords="406,70,557,111"/>
+</map>

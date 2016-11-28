@@ -1,0 +1,8 @@
+<map id="Extract2D::setTimeStamp" name="Extract2D::setTimeStamp">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="240,5,389,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html#aba94344ea772d92558b7da50674cbda7" title="Set values in a struct tm from a UTime. " alt="" coords="249,70,381,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="438,5,634,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1UTime.html#a2a2bb7e4624bc6eba8b8f123540172e5" title="nidas::util::UTime\l::earlier" alt="" coords="470,70,602,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="470,135,602,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1UTime.html#a5f66cd8e723288d61e4539af62d724c4" title="No&#45;arg constructor initializes to current time, with isUTC() true. " alt="" coords="683,70,815,111"/>
+</map>

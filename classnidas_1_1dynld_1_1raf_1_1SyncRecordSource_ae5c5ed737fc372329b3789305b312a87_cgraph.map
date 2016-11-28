@@ -1,0 +1,5 @@
+<map id="nidas::dynld::raf::SyncRecordSource::connect" name="nidas::dynld::raf::SyncRecordSource::connect">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1raf_1_1Aircraft.html#a4509e1ad3ddf950d4db843ec71741208" title="Search the Project for the Aircraft site and return a pointer to it, or return null if there are no A..." alt="" coords="254,5,397,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="253,70,397,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a98e976fc918b8724ab1c55a8072f4955" title="nidas::core::Project\l::getSites" alt="" coords="445,5,589,46"/>
+</map>

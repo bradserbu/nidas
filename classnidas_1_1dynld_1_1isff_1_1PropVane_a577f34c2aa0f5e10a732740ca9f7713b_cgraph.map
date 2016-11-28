@@ -1,0 +1,5 @@
+<map id="nidas::dynld::isff::PropVane::validateSscanfs" name="nidas::dynld::isff::PropVane::validateSscanfs">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1AsciiSscanf.html#ae0e33a5a33bad43ec84133b0db4beec2" title="nidas::core::AsciiSscanf\l::getNumberOfFields" alt="" coords="254,5,426,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1AsciiSscanf.html#a7d5a4b027f721fef95e8d1441c828ffa" title="nidas::core::AsciiSscanf\l::getSampleTag" alt="" coords="254,70,426,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="255,135,425,177"/>
+</map>

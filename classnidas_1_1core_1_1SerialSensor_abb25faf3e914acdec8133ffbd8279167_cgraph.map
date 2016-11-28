@@ -1,0 +1,6 @@
+<map id="nidas::core::SerialSensor::SerialSensor" name="nidas::core::SerialSensor::SerialSensor">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a07c266bf6ba724989c2100b3fc97eb91" title="nidas::core::DSMSensor\l::setDefaultMode" alt="" coords="235,5,410,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Termios.html#a4442316106f281195df997ff6f7a5d27" title="Sets termios options for raw or non&#45;raw(cooked) mode. " alt="" coords="253,70,393,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Termios.html#af7e517ab4d19172df6250108e4aabccc" title="nidas::util::Termios\l::setRawLength" alt="" coords="253,135,393,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Termios.html#a415be5ebf0ee091f79e8daba74665034" title="nidas::util::Termios\l::setRawTimeout" alt="" coords="253,201,393,242"/>
+</map>

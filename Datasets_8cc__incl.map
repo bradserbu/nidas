@@ -1,0 +1,16 @@
+<map id="nidas/core/Datasets.cc" name="nidas/core/Datasets.cc">
+<area shape="rect" id="node2" href="$Datasets_8h.html" title="Datasets.h" alt="" coords="1362,80,1453,107"/>
+<area shape="rect" id="node26" href="$XMLWriter_8h.html" title="XMLWriter.h" alt="" coords="1085,80,1179,107"/>
+<area shape="rect" id="node27" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="2711,163,2784,189"/>
+<area shape="rect" id="node32" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="2414,80,2505,107"/>
+<area shape="rect" id="node37" href="$Process_8h.html" title="nidas/util/Process.h" alt="" coords="3331,163,3476,189"/>
+<area shape="rect" id="node3" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1750,155,1940,197"/>
+<area shape="rect" id="node7" href="$XMLException_8h.html" title="XMLException.h" alt="" coords="1064,245,1187,272"/>
+<area shape="rect" id="node10" href="$XMLParser_8h.html" title="XMLParser.h" alt="" coords="1083,163,1181,189"/>
+<area shape="rect" id="node5" href="$Exception_8h.html" title="Exception.h" alt="" coords="2069,320,2165,347"/>
+<area shape="rect" id="node11" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="1881,245,2071,272"/>
+<area shape="rect" id="node15" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="2221,245,2392,272"/>
+<area shape="rect" id="node28" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="2875,245,3035,272"/>
+<area shape="rect" id="node33" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="2918,163,3068,189"/>
+<area shape="rect" id="node38" href="$auto__ptr_8h.html" title="auto_ptr.h" alt="" coords="3262,245,3348,272"/>
+</map>

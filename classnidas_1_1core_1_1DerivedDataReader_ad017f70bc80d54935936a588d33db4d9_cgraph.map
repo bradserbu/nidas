@@ -1,0 +1,17 @@
+<map id="nidas::core::DerivedDataReader::run" name="nidas::core::DerivedDataReader::run">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramSocket.html#a44715fe558938e5893a48a5617524b79" title="Bind the DatagramSocket to the specified local address. " alt="" coords="235,5,435,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1DatagramSocket.html#a3ab2156eb9dcf6cc93a53bde7c4770da" title="nidas::util::DatagramSocket\l::close" alt="" coords="235,70,435,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Exception.html#a980845bb9a0fb107d8b216e8099c1b0b" title="nidas::util::Exception\l::getErrno" alt="" coords="258,135,411,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1DatagramSocket.html#a917bfb6f9412edf77b44c21c0bc21d4f" title="nidas::util::DatagramSocket\l::getFd" alt="" coords="235,201,435,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1DatagramPacketBase.html#aab1a729e8bb33b1f00e5249246b3608c" title="Get the value for the current number of bytes in data. " alt="" coords="235,266,434,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1DatagramSocket.html#a48551d9efa88722adf13bb4d0f2f1a32" title="Get local address of this socket. " alt="" coords="235,331,435,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Thread.html#aa4ffe1034a20b639689539d9ed1b8275" title="Return true when this thread has been interrupted. " alt="" coords="267,397,402,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DerivedDataReader.html#aad73b19bb7bec40dee7ab9ab62bdd606" title="nidas::core::DerivedData\lReader::notifyClients" alt="" coords="245,462,425,503"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DerivedDataReader.html#ac286c18926e933f403a2a5bbd7d08000" title="Parse the IWGADTS trivial broadcast. " alt="" coords="245,527,425,569"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1DatagramSocket.html#a6eea15206b0f464203a419197190626f" title="Read a packet from the DatagramSocket. " alt="" coords="235,593,435,634"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1SocketAddress.html#add6af6ba09e0ae7aff3c3db7c20b9ed5" title="Java style toString, but no DNS lookup. " alt="" coords="241,658,428,699"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="258,723,411,765"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1DerivedDataClient.html#af191afd8ab7f95e64aca972b55be485b" title="Method called on a DerivedDataClient by the DerivedDataReader thread when a new packet of derived dat..." alt="" coords="483,397,664,438"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="508,462,639,503"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="508,527,639,569"/>
+</map>

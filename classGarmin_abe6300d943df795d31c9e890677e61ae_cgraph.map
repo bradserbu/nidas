@@ -1,0 +1,6 @@
+<map id="Garmin::parseRunstring" name="Garmin::parseRunstring">
+<area shape="rect" id="node2" href="$classGarmin.html#a22c51497b415cb2b9f41221b103c91b0" title="Garmin::checkMessage" alt="" coords="243,5,413,32"/>
+<area shape="rect" id="node3" href="$classGarmin.html#a36d27202411f99e5b669f85e549092c2" title="Garmin::getBaudRateIndex" alt="" coords="231,56,425,83"/>
+<area shape="rect" id="node4" href="$classGarmin.html#ae63d79de417f75db0976f21207318d3a" title="Garmin::getPulseWidthIndex" alt="" coords="227,107,429,133"/>
+<area shape="rect" id="node5" href="$classGarmin.html#a346a69031dc88bd508e374060cc4bc17" title="Garmin::usage" alt="" coords="270,157,386,184"/>
+</map>

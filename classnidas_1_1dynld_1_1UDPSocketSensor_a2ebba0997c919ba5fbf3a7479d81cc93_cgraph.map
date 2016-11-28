@@ -1,0 +1,3 @@
+<map id="nidas::dynld::UDPSocketSensor::buildSampleScanner" name="nidas::dynld::UDPSocketSensor::buildSampleScanner">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DatagramSampleScanner.html#a2e5d45d0c96afb1615b0f56d70549221" title="User of DatagramSampleScanner should specify if they want the samples to be null terminated. " alt="" coords="278,5,493,46"/>
+</map>

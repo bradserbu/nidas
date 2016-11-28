@@ -1,0 +1,29 @@
+<map id="nidas/apps/config/AddA2DVariableComboDialog.cc" name="nidas/apps/config/AddA2DVariableComboDialog.cc">
+<area shape="rect" id="node2" href="$AddA2DVariableComboDialog_8h.html" title="AddA2DVariableComboDialog.h" alt="" coords="466,187,688,213"/>
+<area shape="rect" id="node33" href="$configwindow_8h.html" title="configwindow.h" alt="" coords="1777,104,1892,131"/>
+<area shape="rect" id="node45" href="$InternalProcessingException_8h.html" title="exceptions/InternalProcessing\lException.h" alt="" coords="1541,97,1752,138"/>
+<area shape="rect" id="node21" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="3165,577,3355,618"/>
+<area shape="rect" id="node46" href="$DeviceValidator_8h.html" title="DeviceValidator.h" alt="" coords="3637,501,3768,528"/>
+<area shape="rect" id="node6" href="$Document_8h.html" title="Document.h" alt="" coords="1225,261,1327,288"/>
+<area shape="rect" id="node31" href="$NidasModel_8h.html" title="NidasModel.h" alt="" coords="1902,261,2009,288"/>
+<area shape="rect" id="node26" href="$A2DVariableItem_8h.html" title="nidas_qmv/A2DVariableItem.h" alt="" coords="317,344,531,371"/>
+<area shape="rect" id="node14" href="$Project_8h.html" title="nidas/core/Project.h" alt="" coords="2019,427,2167,453"/>
+<area shape="rect" id="node16" href="$SensorCatalog_8h.html" title="nidas/core/SensorCatalog.h" alt="" coords="1882,501,2080,528"/>
+<area shape="rect" id="node17" href="$DSMItem_8h.html" title="nidas_qmv/DSMItem.h" alt="" coords="969,501,1135,528"/>
+<area shape="rect" id="node19" href="$SensorItem_8h.html" title="nidas_qmv/SensorItem.h" alt="" coords="2192,427,2373,453"/>
+<area shape="rect" id="node23" href="$ProjectItem_8h.html" title="nidas_qmv/ProjectItem.h" alt="" coords="1253,344,1432,371"/>
+<area shape="rect" id="node28" href="$A2DSensorItem_8h.html" title="nidas_qmv/A2DSensorItem.h" alt="" coords="1711,344,1919,371"/>
+<area shape="rect" id="node29" href="$PMSSensorItem_8h.html" title="nidas_qmv/PMSSensorItem.h" alt="" coords="1943,344,2152,371"/>
+<area shape="rect" id="node30" href="$VariableItem_8h.html" title="nidas_qmv/VariableItem.h" alt="" coords="2228,344,2415,371"/>
+<area shape="rect" id="node18" href="$DSMConfig_8h.html" title="DSMConfig.h" alt="" coords="1571,584,1675,611"/>
+<area shape="rect" id="node20" href="$DSMSensor_8h.html" title="nidas/core/DSMSensor.h" alt="" coords="3172,501,3351,528"/>
+<area shape="rect" id="node22" href="$Exception_8h.html" title="Exception.h" alt="" coords="3297,667,3393,693"/>
+<area shape="rect" id="node24" href="$SiteItem_8h.html" title="SiteItem.h" alt="" coords="1303,427,1391,453"/>
+<area shape="rect" id="node25" href="$Site_8h.html" title="nidas/core/Site.h" alt="" coords="1661,501,1789,528"/>
+<area shape="rect" id="node35" href="$XMLParser_8h.html" title="XMLParser.h" alt="" coords="3100,261,3199,288"/>
+<area shape="rect" id="node37" href="$AddSensorComboDialog_8h.html" title="AddSensorComboDialog.h" alt="" coords="1242,187,1432,213"/>
+<area shape="rect" id="node38" href="$AddDSMComboDialog_8h.html" title="AddDSMComboDialog.h" alt="" coords="847,187,1021,213"/>
+<area shape="rect" id="node39" href="$VariableComboDialog_8h.html" title="VariableComboDialog.h" alt="" coords="1047,187,1217,213"/>
+<area shape="rect" id="node40" href="$NewProjectDialog_8h.html" title="NewProjectDialog.h" alt="" coords="297,187,441,213"/>
+<area shape="rect" id="node41" href="$UserFriendlyExceptionHandler_8h.html" title="exceptions/UserFriendlyException\lHandler.h" alt="" coords="3380,577,3615,618"/>
+</map>

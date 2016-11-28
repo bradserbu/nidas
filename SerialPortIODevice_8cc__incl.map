@@ -1,0 +1,18 @@
+<map id="nidas/core/SerialPortIODevice.cc" name="nidas/core/SerialPortIODevice.cc">
+<area shape="rect" id="node2" href="$SerialPortIODevice_8h.html" title="SerialPortIODevice.h" alt="" coords="432,80,584,107"/>
+<area shape="rect" id="node21" href="$Looper_8h.html" title="Looper.h" alt="" coords="1877,155,1955,181"/>
+<area shape="rect" id="node35" href="$Prompt_8h.html" title="Prompt.h" alt="" coords="2195,312,2276,339"/>
+<area shape="rect" id="node36" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="2487,229,2625,256"/>
+<area shape="rect" id="node14" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="1256,229,1451,256"/>
+<area shape="rect" id="node3" href="$UnixIODevice_8h.html" title="UnixIODevice.h" alt="" coords="638,155,756,181"/>
+<area shape="rect" id="node19" href="$Termios_8h.html" title="nidas/util/Termios.h" alt="" coords="5,229,149,256"/>
+<area shape="rect" id="node13" href="$IOTimeoutException_8h.html" title="nidas/util/IOTimeoutException.h" alt="" coords="481,229,703,256"/>
+<area shape="rect" id="node4" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="1032,229,1123,256"/>
+<area shape="rect" id="node12" href="$EOFException_8h.html" title="nidas/util/EOFException.h" alt="" coords="825,229,1007,256"/>
+<area shape="rect" id="node5" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1557,305,1747,346"/>
+<area shape="rect" id="node9" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="992,312,1163,339"/>
+<area shape="rect" id="node7" href="$Exception_8h.html" title="Exception.h" alt="" coords="1823,395,1919,421"/>
+<area shape="rect" id="node22" href="$LooperClient_8h.html" title="LooperClient.h" alt="" coords="1811,229,1925,256"/>
+<area shape="rect" id="node23" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="2000,229,2139,256"/>
+<area shape="rect" id="node25" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="2042,312,2171,339"/>
+</map>

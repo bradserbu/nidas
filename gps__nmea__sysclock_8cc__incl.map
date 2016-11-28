@@ -1,0 +1,10 @@
+<map id="nidas/apps/gps_nmea_sysclock.cc" name="nidas/apps/gps_nmea_sysclock.cc">
+<area shape="rect" id="node9" href="$SerialPort_8h.html" title="nidas/util/SerialPort.h" alt="" coords="339,96,496,123"/>
+<area shape="rect" id="node21" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="1117,171,1253,197"/>
+<area shape="rect" id="node14" href="$Termios_8h.html" title="Termios.h" alt="" coords="297,171,380,197"/>
+<area shape="rect" id="node17" href="$IOException_8h.html" title="IOException.h" alt="" coords="455,245,564,272"/>
+<area shape="rect" id="node18" href="$Exception_8h.html" title="Exception.h" alt="" coords="1203,320,1299,347"/>
+<area shape="rect" id="node27" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1061,245,1189,272"/>
+<area shape="rect" id="node30" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="1761,245,1892,272"/>
+<area shape="rect" id="node32" href="$time__constants_8h.html" title="time_constants.h" alt="" coords="1471,245,1604,272"/>
+</map>

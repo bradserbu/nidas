@@ -1,0 +1,36 @@
+<map id="nidas::dynld::raf::SidsNetSensor" name="nidas::dynld::raf::SidsNetSensor">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1CharacterSensor.html" title="Implementation of support for a sensor which generates character output. " alt="" coords="2224,688,2432,715"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html" title="DSMSensor provides the basic support for reading, processing and distributing samples from a sensor a..." alt="" coords="1897,611,2071,637"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor_1_1MyDictionary.html" title="nidas::core::DSMSensor\l::MyDictionary" alt="" coords="2241,622,2415,663"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1SampleTag.html" title="Class describing a group of variables that are sampled and handled together. " alt="" coords="2243,1028,2413,1055"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="729,555,924,581"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1SampleSourceSupport.html" title="A source of samples. " alt="" coords="1180,526,1375,567"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="1587,161,1773,188"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,1303,182,1329"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMConfig.html" title="Class that should include all that is configurable about a DSM. " alt="" coords="1595,1127,1765,1153"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Site.html" title="A measurement site. " alt="" coords="1215,1225,1340,1252"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Project.html" title="nidas::core::Project" alt="" coords="755,1320,899,1347"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="329,1428,508,1455"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="321,1276,517,1303"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements, keyed by the ID attributes. " alt="" coords="321,1327,516,1353"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="21,1575,185,1601"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMConfig_1_1MyDictionary.html" title="nidas::core::DSMConfig\l::MyDictionary" alt="" coords="1192,1277,1363,1318"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="347,1479,491,1521"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="1613,1333,1747,1374"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="353,308,484,335"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="759,403,894,429"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1Looper.html" title="Looper is a Thread that periodically loops, calling the LooperClient::looperNotify() method of Looper..." alt="" coords="1205,257,1349,284"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1Sample.html" title="Interface to a data sample. " alt="" coords="752,697,901,724"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1SampleClientList.html" title="A list of SampleClients. " alt="" coords="723,352,930,379"/>
+<area shape="rect" id="node37" href="$classnidas_1_1util_1_1EndianConverter.html" title="Virtual base class declaring methods for converting numeric values between little&#45;endian and big&#45;endi..." alt="" coords="955,59,1152,85"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,212,199,239"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1IODevice.html" title="An interface to an IO device. " alt="" coords="542,103,698,129"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1Dataset.html" title="A Dataset is a named collection of parameters, that are used in data processing. " alt="" coords="343,1175,494,1201"/>
+<area shape="rect" id="node27" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="342,393,495,420"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1SampleScanner.html" title="A scanner of sample data. " alt="" coords="1176,712,1379,739"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="1184,1073,1371,1100"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="344,521,493,548"/>
+<area shape="rect" id="node31" href="$structdsm__sample.html" title="dsm_sample" alt="" coords="775,799,879,825"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1SampleHeader.html" title="The header fields of a Sample: a time_tag, a data length field, and an identifier. " alt="" coords="321,688,517,715"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1SampleStats.html" title="A source of samples. " alt="" coords="735,504,918,531"/>
+</map>

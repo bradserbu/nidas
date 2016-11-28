@@ -1,0 +1,11 @@
+<map id="nidas::dynld::UDPSampleOutput::ConnectionMonitor::removeConnection" name="nidas::dynld::UDPSampleOutput::ConnectionMonitor::removeConnection">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1SocketAddress.html#a9a0749f3122491935c86a5b98895d239" title="nidas::util::SocketAddress\l::getConstSockAddrPtr" alt="" coords="339,5,525,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketAddress.html#afa988ac5e32b61dfb899d87f10671002" title="Get the family of this SocketAddress, one of the values from /usr/include/sys/socket.h: AF_UNIX, AF_INET, AF_INET6, etc. " alt="" coords="339,70,525,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="335,135,529,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Socket.html#a5a124be1d5892e485f64db1794f8a283" title="Get remote address of this socket. " alt="" coords="334,201,530,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a71ff19aa4758847ef724cd30c506cdf3" title="Set the port number. " alt="" coords="349,266,515,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a42e8934101c8ff3291031d4773b6168f" title="Java style toString, but no DNS lookup: returns &quot;inet:w.x.y.z:port&quot;. " alt="" coords="339,331,525,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a5a980fd49b48f9cc36250f08efae7e19" title="Return the IP address portion. " alt="" coords="579,266,765,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Inet4Address.html#a0955351978950ff32c1daa6dcc13764c" title="Return string containing address in dot notation: w.x.y.z. " alt="" coords="585,331,759,373"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a3f70de15bd05eb31407b30e1f4f2e841" title="Return the port number. " alt="" coords="589,397,755,438"/>
+</map>

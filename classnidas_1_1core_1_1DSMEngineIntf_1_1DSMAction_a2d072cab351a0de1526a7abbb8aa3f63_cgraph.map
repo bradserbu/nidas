@@ -1,0 +1,9 @@
+<map id="nidas::core::DSMEngineIntf::DSMAction::execute" name="nidas::core::DSMEngineIntf::DSMAction::execute">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMEngine.html#a27a98c4d7a2508da05c4f281a11e81a0" title="Get a pointer to the singleton instance of DSMEngine created by main(). " alt="" coords="248,5,421,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMEngine.html#a4039e5c44601fe5259c0b76c44ca049b" title="Quit the main loop. " alt="" coords="248,70,421,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMEngine.html#ad5923eb04336111a16dd98b2d79f6a8c" title="Quits the main loop, and spawns a &quot;reboot&quot; shell command. " alt="" coords="248,135,421,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMEngine.html#ade9b6d2089fbf8234991f73bc09d52ba" title="Restarts the main loop (for the XMLRPC call). " alt="" coords="248,201,421,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMEngine.html#ad6b8b05421583817f10437407fa07aa3" title="Quits the main loop, and spawns a &quot;halt&quot; shell command. " alt="" coords="248,266,421,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMEngine.html#a8023e9e46c9722ebc3b9907810dafbf5" title="Starts the main loop (for the XMLRPC call). " alt="" coords="248,331,421,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMEngine.html#adf344847d5b5d336016b76bd3abb1299" title="Stops the main loop (for the XMLRPC call). " alt="" coords="248,397,421,438"/>
+</map>

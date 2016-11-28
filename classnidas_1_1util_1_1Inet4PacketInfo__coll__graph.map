@@ -1,0 +1,4 @@
+<map id="nidas::util::Inet4PacketInfo" name="nidas::util::Inet4PacketInfo">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Inet4Address.html" title="Support for IP version 4 host address. " alt="" coords="5,5,179,32"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html" title="nidas::util::Inet4Network\lInterface" alt="" coords="166,126,340,167"/>
+</map>

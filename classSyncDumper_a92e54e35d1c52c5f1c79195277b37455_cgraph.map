@@ -1,0 +1,36 @@
+<map id="SyncDumper::run" name="SyncDumper::run">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1FileSet.html#adf8ef81cad8e5ead98c6d943d4920a35" title="Convienence function to return a pointer to a nidas::core::FileSet, given a list of files..." alt="" coords="245,5,387,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html#a65e798cce3e164ea8cb7cf3f97eb4276" title="nidas::dynld::raf::\lSyncRecordReader::getFlightName" alt="" coords="195,70,437,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordVariable.html#a7058a6948b20df755fb8d383786e9df9" title="Get the index into the sync record of the lag value for this variable. " alt="" coords="239,136,393,192"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Variable.html#abb2281682a7ee9bf5e85da363713a60f" title="How many values in this variable? " alt="" coords="241,217,391,258"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Variable.html#afe5da71e570b3ab45dfd0452adb9353c" title="nidas::core::Variable\l::getLongName" alt="" coords="241,282,391,323"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="241,347,391,389"/>
+<area shape="rect" id="node10" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html#a5492d65c987953141b172fcd10f51496" title="Get number of data values in a sync record. " alt="" coords="195,413,437,454"/>
+<area shape="rect" id="node11" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html#adabcdcf7bad05793b7f71b5cd6f5bcd6" title="nidas::dynld::raf::\lSyncRecordReader::getProjectName" alt="" coords="190,478,442,519"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Variable.html#a80396a16aee8829d667943d48dc0a2f4" title="Convenience routine to get the SampleTag rate. " alt="" coords="241,543,391,585"/>
+<area shape="rect" id="node14" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html#a95bcea73c9026a6c981d4b1ebca3f347" title="nidas::dynld::raf::\lSyncRecordReader::getSoftware\lVersion" alt="" coords="203,609,429,665"/>
+<area shape="rect" id="node15" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordVariable.html#a038fd7568a02653d90f16486b4b4d1d0" title="Get the index into the sync record of the first value for this variable. " alt="" coords="239,689,393,745"/>
+<area shape="rect" id="node16" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html#a51dbfcf06a43447c8de171cdc7c81993" title="nidas::dynld::raf::\lSyncRecordReader::getTailNumber" alt="" coords="196,770,436,811"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Variable.html#a65758a64115d33b93af192286a35fe62" title="nidas::core::Variable\l::getUnits" alt="" coords="241,835,391,877"/>
+<area shape="rect" id="node18" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html#aee5dafffba2e60b6a4926d6053900e6d" title="Get the list of variables in a sync record. " alt="" coords="203,901,429,942"/>
+<area shape="rect" id="node19" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html#a23d3e818a8f450b611f8684e13bb4344" title="Read a sync record. " alt="" coords="227,966,405,1007"/>
+<area shape="rect" id="node28" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html#a9747a631ab435e07443667f860431ea7" title="nidas::dynld::raf::\lSyncRecordReader::textHeader" alt="" coords="206,1031,426,1073"/>
+<area shape="rect" id="node29" href="$sync__dump_8cc.html#a1664bdb90cfbcdde0b4cd77b2eab8138" title="time_format" alt="" coords="265,1097,367,1124"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="239,1149,393,1190"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1FileSet.html#a6233f68c5d7dfedb9280ae9dd17c56c6" title="nidas::core::FileSet\l::addFileName" alt="" coords="505,5,647,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1FileSet.html#ad6b6001c805bd1ad2e112d1c8a8c8e22" title="nidas::util::FileSet\l::addFileName" alt="" coords="741,5,875,46"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="491,543,661,585"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Sample.html#a773f6f7732f631184c0daab9522baba9" title="Get the id portion of the sample header. " alt="" coords="501,770,651,811"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1Sample.html#a45ead9ba670ea4d2e234e33f36b9ee4a" title="Get the type of the sample. " alt="" coords="501,835,651,877"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1Sample.html#a9d888ef233114a39471c69b2176890c1" title="Get the number of elements in data portion of sample. " alt="" coords="501,901,651,942"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="501,966,651,1007"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1Sample.html#a507f3ca946601f9b21cc67df9035f028" title="Get a const void* pointer to the data portion of the sample. " alt="" coords="494,1031,658,1073"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1Sample.html#a355553922b04c738465e06c7e7d21767" title="Decrement the reference count for this sample. " alt="" coords="501,1097,651,1138"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1SampleHeader.html#a91a71e15fd149e79d7a94a310d880fda" title="nidas::core::SampleHeader\l::getId" alt="" coords="710,770,906,811"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="710,966,906,1007"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1UTime.html#aeb55bd955c48b84b5d3113dc2311d3b5" title="Format a UTime into a string. " alt="" coords="510,1162,642,1203"/>
+<area shape="rect" id="node31" href="$classnidas_1_1util_1_1UTime.html#a2a2bb7e4624bc6eba8b8f123540172e5" title="nidas::util::UTime\l::earlier" alt="" coords="742,1097,874,1138"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="742,1162,874,1203"/>
+<area shape="rect" id="node34" href="$classnidas_1_1util_1_1UTime.html#a78aba4b6b51fdb3781638783fdf0e086" title="nidas::util::UTime::tm" alt="" coords="729,1228,887,1255"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1UTime.html#a5f66cd8e723288d61e4539af62d724c4" title="No&#45;arg constructor initializes to current time, with isUTC() true. " alt="" coords="955,1097,1087,1138"/>
+</map>

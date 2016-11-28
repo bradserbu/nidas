@@ -1,0 +1,12 @@
+<map id="nidas/apps/tee_tty.cc" name="nidas/apps/tee_tty.cc">
+<area shape="rect" id="node3" href="$SerialPort_8h.html" title="nidas/util/SerialPort.h" alt="" coords="351,80,508,107"/>
+<area shape="rect" id="node17" href="$SerialOptions_8h.html" title="nidas/util/SerialOptions.h" alt="" coords="609,80,788,107"/>
+<area shape="rect" id="node21" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="1229,80,1365,107"/>
+<area shape="rect" id="node32" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="1993,80,2132,107"/>
+<area shape="rect" id="node10" href="$Termios_8h.html" title="Termios.h" alt="" coords="348,155,431,181"/>
+<area shape="rect" id="node13" href="$IOException_8h.html" title="IOException.h" alt="" coords="655,229,764,256"/>
+<area shape="rect" id="node14" href="$Exception_8h.html" title="Exception.h" alt="" coords="753,304,849,331"/>
+<area shape="rect" id="node19" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="821,155,952,181"/>
+<area shape="rect" id="node28" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1877,155,2005,181"/>
+<area shape="rect" id="node31" href="$time__constants_8h.html" title="time_constants.h" alt="" coords="1567,155,1700,181"/>
+</map>

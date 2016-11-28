@@ -1,0 +1,17 @@
+<map id="ConfigWindow::buildVariableMenu" name="ConfigWindow::buildVariableMenu">
+<area shape="rect" id="node2" href="$classConfigWindow.html#ab578b9cd5383be7549f81c57f59ba671" title="ConfigWindow::buildVariable\lActions" alt="" coords="285,217,483,258"/>
+<area shape="rect" id="node3" href="$classConfigWindow.html#aaf51e3c1353166adc2923d101f6b60fb" title="ConfigWindow::editVariable\lCombo" alt="" coords="531,217,722,258"/>
+<area shape="rect" id="node4" href="$classconfig_1_1VariableComboDialog.html#a1bd24e8361797dbfe69e5aafe1f97a49" title="config::VariableComboDialog\l::show" alt="" coords="771,217,976,258"/>
+<area shape="rect" id="node5" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="1059,5,1213,32"/>
+<area shape="rect" id="node6" href="$classconfig_1_1VariableComboDialog.html#a602ccb5bd7c7ceb7452de6db6a3e0ab2" title="config::VariableComboDialog\l::setCalLabels" alt="" coords="1033,57,1239,98"/>
+<area shape="rect" id="node7" href="$classVariableItem.html#a0d3c46a2aebced8f3ff47a9745db9b00" title="VariableItem::getBaseName" alt="" coords="1035,123,1237,149"/>
+<area shape="rect" id="node10" href="$classVariableItem.html#a2d1791f3b3055013b5ad25bc92a9044d" title="VariableItem::getLongName" alt="" coords="1035,173,1237,200"/>
+<area shape="rect" id="node11" href="$classVariableItem.html#af9ec7cb073737f8744c9bad7636f5b21" title="VariableItem::getRate" alt="" coords="1056,224,1216,251"/>
+<area shape="rect" id="node12" href="$classVariableItem.html#a03b84e24fbd95fe2c3dded92fb8ccd37" title="VariableItem::getCalSrc" alt="" coords="1050,275,1222,301"/>
+<area shape="rect" id="node13" href="$classVariableItem.html#abfc35e8e37e7aae4343c70718d4c27c1" title="VariableItem::getVariable" alt="" coords="1045,325,1227,352"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Variable.html#a65758a64115d33b93af192286a35fe62" title="nidas::core::Variable\l::getUnits" alt="" coords="1061,377,1211,418"/>
+<area shape="rect" id="node15" href="$classVariableItem.html#ac1c98bd32fadad777cc3a4f22e50f9a5" title="VariableItem::getCalibrationInfo" alt="" coords="1025,443,1247,469"/>
+<area shape="rect" id="node8" href="$classSensorItem.html#a3b8692be5323fe38c03f67fe801be1f5" title="SensorItem::getDSMSensor" alt="" coords="1304,93,1504,120"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMSensor.html#ae44bbb04b9ed2b5cd80a875ce8609653" title="Sensor suffix, which is added to variable names. " alt="" coords="1317,145,1491,186"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1VariableConverter.html#a4d825d9eccdb4505c383cac82cd1c9cf" title="nidas::core::VariableConverter\l::getUnits" alt="" coords="1297,435,1511,477"/>
+</map>

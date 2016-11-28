@@ -1,0 +1,4 @@
+<map id="nidas::core::getSample" name="nidas::core::getSample">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SamplePool.html#af00dfa2aa5ac18810d2d0f288dc8039c" title="Get a sample of at least len elements from the pool. " alt="" coords="224,5,400,46"/>
+<area shape="rect" id="node3" href="$namespacenidas_1_1core.html#a9b696c282183fed8a0b111f97a5eaace" title="A convienence method for getting a sample of an enumerated type from a pool. " alt="" coords="448,12,619,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="configA2D" name="configA2D">
+<area shape="rect" id="node2" href="$dmd__mmat_8c.html#a55ef3b4f0cc765d38cd86d9128ec2e48" title="getA2DDeviceName" alt="" coords="145,5,297,32"/>
+<area shape="rect" id="node3" href="$dmd__mmat_8c.html#a5cf0e371108908bf0f2112b998b20f61" title="Reset state of data processing. " alt="" coords="142,56,301,83"/>
+<area shape="rect" id="node4" href="$dmd__mmat_8c.html#a4cb57e483e03da52ef8e6277ddf5d43c" title="freeA2DFilters" alt="" coords="363,31,474,57"/>
+<area shape="rect" id="node5" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="349,81,488,108"/>
+</map>

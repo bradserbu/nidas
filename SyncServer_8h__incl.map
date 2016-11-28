@@ -1,0 +1,35 @@
+<map id="nidas/dynld/raf/SyncServer.h" name="nidas/dynld/raf/SyncServer.h">
+<area shape="rect" id="node5" href="$core_2Socket_8h.html" title="nidas/core/Socket.h" alt="" coords="2515,88,2663,115"/>
+<area shape="rect" id="node41" href="$SyncRecordGenerator_8h.html" title="SyncRecordGenerator.h" alt="" coords="225,171,396,197"/>
+<area shape="rect" id="node44" href="$SamplePipeline_8h.html" title="nidas/core/SamplePipeline.h" alt="" coords="424,245,627,272"/>
+<area shape="rect" id="node47" href="$RawSampleInputStream_8h.html" title="nidas/dynld/RawSampleInput\lStream.h" alt="" coords="1875,81,2079,122"/>
+<area shape="rect" id="node49" href="$SampleOutputStream_8h.html" title="nidas/dynld/SampleOutput\lStream.h" alt="" coords="2103,81,2293,122"/>
+<area shape="rect" id="node37" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="963,403,1101,429"/>
+<area shape="rect" id="node40" href="$auto__ptr_8h.html" title="nidas/util/auto_ptr.h" alt="" coords="3497,171,3644,197"/>
+<area shape="rect" id="node6" href="$IOChannel_8h.html" title="IOChannel.h" alt="" coords="1667,171,1765,197"/>
+<area shape="rect" id="node17" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="2543,320,2635,347"/>
+<area shape="rect" id="node32" href="$util_2Socket_8h.html" title="nidas/util/Socket.h" alt="" coords="960,171,1099,197"/>
+<area shape="rect" id="node39" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="1905,320,2041,347"/>
+<area shape="rect" id="node7" href="$ConnectionInfo_8h.html" title="ConnectionInfo.h" alt="" coords="1191,245,1320,272"/>
+<area shape="rect" id="node16" href="$Datagrams_8h.html" title="Datagrams.h" alt="" coords="1753,245,1860,272"/>
+<area shape="rect" id="node29" href="$Sample_8h.html" title="Sample.h" alt="" coords="1799,320,1881,347"/>
+<area shape="rect" id="node14" href="$IOException_8h.html" title="IOException.h" alt="" coords="1447,403,1556,429"/>
+<area shape="rect" id="node9" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="750,403,868,429"/>
+<area shape="rect" id="node8" href="$Inet4NetworkInterface_8h.html" title="nidas/util/Inet4NetworkInterface.h" alt="" coords="1139,320,1373,347"/>
+<area shape="rect" id="node15" href="$Inet4SocketAddress_8h.html" title="nidas/util/Inet4SocketAddress.h" alt="" coords="689,320,911,347"/>
+<area shape="rect" id="node10" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1137,493,1265,520"/>
+<area shape="rect" id="node12" href="$Exception_8h.html" title="Exception.h" alt="" coords="1221,576,1317,603"/>
+<area shape="rect" id="node18" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1567,486,1757,527"/>
+<area shape="rect" id="node19" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="1393,493,1543,520"/>
+<area shape="rect" id="node20" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="2659,403,2732,429"/>
+<area shape="rect" id="node21" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="3109,493,3269,520"/>
+<area shape="rect" id="node33" href="$Inet4PacketInfo_8h.html" title="Inet4PacketInfo.h" alt="" coords="803,245,933,272"/>
+<area shape="rect" id="node34" href="$UnixSocketAddress_8h.html" title="UnixSocketAddress.h" alt="" coords="1009,245,1167,272"/>
+<area shape="rect" id="node35" href="$EOFException_8h.html" title="EOFException.h" alt="" coords="1550,320,1671,347"/>
+<area shape="rect" id="node42" href="$SampleIOProcessor_8h.html" title="nidas/core/SampleIOProcessor.h" alt="" coords="2273,245,2500,272"/>
+<area shape="rect" id="node43" href="$SyncRecordSource_8h.html" title="SyncRecordSource.h" alt="" coords="94,320,247,347"/>
+<area shape="rect" id="node45" href="$SampleThread_8h.html" title="SampleThread.h" alt="" coords="987,320,1113,347"/>
+<area shape="rect" id="node46" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="435,320,551,347"/>
+<area shape="rect" id="node48" href="$SampleInputStream_8h.html" title="SampleInputStream.h" alt="" coords="1935,245,2097,272"/>
+<area shape="rect" id="node50" href="$SampleOutput_8h.html" title="SampleOutput.h" alt="" coords="2122,245,2248,272"/>
+</map>

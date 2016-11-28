@@ -1,0 +1,51 @@
+<map id="DSMItem::fromDOM" name="DSMItem::fromDOM">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMConfig.html#a93487f0e4e833293309d8fc0f2c4a092" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="205,1748,376,1790"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1XDOMElement.html#aa5cf2414389cde3adfac301a290b1a7f" title="nidas::core::XDOMElement\l::getNodeName" alt="" coords="1459,344,1651,386"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1XDOMElement.html#a29ecd13811c96fc7ad8ee05b872f6624" title="nidas::core::XDOMElement\l::getAttributeValue" alt="" coords="1459,1454,1651,1495"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Project.html#a1d2634ee66c9d70efcdda17e8cfce649" title="Utility function to expand ${TOKEN} or $TOKEN fields in a string with their value from getTokenValue(..." alt="" coords="1217,151,1361,192"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Project.html#aa3768cb944a50489091bf0799fa5ace9" title="nidas::core::Project\l::getDSMCatalog" alt="" coords="465,1807,609,1848"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMCatalog.html#a972ebf86156db4e766a09f24e904c988" title="nidas::core::DSMCatalog\l::find" alt="" coords="448,1872,627,1914"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1XDOMAttr.html#a2b378f967bc25e190f8b920936a675d9" title="nidas::core::XDOMAttr\l::getName" alt="" coords="1731,798,1893,839"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="450,1938,625,1979"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="1735,1574,1889,1615"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DOMObjectFactory.html#a47555fd77715fb175ccb000ec50517b8" title="Create a DOMable object given its classname, by looking up and executing its creator function..." alt="" coords="1445,1639,1664,1680"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1SampleOutput.html#a731ab61b96d698c9e96f0a066a3cd283" title="nidas::core::SampleOutput\l::setDSMConfig" alt="" coords="441,2003,634,2044"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1DOMable.html#a3293fef3181a20b4a21315ad3b7db6e2" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="705,1588,863,1630"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="470,2068,605,2110"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="456,2134,619,2161"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1SampleIOProcessor.html#a7f870837669e1def0e6b094f7be29c7a" title="nidas::core::SampleIOProcessor\l::setDSMConfig" alt="" coords="425,2186,650,2227"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1SampleIOProcessor.html#a3fb6214975308dd6d790723eacfd5d7a" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="425,1319,650,1360"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Dictionary.html#a139ecff9b24fd85055c676f53b2c9981" title="Utility function that scans a string for tokens like ${XXXX}, or $XXX followed by any characters from..." alt="" coords="1473,151,1637,192"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DynamicLoader.html#aca9fb67084677713791eb844c40288ce" title="Get a pointer to the singleton instance of DynamicLoader. " alt="" coords="1712,1639,1912,1680"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DynamicLoader.html#a275d45c165d64e6261c17315a8be8517" title="Search the main program itself, and its currently loaded libraries for a symbol. " alt="" coords="1712,1704,1912,1746"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DynamicLoader.html#a7259c8404e7447d673366e0be0208283" title="nidas::core::DynamicLoader\l::DynamicLoader" alt="" coords="1960,1639,2160,1680"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="717,2068,851,2110"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="958,2068,1093,2110"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="702,2186,866,2227"/>
+<area shape="rect" id="node23" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="751,2134,817,2161"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1SampleTag.html#a850dd380521f927dd7215012c1a5619d" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="699,827,869,868"/>
+<area shape="rect" id="node48" href="$classnidas_1_1core_1_1SampleTag.html#a0c1953e2384879d04e8121e101d4531c" title="Set the sensor portion of the shortId. " alt="" coords="699,479,869,520"/>
+<area shape="rect" id="node49" href="$classnidas_1_1core_1_1SampleTag.html#a5ca3fbedfe97836dcef9c5b9063624ed" title="Get the sample portion of the shortId. " alt="" coords="699,544,869,586"/>
+<area shape="rect" id="node50" href="$classnidas_1_1core_1_1SampleTag.html#aa5d96c63244aa51ce7bda046a818b36c" title="Set the sample portion of the shortId. " alt="" coords="699,414,869,455"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1Parameter.html#ababf7c53b0fb8c567ad60409efd02ae0" title="nidas::core::Parameter\l::createParameter" alt="" coords="1471,1094,1638,1135"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="1217,1319,1361,1360"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1Variable.html#a311e982fd8a58d717627fe5a4a89306a" title="nidas::core::Variable\l::setStation" alt="" coords="1214,684,1365,726"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1Variable.html#aab6af993db077456a1f9b3c5e5591aa5" title="Set the Site where this variable was measured. " alt="" coords="1214,619,1365,660"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1Variable.html#a364186ea65abedebe946e857ea5a8182" title="Set the sample tag pointer. " alt="" coords="950,502,1101,543"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1Variable.html#a7e208ce885a7ecf9d8591727452e5ce5" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="950,976,1101,1018"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1Variable.html#a93633805e3605f24f1041b004b1cf1e0" title="nidas::core::Variable\l::getConverter" alt="" coords="950,794,1101,835"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1VariableConverter.html#a447981ea13ec538f4f4e30e7e96aae53" title="nidas::core::VariableConverter\l::getCalFile" alt="" coords="918,859,1133,900"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1CalFile.html#aabfecfedca54b41e235497761623dd4c" title="Set the DSMSensor associated with this CalFile. " alt="" coords="1485,739,1625,780"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1Variable.html#a4c4262fd33f1cc834ea736feb5757417" title="nidas::core::Variable\l::setSiteSuffix" alt="" coords="1479,674,1630,715"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1Site.html#a03c9baf2d9b0633360916e73956490f2" title="nidas::core::Site::\lgetSuffix" alt="" coords="1488,608,1621,650"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1Variable.html#a59af25e0c61a9329e3bc30661d84a4ed" title="Station number of this variable: " alt="" coords="1479,495,1630,536"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1Variable.html#a44378bbc7bc86ddd645d1d02a0e18efc" title="Return the measurement site for this variable. " alt="" coords="1214,319,1365,360"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1SampleTag.html#a26f7fdabd2831a7fc65df68484ba0b17" title="Get the Site of this SampleTag, which will be non&#45;NULL only if getDSMConfig() returns non&#45;NULL..." alt="" coords="1204,384,1375,426"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1SampleTag.html#aa147bf35d9512a5359995cf8fd26e82b" title="Station number, which is also known as the Site number. " alt="" coords="1204,502,1375,543"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1VariableConverter.html#a6415cf1c165eb90bdf3bdfeaa604ba56" title="nidas::core::VariableConverter\l::createVariableConverter" alt="" coords="1182,1254,1397,1295"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1VariableConverter.html#a68fba1b43553f2da7b19a705a4d9d3b5" title="nidas::core::VariableConverter\l::setVariable" alt="" coords="1182,918,1397,959"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1VariableConverter.html#a7c4798844339c4836a7e899b3db2a76f" title="nidas::core::VariableConverter\l::setUnits" alt="" coords="1182,1035,1397,1076"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1VariableConverter.html#aefa2c151a86fdbd156235b2531bd9545" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="1182,852,1397,894"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="1729,1062,1895,1103"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1Parameter.html#a4367107ecc483b0e838ccaab19b82556" title="nidas::core::Parameter\l::fromDOMElement" alt="" coords="1729,1127,1895,1168"/>
+</map>

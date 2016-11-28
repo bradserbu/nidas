@@ -1,0 +1,4 @@
+<map id="twod_make_sor_urb" name="twod_make_sor_urb">
+<area shape="rect" id="node2" href="$usbtwod_8c.html#ad4c893c24d99e5b9a1604dc3b61a15ab" title="twod_sor_rx_bulk_callback" alt="" coords="205,5,395,32"/>
+<area shape="rect" id="node3" href="$usbtwod_8c.html#a79dbdd33d9a1b89b05e746721c9dee08" title="usb_twod_submit_sor_urb" alt="" coords="443,5,631,32"/>
+</map>

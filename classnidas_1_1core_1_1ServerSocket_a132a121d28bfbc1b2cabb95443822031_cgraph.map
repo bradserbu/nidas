@@ -1,0 +1,6 @@
+<map id="nidas::core::ServerSocket::connect" name="nidas::core::ServerSocket::connect">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1ServerSocket.html#a30aa9e584d99cf5f7a77b336989ba450" title="Accept connection, return a connected Socket instance. " alt="" coords="241,5,418,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Socket.html#ae5c86145ad49902fe60473fe41c6bef2" title="Set the number of seconds a connection needs to be idle before TCP begins sending out keep&#45;alive prob..." alt="" coords="247,70,411,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Socket.html#a466fa3fa0d685821ff97b6e2743322c0" title="Do setNonBlocking(val) on underlying socket. " alt="" coords="257,135,401,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Socket.html#a1b3dae4e515ea1935b1fa020bf77c698" title="Do fcntl system call to set O_NONBLOCK file descriptor flag on the socket. " alt="" coords="467,135,602,177"/>
+</map>

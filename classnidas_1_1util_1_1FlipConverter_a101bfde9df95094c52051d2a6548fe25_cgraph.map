@@ -1,0 +1,4 @@
+<map id="nidas::util::FlipConverter::int16Value" name="nidas::util::FlipConverter::int16Value">
+<area shape="rect" id="node2" href="$namespacenidas_1_1util.html#ab64e9ebe3fd4b6ed3015e1795fd1fa69" title="nidas::util::flipInt16" alt="" coords="229,12,371,39"/>
+<area shape="rect" id="node3" href="$namespacenidas_1_1util.html#a6823d01951c8cd019d9900c4b4534cfa" title="Function for reading 2 bytes from an address, flipping the bytes, and returning the 16 bit int value..." alt="" coords="419,12,571,39"/>
+</map>

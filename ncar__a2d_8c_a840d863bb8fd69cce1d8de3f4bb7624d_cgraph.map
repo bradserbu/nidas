@@ -1,0 +1,13 @@
+<map id="A2DTemp" name="A2DTemp">
+<area shape="rect" id="node2" href="$ncar__a2d_8c.html#a142be24085e510eb21557c5a4bf86841" title="i2c_get_byte" alt="" coords="310,5,413,32"/>
+<area shape="rect" id="node5" href="$ncar__a2d_8c.html#a8cf2eeb6cc692d667fdca52c5fe34256" title="i2c_put_byte" alt="" coords="137,164,239,191"/>
+<area shape="rect" id="node9" href="$ncar__a2d_8c.html#a72f8e98c93c5504c374076b35e215866" title="i2c_putAck" alt="" coords="316,309,407,336"/>
+<area shape="rect" id="node10" href="$ncar__a2d_8c.html#ab64f7b3ab59b15b95cf93308a07e20d5" title="i2c_putNoAck" alt="" coords="307,208,416,235"/>
+<area shape="rect" id="node11" href="$ncar__a2d_8c.html#a74b71240e24b66d12860df136d767807" title="i2c_start_sequence" alt="" coords="288,360,435,387"/>
+<area shape="rect" id="node12" href="$ncar__a2d_8c.html#ae6b0349cd30809c1482b240cd8d89774" title="i2c_stop_sequence" alt="" coords="289,411,433,437"/>
+<area shape="rect" id="node3" href="$ncar__a2d_8c.html#a4569e7baa3569cbbdcb9180f77a4cef1" title="i2c_clock_hi" alt="" coords="483,208,581,235"/>
+<area shape="rect" id="node4" href="$ncar__a2d_8c.html#ac7d5f43ef0a9b98263626a306936a12a" title="i2c_clock_lo" alt="" coords="483,132,581,159"/>
+<area shape="rect" id="node6" href="$ncar__a2d_8c.html#a73af34f5a93fbd331577e88239164be1" title="i2c_data_hi" alt="" coords="485,309,579,336"/>
+<area shape="rect" id="node7" href="$ncar__a2d_8c.html#aa2647b6754e7bc09d6bc5ba6be45a875" title="i2c_data_lo" alt="" coords="485,385,579,412"/>
+<area shape="rect" id="node8" href="$ncar__a2d_8c.html#a2523bac7d00534b4eb6dae9ccfa533e4" title="i2c_getAck" alt="" coords="316,107,407,133"/>
+</map>

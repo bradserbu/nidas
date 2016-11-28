@@ -1,0 +1,22 @@
+<map id="nidas/core/XMLConfigInput.h" name="nidas/core/XMLConfigInput.h">
+<area shape="rect" id="node2" href="$util_2McSocket_8h.html" title="nidas/util/McSocket.h" alt="" coords="1515,80,1672,107"/>
+<area shape="rect" id="node49" href="$Datagrams_8h.html" title="Datagrams.h" alt="" coords="1859,80,1965,107"/>
+<area shape="rect" id="node4" href="$util_2Socket_8h.html" title="Socket.h" alt="" coords="897,155,975,181"/>
+<area shape="rect" id="node19" href="$DatagramPacket_8h.html" title="DatagramPacket.h" alt="" coords="43,229,184,256"/>
+<area shape="rect" id="node29" href="$Thread_8h.html" title="Thread.h" alt="" coords="723,453,801,480"/>
+<area shape="rect" id="node32" href="$UTime_8h.html" title="UTime.h" alt="" coords="1631,379,1705,405"/>
+<area shape="rect" id="node43" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="2328,453,2405,480"/>
+<area shape="rect" id="node5" href="$Inet4SocketAddress_8h.html" title="Inet4SocketAddress.h" alt="" coords="331,304,493,331"/>
+<area shape="rect" id="node14" href="$Inet4NetworkInterface_8h.html" title="Inet4NetworkInterface.h" alt="" coords="897,304,1071,331"/>
+<area shape="rect" id="node16" href="$Inet4PacketInfo_8h.html" title="Inet4PacketInfo.h" alt="" coords="747,229,877,256"/>
+<area shape="rect" id="node17" href="$UnixSocketAddress_8h.html" title="UnixSocketAddress.h" alt="" coords="518,304,676,331"/>
+<area shape="rect" id="node7" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="826,453,944,480"/>
+<area shape="rect" id="node15" href="$IOException_8h.html" title="IOException.h" alt="" coords="969,453,1079,480"/>
+<area shape="rect" id="node18" href="$EOFException_8h.html" title="EOFException.h" alt="" coords="1051,379,1172,405"/>
+<area shape="rect" id="node6" href="$SocketAddress_8h.html" title="SocketAddress.h" alt="" coords="532,379,663,405"/>
+<area shape="rect" id="node8" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1291,528,1420,555"/>
+<area shape="rect" id="node11" href="$Exception_8h.html" title="Exception.h" alt="" coords="1205,603,1301,629"/>
+<area shape="rect" id="node38" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="1457,453,1588,480"/>
+<area shape="rect" id="node40" href="$time__constants_8h.html" title="time_constants.h" alt="" coords="1612,453,1745,480"/>
+<area shape="rect" id="node50" href="$SocketAddrs_8h.html" title="SocketAddrs.h" alt="" coords="2017,155,2132,181"/>
+</map>

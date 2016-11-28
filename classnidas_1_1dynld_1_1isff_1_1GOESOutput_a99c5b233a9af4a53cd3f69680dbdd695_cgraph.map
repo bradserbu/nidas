@@ -1,0 +1,8 @@
+<map id="nidas::dynld::isff::GOESOutput::addRequestedSampleTag" name="nidas::dynld::isff::GOESOutput::addRequestedSampleTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#a23538ad217f8fc21e10f8fcbb54517d6" title="Some SampleOutputs don&#39;t send out all the Samples that they receive. " alt="" coords="265,5,487,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="293,70,459,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Parameter.html#a20466f907c896f145af1c48398d9f112" title="nidas::core::Parameter\l::getName" alt="" coords="293,135,459,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Parameter.html#a2ced5301bcbcd2cba28d30cad9541eba" title="nidas::core::Parameter\l::getStringValue" alt="" coords="293,201,459,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Parameter.html#a0128f69c9664ac05e83cf2529bcd0a2c" title="nidas::core::Parameter\l::getType" alt="" coords="293,266,459,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Variable.html#a5f4fb95e6cc453a415a12d47052f068c" title="Set the full name. " alt="" coords="301,331,451,373"/>
+</map>

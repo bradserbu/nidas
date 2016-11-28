@@ -1,0 +1,4 @@
+<map id="nidas::dynld::raf::SyncRecordGenerator::sendHeader" name="nidas::dynld::raf::SyncRecordGenerator::sendHeader">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1HeaderSource.html#a54a3127d1fc68e4866b1cf3e9bf7987b" title="nidas::core::HeaderSource\l::sendDefaultHeader" alt="" coords="216,13,408,54"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleInputHeader.html#ace30ae45e924fc51147df0168746d3bf" title="nidas::core::SampleInput\lHeader::write" alt="" coords="456,13,637,54"/>
+</map>

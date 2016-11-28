@@ -1,0 +1,12 @@
+<map id="Document::parseFile" name="Document::parseFile">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XMLParser.html#a5788eb63bb44197c6663979579e8f030" title="nidas::core::XMLParser\l::parse" alt="" coords="258,5,425,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1XMLParser.html#a248bc8b17f27ed5138c18ef43720ece7" title="Enable/disable datatype normalization. " alt="" coords="227,70,456,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1XMLParser.html#a4efd3358eca7e4b2b05308bdd1fe2aeb" title="Enable/disable namespace processing. " alt="" coords="258,135,425,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1XMLParser.html#a0335f83b75665e1192a99379c0abf19a" title="Enable/disable schema validation. " alt="" coords="245,201,437,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1XMLParser.html#afabfb4fe18592c068d8232d1eb3655a1" title="DOMBuilder::setFilter is not yet implemented in xerces c++ 2.6.0 void setFilter(xercesc::DOMBuilderFi..." alt="" coords="258,266,425,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1XMLParser.html#aebadf07376e3b9e16c86060337a8bc2e" title="nidas::core::XMLParser\l::setXercesDoXInclude" alt="" coords="258,331,425,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1XMLParser.html#a12fa07edcbf1a8470c49bf11d2fd5de6" title="nidas::core::XMLParser\l::setXercesHandleMultipleImports" alt="" coords="224,397,459,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1XMLParser.html#aa5c093a863f40403ddd2d0e099bad4e3" title="Enable/disable schema support. " alt="" coords="258,462,425,503"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1XMLParser.html#a6555ab7a2709322ec6cf611eae639071" title="Enable/disable full schema constraint checking, including checking which may be time&#45;consuming or mem..." alt="" coords="230,527,453,569"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1XMLParser.html#ad172a1b6aa22439a8d4b3d1db4e75312" title="Control who owns DOMDocument pointer. " alt="" coords="209,593,474,634"/>
+</map>

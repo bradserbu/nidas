@@ -1,0 +1,40 @@
+<map id="nidas::core::SamplePipeline::getRawSampleSource" name="nidas::core::SamplePipeline::getRawSampleSource">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SamplePipeline.html#a341985c5808c19d934c60446eca11a1a" title="nidas::core::SamplePipeline\l::rawinit" alt="" coords="254,527,453,569"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SamplePipeline.html#ab01434eadfe521fd4f8e7046405dcb51" title="nidas::core::SamplePipeline\l::getRawSorterLength" alt="" coords="513,5,711,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleThread.html#a571e3a374283846d73fc3828aa89d55f" title="nidas::core::SampleThread\l::setLengthSecs" alt="" coords="515,70,709,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleThread.html#ac49ec93d4006da459f0332823b7e317a" title="nidas::core::SampleThread\l::setLateSampleCacheSize" alt="" coords="515,135,709,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SamplePipeline.html#a03120430eb97a71f4c7d958b5be0f9ea" title="Cache this number of samples with potentially anomalous, late time tags in the raw sample sorter..." alt="" coords="502,201,722,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleThread.html#aa63bd0f6f2c404380ba80e18865cacb6" title="Set the maximum amount of heap memory to use for sorting samples. " alt="" coords="515,266,709,307"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SamplePipeline.html#a8a4ed99d222a90e44ecc270bb89f7bcf" title="nidas::core::SamplePipeline\l::getRawHeapMax" alt="" coords="513,331,711,373"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleThread.html#a28c5c1f11fa8d6b7d1b7b7587d9d5e6b" title="nidas::core::SampleThread\l::setHeapBlock" alt="" coords="515,397,709,438"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SamplePipeline.html#ae4a91e5f04ffec6424ccdcd13e5d623c" title="nidas::core::SamplePipeline\l::getHeapBlock" alt="" coords="513,462,711,503"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SampleThread.html#aa9bc3b499cffcb8c9bf6ac4b979618b1" title="Is this thread running in real&#45;time, meaning is it handling recently sampled data? If so then we can screen for bad sample time&#45;tags by checking against the system clock, which is trusted. " alt="" coords="515,527,709,569"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SamplePipeline.html#aacb981b9789e98dc25bca38af30da562" title="nidas::core::SamplePipeline\l::getRealTime" alt="" coords="513,593,711,634"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SampleThread.html#a1296d19c0e7801a52bd2b0659539d2c8" title="nidas::core::SampleThread\l::setKeepStats" alt="" coords="515,658,709,699"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleThread.html#ae19ddc199fbc31d509c54bab326b9793" title="nidas::core::SampleThread\l::getLengthSecs" alt="" coords="515,723,709,765"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SampleThread.html#a6a8de7c6f61a6940f79b0657301275f2" title="nidas::core::SampleThread\l::getHeapMax" alt="" coords="515,789,709,830"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1SampleThread.html#abb01f8e8851cc5b2a1fdf2f72fe98486" title="nidas::core::SampleThread\l::getKeepStats" alt="" coords="515,854,709,895"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1SampleThread.html#a2469ec620e01461c9126e357764a1a36" title="nidas::core::SampleThread\l::getRealTime" alt="" coords="515,919,709,961"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Thread.html#ace5133c77ae2e11ce4938cf9210e705e" title="nidas::util::Thread\l::setRealTimeFIFOPriority" alt="" coords="523,985,701,1026"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Thread.html#a1f53ee62bd30a7924186ef26150ce262" title="Start the thread running, meaning execute the run method in a separate thread. " alt="" coords="545,1050,679,1091"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="1022,890,1175,931"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="805,985,939,1026"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1Thread.html#ac87ca027e08548964a48c84058bc28f4" title="nidas::util::Thread\l::makeFullName" alt="" coords="805,1050,939,1091"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Thread.html#a15080a5dc63e04c8e752904c3a37e824" title="Register this current thread with a static registry of threads by id. " alt="" coords="805,1115,939,1157"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Thread.html#a808c9d72433555d1ba91a7cfb92a1d32" title="nidas::util::Thread\l::setThreadSchedulerNolock" alt="" coords="771,919,973,961"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1Thread.html#afe8f2c69743f06ad71ee7adf04cd24a0" title="nidas::util::Thread\l::thr_run" alt="" coords="805,1181,939,1222"/>
+<area shape="rect" id="node37" href="$classnidas_1_1util_1_1Thread.html#a68d19fd0e974e692a90eebef1732146c" title="nidas::util::Thread\l::thr_run_detached" alt="" coords="801,1246,943,1287"/>
+<area shape="rect" id="node23" href="$classnidas_1_1util_1_1Thread.html#af51d756d74e29093b4e33fbd0e6bb56d" title="Convenience function to return a string for the given scheduler policy: &quot;Non&#45;RT&quot;, &quot;RT:FIFO&quot;..." alt="" coords="1031,1050,1166,1091"/>
+<area shape="rect" id="node27" href="$classnidas_1_1util_1_1Thread.html#a08d3dc81b99d4ebdde3757e6339458e7" title="nidas::util::Thread\l::thr_cleanup" alt="" coords="1031,1147,1166,1189"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1Thread.html#a40ff907091176225b9ed16d0d2ec05b4" title="nidas::util::Thread\l::pRun" alt="" coords="1031,1307,1166,1349"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Thread.html#aa8a1a7ffac686e7d797cca2cc094de72" title="nidas::util::Thread\l::unregisterThread" alt="" coords="1244,1082,1383,1123"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Thread.html#a96c8067714dffaffa9b3078186ca9671" title="Return a name with a bunch of descriptive fields, specifying whether it is detached, the real&#45;time priority, etc. " alt="" coords="1246,1147,1381,1189"/>
+<area shape="rect" id="node31" href="$classnidas_1_1util_1_1Mutex.html#a704c5544ed1d8bd7dcd4824097e814b1" title="Get the pointer to the pthread_mutex_t. " alt="" coords="1235,1344,1391,1371"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="1248,1278,1379,1319"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="1246,1395,1381,1437"/>
+<area shape="rect" id="node34" href="$classnidas_1_1util_1_1Runnable.html#ac804aacbcda5473d328d73e3a2ab0518" title="The method which will run in its own thread. " alt="" coords="1224,1461,1403,1488"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1Exception.html#a231e721a7c01a2d8b61e6d697d55e565" title="nidas::util::Exception\l::clone" alt="" coords="1237,1513,1390,1554"/>
+<area shape="rect" id="node36" href="$classnidas_1_1util_1_1Exception.html#a787cf8bb0c3c737452e0d51319479795" title="nidas::util::Exception\l::Exception" alt="" coords="1451,1513,1605,1554"/>
+<area shape="rect" id="node38" href="$classnidas_1_1util_1_1Thread.html#a47d9837c942aec77a3d1a28eeb8900d3" title="nidas::util::Thread\l::thr_cleanup_delete" alt="" coords="1023,1213,1175,1254"/>
+<area shape="rect" id="node39" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="1248,1213,1379,1254"/>
+</map>

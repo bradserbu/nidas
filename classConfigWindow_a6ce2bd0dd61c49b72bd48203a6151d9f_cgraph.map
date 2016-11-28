@@ -1,0 +1,7 @@
+<map id="ConfigWindow::changeToIndex" name="ConfigWindow::changeToIndex">
+<area shape="rect" id="node2" href="$classConfigWindow.html#af19ed7f9d4f29276b83e8ccb07854c9a" title="Display and setup the correct actions for the current index. " alt="" coords="264,35,475,61"/>
+<area shape="rect" id="node3" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="545,5,700,32"/>
+<area shape="rect" id="node4" href="$classNidasModel.html#a9c01a3d17800be73fda8b5c6e6da3a2f" title="NidasModel::setCurrentRoot\lIndex" alt="" coords="523,57,723,98"/>
+<area shape="rect" id="node5" href="$classNidasModel.html#aa3fcdc2f107a9c1d62b1655a7f8375f4" title="NidasModel::index" alt="" coords="771,64,909,91"/>
+<area shape="rect" id="node6" href="$classNidasItem.html#a06208cd74e7d82d8f674820c43bfcea6" title="return the ith child of this item. " alt="" coords="958,64,1082,91"/>
+</map>

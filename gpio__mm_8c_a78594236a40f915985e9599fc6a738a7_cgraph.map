@@ -1,0 +1,6 @@
+<map id="cleanup_event" name="cleanup_event">
+<area shape="rect" id="node2" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="168,5,307,32"/>
+<area shape="rect" id="node3" href="$gpio__mm_8c.html#a48b5629c519ef8fcbcadf507a24b5a32" title="stop_event" alt="" coords="191,56,284,83"/>
+<area shape="rect" id="node4" href="$gpio__mm_8c.html#ae9559d81c4e17307cd79cec3532897d7" title="gpio_mm_stop_event" alt="" coords="355,56,515,83"/>
+<area shape="rect" id="node5" href="$gpio__mm_8c.html#acca5dd2a193b5f030d70e5076abac74a" title="gpio_mm_remove_irq_user" alt="" coords="563,56,759,83"/>
+</map>

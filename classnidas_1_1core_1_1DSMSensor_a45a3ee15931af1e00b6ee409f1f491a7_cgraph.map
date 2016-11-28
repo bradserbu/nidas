@@ -1,0 +1,5 @@
+<map id="nidas::core::DSMSensor::close" name="nidas::core::DSMSensor::close">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IODevice.html#a7c0d765a4897e64a0762954a7df713dd" title="Close the device. " alt="" coords="239,5,395,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="230,70,405,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#ae3f9496427de8c4ffc833855d3e99aa8" title="nidas::core::DSMSensor\l::getTimeoutCount" alt="" coords="230,135,405,177"/>
+</map>

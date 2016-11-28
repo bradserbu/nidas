@@ -1,0 +1,6 @@
+<map id="nidas::core::DOMObjectFactory::createObject" name="nidas::core::DOMObjectFactory::createObject">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DynamicLoader.html#aca9fb67084677713791eb844c40288ce" title="Get a pointer to the singleton instance of DynamicLoader. " alt="" coords="272,5,472,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DynamicLoader.html#a275d45c165d64e6261c17315a8be8517" title="Search the main program itself, and its currently loaded libraries for a symbol. " alt="" coords="272,70,472,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="295,135,449,177"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DynamicLoader.html#a7259c8404e7447d673366e0be0208283" title="nidas::core::DynamicLoader\l::DynamicLoader" alt="" coords="520,5,720,46"/>
+</map>

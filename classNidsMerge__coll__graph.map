@@ -1,0 +1,8 @@
+<map id="NidsMerge" name="NidsMerge">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1HeaderSource.html" title="An interface for sending a SampleHeader to a SampleOutput. " alt="" coords="640,5,832,32"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleInputHeader.html" title="nidas::core::SampleInput\lHeader" alt="" coords="645,158,827,199"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1UTime.html" title="A class for parsing, formatting and doing operations on time, based on Unix time conventions, where leap seconds are ignored, so that there are always 60 seconds in a minute, 3600 seconds in an hour and 86400 seconds in a day. " alt="" coords="670,343,802,369"/>
+<area shape="rect" id="node8" href="$structnidas_1_1core_1_1SampleInputHeader_1_1headerField.html" title="nidas::core::SampleInput\lHeader::headerField" alt="" coords="291,97,472,138"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="316,361,447,388"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,361,199,388"/>
+</map>

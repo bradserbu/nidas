@@ -1,0 +1,10 @@
+<map id="nidas::core::DSMServerApp::initProcess" name="nidas::core::DSMServerApp::initProcess">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Process.html#aa63c8f861989005209f5572f4a01d8a3" title="Add an effective capability to this process. " alt="" coords="264,5,435,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Process.html#aff468d52068284fe269db5f6d244e995" title="Check if another process is running, using the named process id file. " alt="" coords="279,70,420,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1FileSet.html#a9b1abea862c313aefcca984396158768" title="nidas::util::FileSet\l::createDirectory" alt="" coords="283,135,416,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Process.html#af390d51e76b281207db8659160396f9d" title="Check if this process has an effective capability. " alt="" coords="266,201,433,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMServerApp.html#a62ffe5d30e44a9828ef4a40d1da45c18" title="nidas::core::DSMServerApp\l::getGroupID" alt="" coords="251,266,448,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMServerApp.html#ae1dc56bb1ffd90cb303ac00c769af3da" title="nidas::core::DSMServerApp\l::getUserID" alt="" coords="251,331,448,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMServerApp.html#abe1255ec64d9693462e67069cdbdb4a9" title="nidas::core::DSMServerApp\l::getUserName" alt="" coords="251,397,448,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="273,462,426,503"/>
+</map>

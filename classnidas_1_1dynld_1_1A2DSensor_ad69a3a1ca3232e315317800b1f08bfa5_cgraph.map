@@ -1,0 +1,5 @@
+<map id="nidas::dynld::A2DSensor::init" name="nidas::dynld::A2DSensor::init">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#ac8c5cc0c08bd086613971b606e9221b2" title="Initialize the DSMSensor. " alt="" coords="234,5,409,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1A2DSensor.html#ad7f9dbeeaf390047175c073095d3ffd6" title="nidas::dynld::A2DSensor\l::initParameters" alt="" coords="232,70,411,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1dynld_1_1A2DSensor.html#aa3b2349f6a72af60109aa850e3be6013" title="Return the maximum possible number of A2D channels on this device. " alt="" coords="459,70,637,111"/>
+</map>

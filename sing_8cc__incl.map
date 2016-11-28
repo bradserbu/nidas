@@ -1,0 +1,14 @@
+<map id="nidas/apps/sing.cc" name="nidas/apps/sing.cc">
+<area shape="rect" id="node2" href="$SerialPort_8h.html" title="nidas/util/SerialPort.h" alt="" coords="428,80,585,107"/>
+<area shape="rect" id="node16" href="$SerialOptions_8h.html" title="nidas/util/SerialOptions.h" alt="" coords="165,80,344,107"/>
+<area shape="rect" id="node20" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="1229,80,1368,107"/>
+<area shape="rect" id="node27" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="1728,80,1864,107"/>
+<area shape="rect" id="node35" href="$util_2util_8h.html" title="nidas/util/util.h" alt="" coords="612,155,727,181"/>
+<area shape="rect" id="node36" href="$auto__ptr_8h.html" title="nidas/util/auto_ptr.h" alt="" coords="1939,80,2087,107"/>
+<area shape="rect" id="node9" href="$Termios_8h.html" title="Termios.h" alt="" coords="100,155,183,181"/>
+<area shape="rect" id="node12" href="$IOException_8h.html" title="IOException.h" alt="" coords="615,229,724,256"/>
+<area shape="rect" id="node13" href="$Exception_8h.html" title="Exception.h" alt="" coords="1116,304,1212,331"/>
+<area shape="rect" id="node18" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="751,155,881,181"/>
+<area shape="rect" id="node22" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1399,155,1528,181"/>
+<area shape="rect" id="node34" href="$time__constants_8h.html" title="time_constants.h" alt="" coords="2245,155,2379,181"/>
+</map>

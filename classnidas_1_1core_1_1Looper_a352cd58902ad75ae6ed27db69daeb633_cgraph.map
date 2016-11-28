@@ -1,0 +1,8 @@
+<map id="nidas::core::Looper::run" name="nidas::core::Looper::run">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Runnable.html#a84b9976acfbff4cbf8f169e4478724ae" title="Call testCancel, and return true when this thread has been interrupted. " alt="" coords="243,5,392,46"/>
+<area shape="rect" id="node3" href="$namespacenidas_1_1util.html#a2520059fec3fedb0affd25e8422f4257" title="Return the current unix system time, in microseconds since Jan 1, 1970, 00:00 GMT. " alt="" coords="456,163,648,189"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="252,122,383,163"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1LooperClient.html#a919f1670d9adf7930d0393e28c2240c2" title="Method called by Looper. " alt="" coords="227,187,407,229"/>
+<area shape="rect" id="node6" href="$namespacenidas_1_1util.html#ab8663ac99a7a8aa1f556daec3d4898d2" title="Utility function, sleeps until the next even period + offset. " alt="" coords="240,253,395,280"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="252,305,383,346"/>
+</map>

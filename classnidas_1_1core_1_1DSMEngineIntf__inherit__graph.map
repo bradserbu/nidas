@@ -1,0 +1,5 @@
+<map id="nidas::core::DSMEngineIntf" name="nidas::core::DSMEngineIntf">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XmlRpcThread.html" title="A thread that provides XML&#45;based Remote Procedure Calls to web interfaces. " alt="" coords="6,155,196,181"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="34,80,168,107"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="27,5,176,32"/>
+</map>

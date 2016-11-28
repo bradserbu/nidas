@@ -1,0 +1,5 @@
+<map id="MergeVerifier" name="MergeVerifier">
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html" title="A class for parsing, formatting and doing operations on time, based on Unix time conventions, where leap seconds are ignored, so that there are always 60 seconds in a minute, 3600 seconds in an hour and 86400 seconds in a day. " alt="" coords="206,187,337,213"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="184,96,315,123"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="153,5,345,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::dynld::RawSampleOutputStream::RawSampleOutputStream" name="nidas::dynld::RawSampleOutputStream::RawSampleOutputStream">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#a99ed3bd80a3a029e354fa1680c2b3573" title="nidas::core::SampleOutput\lBase::getIOChannel" alt="" coords="299,5,493,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="299,70,493,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleOutputBase.html#a2c2fe5e787de769f9604f68778afe397" title="nidas::core::SampleOutput\lBase::setName" alt="" coords="299,135,493,177"/>
+</map>

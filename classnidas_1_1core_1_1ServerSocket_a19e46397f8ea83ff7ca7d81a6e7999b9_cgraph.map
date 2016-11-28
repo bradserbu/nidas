@@ -1,0 +1,11 @@
+<map id="nidas::core::ServerSocket::fromDOMElement" name="nidas::core::ServerSocket::fromDOMElement">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Process.html#a1106e7c05fa20214f2fc7cdd29cc2871" title="nidas::util::Process\l::expandEnvVars" alt="" coords="252,5,393,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1XDOMAttr.html#a2b378f967bc25e190f8b920936a675d9" title="nidas::core::XDOMAttr\l::getName" alt="" coords="241,70,404,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Socket.html#aa8ea2b091e0769732549bc7fde6db29e" title="nidas::core::Socket\l::getName" alt="" coords="251,135,395,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Socket.html#a17989704cc53bdb061dfd01e387e43c5" title="Do setKeepAliveIdleSecs(int secs) on underlying socket. " alt="" coords="241,201,405,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Socket.html#ab6dce90e79e44c6b0666c979689b4eaa" title="nidas::core::Socket\l::setName" alt="" coords="251,266,395,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Socket.html#a466fa3fa0d685821ff97b6e2743322c0" title="Do setNonBlocking(val) on underlying socket. " alt="" coords="251,331,395,373"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Process.html#a6a34d9f6ed7972f4327c95f9436bf509" title="Get an environment variable given a variable name like &quot;HOST&quot;, without the &#39;$&#39;, or any brackets..." alt="" coords="465,5,607,46"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Socket.html#ae5c86145ad49902fe60473fe41c6bef2" title="Set the number of seconds a connection needs to be idle before TCP begins sending out keep&#45;alive prob..." alt="" coords="454,201,618,242"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Socket.html#a1b3dae4e515ea1935b1fa020bf77c698" title="Do fcntl system call to set O_NONBLOCK file descriptor flag on the socket. " alt="" coords="469,331,603,373"/>
+</map>

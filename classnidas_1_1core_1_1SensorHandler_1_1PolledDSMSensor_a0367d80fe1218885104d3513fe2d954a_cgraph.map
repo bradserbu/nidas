@@ -1,0 +1,14 @@
+<map id="nidas::core::SensorHandler::PolledDSMSensor::close" name="nidas::core::SensorHandler::PolledDSMSensor::close">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a45a3ee15931af1e00b6ee409f1f491a7" title="close my associated device. " alt="" coords="266,24,441,65"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SensorHandler.html#a8f9c96ebc66e75db5dd22a132f59271f" title="nidas::core::SensorHandler\l::getEpollFd" alt="" coords="256,89,451,130"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SensorHandler_1_1PolledDSMSensor.html#adb8909f0786e6916d8a0affd5dcbc056" title="nidas::core::SensorHandler\l::PolledDSMSensor::getFd" alt="" coords="256,220,451,261"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SensorHandler_1_1PolledDSMSensor.html#a770a7682cc01397580b2440f7b275ca8" title="nidas::core::SensorHandler\l::PolledDSMSensor::getName" alt="" coords="248,154,459,196"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IODevice.html#a7c0d765a4897e64a0762954a7df713dd" title="Close the device. " alt="" coords="517,89,673,130"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="731,28,906,69"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#ae3f9496427de8c4ffc833855d3e99aa8" title="nidas::core::DSMSensor\l::getTimeoutCount" alt="" coords="507,24,682,65"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMSensor.html#a8c04b162828eae704b74383d99254f24" title="nidas::core::DSMSensor\l::getReadFd" alt="" coords="507,220,682,261"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1IODevice.html#a7f5a6146adcbb4d0c49923f95b501ce0" title="The file descriptor used when reading from this sensor. " alt="" coords="741,220,897,261"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="507,154,682,196"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="731,154,906,196"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="955,154,1125,196"/>
+</map>

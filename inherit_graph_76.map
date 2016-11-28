@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="6,111,170,137"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMConfig_1_1MyDictionary.html" title="nidas::core::DSMConfig\l::MyDictionary" alt="" coords="221,5,392,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor_1_1MyDictionary.html" title="nidas::core::DSMSensor\l::MyDictionary" alt="" coords="219,70,394,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="235,135,379,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="240,201,373,242"/>
+</map>

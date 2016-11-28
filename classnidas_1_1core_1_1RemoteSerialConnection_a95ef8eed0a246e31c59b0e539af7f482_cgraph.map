@@ -1,0 +1,4 @@
+<map id="nidas::core::RemoteSerialConnection::sensorNotFound" name="nidas::core::RemoteSerialConnection::sensorNotFound">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1RemoteSerialConnection.html#abc33d889971c97f0e0e7279a0e968472" title="nidas::core::RemoteSerial\lConnection::getSensorName" alt="" coords="262,5,469,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Socket.html#aef5b4fad651d75987478e5abb7527073" title="send data on socket, see man page for send system function. " alt="" coords="298,70,433,111"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="arinc_ioctl" name="arinc_ioctl">
+<area shape="rect" id="node2" href="$main_8c.html#aef7eb1afe488ea4d0813be8e2289c674" title="arinc_sweep" alt="" coords="169,5,269,32"/>
+<area shape="rect" id="node3" href="$sing_8cc.html#a7cd7c66065ead3daabafb674047c78a8" title="if" alt="" coords="199,56,238,83"/>
+<area shape="rect" id="node4" href="$irigclock_8h.html#a356c8f82d2089a496325a17337fcd152" title="Convert a rate in Hz to an enumerated value, rounding up to the next highest supported rate..." alt="" coords="141,107,296,133"/>
+<area shape="rect" id="node5" href="$main_8c.html#af6d22f870920f923d85f982217bacfff" title="log_error" alt="" coords="179,157,258,184"/>
+<area shape="rect" id="node6" href="$pc104sg_8c.html#a6be98cca820db8ed3d7b06aecfafc2ab" title="Module function that allows other modules to register their callback function to be called at the giv..." alt="" coords="141,208,296,235"/>
+<area shape="rect" id="node7" href="$main_8c.html#aa5c8d5983f8a9461321bd2d9f57856c3" title="roundUpRate" alt="" coords="165,259,272,285"/>
+</map>

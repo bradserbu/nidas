@@ -1,0 +1,21 @@
+<map id="nidas/core/SampleBuffer.h" name="nidas/core/SampleBuffer.h">
+<area shape="rect" id="node4" href="$SampleThread_8h.html" title="SampleThread.h" alt="" coords="814,80,940,107"/>
+<area shape="rect" id="node41" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="965,80,1144,107"/>
+<area shape="rect" id="node5" href="$SampleSource_8h.html" title="SampleSource.h" alt="" coords="991,155,1119,181"/>
+<area shape="rect" id="node35" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="938,229,1056,256"/>
+<area shape="rect" id="node38" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="307,453,445,480"/>
+<area shape="rect" id="node16" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="1627,536,1817,563"/>
+<area shape="rect" id="node6" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="1849,379,1964,405"/>
+<area shape="rect" id="node9" href="$SampleStats_8h.html" title="SampleStats.h" alt="" coords="1081,229,1199,256"/>
+<area shape="rect" id="node34" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="147,529,337,570"/>
+<area shape="rect" id="node10" href="$Sample_8h.html" title="Sample.h" alt="" coords="1099,304,1181,331"/>
+<area shape="rect" id="node11" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="937,453,1127,480"/>
+<area shape="rect" id="node19" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="1653,379,1824,405"/>
+<area shape="rect" id="node20" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="1383,379,1577,405"/>
+<area shape="rect" id="node21" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="671,379,811,405"/>
+<area shape="rect" id="node27" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="1247,379,1357,405"/>
+<area shape="rect" id="node12" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="403,619,560,645"/>
+<area shape="rect" id="node28" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="1151,453,1289,480"/>
+<area shape="rect" id="node36" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="531,536,701,563"/>
+<area shape="rect" id="node42" href="$SampleClientList_8h.html" title="SampleClientList.h" alt="" coords="1603,155,1744,181"/>
+</map>

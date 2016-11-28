@@ -1,0 +1,5 @@
+<map id="nidas::util::MulticastSocket" name="nidas::util::MulticastSocket">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramSocket.html" title="A socket for sending or receiving datagrams, either unicast, broadcast or multicast. " alt="" coords="5,200,205,227"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketImpl.html" title="Implementation of a socket, providing a C++ interface to system socket calls: socket,bind,listen,accept,setsockopt, etc. " alt="" coords="24,109,187,136"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="12,5,199,32"/>
+</map>

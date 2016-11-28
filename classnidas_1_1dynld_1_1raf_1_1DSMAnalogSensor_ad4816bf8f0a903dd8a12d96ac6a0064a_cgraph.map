@@ -1,0 +1,17 @@
+<map id="nidas::dynld::raf::DSMAnalogSensor::open" name="nidas::dynld::raf::DSMAnalogSensor::open">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMEngine.html#a27a98c4d7a2508da05c4f281a11e81a0" title="Get a pointer to the singleton instance of DSMEngine created by main(). " alt="" coords="248,5,421,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="267,70,402,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="251,135,418,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Parameter.html#a2ced5301bcbcd2cba28d30cad9541eba" title="nidas::core::Parameter\l::getStringValue" alt="" coords="251,201,418,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Parameter.html#a0128f69c9664ac05e83cf2529bcd0a2c" title="nidas::core::Parameter\l::getType" alt="" coords="251,266,418,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="253,332,416,359"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="247,383,422,425"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMEngine.html#a7124ff57249f5addd307014df26b0cc3" title="Sensors register with the DSMEngineIntf XmlRpcThread if they have a executeXmlRpc() method which can ..." alt="" coords="235,449,434,490"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="258,514,411,555"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="513,70,647,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="767,70,902,111"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="498,295,662,337"/>
+<area shape="rect" id="node11" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="547,361,613,388"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DSMEngineIntf.html#a8ed2a987ad687a48e454a2cd1ac165cd" title="Register a sensor to have its executeXmlRpc() method called when a &quot;SensorAction&quot; XmlRpc request come..." alt="" coords="483,449,677,490"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMEngineIntf_1_1SensorAction.html#aa8a08ab359e0d38ec24cecb99a8d29c0" title="nidas::core::DSMEngineIntf\l::SensorAction::registerSensor" alt="" coords="726,449,943,490"/>
+</map>

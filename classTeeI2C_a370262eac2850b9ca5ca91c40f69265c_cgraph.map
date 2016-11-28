@@ -1,0 +1,18 @@
+<map id="TeeI2C::run" name="TeeI2C::run">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogScheme.html#a66b794432baaae5b1565c6cba7b1e99f" title="Push a new LogConfig onto the list of existing configs. " alt="" coords="147,5,314,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Termios.html#a110ee903ca9c6f7ab6817284cb7f533b" title="Set the termios options on a serial port. " alt="" coords="161,70,301,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="163,135,298,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SerialPort.html#a45e9b1f7e67beec30e3a524de43173e2" title="Static utility that creates a pseudo&#45;terminal, returning the file descriptor of the master side and c..." alt="" coords="154,201,307,242"/>
+<area shape="rect" id="node7" href="$classTeeI2C.html#aabbc6d4cf2fe583be7c2e855aab86ef2" title="TeeI2C::i2c_byte_reads" alt="" coords="147,267,314,293"/>
+<area shape="rect" id="node9" href="$classTeeI2C.html#a3ed138b26c1d1b7ef9b7af30bf0e9816" title="TeeI2C::setFIFOPriority" alt="" coords="149,317,312,344"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Termios.html#a4442316106f281195df997ff6f7a5d27" title="Sets termios options for raw or non&#45;raw(cooked) mode. " alt="" coords="161,369,301,410"/>
+<area shape="rect" id="node12" href="$group__LoggerSchemes.html#gaf9823a4aaef1f9e189a9ede8ad77f6cd" title="Set the current scheme. " alt="" coords="163,486,298,527"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="375,369,529,410"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="385,135,519,177"/>
+<area shape="rect" id="node8" href="$classTeeI2C.html#a798883f9fbbad245068641993be9e79e" title="TeeI2C::writeptys" alt="" coords="388,267,516,293"/>
+<area shape="rect" id="node13" href="$structnidas_1_1util_1_1LoggerPrivate.html#aec9297d0b1f9f1be521721aef3f25c94" title="nidas::util::LoggerPrivate\l::reconfig" alt="" coords="363,486,541,527"/>
+<area shape="rect" id="node14" href="$Logger_8cc.html#ae52bc141b722f755c92f440b46292544" title="stream_backtrace" alt="" coords="604,435,743,461"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1LogScheme.html#a813a21f922014b98e5e2fb6cc2ba666e" title="nidas::util::LogScheme\l::getName" alt="" coords="590,486,757,527"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1LogScheme.html#aa379dfa5732328a0eea5af7d30c6faf0" title="Return a comma&#45;separated string describing the list of fields to be shown by this scheme..." alt="" coords="590,551,757,593"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1LogScheme.html#a18c7dcd737947a97891d61588b49b295" title="Convert a LogField to its lower&#45;case string name. " alt="" coords="806,551,973,593"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nidas::core::Polled" name="nidas::core::Polled">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1RemoteSerialConnection.html" title="nidas::core::RemoteSerial\lConnection" alt="" coords="197,5,382,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1RemoteSerialListener.html" title="nidas::core::RemoteSerial\lListener" alt="" coords="197,70,382,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SensorHandler_1_1NotifyPipe.html" title="nidas::core::SensorHandler\l::NotifyPipe" alt="" coords="192,135,387,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SensorHandler_1_1PolledDSMSensor.html" title="nidas::core::SensorHandler\l::PolledDSMSensor" alt="" coords="192,201,387,242"/>
+</map>

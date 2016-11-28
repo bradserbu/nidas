@@ -1,0 +1,6 @@
+<map id="nidas::dynld::raf::CVIOutput::~CVIOutput" name="nidas::dynld::raf::CVIOutput::~CVIOutput">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DerivedDataReader.html#a251a0410a3bf65d021bb2b5ee8bf1982" title="Fetch the pointer to the instance of DerivedDataReader. " alt="" coords="225,5,405,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DerivedDataReader.html#aa488e7aa9bc5fdb5c9520072c5118745" title="nidas::core::DerivedData\lReader::removeClient" alt="" coords="225,70,405,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="453,37,584,78"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="453,102,584,143"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="nidas/apps/config/nidas_qmv/NidasModel.h" name="nidas/apps/config/nidas_qmv/NidasModel.h">
+<area shape="rect" id="node2" href="$NidasItem_8h.html" title="nidas/apps/config/nidas\l_qmv/NidasItem.h" alt="" coords="1445,97,1616,138"/>
+<area shape="rect" id="node5" href="$AddA2DVariableComboDialog_8h.html" title="nidas/apps/config/AddA2DVariable\lComboDialog.h" alt="" coords="437,550,677,591"/>
+<area shape="rect" id="node17" href="$VariableComboDialog_8h.html" title="nidas/apps/config/Variable\lComboDialog.h" alt="" coords="702,550,889,591"/>
+<area shape="rect" id="node7" href="$configwindow_8h.html" title="nidas/apps/config/configwindow.h" alt="" coords="1397,640,1627,667"/>
+<area shape="rect" id="node25" href="$DSMItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/DSMItem.cc" alt="" coords="611,459,781,501"/>
+<area shape="rect" id="node21" href="$NidasModel_8cc.html" title="nidas/apps/config/nidas\l_qmv/NidasModel.cc" alt="" coords="2109,459,2280,501"/>
+<area shape="rect" id="node22" href="$ProjectItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/ProjectItem.cc" alt="" coords="1915,459,2085,501"/>
+<area shape="rect" id="node23" href="$SiteItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/SiteItem.cc" alt="" coords="1589,369,1760,410"/>
+<area shape="rect" id="node3" href="$DSMItem_8h.html" title="nidas/apps/config/nidas\l_qmv/DSMItem.h" alt="" coords="993,187,1164,229"/>
+<area shape="rect" id="node28" href="$SensorItem_8h.html" title="nidas/apps/config/nidas\l_qmv/SensorItem.h" alt="" coords="1192,278,1363,319"/>
+<area shape="rect" id="node19" href="$ProjectItem_8h.html" title="nidas/apps/config/nidas\l_qmv/ProjectItem.h" alt="" coords="1936,369,2107,410"/>
+<area shape="rect" id="node18" href="$SiteItem_8h.html" title="nidas/apps/config/nidas\l_qmv/SiteItem.h" alt="" coords="1691,278,1861,319"/>
+<area shape="rect" id="node34" href="$A2DVariableItem_8h.html" title="nidas/apps/config/nidas\l_qmv/A2DVariableItem.h" alt="" coords="182,369,361,410"/>
+<area shape="rect" id="node32" href="$VariableItem_8h.html" title="nidas/apps/config/nidas\l_qmv/VariableItem.h" alt="" coords="1243,369,1413,410"/>
+<area shape="rect" id="node20" href="$NidasItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/NidasItem.cc" alt="" coords="1640,459,1811,501"/>
+<area shape="rect" id="node4" href="$Document_8h.html" title="nidas/apps/config/Document.h" alt="" coords="1011,467,1227,493"/>
+<area shape="rect" id="node24" href="$A2DSensorItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/A2DSensorItem.cc" alt="" coords="406,459,585,501"/>
+<area shape="rect" id="node26" href="$PMSSensorItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/PMSSensorItem.cc" alt="" coords="805,459,987,501"/>
+<area shape="rect" id="node27" href="$SensorItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/SensorItem.cc" alt="" coords="1251,459,1421,501"/>
+<area shape="rect" id="node15" href="$AddSensorComboDialog_8h.html" title="nidas/apps/config/AddSensor\lComboDialog.h" alt="" coords="2073,550,2279,591"/>
+<area shape="rect" id="node16" href="$AddDSMComboDialog_8h.html" title="nidas/apps/config/AddDSMCombo\lDialog.h" alt="" coords="1810,550,2048,591"/>
+<area shape="rect" id="node11" href="$Document_8cc.html" title="nidas/apps/config/Document.cc" alt="" coords="914,723,1136,749"/>
+<area shape="rect" id="node6" href="$AddA2DVariableComboDialog_8cc.html" title="nidas/apps/config/AddA2DVariable\lComboDialog.cc" alt="" coords="437,715,677,757"/>
+<area shape="rect" id="node8" href="$AddDSMComboDialog_8cc.html" title="nidas/apps/config/AddDSMCombo\lDialog.cc" alt="" coords="1866,715,2104,757"/>
+<area shape="rect" id="node9" href="$AddSensorComboDialog_8cc.html" title="nidas/apps/config/AddSensor\lComboDialog.cc" alt="" coords="2129,715,2335,757"/>
+<area shape="rect" id="node10" href="$configwindow_8cc.html" title="nidas/apps/config/configwindow.cc" alt="" coords="1393,723,1631,749"/>
+<area shape="rect" id="node12" href="$config_2main_8cc.html" title="nidas/apps/config/main.cc" alt="" coords="1655,723,1841,749"/>
+<area shape="rect" id="node13" href="$NewProjectDialog_8cc.html" title="nidas/apps/config/NewProject\lDialog.cc" alt="" coords="1161,715,1369,757"/>
+<area shape="rect" id="node14" href="$VariableComboDialog_8cc.html" title="nidas/apps/config/Variable\lComboDialog.cc" alt="" coords="702,715,889,757"/>
+<area shape="rect" id="node29" href="$A2DSensorItem_8h.html" title="nidas/apps/config/nidas\l_qmv/A2DSensorItem.h" alt="" coords="539,369,713,410"/>
+<area shape="rect" id="node31" href="$PMSSensorItem_8h.html" title="nidas/apps/config/nidas\l_qmv/PMSSensorItem.h" alt="" coords="841,369,1015,410"/>
+<area shape="rect" id="node30" href="$A2DVariableItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/A2DVariableItem.cc" alt="" coords="195,459,381,501"/>
+<area shape="rect" id="node33" href="$VariableItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/VariableItem.cc" alt="" coords="1445,459,1616,501"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="nidas::core::SampleAverager::SampleAverager" name="nidas::core::SampleAverager::SampleAverager">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleAverager.html#a20c2d4fea27d215168cbc61b0bf9109a" title="Add a SampleTag to this SampleSource. " alt="" coords="262,5,469,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleAverager.html#a4a72a93f583dacd2cd3d10f74395fb00" title="nidas::core::SampleAverager\l::addVariables" alt="" coords="262,70,469,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="293,135,437,177"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleAverager.html#ad6a0d7f40da75dce44ef162088a240bb" title="Set average period. " alt="" coords="262,201,469,242"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SampleTag.html#aa5d96c63244aa51ce7bda046a818b36c" title="Set the sample portion of the shortId. " alt="" coords="280,266,451,307"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a91d7dc2586c54dde5790f860121e058b" title="Add a SampleTag to this SampleSource. " alt="" coords="524,5,719,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleAverager.html#a65d4f9e88dd0eebb15f4062e3af9a509" title="nidas::core::SampleAverager\l::addVariable" alt="" coords="518,70,725,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleTag.html#adb0e42568c0a11b93d0a50249caa9863" title="Add a variable to this SampleTag. " alt="" coords="773,38,944,79"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Variable.html#abb2281682a7ee9bf5e85da363713a60f" title="How many values in this variable? " alt="" coords="783,103,934,145"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleTag.html#a64de05ffd819609dc39b6a798244a921" title="Set sampling rate in samples/sec. " alt="" coords="536,201,707,242"/>
+</map>

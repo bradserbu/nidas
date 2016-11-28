@@ -1,0 +1,22 @@
+<map id="nidas::core::XMLConfigWriter" name="nidas::core::XMLConfigWriter">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XMLWriter.html" title="Wrapper class around xerces&#45;c DOMWriter to write XML. " alt="" coords="1609,60,1770,87"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1XMLErrorHandler.html" title="nidas::core::XMLErrorHandler" alt="" coords="993,56,1199,83"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1XMLException.html" title="Exception which can be built from an xerces::XMLException, xercesc::SAXException, or xercesc::DOMExce..." alt="" coords="657,56,845,83"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="321,57,474,84"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DSMConfig.html" title="Class that should include all that is configurable about a DSM. " alt="" coords="1411,212,1581,239"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1Dataset.html" title="A Dataset is a named collection of parameters, that are used in data processing. " alt="" coords="322,411,473,437"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Project.html" title="nidas::core::Project" alt="" coords="679,507,823,533"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Site.html" title="A measurement site. " alt="" coords="1033,475,1159,501"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1XMLConfigWriterFilter.html" title="nidas::core::XMLConfigWriter\lFilter" alt="" coords="1795,114,1997,155"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DSMConfig_1_1MyDictionary.html" title="nidas::core::DSMConfig\l::MyDictionary" alt="" coords="1811,250,1981,291"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,589,182,616"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="308,563,487,589"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="299,613,495,640"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements, keyed by the ID attributes. " alt="" coords="300,664,495,691"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="1003,256,1189,283"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="669,348,833,375"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="1024,409,1168,450"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="1429,422,1563,463"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="332,461,463,488"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,461,199,488"/>
+</map>

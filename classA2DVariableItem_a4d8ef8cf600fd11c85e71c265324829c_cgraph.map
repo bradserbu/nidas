@@ -1,0 +1,4 @@
+<map id="A2DVariableItem::getGain" name="A2DVariableItem::getGain">
+<area shape="rect" id="node2" href="$classA2DSensorItem.html#a5186185b10919ed6a3cb96f16123ac07" title="A2DSensorItem::getDSMAnalog\lSensor" alt="" coords="240,5,467,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1A2DSensor.html#af99e86ad3720107bcb0c002a7caf1217" title="Get the current gain for a channel. " alt="" coords="264,70,443,111"/>
+</map>

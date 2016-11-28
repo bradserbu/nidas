@@ -1,0 +1,7 @@
+<map id="nidas::core::DatagramSampleScanner::nextSample" name="nidas::core::DatagramSampleScanner::nextSample">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleScanner.html#af59099d4a743ebe99b21644395c1e380" title="nidas::core::SampleScanner\l::addSampleToStats" alt="" coords="276,5,479,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a2883f4452f6d9bdbdaefcca4c85c87a0" title="Get the various levels of the samples identification. " alt="" coords="290,70,465,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DatagramSampleScanner.html#a0a72a79f455a956bb6e3a21b76749a58" title="Should the SampleScanner append a null character, &#39;\0&#39;, to the messages. " alt="" coords="270,135,485,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="303,201,452,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="534,201,730,242"/>
+</map>

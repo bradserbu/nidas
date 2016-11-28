@@ -1,0 +1,7 @@
+<map id="nidas::core::DatagramSocket::fromDOMElement" name="nidas::core::DatagramSocket::fromDOMElement">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Process.html#a1106e7c05fa20214f2fc7cdd29cc2871" title="nidas::util::Process\l::expandEnvVars" alt="" coords="281,5,423,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="265,70,439,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1XDOMAttr.html#a2b378f967bc25e190f8b920936a675d9" title="nidas::core::XDOMAttr\l::getName" alt="" coords="271,135,433,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="275,201,429,242"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Process.html#a6a34d9f6ed7972f4327c95f9436bf509" title="Get an environment variable given a variable name like &quot;HOST&quot;, without the &#39;$&#39;, or any brackets..." alt="" coords="488,5,629,46"/>
+</map>

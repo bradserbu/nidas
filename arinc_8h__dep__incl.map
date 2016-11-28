@@ -1,0 +1,20 @@
+<map id="nidas/linux/arinc/arinc.h" name="nidas/linux/arinc/arinc.h">
+<area shape="rect" id="node2" href="$DSMArincSensor_8h.html" title="nidas/dynld/raf/DSMArinc\lSensor.h" alt="" coords="677,81,859,122"/>
+<area shape="rect" id="node13" href="$DSMArincSensor_8cc.html" title="nidas/dynld/raf/DSMArinc\lSensor.cc" alt="" coords="1171,171,1352,213"/>
+<area shape="rect" id="node19" href="$main_8c.html" title="nidas/linux/arinc/main.c" alt="" coords="1159,88,1329,115"/>
+<area shape="rect" id="node3" href="$arinc__out_8cc.html" title="nidas/apps/arinc_out.cc" alt="" coords="61,179,232,205"/>
+<area shape="rect" id="node4" href="$ADC__HW__EB7022597_8h.html" title="nidas/dynld/raf/ADC\l_HW_EB7022597.h" alt="" coords="257,171,404,213"/>
+<area shape="rect" id="node6" href="$Arinc__IRS_8h.html" title="nidas/dynld/raf/Arinc\l_IRS.h" alt="" coords="429,171,579,213"/>
+<area shape="rect" id="node14" href="$GPS__HW__HG2021GB02_8h.html" title="nidas/dynld/raf/GPS\l_HW_HG2021GB02.h" alt="" coords="603,171,759,213"/>
+<area shape="rect" id="node16" href="$LSZ__HW__EB7032239_8h.html" title="nidas/dynld/raf/LSZ\l_HW_EB7032239.h" alt="" coords="783,171,928,213"/>
+<area shape="rect" id="node18" href="$SyncRecordGenerator_8cc.html" title="nidas/dynld/raf/SyncRecord\lGenerator.cc" alt="" coords="953,171,1145,213"/>
+<area shape="rect" id="node5" href="$ADC__HW__EB7022597_8cc.html" title="nidas/dynld/raf/ADC\l_HW_EB7022597.cc" alt="" coords="5,262,152,303"/>
+<area shape="rect" id="node7" href="$Arinc__IRS_8cc.html" title="nidas/dynld/raf/Arinc\l_IRS.cc" alt="" coords="177,262,327,303"/>
+<area shape="rect" id="node8" href="$IRS__HW__HG2001GD_8h.html" title="nidas/dynld/raf/IRS\l_HW_HG2001GD.h" alt="" coords="352,262,493,303"/>
+<area shape="rect" id="node11" href="$IRS__HW__YG1854_8h.html" title="nidas/dynld/raf/IRS\l_HW_YG1854.h" alt="" coords="517,262,656,303"/>
+<area shape="rect" id="node9" href="$ck__arinc_8cc.html" title="nidas/apps/ck_arinc.cc" alt="" coords="160,360,325,387"/>
+<area shape="rect" id="node10" href="$IRS__HW__HG2001GD_8cc.html" title="nidas/dynld/raf/IRS\l_HW_HG2001GD.cc" alt="" coords="349,353,496,394"/>
+<area shape="rect" id="node12" href="$IRS__HW__YG1854_8cc.html" title="nidas/dynld/raf/IRS\l_HW_YG1854.cc" alt="" coords="520,353,659,394"/>
+<area shape="rect" id="node15" href="$GPS__HW__HG2021GB02_8cc.html" title="nidas/dynld/raf/GPS\l_HW_HG2021GB02.cc" alt="" coords="680,262,843,303"/>
+<area shape="rect" id="node17" href="$LSZ__HW__EB7032239_8cc.html" title="nidas/dynld/raf/LSZ\l_HW_EB7032239.cc" alt="" coords="867,262,1015,303"/>
+</map>

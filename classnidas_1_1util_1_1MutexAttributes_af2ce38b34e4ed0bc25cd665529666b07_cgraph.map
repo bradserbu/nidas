@@ -1,0 +1,6 @@
+<map id="nidas::util::MutexAttributes::MutexAttributes" name="nidas::util::MutexAttributes::MutexAttributes">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1MutexAttributes.html#a052958d721898e29a63834de5913ee7a" title="nidas::util::MutexAttributes\l::getPShared" alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1MutexAttributes.html#ad9fe495d49b1f8d587ef07c0eeb15992" title="nidas::util::MutexAttributes\l::getType" alt="" coords="249,70,442,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1MutexAttributes.html#a06d7201224d577927adbcab1c7f39718" title="Set the mutex pshared attribute, one of PTHREAD_PROCESS_PRIVATE or PTHREAD_PROCESS_SHARED. " alt="" coords="249,135,442,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1MutexAttributes.html#a80f006c6b451c8866b784a69127b0c17" title="Set the mutex type attribute, one of PTHREAD_MUTEX_NORMAL,PTHREAD_MUTEX_ERRORCHECK,PTHREAD_MUTEX_RECURSIVE, or PTHREAD_MUTEX_DEFAULT. " alt="" coords="249,201,442,242"/>
+</map>

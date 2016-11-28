@@ -1,0 +1,9 @@
+<map id="nidas::core::SampleThread" name="nidas::core::SampleThread">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="243,189,377,216"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="5,97,155,124"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="179,97,309,124"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="147,5,340,32"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="449,97,601,124"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="402,189,587,216"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="612,189,807,216"/>
+</map>

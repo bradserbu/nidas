@@ -1,0 +1,5 @@
+<map id="DatasetsApp::showEnv" name="DatasetsApp::showEnv">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Datasets.html#a6e18616448e2114340b248bc602fce08" title="nidas::core::Datasets\l::getDataset" alt="" coords="238,5,397,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Dataset.html#a43583f2be2c8aeffec76af9de6bfc7e0" title="nidas::core::Dataset\l::getEnvironmentVariables" alt="" coords="222,70,413,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Dataset.html#a4b8d1ec0deb99bbab960eaa43cdec4e5" title="nidas::core::Dataset\l::getName" alt="" coords="242,135,393,177"/>
+</map>

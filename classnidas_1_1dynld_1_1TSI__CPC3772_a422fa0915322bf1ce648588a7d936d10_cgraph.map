@@ -1,0 +1,19 @@
+<map id="nidas::dynld::TSI_CPC3772::process" name="nidas::dynld::TSI_CPC3772::process">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleT.html#a1a4fc30a7ddc84ac06a668a4b5ff7c6b" title="Decrement the reference count for this sample. " alt="" coords="254,5,410,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleT.html#ae8c58e00c4e6acc95af4ebc8a4145a10" title="Get a const void* pointer to the data portion of the sample. " alt="" coords="250,70,414,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleT.html#a2484696bc7826cb3468efe8ff5aacb1c" title="Get number of elements of type DataT in data. " alt="" coords="254,135,410,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="254,201,410,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Sample.html#a773f6f7732f631184c0daab9522baba9" title="Get the id portion of the sample header. " alt="" coords="257,266,407,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1AsciiSscanf.html#ae0e33a5a33bad43ec84133b0db4beec2" title="nidas::core::AsciiSscanf\l::getNumberOfFields" alt="" coords="246,331,418,373"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1AsciiSscanf.html#a7d5a4b027f721fef95e8d1441c828ffa" title="nidas::core::AsciiSscanf\l::getSampleTag" alt="" coords="246,397,418,438"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="257,462,407,503"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SampleT.html#a2ec2f817b615d32794c3095035ab7ba8" title="Set the number of elements of type DataT in data. " alt="" coords="254,527,410,569"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="257,593,407,634"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="257,658,407,699"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1AsciiSscanf.html#ac2b3e8c5f06503c6994350c1b00118c4" title="scan input, storing up to nout number of values into output, as floats. " alt="" coords="246,723,418,765"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SamplePool.html#a6def0d6115dae0704c33f2a1f46c55bf" title="Return a sample to the pool. " alt="" coords="477,5,653,46"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleHeader.html#a91a71e15fd149e79d7a94a310d880fda" title="nidas::core::SampleHeader\l::getId" alt="" coords="467,266,663,307"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="467,462,663,503"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="467,593,663,634"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="467,658,663,699"/>
+</map>

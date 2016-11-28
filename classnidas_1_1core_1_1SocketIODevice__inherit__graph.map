@@ -1,0 +1,5 @@
+<map id="nidas::core::SocketIODevice" name="nidas::core::SocketIODevice">
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1TCPSocketIODevice.html" title="An IODevice consisting of a TCP socket. " alt="" coords="5,155,227,181"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1UDPSocketIODevice.html" title="An IODevice consisting of an UDP socket. " alt="" coords="251,155,479,181"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IODevice.html" title="An interface to an IO device. " alt="" coords="162,5,317,32"/>
+</map>

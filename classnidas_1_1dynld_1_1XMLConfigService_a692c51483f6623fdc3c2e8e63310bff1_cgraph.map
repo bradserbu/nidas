@@ -1,0 +1,4 @@
+<map id="nidas::dynld::XMLConfigService::schedule" name="nidas::dynld::XMLConfigService::schedule">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IOChannel.html#a64ee1df4a5c4a4b1751151b8af6b329a" title="After the IOChannel is configured, a user of IOChannel calls requestConnection to get things started..." alt="" coords="272,5,437,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOChannel.html#a76189d5ccd240df4173ff1eb38c57454" title="nidas::core::IOChannel\l::setRequestType" alt="" coords="272,70,437,111"/>
+</map>

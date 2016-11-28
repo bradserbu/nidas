@@ -1,0 +1,51 @@
+<map id="ncar_a2d_ioctl" name="ncar_a2d_ioctl">
+<area shape="rect" id="node2" href="$ncar__a2d_8c.html#a696d34c7a7c51dbabcf8494d46eae856" title="addSampleConfig" alt="" coords="169,385,303,412"/>
+<area shape="rect" id="node12" href="$ncar__a2d_8c.html#a774657cef741c1c47ff167980f97ea37" title="configBoard" alt="" coords="187,613,285,640"/>
+<area shape="rect" id="node13" href="$ncar__a2d_8c.html#a297cf7466ae895ce9460894ed259c378" title="SetCal" alt="" coords="204,664,268,691"/>
+<area shape="rect" id="node14" href="$ncar__a2d_8c.html#a36210d7e21862614ab963c6ee77c3f51" title="SetVcal" alt="" coords="201,765,271,792"/>
+<area shape="rect" id="node17" href="$ncar__a2d_8c.html#aa3f97ab3c2d4ffd1d5416cabd82bc10e" title="Start data collection on the selected board. " alt="" coords="191,1019,281,1045"/>
+<area shape="rect" id="node46" href="$ncar__a2d_8c.html#ac621d95948eff6a7ee50914e9eac8159" title="Stop data collection on the selected board. " alt="" coords="400,1323,488,1349"/>
+<area shape="rect" id="node15" href="$ncar__a2d_8c.html#acedf8c00f00b8d824acaa4a05fcd26fa" title="UnSetVcal" alt="" coords="399,715,489,741"/>
+<area shape="rect" id="node49" href="$ncar__a2d_8c.html#afdf7740429782a5c523b5b02a7457e27" title="withinRange" alt="" coords="187,1309,285,1336"/>
+<area shape="rect" id="node3" href="$short__filters_8c.html#a2134445ca6627a81887917354c98bb7d" title="Return structure of pointers to the methods for a given filter. " alt="" coords="353,208,535,235"/>
+<area shape="rect" id="node4" href="$short__filters_8c.html#a4f44612a66c322d744dc73e7f6b4c769" title="Destructor for a boxcar filter. " alt="" coords="601,309,724,336"/>
+<area shape="rect" id="node5" href="$short__filters_8c.html#a6e33223474426de92931f239a5ffd209" title="Configure a boxcar filter. " alt="" coords="607,360,718,387"/>
+<area shape="rect" id="node6" href="$short__filters_8c.html#a4772e1ab6d22fe2dc465da8cb569f1c1" title="Boxcar filter method. " alt="" coords="613,5,713,32"/>
+<area shape="rect" id="node7" href="$short__filters_8c.html#af8a8c39dbfbc44705fbedb4edb1a8a05" title="Constructor for a boxcar filter. " alt="" coords="617,56,708,83"/>
+<area shape="rect" id="node8" href="$short__filters_8c.html#a4ac108c1899e56f62255a8e5dc89087e" title="Destructor for a pickoff filter. " alt="" coords="603,107,723,133"/>
+<area shape="rect" id="node9" href="$short__filters_8c.html#a4ac9195c19afb5286aa73b790053a5c7" title="Configure a pickoff filter. " alt="" coords="609,157,717,184"/>
+<area shape="rect" id="node10" href="$short__filters_8c.html#a0feada1af68344f932a2bd92f388e416" title="Pickoff filter method. " alt="" coords="613,208,712,235"/>
+<area shape="rect" id="node11" href="$short__filters_8c.html#a00ffd5be1ac12a4775b8e3d2d43a18d8" title="Constructor for a pickoff filter. " alt="" coords="618,259,707,285"/>
+<area shape="rect" id="node16" href="$ncar__a2d_8c.html#acb606abbe2e2dcf4cfeaef1a9dffc2c8" title="CalVoltToBits" alt="" coords="393,765,495,792"/>
+<area shape="rect" id="node18" href="$ncar__a2d_8c.html#ad45d89a4b5cce64d735d601f2c05315a" title="A2DSetMaster" alt="" coords="387,1171,501,1197"/>
+<area shape="rect" id="node19" href="$ncar__a2d_8c.html#a1e1e4169133b31d3c96e3298023e9b04" title="A2DSetGainAndOffset" alt="" coords="363,816,525,843"/>
+<area shape="rect" id="node22" href="$ncar__a2d_8c.html#a44979e61f9e0b144b6f9c636034f7d39" title="A2DClearSYNC" alt="" coords="385,1221,503,1248"/>
+<area shape="rect" id="node23" href="$ncar__a2d_8c.html#afefed8b1a82ea05274f98935b4affb85" title="A2DStartAll" alt="" coords="615,1019,711,1045"/>
+<area shape="rect" id="node25" href="$ncar__a2d_8c.html#a6b129a171a87a7ce1675296e9d9a42a5" title="A2DStopReadAll" alt="" coords="600,1272,725,1299"/>
+<area shape="rect" id="node27" href="$ncar__a2d_8c.html#a1668bae5760da72c97f4ea2031077680" title="A2DClearFIFO" alt="" coords="608,968,717,995"/>
+<area shape="rect" id="node28" href="$ncar__a2d_8c.html#ae5d46984b79e4e26872f67130927cb70" title="A2DConfigAll" alt="" coords="392,1069,496,1096"/>
+<area shape="rect" id="node30" href="$irigclock_8h.html#a356c8f82d2089a496325a17337fcd152" title="Convert a rate in Hz to an enumerated value, rounding up to the next highest supported rate..." alt="" coords="367,867,521,893"/>
+<area shape="rect" id="node31" href="$nidas__util_8c.html#ab21a87a4d11fcab518965b8ac4f2eda4" title="realloc_dsm_circ_buf" alt="" coords="367,1120,521,1147"/>
+<area shape="rect" id="node34" href="$ncar__a2d_8c.html#a38cffd6b64aa5ab64a54870a9e252935" title="resetBoard" alt="" coords="397,917,491,944"/>
+<area shape="rect" id="node20" href="$ncar__a2d_8c.html#a3a3b86091edc7ee3359266ab2aa49faa" title="A2DSetGain" alt="" coords="613,411,713,437"/>
+<area shape="rect" id="node21" href="$ncar__a2d_8c.html#a60ff8ef9cc709d9db3a887c688db6143" title="SetOffset" alt="" coords="621,461,704,488"/>
+<area shape="rect" id="node24" href="$ncar__a2d_8c.html#a4a02b14a439b6b83366c9b65cdc3faf4" title="A2DStart" alt="" coords="834,1019,915,1045"/>
+<area shape="rect" id="node26" href="$ncar__a2d_8c.html#ad6d9a5198c0ccc3deb3b7d27a9fa5049" title="A2DStopRead" alt="" coords="819,1272,930,1299"/>
+<area shape="rect" id="node29" href="$ncar__a2d_8c.html#a204f9b45aea65ee08b791d52d3cd1308" title="A2DConfig" alt="" coords="618,1171,707,1197"/>
+<area shape="rect" id="node32" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="593,1323,732,1349"/>
+<area shape="rect" id="node33" href="$nidas__util_8c.html#a300153253ae0c68c2c41206be69adb45" title="alloc_dsm_circ_buf" alt="" coords="591,1221,734,1248"/>
+<area shape="rect" id="node35" href="$ncar__a2d_8c.html#af44891d124cf1fd0decf4f734b922773" title="A2DNotAuto" alt="" coords="611,1069,714,1096"/>
+<area shape="rect" id="node36" href="$pc104sg_8c.html#ae0aacc0145154de250d49a3def0888af" title="Modules call this function to dequeue their callbacks. " alt="" coords="789,816,960,843"/>
+<area shape="rect" id="node37" href="$pc104sg_8c.html#aaf72cc4ce7d06abb88b67911ad702f9d" title="flush_irig_callbacks" alt="" coords="591,1120,734,1147"/>
+<area shape="rect" id="node38" href="$ncar__a2d_8c.html#a3a1c798bd42dc6d690c497e630584d9d" title="waitFor1PPS" alt="" coords="613,816,713,843"/>
+<area shape="rect" id="node40" href="$ncar__a2d_8c.html#a6d373bed93703370cb4c10f217312a8c" title="ppsCallback1" alt="" coords="609,867,716,893"/>
+<area shape="rect" id="node41" href="$ncar__a2d_8c.html#af07f2d5ecc9c9a013ddfe1007b7a1424" title="A2DSetSYNC" alt="" coords="609,512,716,539"/>
+<area shape="rect" id="node42" href="$ncar__a2d_8c.html#a23d78d5dabe51982933ce9b9edd789e7" title="A2DAuto" alt="" coords="623,563,702,589"/>
+<area shape="rect" id="node43" href="$ncar__a2d_8c.html#a7a227076f6405cfa628a7620c1eebcbe" title="A2DEnable1PPS" alt="" coords="600,613,725,640"/>
+<area shape="rect" id="node39" href="$pc104sg_8c.html#a6be98cca820db8ed3d7b06aecfafc2ab" title="Module function that allows other modules to register their callback function to be called at the giv..." alt="" coords="797,892,952,919"/>
+<area shape="rect" id="node44" href="$ncar__a2d_8c.html#abc59a1559a62610bcf6df0bfee25881a" title="ReadSampleCallback" alt="" coords="585,765,740,792"/>
+<area shape="rect" id="node45" href="$ncar__a2d_8c.html#aa32b5095386083be586f57311cfa5a26" title="TemperatureCallback" alt="" coords="585,715,741,741"/>
+<area shape="rect" id="node47" href="$ncar__a2d_8c.html#af25e7f0cd4905e95ad24831876fd4733" title="AD7725StatusAll" alt="" coords="597,1424,728,1451"/>
+<area shape="rect" id="node48" href="$ncar__a2d_8c.html#a4affad92243b65f4e0dd448ddbe43676" title="freeFilters" alt="" coords="621,1475,705,1501"/>
+<area shape="rect" id="node50" href="$ncar__a2d_8c.html#a0a00d5f51c513c1351c5133201bed092" title="CalVoltIsValid" alt="" coords="391,1373,497,1400"/>
+</map>

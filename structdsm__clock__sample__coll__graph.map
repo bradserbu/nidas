@@ -1,0 +1,4 @@
+<map id="dsm_clock_sample" name="dsm_clock_sample">
+<area shape="rect" id="node2" href="$structdsm__clock__data.html" title="dsm_clock_data" alt="" coords="13,96,139,123"/>
+<area shape="rect" id="node3" href="$structtimeval32.html" title="timeval32" alt="" coords="33,5,119,32"/>
+</map>

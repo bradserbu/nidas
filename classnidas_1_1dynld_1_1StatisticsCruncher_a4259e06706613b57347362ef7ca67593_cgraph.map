@@ -1,0 +1,9 @@
+<map id="nidas::dynld::StatisticsCruncher::StatisticsCruncher" name="nidas::dynld::StatisticsCruncher::StatisticsCruncher">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1StatisticsCruncher.html#aed61ca57e8568f6aff4ecbb2963d82a5" title="Add a SampleTag to this SampleSource. " alt="" coords="259,5,442,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#ac7f92bf0e18051a6ca640dd1bcd7e96a" title="Get the DSM portion of the id. " alt="" coords="265,70,436,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="265,135,436,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#afc355b8efce676022f31783481892041" title="Get the sensor+sample portion of the id. " alt="" coords="265,201,436,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleTag.html#a04570eacb965a6f2112589b9890918a8" title="Set the DSM portion of the id. " alt="" coords="265,266,436,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleTag.html#a64de05ffd819609dc39b6a798244a921" title="Set sampling rate in samples/sec. " alt="" coords="265,331,436,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleTag.html#aa5d96c63244aa51ce7bda046a818b36c" title="Set the sample portion of the shortId. " alt="" coords="265,397,436,438"/>
+</map>

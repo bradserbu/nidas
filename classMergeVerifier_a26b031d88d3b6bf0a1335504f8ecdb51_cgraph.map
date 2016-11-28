@@ -1,0 +1,51 @@
+<map id="MergeVerifier::main" name="MergeVerifier::main">
+<area shape="rect" id="node2" href="$classMergeVerifier.html#acb114d8964aeebb089b24ac06db5e02a" title="MergeVerifier::parseRunstring" alt="" coords="201,96,410,123"/>
+<area shape="rect" id="node6" href="$classMergeVerifier.html#a4a89bd6a9d4f7b47031aaf76c30e50be" title="MergeVerifier::run" alt="" coords="238,1153,373,1180"/>
+<area shape="rect" id="node49" href="$dmd__mmat__test_8cc.html#aecb57712e6b25f9bfc3a56f52feb7176" title="setupSignals" alt="" coords="253,1520,357,1547"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1UTime.html#a5e6a55c2268fa5444564ad58b484a020" title="Parse a character string into a UTime, using these formats until success: [CC]YY [cmon|mon] day h:m[:..." alt="" coords="502,5,634,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="990,493,1143,534"/>
+<area shape="rect" id="node5" href="$arinc__out_8cc.html#a4d7e598eb9f90dfa71f9a963e620a961" title="usage" alt="" coords="537,71,599,97"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1FileSet.html#a0ad062e9699f58d7e84f120fcf4ae730" title="nidas::core::FileSet\l::setStartTime" alt="" coords="497,798,639,839"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1FileSet.html#a3565f461e58b57ee5b4112f9cdb8de3c" title="nidas::core::FileSet\l::setEndTime" alt="" coords="497,906,639,947"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1FileSet.html#a5377c748f6c9d3e60565809b36284476" title="Set the file portion of the file search path. " alt="" coords="497,1015,639,1057"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1FileSet.html#a6233f68c5d7dfedb9280ae9dd17c56c6" title="nidas::core::FileSet\l::addFileName" alt="" coords="759,1205,902,1246"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1FileSet.html#aeac5751b14fcdf4fd9bad476a639bb37" title="nidas::core::FileSet\l::getName" alt="" coords="497,1205,639,1246"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1UTime.html#aeb55bd955c48b84b5d3113dc2311d3b5" title="Format a UTime into a string. " alt="" coords="502,1270,634,1311"/>
+<area shape="rect" id="node25" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ac74c22fae1523d5ae65dd9dbd04bfb9a" title="nidas::dynld::SampleInput\lStream::setMaxSampleLength" alt="" coords="459,1518,677,1559"/>
+<area shape="rect" id="node27" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a01c18b1fbae673633c3ad41c7ed19582" title="nidas::dynld::SampleInput\lStream::setMinSampleTime" alt="" coords="468,1453,668,1494"/>
+<area shape="rect" id="node28" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a7eff9584abad56533e63732189c31548" title="nidas::dynld::SampleInput\lStream::setMaxSampleTime" alt="" coords="466,1387,670,1429"/>
+<area shape="rect" id="node29" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a7194f54546601bc1968be8cc9371e94e" title="Read archive information at beginning of input stream or file. " alt="" coords="475,649,661,690"/>
+<area shape="rect" id="node33" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a3203b232b7b12a9055766408f4edbe0f" title="nidas::dynld::SampleInput\lStream::getName" alt="" coords="737,1645,924,1686"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1Exception.html#a980845bb9a0fb107d8b216e8099c1b0b" title="nidas::util::Exception\l::getErrno" alt="" coords="491,398,645,439"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1FileSet.html#adf8ef81cad8e5ead98c6d943d4920a35" title="Convienence function to return a pointer to a nidas::core::FileSet, given a list of files..." alt="" coords="497,1087,639,1129"/>
+<area shape="rect" id="node37" href="$classMergeVerifier.html#a74399d988f34474f274b547810f1d644" title="for debugging. " alt="" coords="473,345,663,372"/>
+<area shape="rect" id="node23" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="765,1453,897,1494"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="756,1719,905,1761"/>
+<area shape="rect" id="node44" href="$classMergeVerifier.html#ad60b5bace9e311f5ff067885532220fb" title="MergeVerifier::reportDuplicate" alt="" coords="461,1685,675,1712"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1Sample.html#a355553922b04c738465e06c7e7d21767" title="Decrement the reference count for this sample. " alt="" coords="756,682,905,723"/>
+<area shape="rect" id="node45" href="$classMergeVerifier.html#af2bfc75a1bd681abb7b226c83363f40a" title="MergeVerifier::reportBackward" alt="" coords="461,1736,675,1763"/>
+<area shape="rect" id="node46" href="$classMergeVerifier.html#a5879e8de4f10aa43ae61b789cea3ed1f" title="MergeVerifier::reportMissing" alt="" coords="468,1635,668,1661"/>
+<area shape="rect" id="node47" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ac2b909036899cc2a4f663fc4c9836153" title="Read the next sample from the InputStream. " alt="" coords="475,463,661,505"/>
+<area shape="rect" id="node48" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="493,529,643,570"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1FileSet.html#add156e1deab9e2044987d5ea709c56f6" title="nidas::util::FileSet\l::setStartTime" alt="" coords="764,747,897,789"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1FileSet.html#a209805da32817b3c510df435656c953b" title="nidas::util::FileSet\l::setEndTime" alt="" coords="764,813,897,854"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1IOChannel.html#a885eb72c6cfd6fac063ebeb1df22c644" title="What DSM is this IOChannel connected to? May be NULL. " alt="" coords="748,878,913,919"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1FileSet.html#a5377c748f6c9d3e60565809b36284476" title="Set file name portion of file path. " alt="" coords="764,943,897,985"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="759,1009,903,1050"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1FileSet.html#a546437de6ad14a07407b6f35b4981863" title="Recognizeable name of this IOChannel &#45; used for informative messages. " alt="" coords="759,1074,902,1115"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1FileSet.html#a3887e4aafcaf39809386a79bd326e01c" title="Get the full path, the concatenation of getDir() and getFileName(). " alt="" coords="764,1139,897,1181"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1FileSet.html#ad6b6001c805bd1ad2e112d1c8a8c8e22" title="nidas::util::FileSet\l::addFileName" alt="" coords="1000,1205,1133,1246"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1FileSet.html#a5689356eb7639c5c0208abd323c249bf" title="Get name of current file. " alt="" coords="759,1270,902,1311"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1UTime.html#a2a2bb7e4624bc6eba8b8f123540172e5" title="nidas::util::UTime\l::earlier" alt="" coords="765,1387,897,1429"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1UTime.html#a78aba4b6b51fdb3781638783fdf0e086" title="nidas::util::UTime::tm" alt="" coords="751,1336,910,1363"/>
+<area shape="rect" id="node26" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a0f4c99e3fd96318079c79f8b487b3e36" title="nidas::dynld::SampleInput\lStream::setFilterBadSamples" alt="" coords="726,1518,935,1559"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1SampleHeader.html#ac3e18adbfd3fb1ae67f168ee98de005f" title="nidas::core::SampleHeader\l::getSizeOf" alt="" coords="733,617,929,658"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1SampleInputHeader.html#a8662e12a8c7486daf2d7ac129e55d567" title="Read IOStream until the SampleInputHeader has been fully read. " alt="" coords="740,551,921,593"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1IOChannel.html#ac7b72aca1f3d3a39996ce5cf3a32d490" title="nidas::core::IOChannel\l::getName" alt="" coords="984,1645,1149,1686"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1SampleInputHeader.html#aab7eb5581c58438337fdee607abd2497" title="nidas::core::SampleInput\lHeader::getArchiveVersion" alt="" coords="735,173,927,214"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1SampleInputHeader.html#a81000f3300ac8bb69c5849f961e1482c" title="nidas::core::SampleInput\lHeader::getSoftwareVersion" alt="" coords="730,238,931,279"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1SampleInputHeader.html#ae563c93886daa083e2e384c8d2d650fa" title="nidas::core::SampleInput\lHeader::getProjectName" alt="" coords="740,303,921,345"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1SampleInputHeader.html#aabe5601dac2d3e679e5aea6c286ea71f" title="nidas::core::SampleInput\lHeader::getSystemName" alt="" coords="737,369,924,410"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1SampleInputHeader.html#a72647b7b4c1160ff4ac8467c530572e4" title="nidas::core::SampleInput\lHeader::getConfigName" alt="" coords="740,434,921,475"/>
+<area shape="rect" id="node50" href="$ck__mesa_8cc.html#ab7c178dc39d210d62b38ea60b55b9c37" title="sigAction" alt="" coords="528,1837,608,1864"/>
+</map>

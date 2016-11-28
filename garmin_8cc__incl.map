@@ -1,0 +1,12 @@
+<map id="nidas/apps/garmin.cc" name="nidas/apps/garmin.cc">
+<area shape="rect" id="node5" href="$SerialPort_8h.html" title="nidas/util/SerialPort.h" alt="" coords="1093,80,1251,107"/>
+<area shape="rect" id="node18" href="$IOTimeoutException_8h.html" title="nidas/util/IOTimeoutException.h" alt="" coords="835,155,1057,181"/>
+<area shape="rect" id="node19" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="611,155,747,181"/>
+<area shape="rect" id="node32" href="$util_2util_8h.html" title="nidas/util/util.h" alt="" coords="1425,155,1540,181"/>
+<area shape="rect" id="node11" href="$Termios_8h.html" title="Termios.h" alt="" coords="1564,155,1647,181"/>
+<area shape="rect" id="node14" href="$IOException_8h.html" title="IOException.h" alt="" coords="1335,229,1444,256"/>
+<area shape="rect" id="node15" href="$Exception_8h.html" title="Exception.h" alt="" coords="933,304,1029,331"/>
+<area shape="rect" id="node26" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="805,229,933,256"/>
+<area shape="rect" id="node29" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="959,229,1089,256"/>
+<area shape="rect" id="node31" href="$time__constants_8h.html" title="time_constants.h" alt="" coords="389,229,523,256"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="nidas::core::DSMEngine::interrupt" name="nidas::core::DSMEngine::interrupt">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SamplePipeline.html#a5319c1d2be4cc8e164d902b053d33160" title="Purge samples from the SampleSorters in this pipeline. " alt="" coords="227,5,426,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DerivedDataReader.html#a251a0410a3bf65d021bb2b5ee8bf1982" title="Fetch the pointer to the instance of DerivedDataReader. " alt="" coords="237,70,417,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DerivedDataReader.html#a1f96735b8cd0e843b9bd5f4e66f795ab" title="Interrupt this thread. " alt="" coords="237,201,417,242"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SensorHandler.html#a23713af9f8afc343f68ae2bd14f1c8ba" title="Interrupt polling. " alt="" coords="229,135,424,177"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SamplePipeline.html#a329468be47cb4ac7d52cf91e4a6618f5" title="Interrupt the SampleSorters in this pipeline. " alt="" coords="227,281,426,322"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Thread.html#a1da77fcda48cbee7ae54bd47ecc7bcf5" title="Interrupt this thread. " alt="" coords="505,386,639,427"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleThread.html#ad1e35a6337576bbacf26bbf7236571f5" title="Both SampleClient and SampleSource have a flush() method. " alt="" coords="475,5,669,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a08fdc084e658645f8c3b5ac54e6ffec0" title="Send a signal to this thread. " alt="" coords="505,138,639,179"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="718,73,871,114"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="718,138,871,179"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SensorHandler_1_1NotifyPipe.html#a079eff043907576b22609c9b83eebab8" title="Used in public methods of SensorHandler which are called from other threads to notify the SensorHandl..." alt="" coords="475,73,669,114"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="507,321,637,362"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="507,255,637,297"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ProjConfigIO" name="ProjConfigIO">
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1ProjectConfigs.html" title="nidas::core::ProjectConfigs" alt="" coords="102,203,292,229"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html" title="A class for parsing, formatting and doing operations on time, based on Unix time conventions, where leap seconds are ignored, so that there are always 60 seconds in a minute, 3600 seconds in an hour and 86400 seconds in a day. " alt="" coords="317,203,448,229"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="317,96,448,123"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="286,5,479,32"/>
+</map>

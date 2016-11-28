@@ -1,0 +1,7 @@
+<map id="nidas::core::SensorHandler::join" name="nidas::core::SensorHandler::join">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a4f6d1422edd345586e81e487335d20c4" title="Has this thread been joined? " alt="" coords="249,5,383,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="249,70,383,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="442,5,577,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="433,70,586,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="442,135,577,177"/>
+</map>

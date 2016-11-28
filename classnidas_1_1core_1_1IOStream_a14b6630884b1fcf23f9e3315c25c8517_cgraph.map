@@ -1,0 +1,4 @@
+<map id="nidas::core::IOStream::readBuf" name="nidas::core::IOStream::readBuf">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IOStream.html#a03cee4bfc98f0bde0bb1073ed6b04696" title="nidas::core::IOStream\l::addNumInputBytes" alt="" coords="217,5,378,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOStream.html#ac344a3623556041834de14a3c7f0d02c" title="Number of bytes available to be copied from the buffer of IOStream. " alt="" coords="217,70,378,111"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="nidas::core::SampleOutputRequestThread::run" name="nidas::core::SampleOutputRequestThread::run">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputRequestThread.html#a7139bf4a1b0423019c0146a3a52c35af" title="Add an connect request of a SampleOutput. " alt="" coords="248,122,501,163"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Runnable.html#a84b9976acfbff4cbf8f169e4478724ae" title="Call testCancel, and return true when this thread has been interrupted. " alt="" coords="300,239,449,281"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleOutput.html#a311707a421cf8e51124f3921ebe7eed3" title="nidas::core::SampleOutput\l::getName" alt="" coords="550,5,743,46"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleOutput.html#a0a2982d6125561b37e9ecb7141c55e3c" title="Derived classes implement this to indicate whether a connection should be requested again if one fail..." alt="" coords="278,305,471,346"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Thread.html#aa4ffe1034a20b639689539d9ed1b8275" title="Return true when this thread has been interrupted. " alt="" coords="307,370,442,411"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Cond.html#a069efcc951a01cf6a901dd4c92f14ebe" title="Lock the mutex associated with the condition variable. " alt="" coords="568,71,725,97"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleOutput.html#a80ef7ee472bd0a38269acf75ef6188f1" title="Request a connection, of this SampleOutput, but don&#39;t wait for it. " alt="" coords="278,435,471,477"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Cond.html#afe6c8b703dd232a4f7c88b9f0f019c40" title="Unlock the mutex associated with the condition variable. " alt="" coords="581,187,713,229"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Cond.html#a2b603f8bcd511d35350c4ab964e8cf5f" title="Wait on the condition variable. " alt="" coords="296,501,453,528"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="298,553,451,594"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Cond.html#aec94b8d8b478f5e298dd264bf13bd57c" title="Unblock at least one thread waiting on the condition variable. " alt="" coords="581,122,713,163"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="792,63,923,105"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="792,187,923,229"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Mutex.html#a704c5544ed1d8bd7dcd4824097e814b1" title="Get the pointer to the pthread_mutex_t. " alt="" coords="569,501,725,528"/>
+</map>

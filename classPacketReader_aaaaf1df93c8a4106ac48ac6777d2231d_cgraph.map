@@ -1,0 +1,6 @@
+<map id="PacketReader::logBadPacket" name="PacketReader::logBadPacket">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramPacketT.html#a2d970c21eab255864b1a46ea133d120b" title="nidas::util::DatagramPacket\lT::getConstDataVoidPtr" alt="" coords="257,5,455,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1DatagramPacketBase.html#aab1a729e8bb33b1f00e5249246b3608c" title="Get the value for the current number of bytes in data. " alt="" coords="257,70,455,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1DatagramPacketBase.html#ac4ebf929284133f39110573766a7304f" title="nidas::util::DatagramPacket\lBase::getSocketAddress" alt="" coords="257,135,455,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="263,201,449,242"/>
+</map>

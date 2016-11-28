@@ -1,0 +1,4 @@
+<map id="nidas::util::EndianConverter" name="nidas::util::EndianConverter">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1FlipConverter.html" title="EndianConverter that flips bytes, used for conversion of little&#45;to&#45;big and big&#45;to&#45;little. " alt="" coords="5,80,179,107"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1NoFlipConverter.html" title="EndianConverter that doesn&#39;t flip bytes. " alt="" coords="203,80,396,107"/>
+</map>

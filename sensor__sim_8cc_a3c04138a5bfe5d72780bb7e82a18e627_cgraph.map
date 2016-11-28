@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classSensorSimApp.html#a427269c79d735f11e65b38914a3b47b6" title="SensorSimApp::main" alt="" coords="141,143,299,169"/>
+<area shape="rect" id="node7" href="$classSensorSimApp.html#a10aed38df6efbe6020fa868a30afd5ef" title="SensorSimApp::parseRunstring" alt="" coords="110,273,330,300"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SerialPort.html#a45e9b1f7e67beec30e3a524de43173e2" title="Static utility that creates a pseudo&#45;terminal, returning the file descriptor of the master side and c..." alt="" coords="403,5,557,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SerialOptions.html#abba71e4b26199e08ec62bcfe5f0e5465" title="Parse a string into a Termios object. " alt="" coords="392,70,568,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1SerialOptions.html#aee7c5bc3d4ba6eec9428844f4e61442b" title="nidas::util::SerialOptions\l::getTermios" alt="" coords="392,135,568,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="403,201,557,242"/>
+<area shape="rect" id="node8" href="$namespacenidas_1_1util.html#acccb588a1000e0dbe252c59a3a7f2a3a" title="Utility function for replacing backslash sequences in a string. " alt="" coords="379,266,581,307"/>
+<area shape="rect" id="node9" href="$classSensorSimApp.html#a429a86277d100e95cfb4759d1914409b" title="SensorSimApp::usage" alt="" coords="398,332,562,359"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1SerialOptions.html#a486f61663a1f35523abc52bba17ea00a" title="nidas::util::SerialOptions\l::usage" alt="" coords="629,325,805,366"/>
+</map>

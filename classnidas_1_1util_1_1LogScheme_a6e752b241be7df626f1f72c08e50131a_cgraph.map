@@ -1,0 +1,4 @@
+<map id="nidas::util::LogScheme::setShowFields" name="nidas::util::LogScheme::setShowFields">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogScheme.html#abf096193e761b41a18d874c628894e34" title="Set the fields to show in log messages and their order. " alt="" coords="222,5,389,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1LogScheme.html#aa6fd449e5a57914cdeaa3134492fb13e" title="Convert the name of a log information field to its enum, such as Logger::ThreadField. " alt="" coords="222,70,389,111"/>
+</map>

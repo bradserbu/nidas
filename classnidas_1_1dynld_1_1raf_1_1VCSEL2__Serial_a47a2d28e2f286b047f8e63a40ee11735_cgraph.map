@@ -1,0 +1,8 @@
+<map id="nidas::dynld::raf::VCSEL2_Serial::open" name="nidas::dynld::raf::VCSEL2_Serial::open">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="222,9,357,50"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="208,77,371,104"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="434,5,569,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="633,5,767,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="419,70,583,111"/>
+<area shape="rect" id="node7" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="468,136,535,163"/>
+</map>

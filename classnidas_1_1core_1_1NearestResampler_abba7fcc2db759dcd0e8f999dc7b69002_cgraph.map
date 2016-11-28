@@ -1,0 +1,3 @@
+<map id="nidas::core::NearestResampler::removeSampleClient" name="nidas::core::NearestResampler::removeSampleClient">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a2b73c9552b47124016bc783361c5f5a8" title="Remove a SampleClient from this SampleSource This will also remove a SampleClient if it has been adde..." alt="" coords="273,5,487,46"/>
+</map>

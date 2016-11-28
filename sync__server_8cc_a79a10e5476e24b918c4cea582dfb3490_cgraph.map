@@ -1,0 +1,12 @@
+<map id="setupSignals" name="setupSignals">
+<area shape="rect" id="node2" href="$sync__server_8cc.html#aa4c162de783bd6f3d9b9b2359ffb3a26" title="interrupt_sync_server" alt="" coords="157,81,317,108"/>
+<area shape="rect" id="node10" href="$dmd__mmat__test_8cc.html#aecb57712e6b25f9bfc3a56f52feb7176" title="setupSignals" alt="" coords="185,133,289,160"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a27fd7568c661941a038f623a96a61909" title="Interrupt this thread. " alt="" coords="366,71,525,113"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#a1da77fcda48cbee7ae54bd47ecc7bcf5" title="Interrupt this thread. " alt="" coords="822,6,957,47"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SamplePipeline.html#a329468be47cb4ac7d52cf91e4a6618f5" title="Interrupt the SampleSorters in this pipeline. " alt="" coords="574,71,773,113"/>
+<area shape="rect" id="node8" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a9051207b4b21e86fbffa1bc98ad2b3e3" title="nidas::dynld::raf::\lSyncServer::signalStop" alt="" coords="588,169,759,210"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="824,71,955,113"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="824,137,955,178"/>
+<area shape="rect" id="node9" href="$structnidas_1_1dynld_1_1raf_1_1StopSignal.html#a70ec7902c5ea1822bb26b6b0f72374de" title="nidas::dynld::raf::\lStopSignal::stop" alt="" coords="824,202,955,243"/>
+<area shape="rect" id="node11" href="$ck__mesa_8cc.html#ab7c178dc39d210d62b38ea60b55b9c37" title="sigAction" alt="" coords="405,137,485,164"/>
+</map>

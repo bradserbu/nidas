@@ -1,0 +1,8 @@
+<map id="nidas/core/Looper.h" name="nidas/core/Looper.h">
+<area shape="rect" id="node2" href="$LooperClient_8h.html" title="LooperClient.h" alt="" coords="203,80,317,107"/>
+<area shape="rect" id="node3" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="392,80,531,107"/>
+<area shape="rect" id="node8" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="153,163,281,189"/>
+<area shape="rect" id="node14" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="856,163,1027,189"/>
+<area shape="rect" id="node16" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="641,155,831,197"/>
+<area shape="rect" id="node5" href="$Exception_8h.html" title="Exception.h" alt="" coords="507,245,603,272"/>
+</map>

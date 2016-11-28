@@ -1,0 +1,8 @@
+<map id="Document::printSiteNames" name="Document::printSiteNames">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Site.html#ad4d2683952ca26ecb0a2310a62eb9790" title="nidas::core::Site::\lgetName" alt="" coords="271,5,404,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a50fd3eccc69ce8e057bc36e1a965415d" title="nidas::core::Project\l::getName" alt="" coords="265,70,409,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Site.html#aa5a980e760d66a7d2e7b50efa750fa8e" title="nidas::core::Site::\lgetNumber" alt="" coords="271,135,404,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Site.html#af3bb97417e699175bb9431c4b6b00d83" title="Provide pointer to Project. " alt="" coords="271,201,404,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Site.html#a03c9baf2d9b0633360916e73956490f2" title="nidas::core::Site::\lgetSuffix" alt="" coords="271,266,404,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="251,331,423,373"/>
+</map>

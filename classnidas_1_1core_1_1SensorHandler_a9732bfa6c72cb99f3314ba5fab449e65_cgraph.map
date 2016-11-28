@@ -1,0 +1,6 @@
+<map id="nidas::core::SensorHandler::calcStatistics" name="nidas::core::SensorHandler::calcStatistics">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a4a798281feccaea31f00e79d0297969f" title="Update the sensor sampling statistics. " alt="" coords="258,5,433,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SensorHandler.html#a224ca12c00e63e97e2fc0d64a63fa73e" title="nidas::core::SensorHandler\l::getAllSensors" alt="" coords="248,70,443,111"/>
+<area shape="rect" id="node5" href="$namespacenidas_1_1util.html#a9291980612f1aa0930fd5688c87f3ed6" title="Return smallest time that is an integral multiple of delta, that isn&#39;t less than or equal to argument..." alt="" coords="264,136,427,163"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleScanner.html#a5aface878344d63ea7e48bb12da0e6dc" title="Update the sensor sampling statistics: samples/sec, bytes/sec, min/max sample size, that can be accessed via getObservedSamplingRate(), getObservedDataRate() etc. " alt="" coords="491,5,693,46"/>
+</map>

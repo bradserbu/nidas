@@ -1,0 +1,5 @@
+<map id="nidas::dynld::AsciiOutput::AsciiOutput" name="nidas::dynld::AsciiOutput::AsciiOutput">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#a99ed3bd80a3a029e354fa1680c2b3573" title="nidas::core::SampleOutput\lBase::getIOChannel" alt="" coords="233,5,426,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="233,70,426,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleOutputBase.html#a2c2fe5e787de769f9604f68778afe397" title="nidas::core::SampleOutput\lBase::setName" alt="" coords="233,135,426,177"/>
+</map>

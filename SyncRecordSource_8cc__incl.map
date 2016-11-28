@@ -1,0 +1,35 @@
+<map id="nidas/dynld/raf/SyncRecordSource.cc" name="nidas/dynld/raf/SyncRecordSource.cc">
+<area shape="rect" id="node2" href="$SyncRecordSource_8h.html" title="SyncRecordSource.h" alt="" coords="2156,96,2309,123"/>
+<area shape="rect" id="node26" href="$Aircraft_8h.html" title="Aircraft.h" alt="" coords="1082,171,1162,197"/>
+<area shape="rect" id="node16" href="$SampleInput_8h.html" title="SampleInput.h" alt="" coords="1632,245,1746,272"/>
+<area shape="rect" id="node29" href="$Project_8h.html" title="nidas/core/Project.h" alt="" coords="1111,395,1258,421"/>
+<area shape="rect" id="node32" href="$DSMSensor_8h.html" title="nidas/core/DSMSensor.h" alt="" coords="612,320,790,347"/>
+<area shape="rect" id="node37" href="$Variable_8h.html" title="nidas/core/Variable.h" alt="" coords="89,320,244,347"/>
+<area shape="rect" id="node39" href="$CalFile_8h.html" title="nidas/core/CalFile.h" alt="" coords="2798,395,2942,421"/>
+<area shape="rect" id="node40" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="3158,469,3294,496"/>
+<area shape="rect" id="node47" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="2545,469,2684,496"/>
+<area shape="rect" id="node48" href="$Version_8h.html" title="nidas/core/Version.h" alt="" coords="3078,96,3228,123"/>
+<area shape="rect" id="node49" href="$SampleTracer_8h.html" title="nidas/core/SampleTracer.h" alt="" coords="3252,96,3442,123"/>
+<area shape="rect" id="node3" href="$Resampler_8h.html" title="nidas/core/Resampler.h" alt="" coords="1534,171,1705,197"/>
+<area shape="rect" id="node23" href="$SampleTag_8h.html" title="nidas/core/SampleTag.h" alt="" coords="1759,395,1933,421"/>
+<area shape="rect" id="node4" href="$SampleSource_8h.html" title="SampleSource.h" alt="" coords="1326,469,1454,496"/>
+<area shape="rect" id="node10" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="1958,395,2076,421"/>
+<area shape="rect" id="node5" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="1194,552,1309,579"/>
+<area shape="rect" id="node8" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="582,545,772,586"/>
+<area shape="rect" id="node11" href="$Sample_8h.html" title="Sample.h" alt="" coords="2708,469,2790,496"/>
+<area shape="rect" id="node15" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="1385,552,1556,579"/>
+<area shape="rect" id="node12" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="2490,552,2680,579"/>
+<area shape="rect" id="node17" href="$IOStream_8h.html" title="IOStream.h" alt="" coords="2100,395,2194,421"/>
+<area shape="rect" id="node18" href="$SampleSorter_8h.html" title="SampleSorter.h" alt="" coords="1340,320,1462,347"/>
+<area shape="rect" id="node22" href="$SampleInputHeader_8h.html" title="SampleInputHeader.h" alt="" coords="1990,320,2150,347"/>
+<area shape="rect" id="node19" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="1284,395,1462,421"/>
+<area shape="rect" id="node24" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="1042,469,1133,496"/>
+<area shape="rect" id="node27" href="$Site_8h.html" title="nidas/core/Site.h" alt="" coords="906,395,1034,421"/>
+<area shape="rect" id="node28" href="$Dictionary_8h.html" title="Dictionary.h" alt="" coords="870,469,966,496"/>
+<area shape="rect" id="node30" href="$Datasets_8h.html" title="Datasets.h" alt="" coords="428,469,520,496"/>
+<area shape="rect" id="node31" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="1991,469,2109,496"/>
+<area shape="rect" id="node33" href="$SampleScanner_8h.html" title="SampleScanner.h" alt="" coords="660,469,794,496"/>
+<area shape="rect" id="node34" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="545,469,636,496"/>
+<area shape="rect" id="node38" href="$VariableConverter_8h.html" title="VariableConverter.h" alt="" coords="1588,395,1734,421"/>
+<area shape="rect" id="node44" href="$EOFException_8h.html" title="nidas/util/EOFException.h" alt="" coords="1732,469,1914,496"/>
+</map>

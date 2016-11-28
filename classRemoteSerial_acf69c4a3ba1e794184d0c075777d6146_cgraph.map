@@ -1,0 +1,12 @@
+<map id="RemoteSerial::run" name="RemoteSerial::run">
+<area shape="rect" id="node2" href="$classRemoteSerial.html#ad80a384e93207421cfd2fbd0a09c8ce5" title="RemoteSerial::charout" alt="" coords="206,5,370,32"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Socket.html#a1a8c83e98fdea6d442a4e6ac6f5d2788" title="Fetch the file descriptor associate with this socket. " alt="" coords="221,57,355,98"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Socket.html#a5a124be1d5892e485f64db1794f8a283" title="Get remote address of this socket. " alt="" coords="190,122,386,163"/>
+<area shape="rect" id="node6" href="$classRemoteSerial.html#a0abd6248ef4906e2580bbe83ec0dbcca" title="It&#39;s time to quit. " alt="" coords="203,188,373,215"/>
+<area shape="rect" id="node3" href="$sing_8cc.html#a2e979734b0b9990f54aa1285db767d39" title="printf" alt="" coords="435,123,490,149"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Socket.html#a77c77339098363fd8a02abcddf4d175e" title="nidas::util::Socket\l::recv" alt="" coords="221,290,355,331"/>
+<area shape="rect" id="node8" href="$classRemoteSerial.html#a05cb185d0bc211ed9e61f6ebc1e38471" title="RemoteSerial::removeStdin" alt="" coords="189,356,387,383"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Socket.html#aa4ea5588dbb2a6d765cd660cbe64d941" title="send all data in buffer on socket, repeating send() as necessary, until all data is sent (or an excep..." alt="" coords="221,407,355,449"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="195,473,381,514"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="211,538,365,579"/>
+</map>

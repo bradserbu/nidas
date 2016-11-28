@@ -1,0 +1,10 @@
+<map id="pcmcom8_ioctl" name="pcmcom8_ioctl">
+<area shape="rect" id="node2" href="$pcmcom8_8c.html#a8524779f1697dc091f1dca3bd473c348" title="pcmcom8_enable_ports" alt="" coords="177,5,353,32"/>
+<area shape="rect" id="node3" href="$pcmcom8_8c.html#ad54e230cd512ed460e7c0de34d7e3135" title="pcmcom8_load_config\l_from_eeprom" alt="" coords="183,57,348,98"/>
+<area shape="rect" id="node6" href="$pcmcom8_8c.html#a6c7cc2640f7a32dd71f7c0c8af375c0a" title="pcmcom8_read_eeconfig" alt="" coords="406,123,589,149"/>
+<area shape="rect" id="node7" href="$pcmcom8_8c.html#aa4fe43ebc9ccafb1e19911df3bc89d6e" title="pcmcom8_write_config" alt="" coords="181,173,349,200"/>
+<area shape="rect" id="node8" href="$pcmcom8_8c.html#a3c24500bedd96990a662760bdc339e5a" title="pcmcom8_write_eeconfig" alt="" coords="173,224,357,251"/>
+<area shape="rect" id="node4" href="$pcmcom8_8c.html#a88dd1578f88b30bd6864b4ac473bc80f" title="pcmcom8_wait_eedone" alt="" coords="637,148,811,175"/>
+<area shape="rect" id="node5" href="$pcmcom8_8c.html#aefd2e03356c2377c5287b1a7b83befc8" title="pcmcom8_read_config" alt="" coords="414,72,581,99"/>
+<area shape="rect" id="node9" href="$pcmcom8_8c.html#a324f9c6a7d23a1909359b5ba671f4dfa" title="pcmcom8_write_eeprom" alt="" coords="407,224,587,251"/>
+</map>

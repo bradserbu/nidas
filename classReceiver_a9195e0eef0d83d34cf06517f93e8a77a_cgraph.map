@@ -1,0 +1,9 @@
+<map id="Receiver::scanBuffer" name="Receiver::scanBuffer">
+<area shape="rect" id="node2" href="$sing_8cc.html#adcf5725bbde1be54757ea9397494fe29" title="cksum" alt="" coords="265,5,329,32"/>
+<area shape="rect" id="node3" href="$classReceiver.html#a5a0c1ff76537e56155e1b487c50ee292" title="Receiver::reallocateBuffer" alt="" coords="205,56,389,83"/>
+<area shape="rect" id="node4" href="$classReceiver.html#a77e10924996be686277ef72804b1a675" title="Receiver::report" alt="" coords="236,107,359,133"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1SerialPort.html#ae4d09a43fe7d99a714858a88bdccd8fe" title="nidas::util::SerialPort\l::write" alt="" coords="221,158,374,199"/>
+<area shape="rect" id="node5" href="$classSender.html#ab4e6feba3b6a4e8faffe5ed0402f6e08" title="Sender::getKbytePerSec" alt="" coords="441,56,620,83"/>
+<area shape="rect" id="node6" href="$classReceiver.html#ac88bd92947a1428f2439e2b5071055ae" title="Receiver::getKbytePerSec" alt="" coords="438,107,623,133"/>
+<area shape="rect" id="node7" href="$classSender.html#a3a93496c2ba26432a2141db553432b57" title="Sender::getNout" alt="" coords="467,157,595,184"/>
+</map>

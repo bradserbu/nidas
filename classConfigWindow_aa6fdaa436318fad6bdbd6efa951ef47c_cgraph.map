@@ -1,0 +1,12 @@
+<map id="ConfigWindow::deleteA2DVariable" name="ConfigWindow::deleteA2DVariable">
+<area shape="rect" id="node2" href="$classNidasModel.html#a839b3d7903e9bfc7b48b663007fc115b" title="NidasModel::removeIndexes" alt="" coords="289,132,492,159"/>
+<area shape="rect" id="node11" href="$classDocument.html#a4dcddfe1c04faeed78b472a0edb41ddc" title="Document::setIsChangedBig" alt="" coords="289,183,493,209"/>
+<area shape="rect" id="node3" href="$classNidasModel.html#aa3fcdc2f107a9c1d62b1655a7f8375f4" title="NidasModel::index" alt="" coords="564,5,703,32"/>
+<area shape="rect" id="node5" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="795,56,949,83"/>
+<area shape="rect" id="node6" href="$classNidasModel.html#abf6ce7e736a182c2dfe5e3ded9cff572" title="NidasModel::removeRows" alt="" coords="541,107,725,133"/>
+<area shape="rect" id="node8" href="$classNidasItem.html#a1478aadaf025bf43bfb540cfe0f13e3d" title="NidasItem::row" alt="" coords="575,157,692,184"/>
+<area shape="rect" id="node9" href="$classNidasItem.html#a9d0ad16ace06c567c8bc911bbcdeccf2" title="NidasItem::parent" alt="" coords="565,208,702,235"/>
+<area shape="rect" id="node10" href="$classNidasItem.html#a24bdfe920cf1b5e070c1c9e7a0bbef0c" title="NidasItem::createIndex" alt="" coords="548,259,719,285"/>
+<area shape="rect" id="node4" href="$classNidasItem.html#a06208cd74e7d82d8f674820c43bfcea6" title="return the ith child of this item. " alt="" coords="810,5,934,32"/>
+<area shape="rect" id="node7" href="$classNidasItem.html#af5ddd83f6c88bf72e820746cf314a62c" title="NidasItem::removeChildren" alt="" coords="774,107,970,133"/>
+</map>

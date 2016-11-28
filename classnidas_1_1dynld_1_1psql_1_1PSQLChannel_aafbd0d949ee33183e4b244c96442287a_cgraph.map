@@ -1,0 +1,9 @@
+<map id="nidas::dynld::psql::PSQLChannel::connect" name="nidas::dynld::psql::PSQLChannel::connect">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1psql_1_1PSQLChannel.html#a227e865d6a4faa964e3c0890ee37a656" title="Clone method. " alt="" coords="269,38,427,79"/>
+<area shape="rect" id="node4" href="$classnidas_1_1dynld_1_1psql_1_1PSQLChannel.html#a9663da001db3d7b40a61e32deb5f7a9f" title="nidas::dynld::psql\l::PSQLChannel::connectDatabase" alt="" coords="229,135,467,177"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1psql_1_1PSQLChannel.html#a935818badb74252864c5c264f5ce87d4" title="nidas::dynld::psql\l::PSQLChannel::PSQLChannel" alt="" coords="515,5,725,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1dynld_1_1psql_1_1PSQLChannel.html#a1376286185778d8e44c307fd67365978" title="nidas::dynld::psql\l::PSQLChannel::getHost" alt="" coords="533,70,707,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1dynld_1_1psql_1_1PSQLChannel.html#accd4c27b1a3cbaa300cf95325bc29b05" title="nidas::dynld::psql\l::PSQLChannel::getDBName" alt="" coords="519,135,721,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1dynld_1_1psql_1_1PSQLChannel.html#a13cb0757a810c70a5b1cf8117f05016f" title="nidas::dynld::psql\l::PSQLChannel::getUser" alt="" coords="533,201,707,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1dynld_1_1psql_1_1PSQLChannel.html#aba93f0b16e90d0a1bedd5e37c877b5aa" title="nidas::dynld::psql\l::PSQLChannel::getName" alt="" coords="528,266,712,307"/>
+</map>

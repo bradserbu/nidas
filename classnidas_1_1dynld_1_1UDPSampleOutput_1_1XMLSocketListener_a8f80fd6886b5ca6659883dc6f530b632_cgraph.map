@@ -1,0 +1,9 @@
+<map id="nidas::dynld::UDPSampleOutput::XMLSocketListener::fireWorkers" name="nidas::dynld::UDPSampleOutput::XMLSocketListener::fireWorkers">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="299,5,493,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1UDPSampleOutput_1_1VariableListWorker.html#adfbfd14c1b7dffddb5a82f198f35ecec" title="Interrupt this thread. " alt="" coords="283,70,509,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="329,135,463,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="319,201,473,242"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="558,70,711,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="567,135,702,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="567,201,702,242"/>
+</map>

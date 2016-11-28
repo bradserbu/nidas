@@ -1,0 +1,8 @@
+<map id="nidas::core::SampleTracer::SampleTracer" name="nidas::core::SampleTracer::SampleTracer">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleMatcher.html#abc7548a11ac29d08b2eb22a6bf39ffed" title="Add a sample range using this syntax: " alt="" coords="241,5,442,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="274,70,409,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1LogScheme.html#ac10acc870b53b06982b6aeba256e22a9" title="Return the value of the parameter. " alt="" coords="258,135,425,177"/>
+<area shape="rect" id="node7" href="$group__LoggerSchemes.html#gacafd09879fe30a5e2045356b25211bfd" title="Get a copy of the scheme with the given name. " alt="" coords="274,201,409,242"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="491,70,626,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="675,70,810,111"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="nidas/apps/isff/datasets.cc" name="nidas/apps/isff/datasets.cc">
+<area shape="rect" id="node2" href="$Datasets_8h.html" title="nidas/core/Datasets.h" alt="" coords="1892,80,2055,107"/>
+<area shape="rect" id="node3" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="2114,230,2304,271"/>
+<area shape="rect" id="node7" href="$XMLException_8h.html" title="XMLException.h" alt="" coords="1967,237,2089,264"/>
+<area shape="rect" id="node10" href="$XMLParser_8h.html" title="XMLParser.h" alt="" coords="1073,155,1172,181"/>
+<area shape="rect" id="node5" href="$Exception_8h.html" title="Exception.h" alt="" coords="829,320,925,347"/>
+<area shape="rect" id="node11" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="78,237,268,264"/>
+<area shape="rect" id="node15" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="653,237,824,264"/>
+</map>

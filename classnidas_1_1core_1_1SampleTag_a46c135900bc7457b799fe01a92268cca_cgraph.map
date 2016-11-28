@@ -1,0 +1,6 @@
+<map id="nidas::core::SampleTag::SampleTag" name="nidas::core::SampleTag::SampleTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMConfig.html#a48cb5cb6024a9e23f6fd00f5c32c97d5" title="nidas::core::DSMConfig\l::getId" alt="" coords="227,5,397,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a2883f4452f6d9bdbdaefcca4c85c87a0" title="Get the various levels of the samples identification. " alt="" coords="225,70,399,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#a04570eacb965a6f2112589b9890918a8" title="Set the DSM portion of the id. " alt="" coords="227,135,397,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a0c1953e2384879d04e8121e101d4531c" title="Set the sensor portion of the shortId. " alt="" coords="227,201,397,242"/>
+</map>

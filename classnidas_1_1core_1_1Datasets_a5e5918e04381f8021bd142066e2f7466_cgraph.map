@@ -1,0 +1,6 @@
+<map id="nidas::core::Datasets::writeXML" name="nidas::core::Datasets::writeXML">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XMLImplementation.html#a490e7f74f7882a6f5134da46a25fabc6" title="nidas::core::XMLImplementation\l::getImplementation" alt="" coords="213,5,440,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DOMable.html#ab29a07ec9bb68342b8525c36079da761" title="nidas::core::DOMable\l::getNamespaceURI" alt="" coords="247,70,406,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1XMLWriter.html#a078cd66a4386939be05878919062c603" title="Format pretty&#45;print. " alt="" coords="246,135,407,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1XMLWriter.html#a69f1b14ff0f5fc34535aedd6d1122a6e" title="nidas::core::XMLWriter\l::write" alt="" coords="246,201,407,242"/>
+</map>

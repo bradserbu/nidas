@@ -1,0 +1,4 @@
+<map id="nidas::core::CharacterSensor::scanSample" name="nidas::core::CharacterSensor::scanSample">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1AsciiSscanf.html#ae0e33a5a33bad43ec84133b0db4beec2" title="nidas::core::AsciiSscanf\l::getNumberOfFields" alt="" coords="262,5,434,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1AsciiSscanf.html#ac2b3e8c5f06503c6994350c1b00118c4" title="scan input, storing up to nout number of values into output, as floats. " alt="" coords="262,70,434,111"/>
+</map>

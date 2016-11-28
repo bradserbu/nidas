@@ -1,0 +1,8 @@
+<map id="nidas::core::SensorIterator::hasNext" name="nidas::core::SensorIterator::hasNext">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="269,5,440,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="246,70,463,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="246,135,463,177"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="532,5,665,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="513,70,685,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="513,135,685,177"/>
+</map>

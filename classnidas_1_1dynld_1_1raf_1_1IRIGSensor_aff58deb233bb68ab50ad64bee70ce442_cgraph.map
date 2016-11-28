@@ -1,0 +1,5 @@
+<map id="nidas::dynld::raf::IRIGSensor::get100HzBacklog" name="nidas::dynld::raf::IRIGSensor::get100HzBacklog">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html#a507f3ca946601f9b21cc67df9035f028" title="Get a const void* pointer to the data portion of the sample. " alt="" coords="265,5,429,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Sample.html#a17dd8ec6246870ade99f6680a98525d2" title="Get the number of bytes in data portion of sample. " alt="" coords="269,70,424,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleHeader.html#aec57e900800863620fb79c225b947b75" title="Get the value of the length member of the header. " alt="" coords="478,70,674,111"/>
+</map>

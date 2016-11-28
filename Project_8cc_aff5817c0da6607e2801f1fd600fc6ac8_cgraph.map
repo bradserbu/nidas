@@ -1,0 +1,17 @@
+<map id="LogSchemeFromDOMElement" name="LogSchemeFromDOMElement">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogScheme.html#a66b794432baaae5b1565c6cba7b1e99f" title="Push a new LogConfig onto the list of existing configs. " alt="" coords="282,5,449,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1XDOMElement.html#a29ecd13811c96fc7ad8ee05b872f6624" title="nidas::core::XDOMElement\l::getAttributeValue" alt="" coords="269,70,461,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="298,135,433,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1XDOMElement.html#aa5cf2414389cde3adfac301a290b1a7f" title="nidas::core::XDOMElement\l::getNodeName" alt="" coords="269,201,461,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1LogScheme.html#add7cbe6fa9a98c9a8fb1cc03be68211d" title="LogScheme names must not be empty, so this method has no effect unless name.length() &gt; 0..." alt="" coords="282,266,449,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1LogScheme.html#abf096193e761b41a18d874c628894e34" title="Set the fields to show in log messages and their order. " alt="" coords="282,331,449,373"/>
+<area shape="rect" id="node10" href="$group__Logging.html#ga91e35110bf3d8a4c84120173a88385ed" title="Convert the name of a log level to its integer value. " alt="" coords="284,397,447,438"/>
+<area shape="rect" id="node11" href="$group__LoggerSchemes.html#gaea2ad0e75677ea39f2ad1ec19a5fdfd2" title="Update or insert this scheme in the collection of log configuration schemes. " alt="" coords="298,462,433,503"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="531,135,666,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="753,135,887,177"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1LogScheme.html#a813a21f922014b98e5e2fb6cc2ba666e" title="nidas::util::LogScheme\l::getName" alt="" coords="737,433,903,474"/>
+<area shape="rect" id="node13" href="$structnidas_1_1util_1_1LoggerPrivate.html#aec9297d0b1f9f1be521721aef3f25c94" title="nidas::util::LoggerPrivate\l::reconfig" alt="" coords="509,491,688,533"/>
+<area shape="rect" id="node14" href="$Logger_8cc.html#ae52bc141b722f755c92f440b46292544" title="stream_backtrace" alt="" coords="751,499,889,525"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1LogScheme.html#aa379dfa5732328a0eea5af7d30c6faf0" title="Return a comma&#45;separated string describing the list of fields to be shown by this scheme..." alt="" coords="737,550,903,591"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1LogScheme.html#a18c7dcd737947a97891d61588b49b295" title="Convert a LogField to its lower&#45;case string name. " alt="" coords="953,550,1119,591"/>
+</map>

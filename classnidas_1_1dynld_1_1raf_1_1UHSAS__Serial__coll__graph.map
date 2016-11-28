@@ -1,0 +1,42 @@
+<map id="nidas::dynld::raf::UHSAS_Serial" name="nidas::dynld::raf::UHSAS_Serial">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1DSMSerialSensor.html" title="A sensor connected to a serial port. " alt="" coords="2745,1620,2962,1647"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SerialSensor.html" title="Support for a sensor that is sending packets on a TCP socket, a UDP socket, a Bluetooth RF Comm socke..." alt="" coords="2512,1596,2693,1623"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1CharacterSensor.html" title="Implementation of support for a sensor which generates character output. " alt="" coords="2160,1515,2368,1541"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html" title="DSMSensor provides the basic support for reading, processing and distributing samples from a sensor a..." alt="" coords="1823,1031,1998,1057"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMSensor_1_1MyDictionary.html" title="nidas::core::DSMSensor\l::MyDictionary" alt="" coords="2177,978,2351,1019"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1SampleTag.html" title="Class describing a group of variables that are sampled and handled together. " alt="" coords="2179,707,2349,733"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="681,1133,876,1160"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1SampleSourceSupport.html" title="A source of samples. " alt="" coords="1132,1170,1327,1211"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="1539,1215,1725,1241"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,165,182,192"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMConfig.html" title="Class that should include all that is configurable about a DSM. " alt="" coords="1547,479,1717,505"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1Site.html" title="A measurement site. " alt="" coords="1167,287,1292,313"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1Project.html" title="nidas::core::Project" alt="" coords="707,384,851,411"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="308,347,487,373"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="299,195,495,221"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements, keyed by the ID attributes. " alt="" coords="300,245,495,272"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="21,513,185,540"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1DSMConfig_1_1MyDictionary.html" title="nidas::core::DSMConfig\l::MyDictionary" alt="" coords="1144,494,1315,535"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="325,449,469,490"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="1565,137,1699,178"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="332,1444,463,1471"/>
+<area shape="rect" id="node27" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="711,1297,846,1324"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1Looper.html" title="Looper is a Thread that periodically loops, calling the LooperClient::looperNotify() method of Looper..." alt="" coords="1157,1317,1301,1344"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1Sample.html" title="Interface to a data sample. " alt="" coords="704,991,853,1017"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1SampleClientList.html" title="A list of SampleClients. " alt="" coords="675,1348,882,1375"/>
+<area shape="rect" id="node43" href="$classnidas_1_1util_1_1EndianConverter.html" title="Virtual base class declaring methods for converting numeric values between little&#45;endian and big&#45;endi..." alt="" coords="907,1597,1104,1624"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,1724,199,1751"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1IODevice.html" title="An interface to an IO device. " alt="" coords="1554,1265,1710,1292"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1UnixIODevice.html" title="A basic Unix I/O device, such as a named pipe, or a watched file. " alt="" coords="1819,1505,2003,1532"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1Dataset.html" title="A Dataset is a named collection of parameters, that are used in data processing. " alt="" coords="322,515,473,541"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="321,1301,474,1328"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1SampleScanner.html" title="A scanner of sample data. " alt="" coords="1128,968,1331,995"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="1136,561,1323,588"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="323,1173,472,1200"/>
+<area shape="rect" id="node33" href="$structdsm__sample.html" title="dsm_sample" alt="" coords="727,889,831,916"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1SampleHeader.html" title="The header fields of a Sample: a time_tag, a data length field, and an identifier. " alt="" coords="299,991,495,1017"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1SampleStats.html" title="A source of samples. " alt="" coords="687,1184,870,1211"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1SerialPortIODevice.html" title="A serial port. " alt="" coords="2155,1565,2373,1592"/>
+<area shape="rect" id="node41" href="$classnidas_1_1util_1_1Termios.html" title="A class providing get/set methods into a termios structure. " alt="" coords="1841,1616,1981,1643"/>
+<area shape="rect" id="node42" href="$structnidas_1_1util_1_1Termios_1_1baudtable.html" title="nidas::util::Termios\l::baudtable" alt="" coords="1562,1609,1702,1650"/>
+</map>

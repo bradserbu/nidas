@@ -1,0 +1,45 @@
+<map id="StatsProcess::getStatisticsProcessor" name="StatsProcess::getStatisticsProcessor">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Project.html#a0443ac1c1d903e8d6c757ee47aec46df" title="Find a DSM whose name corresponds to a given IP address. " alt="" coords="281,561,425,602"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1Project.html#a800cc31017656c5ad7e786ac259151f8" title="Look for a server for this project that either has no name or whose name matches hostname. " alt="" coords="281,1145,425,1186"/>
+<area shape="rect" id="node32" href="$classnidas_1_1dynld_1_1StatisticsProcessor.html#a7700e50d3a00e2da471416107286d5eb" title="nidas::dynld::Statistics\lProcessor::getPeriod" alt="" coords="271,1225,436,1266"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1DSMServer.html#a7b51301cff3a163d611b754a5937bedb" title="nidas::core::DSMServer\l::getProcessorIterator" alt="" coords="267,1290,439,1331"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1DSMConfig.html#acf09a395acbf908b2b58fd63c1282233" title="nidas::core::DSMConfig\l::getProcessorIterator" alt="" coords="268,1355,439,1397"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1ProcessorIterator.html#a74f6dfcf9bcd9c22b76965e066ea1139" title="nidas::core::ProcessorIterator\l::hasNext" alt="" coords="248,1427,459,1469"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1ProcessorIterator.html#a47af38621d246014dc1ac1d1299c6880" title="nidas::core::ProcessorIterator\l::next" alt="" coords="248,1493,459,1534"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a62b93c98e06cc2490e0af224ecbebb25" title="nidas::core::Project\l::getSiteIterator" alt="" coords="547,737,691,778"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="1046,1229,1218,1270"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Site.html#ad4d2683952ca26ecb0a2310a62eb9790" title="nidas::core::Site::\lgetName" alt="" coords="552,802,685,843"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Inet4Address.html#a0955351978950ff32c1daa6dcc13764c" title="Return string containing address in dot notation: w.x.y.z. " alt="" coords="531,867,706,909"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Site.html#ac6ead0d977ccc1649824d4a787cadf23" title="Find a DSM whose name corresponds to a given IP address. " alt="" coords="552,619,685,661"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#aa80ff0dbcf32731fc28060984f776b0a" title="Return an Inet4NetworkInterface corresponding to the given address. " alt="" coords="531,135,706,177"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#ad0f3fa4558fd15dddc13bcd8f03694ca" title="The index of the interface. " alt="" coords="531,255,706,297"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="542,321,695,362"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Project.html#a4e2c0dfbc18e47558b7cae836b3f8542" title="nidas::core::Project\l::getDSMConfigIterator" alt="" coords="535,386,703,427"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Inet4Address.html#a1c06514b1b23c2a00e43b48754cf7cce" title="Static method returning a list of addresses for a name. " alt="" coords="801,951,975,993"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="803,619,973,661"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#ae4d3d28f7d055a862a79b7ede897f8c4" title="The name of the interface: like &quot;lo&quot;, &quot;eth0&quot;, etc. " alt="" coords="801,201,975,242"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="551,451,686,493"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="537,517,700,544"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Socket.html#af6cb57ba5939351bcc94e17fad89f3ab" title="Get a list of all my network interfaces. " alt="" coords="821,135,955,177"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Socket.html#a170b8a45ba456cc0d24b99b3b2b5c6ba" title="nidas::util::Socket\l::close" alt="" coords="821,5,955,46"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#af41346d3d0a166c501c77dc94cb1e891" title="The IPV4 address of the interface. " alt="" coords="801,70,975,111"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="821,437,955,478"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="1065,437,1199,478"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="806,502,970,543"/>
+<area shape="rect" id="node23" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="855,568,921,595"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1Project.html#a2a740663dd2a3cd8c2774d23fa19d12f" title="nidas::core::Project\l::getDSMServerIterator" alt="" coords="803,1049,973,1090"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1DSMServerIterator.html#ae42855375cc6bba9005970e063b7e573" title="nidas::core::DSMServerIterator\l::hasNext" alt="" coords="779,1195,997,1237"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1DSMServerIterator.html#a8ff1a50cc6c5efc324e32cec369b31d1" title="nidas::core::DSMServerIterator\l::next" alt="" coords="779,1261,997,1302"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1DSMServer.html#a8b8207ba16507d1d31efa1275e24e538" title="nidas::core::DSMServer\l::getName" alt="" coords="802,1125,974,1166"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1Project.html#a8aab87273839658e8494ae00e5f23b3f" title="nidas::core::Project\l::findServer" alt="" coords="547,1086,691,1127"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="1046,1305,1218,1346"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1Site.html#a683b10f50e5cf60759c6507f7d523751" title="nidas::core::Site::\lgetServers" alt="" coords="1065,1163,1199,1205"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1DSMServiceIterator.html#ab18f70c36cfbd0bb425545224c796afd" title="nidas::core::DSMServiceIterator\l::hasNext" alt="" coords="507,1370,731,1411"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1DSMServiceIterator.html#ad782a68a992e686b1e111a002bc5e160" title="nidas::core::DSMServiceIterator\l::next" alt="" coords="507,1618,731,1659"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1DSMService.html#acca64a915e14c7cfe739681d582f2e44" title="nidas::core::DSMService\l::getProcessors" alt="" coords="530,1305,707,1346"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="779,1413,997,1454"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="510,1435,727,1477"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1DSMConfig.html#abad2c5a48e6a470fbdea70c477e76287" title="nidas::core::DSMConfig\l::getProcessors" alt="" coords="533,1501,704,1542"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1DSMServer.html#a15c34947133e2d6d322d24f9f6b713b7" title="nidas::core::DSMServer\l::getServices" alt="" coords="802,1347,974,1389"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="1065,1413,1199,1454"/>
+</map>

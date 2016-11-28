@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classnidas_1_1util_1_1EndianConverter.html" title="Virtual base class declaring methods for converting numeric values between little&#45;endian and big&#45;endi..." alt="" coords="5,31,203,57"/>
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1FlipConverter.html" title="EndianConverter that flips bytes, used for conversion of little&#45;to&#45;big and big&#45;to&#45;little. " alt="" coords="261,5,435,32"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1NoFlipConverter.html" title="EndianConverter that doesn&#39;t flip bytes. " alt="" coords="251,56,445,83"/>
+</map>

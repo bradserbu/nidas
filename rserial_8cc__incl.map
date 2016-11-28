@@ -1,0 +1,27 @@
+<map id="nidas/apps/rserial.cc" name="nidas/apps/rserial.cc">
+<area shape="rect" id="node2" href="$DSMSerialSensor_8h.html" title="nidas/dynld/DSMSerialSensor.h" alt="" coords="402,80,621,107"/>
+<area shape="rect" id="node23" href="$util_2Socket_8h.html" title="nidas/util/Socket.h" alt="" coords="1389,80,1528,107"/>
+<area shape="rect" id="node44" href="$auto__ptr_8h.html" title="nidas/util/auto_ptr.h" alt="" coords="2217,80,2364,107"/>
+<area shape="rect" id="node3" href="$SerialSensor_8h.html" title="nidas/core/SerialSensor.h" alt="" coords="403,155,587,181"/>
+<area shape="rect" id="node4" href="$CharacterSensor_8h.html" title="CharacterSensor.h" alt="" coords="953,304,1095,331"/>
+<area shape="rect" id="node14" href="$LooperClient_8h.html" title="LooperClient.h" alt="" coords="267,229,381,256"/>
+<area shape="rect" id="node15" href="$SerialPortIODevice_8h.html" title="SerialPortIODevice.h" alt="" coords="405,229,557,256"/>
+<area shape="rect" id="node5" href="$DSMSensor_8h.html" title="DSMSensor.h" alt="" coords="1134,379,1241,405"/>
+<area shape="rect" id="node11" href="$Prompt_8h.html" title="Prompt.h" alt="" coords="1235,453,1316,480"/>
+<area shape="rect" id="node13" href="$util_2util_8h.html" title="nidas/util/util.h" alt="" coords="995,379,1109,405"/>
+<area shape="rect" id="node6" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="867,453,1037,480"/>
+<area shape="rect" id="node8" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="1337,528,1495,555"/>
+<area shape="rect" id="node16" href="$UnixIODevice_8h.html" title="UnixIODevice.h" alt="" coords="325,304,443,331"/>
+<area shape="rect" id="node21" href="$Termios_8h.html" title="nidas/util/Termios.h" alt="" coords="637,304,781,331"/>
+<area shape="rect" id="node18" href="$IOTimeoutException_8h.html" title="nidas/util/IOTimeoutException.h" alt="" coords="123,379,345,405"/>
+<area shape="rect" id="node17" href="$EOFException_8h.html" title="nidas/util/EOFException.h" alt="" coords="478,379,660,405"/>
+<area shape="rect" id="node24" href="$Inet4SocketAddress_8h.html" title="Inet4SocketAddress.h" alt="" coords="1727,229,1889,256"/>
+<area shape="rect" id="node31" href="$Inet4NetworkInterface_8h.html" title="Inet4NetworkInterface.h" alt="" coords="1119,304,1293,331"/>
+<area shape="rect" id="node32" href="$Inet4PacketInfo_8h.html" title="Inet4PacketInfo.h" alt="" coords="1043,155,1173,181"/>
+<area shape="rect" id="node33" href="$UnixSocketAddress_8h.html" title="UnixSocketAddress.h" alt="" coords="859,155,1017,181"/>
+<area shape="rect" id="node26" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="1742,379,1860,405"/>
+<area shape="rect" id="node35" href="$DatagramPacket_8h.html" title="DatagramPacket.h" alt="" coords="1949,155,2091,181"/>
+<area shape="rect" id="node25" href="$SocketAddress_8h.html" title="SocketAddress.h" alt="" coords="1640,304,1771,331"/>
+<area shape="rect" id="node27" href="$UnknownHostException_8h.html" title="UnknownHostException.h" alt="" coords="1341,453,1525,480"/>
+<area shape="rect" id="node28" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="1550,453,1740,480"/>
+</map>

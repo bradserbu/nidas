@@ -1,0 +1,17 @@
+<map id="nidas::dynld::isff::WisardMote::createSampleTag" name="nidas::dynld::isff::WisardMote::createSampleTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#adb0e42568c0a11b93d0a50249caa9863" title="Add a variable to this SampleTag. " alt="" coords="280,5,451,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a1d2634ee66c9d70efcdda17e8cfce649" title="Utility function to expand ${TOKEN} or $TOKEN fields in a string with their value from getTokenValue(..." alt="" coords="293,70,437,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="293,135,437,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="290,201,441,242"/>
+<area shape="rect" id="node7" href="$namespacenidas_1_1util.html#abc50f52ecbe9d814693ae36d19bba7ac" title="nidas::util::replaceChars" alt="" coords="278,267,453,293"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Variable.html#a1287551188b027a7da3e2bf217444082" title="A dynamic variable is one that can come and go. " alt="" coords="290,318,441,359"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Variable.html#afe3704a78baa6788e735cebe3d264506" title="nidas::core::Variable\l::setLength" alt="" coords="290,383,441,425"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Variable.html#a8f4c4db9944a63fa3f1c2a6787cce368" title="Descriptive, long name, e.g. " alt="" coords="290,449,441,490"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Variable.html#a5f4fb95e6cc453a415a12d47052f068c" title="Set the full name. " alt="" coords="290,514,441,555"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Variable.html#aa800b570cc19b2e0b370d352b74baeb0" title="nidas::core::Variable\l::setPlotRange" alt="" coords="290,579,441,621"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleTag.html#aa5d96c63244aa51ce7bda046a818b36c" title="Set the sample portion of the shortId. " alt="" coords="280,645,451,686"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Variable.html#aa487faa9a2b4def6a2786158a6b8fbc3" title="The string discription of the units for this variable. " alt="" coords="290,710,441,751"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="289,775,442,817"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Dictionary.html#a139ecff9b24fd85055c676f53b2c9981" title="Utility function that scans a string for tokens like ${XXXX}, or $XXX followed by any characters from..." alt="" coords="513,70,677,111"/>
+<area shape="rect" id="node8" href="$namespacenidas_1_1util.html#aab066de0601932ef00d1f42aea338b2f" title="Replace all occurences of pat in string in with rep. " alt="" coords="501,267,688,293"/>
+</map>

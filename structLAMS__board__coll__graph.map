@@ -1,0 +1,4 @@
+<map id="LAMS_board" name="LAMS_board">
+<area shape="rect" id="node2" href="$structbh__data.html" title="bh_data" alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$structlams__status.html" title="lams_status" alt="" coords="105,5,204,32"/>
+</map>

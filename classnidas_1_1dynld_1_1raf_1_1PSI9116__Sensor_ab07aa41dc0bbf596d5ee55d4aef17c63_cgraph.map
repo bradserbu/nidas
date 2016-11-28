@@ -1,0 +1,4 @@
+<map id="nidas::dynld::raf::PSI9116_Sensor::buildIODevice" name="nidas::dynld::raf::PSI9116_Sensor::buildIODevice">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1TCPSocketIODevice.html#ad4654471df6da828d3d64e3b7bd7cd33" title="nidas::core::TCPSocketIODevice\l::setKeepAliveIdleSecs" alt="" coords="275,5,498,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1TCPSocketIODevice.html#a7087ed1c97a15eb13da85ef6b667a5af" title="nidas::core::TCPSocketIODevice\l::setTcpNoDelay" alt="" coords="275,70,498,111"/>
+</map>

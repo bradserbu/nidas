@@ -1,0 +1,4 @@
+<map id="nidas::core::SampleTimetagComparator::operator()" name="nidas::core::SampleTimetagComparator::operator()">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="256,5,405,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="454,5,650,46"/>
+</map>

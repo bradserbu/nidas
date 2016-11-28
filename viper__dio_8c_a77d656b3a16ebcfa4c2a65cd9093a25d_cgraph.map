@@ -1,0 +1,7 @@
+<map id="viper_dio_ioctl" name="viper_dio_ioctl">
+<area shape="rect" id="node2" href="$viper__dio_8c.html#ab6eb7c36ed7640e1047b9db36a906e47" title="clear_douts" alt="" coords="325,107,421,134"/>
+<area shape="rect" id="node3" href="$viper__dio_8c.html#a216cfd1db6c2e15cdc0e1e5f371e2a27" title="get_dins" alt="" coords="183,31,259,58"/>
+<area shape="rect" id="node4" href="$viper__dio_8c.html#abb49aaa34391d09498b836d94b54a1a6" title="get_douts" alt="" coords="178,82,265,108"/>
+<area shape="rect" id="node5" href="$viper__dio_8c.html#ad1300a2afed8bcacaadb0a32c8f97c63" title="set_douts" alt="" coords="331,170,416,196"/>
+<area shape="rect" id="node6" href="$viper__dio_8c.html#a93e664aa44e888a5a4fd86e9ad91c6b3" title="set_douts_val" alt="" coords="166,132,277,159"/>
+</map>

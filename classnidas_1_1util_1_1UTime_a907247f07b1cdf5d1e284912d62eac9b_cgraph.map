@@ -1,0 +1,5 @@
+<map id="nidas::util::UTime::UTime" name="nidas::util::UTime::UTime">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1UTime.html#a0804de8dd0811912b87a0c09c92032b6" title="Convert a unsigned value in seconds to a value in the units of UTime. " alt="" coords="187,5,319,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1UTime.html#a364c9ab0feb57a83629e5ef5d491e6db" title="Return number of non&#45;leap micro&#45;seconds since Jan 1970 00:00 UTC computed from time fields in a struc..." alt="" coords="187,70,319,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html#a78aba4b6b51fdb3781638783fdf0e086" title="nidas::util::UTime::tm" alt="" coords="369,107,527,133"/>
+</map>

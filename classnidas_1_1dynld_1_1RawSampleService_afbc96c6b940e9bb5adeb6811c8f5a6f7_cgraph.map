@@ -1,0 +1,30 @@
+<map id="nidas::dynld::RawSampleService::schedule" name="nidas::dynld::RawSampleService::schedule">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleIOProcessor.html#aa7007c256de65697462fbbc9a321a667" title="Connect a SampleSource to this SampleIOProcessor. " alt="" coords="281,5,506,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="326,70,461,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleIOProcessor.html#af24754577ceefa599a1f6851ea3054e0" title="nidas::core::SampleIOProcessor\l::getName" alt="" coords="281,135,506,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor.html#a30b06089f81376514c7d42f80572090a" title="Implementation of SampleSource::getProcessedSampleSource(). " alt="" coords="288,201,499,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMSensor.html#a4968783c9c102956a9d8a60f9a241587" title="Implementation of SampleSource::getRawSampleSource(). " alt="" coords="306,266,481,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleSource.html#a6cea33f80e6e4826485280e5a30ed1b7" title="What SampleTags am I a SampleSource for? " alt="" coords="296,331,491,373"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1DSMServer.html#abb27479b882457f77f3df3dd4b9362db" title="nidas::core::DSMServer\l::getSensorIterator" alt="" coords="307,397,479,438"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="297,462,489,503"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1SampleIOProcessor.html#aed1f229bfc4e1a76d3280db86706838c" title="nidas::core::SampleIOProcessor\l::init" alt="" coords="281,527,506,569"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1SampleIOProcessor.html#a400e904f4253da7d777e619cf1ed8b86" title="nidas::core::SampleIOProcessor\l::isOptional" alt="" coords="281,593,506,634"/>
+<area shape="rect" id="node23" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="312,659,475,685"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1SensorIterator.html#ad941790929716a792881727f02b6c792" title="nidas::core::SensorIterator\l::next" alt="" coords="297,710,489,751"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1SampleInput.html#a20f2db8963c50ddb9897917b0bd0ae46" title="nidas::core::SampleInput\l::requestConnection" alt="" coords="303,775,484,817"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="327,841,459,882"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="317,906,470,947"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="597,70,731,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="841,70,975,111"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Project.html#a26bf0d84eab694cd72d9ca3927709f4e" title="nidas::core::Project\l::getSensorIterator" alt="" coords="592,262,736,303"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Site.html#adfdb34c89f1dd28a9d7744627ebde449" title="nidas::core::Site::\lgetSensorIterator" alt="" coords="597,327,731,369"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMServer.html#aba2f652b49abb6a0a324064152445ca2" title="nidas::core::DSMServer\l::getSite" alt="" coords="578,393,750,434"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="579,458,749,499"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="555,523,773,565"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="555,589,773,630"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="841,458,975,499"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="822,523,994,565"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="822,589,994,630"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="582,654,746,695"/>
+<area shape="rect" id="node25" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="631,720,697,747"/>
+</map>

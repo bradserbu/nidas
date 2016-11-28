@@ -1,0 +1,3 @@
+<map id="nidas::core::DSMEngineIntf::SensorAction::execute" name="nidas::core::DSMEngineIntf::SensorAction::execute">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a9f8c1ef6c70323a350ca5cc4536d34e9" title="Method invoked when the DSMEngineIntf XmlRpcServer receives a &quot;SensorAction&quot; request, with a &quot;device&quot; string matching the string that this DSMSensor registers via DSMEngine::registerSensorWithXmlRpc(string,DSMServer*). " alt="" coords="249,5,423,46"/>
+</map>

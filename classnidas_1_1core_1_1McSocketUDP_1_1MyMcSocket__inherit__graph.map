@@ -1,0 +1,4 @@
+<map id="nidas::core::McSocketUDP::MyMcSocket" name="nidas::core::McSocketUDP::MyMcSocket">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1McSocket.html" title="nidas::util::McSocket\l\&lt; nidas::util::DatagramSocket \&gt;" alt="" coords="5,113,235,154"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1McSocket.html" title="A McSocket provides a way to establish a TCP stream socket connection, or a pair of UDP datagram sock..." alt="" coords="43,6,196,47"/>
+</map>

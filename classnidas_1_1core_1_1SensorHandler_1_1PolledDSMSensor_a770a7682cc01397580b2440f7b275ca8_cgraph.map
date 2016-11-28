@@ -1,0 +1,6 @@
+<map id="nidas::core::SensorHandler::PolledDSMSensor::getName" name="nidas::core::SensorHandler::PolledDSMSensor::getName">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="265,38,439,79"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="489,5,663,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="489,70,663,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="712,70,883,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="nidas::dynld::DSC_A2DSensor::open" name="nidas::dynld::DSC_A2DSensor::open">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1A2DSensor.html#ad221a3ccb387b3a7f11b47ce7f47b7d7" title="Open the device connected to the sensor. " alt="" coords="267,5,445,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="494,5,669,46"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="nidas::dynld::isff::CSAT3_Sonic::process" name="nidas::dynld::isff::CSAT3_Sonic::process">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1VariableConverter.html#a5d053639cbcb435c9f334d14556e871f" title="nidas::core::VariableConverter\l::convert" alt="" coords="225,5,439,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a93633805e3605f24f1041b004b1cf1e0" title="nidas::core::Variable\l::getConverter" alt="" coords="257,70,407,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="254,135,410,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="247,201,417,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="257,266,407,307"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="247,331,417,373"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="257,397,407,438"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="257,462,407,503"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="489,266,685,307"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="489,397,685,438"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="489,462,685,503"/>
+</map>

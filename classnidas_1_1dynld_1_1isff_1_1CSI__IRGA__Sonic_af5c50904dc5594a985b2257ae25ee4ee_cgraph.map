@@ -1,0 +1,5 @@
+<map id="nidas::dynld::isff::CSI_IRGA_Sonic::open" name="nidas::dynld::isff::CSI_IRGA_Sonic::open">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SerialSensor.html#a91e710748776717d457cf9374bf0b743" title="Open the device connected to the sensor. " alt="" coords="224,5,405,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1CharacterSensor.html#ac47fdba4319ca33f6ad9feb05bf66fbd" title="Open the sensor device port for real&#45;time sampling. " alt="" coords="453,5,661,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="710,5,885,46"/>
+</map>

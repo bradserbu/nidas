@@ -1,0 +1,15 @@
+<map id="DSMItem::removeChild" name="DSMItem::removeChild">
+<area shape="rect" id="node2" href="$classSensorItem.html#a3c29f03d3ecd1b9ae93a1bac0592d661" title="SensorItem::devicename" alt="" coords="229,5,411,32"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1XDOMElement.html#a29ecd13811c96fc7ad8ee05b872f6624" title="nidas::core::XDOMElement\l::getAttributeValue" alt="" coords="224,57,416,98"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="233,122,407,163"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1XDOMElement.html#aa5cf2414389cde3adfac301a290b1a7f" title="nidas::core::XDOMElement\l::getNodeName" alt="" coords="224,187,416,229"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMConfig.html#a2fcc717412637bf0bd9e03a146cfa3ad" title="nidas::core::DSMConfig\l::getSensorIterator" alt="" coords="235,253,405,294"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="224,318,416,359"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DSMConfig.html#a0048fc9df9e7db1d949b07bc15924e9e" title="nidas::core::DSMConfig\l::removeSensor" alt="" coords="235,383,405,425"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="465,253,682,294"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="465,318,682,359"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="488,383,659,425"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="731,187,903,229"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="731,253,903,294"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="751,318,884,359"/>
+</map>

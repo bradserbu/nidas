@@ -1,0 +1,11 @@
+<map id="nidas/core/AdaptiveDespiker.h" name="nidas/core/AdaptiveDespiker.h">
+<area shape="rect" id="node2" href="$AdaptiveDespiker_8cc.html" title="nidas/core/AdaptiveDespiker.cc" alt="" coords="5,80,227,107"/>
+<area shape="rect" id="node3" href="$SonicAnemometer_8h.html" title="nidas/dynld/isff/SonicAnemometer.h" alt="" coords="251,80,501,107"/>
+<area shape="rect" id="node4" href="$ATIK__Sonic_8h.html" title="nidas/dynld/isff/ATIK\l_Sonic.h" alt="" coords="124,155,271,197"/>
+<area shape="rect" id="node6" href="$CSAT3__Sonic_8h.html" title="nidas/dynld/isff/CSAT3\l_Sonic.h" alt="" coords="295,155,456,197"/>
+<area shape="rect" id="node10" href="$SonicAnemometer_8cc.html" title="nidas/dynld/isff/SonicAnemometer.cc" alt="" coords="481,163,737,189"/>
+<area shape="rect" id="node5" href="$ATIK__Sonic_8cc.html" title="nidas/dynld/isff/ATIK\l_Sonic.cc" alt="" coords="124,246,271,287"/>
+<area shape="rect" id="node7" href="$CSAT3__Sonic_8cc.html" title="nidas/dynld/isff/CSAT3\l_Sonic.cc" alt="" coords="295,246,456,287"/>
+<area shape="rect" id="node8" href="$CSI__IRGA__Sonic_8h.html" title="nidas/dynld/isff/CSI\l_IRGA_Sonic.h" alt="" coords="481,246,623,287"/>
+<area shape="rect" id="node9" href="$CSI__IRGA__Sonic_8cc.html" title="nidas/dynld/isff/CSI\l_IRGA_Sonic.cc" alt="" coords="481,337,623,378"/>
+</map>

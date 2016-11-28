@@ -1,0 +1,18 @@
+<map id="nidas/util/Socket.cc" name="nidas/util/Socket.cc">
+<area shape="rect" id="node3" href="$util_2Socket_8h.html" title="Socket.h" alt="" coords="1359,80,1437,107"/>
+<area shape="rect" id="node4" href="$Inet4SocketAddress_8h.html" title="Inet4SocketAddress.h" alt="" coords="651,229,814,256"/>
+<area shape="rect" id="node22" href="$UnixSocketAddress_8h.html" title="UnixSocketAddress.h" alt="" coords="1065,155,1223,181"/>
+<area shape="rect" id="node24" href="$EOFException_8h.html" title="EOFException.h" alt="" coords="1624,155,1745,181"/>
+<area shape="rect" id="node35" href="$IOTimeoutException_8h.html" title="IOTimeoutException.h" alt="" coords="1675,229,1835,256"/>
+<area shape="rect" id="node36" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="383,379,461,405"/>
+<area shape="rect" id="node42" href="$time__constants_8h.html" title="time_constants.h" alt="" coords="2222,80,2355,107"/>
+<area shape="rect" id="node18" href="$Inet4NetworkInterface_8h.html" title="Inet4NetworkInterface.h" alt="" coords="1275,229,1449,256"/>
+<area shape="rect" id="node21" href="$Inet4PacketInfo_8h.html" title="Inet4PacketInfo.h" alt="" coords="910,155,1041,181"/>
+<area shape="rect" id="node6" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="1023,379,1141,405"/>
+<area shape="rect" id="node19" href="$IOException_8h.html" title="IOException.h" alt="" coords="1405,304,1514,331"/>
+<area shape="rect" id="node25" href="$DatagramPacket_8h.html" title="DatagramPacket.h" alt="" coords="662,155,803,181"/>
+<area shape="rect" id="node5" href="$SocketAddress_8h.html" title="SocketAddress.h" alt="" coords="1017,304,1147,331"/>
+<area shape="rect" id="node7" href="$UnknownHostException_8h.html" title="UnknownHostException.h" alt="" coords="1177,453,1361,480"/>
+<area shape="rect" id="node11" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="793,453,922,480"/>
+<area shape="rect" id="node9" href="$Exception_8h.html" title="Exception.h" alt="" coords="1227,528,1323,555"/>
+</map>

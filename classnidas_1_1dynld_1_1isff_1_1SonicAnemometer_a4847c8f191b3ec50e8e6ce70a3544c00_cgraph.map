@@ -1,0 +1,45 @@
+<map id="nidas::dynld::isff::SonicAnemometer::process" name="nidas::dynld::isff::SonicAnemometer::process">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html#a355553922b04c738465e06c7e7d21767" title="Decrement the reference count for this sample. " alt="" coords="291,5,440,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Sample.html#a507f3ca946601f9b21cc67df9035f028" title="Get a const void* pointer to the data portion of the sample. " alt="" coords="283,70,447,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Sample.html#a17dd8ec6246870ade99f6680a98525d2" title="Get the number of bytes in data portion of sample. " alt="" coords="288,135,443,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Sample.html#a9d888ef233114a39471c69b2176890c1" title="Get the number of elements in data portion of sample. " alt="" coords="291,201,440,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="291,266,440,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1CharacterSensor.html#a0bbee2fc6799bc33e38bf65a29df5f33" title="Process a raw sample, which in this case means do a sscanf on the character string contents..." alt="" coords="261,755,469,797"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleHeader.html#aec57e900800863620fb79c225b947b75" title="Get the value of the length member of the header. " alt="" coords="527,135,723,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="527,233,723,274"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="543,298,707,339"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1VariableConverter.html#a5d053639cbcb435c9f334d14556e871f" title="nidas::core::VariableConverter\l::convert" alt="" coords="518,363,733,405"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleT.html#a1a4fc30a7ddc84ac06a668a4b5ff7c6b" title="Decrement the reference count for this sample. " alt="" coords="547,429,703,470"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleT.html#ae8c58e00c4e6acc95af4ebc8a4145a10" title="Get a const void* pointer to the data portion of the sample. " alt="" coords="543,494,707,535"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Variable.html#a93633805e3605f24f1041b004b1cf1e0" title="nidas::core::Variable\l::getConverter" alt="" coords="550,559,701,601"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="547,625,703,666"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1AsciiSscanf.html#a1b069fb80d988964ff139a94abcca2fb" title="nidas::core::AsciiSscanf\l::getFormat" alt="" coords="539,690,711,731"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1Variable.html#abb2281682a7ee9bf5e85da363713a60f" title="How many values in this variable? " alt="" coords="550,755,701,797"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1Variable.html#ace69670cdee25d3e63ff1f284b5c6e2f" title="nidas::core::Variable\l::getMaxValue" alt="" coords="550,821,701,862"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Variable.html#a97ad6c9527823ece2f521a4607e84aeb" title="nidas::core::Variable\l::getMissingValue" alt="" coords="550,886,701,927"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1AsciiSscanf.html#ae0e33a5a33bad43ec84133b0db4beec2" title="nidas::core::AsciiSscanf\l::getNumberOfFields" alt="" coords="539,951,711,993"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1AsciiSscanf.html#a7d5a4b027f721fef95e8d1441c828ffa" title="nidas::core::AsciiSscanf\l::getSampleTag" alt="" coords="539,1017,711,1058"/>
+<area shape="rect" id="node23" href="$group__Logging.html#ga7009fbecc782844f7c93edc74008ae2f" title="Convenience method which writes the given message to the current Logger instance, passing this object..." alt="" coords="530,1083,721,1109"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1SampleT.html#a2ec2f817b615d32794c3095035ab7ba8" title="Set the number of elements of type DataT in data. " alt="" coords="547,1134,703,1175"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="551,1199,700,1241"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="551,1265,700,1306"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SamplePool.html#a6def0d6115dae0704c33f2a1f46c55bf" title="Return a sample to the pool. " alt="" coords="792,429,968,470"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="813,1045,947,1086"/>
+<area shape="rect" id="node27" href="$classnidas_1_1util_1_1Logger.html#abc29e54d0b7bbe6620d05f4536041862" title="Send a log message for the given LogContext lc. " alt="" coords="795,1113,965,1140"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="1027,943,1162,985"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="1226,845,1361,886"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Logger.html#af4e5b3c04cf09dd7ff1bb42fdc2035ff" title="Other Log classes call this method to log a message when the log mutex is already locked..." alt="" coords="1027,1106,1162,1147"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1LogContext.html#a8616a5e2a925928023b540a04c1843bb" title="nidas::util::LogContext\l::filename" alt="" coords="1211,910,1375,951"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1LogContext.html#ac3280b636c628214f7772e7b2aeef333" title="nidas::util::LogContext\l::line" alt="" coords="1211,975,1375,1017"/>
+<area shape="rect" id="node31" href="$classnidas_1_1util_1_1LogContext.html#ae28382b5999edf4640d4e2ccfebf4c43" title="nidas::util::LogContext\l::levelName" alt="" coords="1211,1041,1375,1082"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1LogContext.html#af9ae629fe7ffcaa4b0e00da5683c6bee" title="nidas::util::LogContext\l::function" alt="" coords="1211,1106,1375,1147"/>
+<area shape="rect" id="node34" href="$classnidas_1_1util_1_1Thread.html#adc078afbfc16f8686cb8b186c39d06a1" title="Convenience routine to return the name for the current thread, or a string indicating that the name o..." alt="" coords="1226,1171,1361,1213"/>
+<area shape="rect" id="node37" href="$classnidas_1_1util_1_1UTime.html#a9e9f1e3ef8419ebb4f005f0302aac2c6" title="Format this UTime relative to UTC, or the local timezone? " alt="" coords="1227,1237,1359,1278"/>
+<area shape="rect" id="node38" href="$classnidas_1_1util_1_1UTime.html#aad6ca4e6f9521f8f7074b90bfc9d5998" title="Set the format used when converting this UTime to a string with format(utc), or format(), or on a ostream. " alt="" coords="1227,1302,1359,1343"/>
+<area shape="rect" id="node39" href="$classnidas_1_1util_1_1LogContext.html#ac970753e1dcec8b83d832e1e2155d527" title="nidas::util::LogContext\l::level" alt="" coords="1211,1367,1375,1409"/>
+<area shape="rect" id="node32" href="$group__Logging.html#ga5e85e54338bb820df23390f203c0581e" title="Convert an integral log level to a string name. " alt="" coords="1424,1048,1619,1075"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1Thread.html#a46662ffa7482f1c1e52b654c51639fd2" title="Return the thread object for the current thread. " alt="" coords="1454,1138,1589,1179"/>
+<area shape="rect" id="node36" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="1454,1203,1589,1245"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="782,1199,978,1241"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="782,1265,978,1306"/>
+</map>

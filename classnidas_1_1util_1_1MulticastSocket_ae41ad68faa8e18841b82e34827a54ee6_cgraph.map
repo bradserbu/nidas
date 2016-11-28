@@ -1,0 +1,7 @@
+<map id="nidas::util::MulticastSocket::getInterface" name="nidas::util::MulticastSocket::getInterface">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#aa80ff0dbcf32731fc28060984f776b0a" title="Return an Inet4NetworkInterface corresponding to the given address. " alt="" coords="246,103,421,145"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Socket.html#a170b8a45ba456cc0d24b99b3b2b5c6ba" title="nidas::util::Socket\l::close" alt="" coords="490,5,625,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#af41346d3d0a166c501c77dc94cb1e891" title="The IPV4 address of the interface. " alt="" coords="470,70,645,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Socket.html#af6cb57ba5939351bcc94e17fad89f3ab" title="Get a list of all my network interfaces. " alt="" coords="490,135,625,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#ae4d3d28f7d055a862a79b7ede897f8c4" title="The name of the interface: like &quot;lo&quot;, &quot;eth0&quot;, etc. " alt="" coords="470,201,645,242"/>
+</map>

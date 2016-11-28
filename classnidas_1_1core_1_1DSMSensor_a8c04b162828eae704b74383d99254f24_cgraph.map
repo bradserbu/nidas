@@ -1,0 +1,3 @@
+<map id="nidas::core::DSMSensor::getReadFd" name="nidas::core::DSMSensor::getReadFd">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IODevice.html#a7f5a6146adcbb4d0c49923f95b501ce0" title="The file descriptor used when reading from this sensor. " alt="" coords="230,5,386,46"/>
+</map>

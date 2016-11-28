@@ -1,0 +1,5 @@
+<map id="nidas::core::Polynomial" name="nidas::core::Polynomial">
+<area shape="rect" id="node4" href="$classnidas_1_1dynld_1_1isff_1_1RebsLinear.html" title="A linear converter useful for REBS net radiometers, which have two sets of linear coefficients..." alt="" coords="50,230,173,271"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1VariableConverter.html" title="nidas::core::VariableConverter" alt="" coords="5,80,219,107"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="33,5,191,32"/>
+</map>

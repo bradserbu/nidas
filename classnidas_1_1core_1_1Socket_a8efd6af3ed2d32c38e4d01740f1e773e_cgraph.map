@@ -1,0 +1,5 @@
+<map id="nidas::core::Socket::createSocket" name="nidas::core::Socket::createSocket">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XDOMElement.html#a29ecd13811c96fc7ad8ee05b872f6624" title="nidas::core::XDOMElement\l::getAttributeValue" alt="" coords="197,5,389,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Socket.html#a7c3256c4fc6e2c603df73201049fae5a" title="Constructor. " alt="" coords="221,70,365,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Socket.html#ab6dce90e79e44c6b0666c979689b4eaa" title="nidas::core::Socket\l::setName" alt="" coords="437,70,581,111"/>
+</map>

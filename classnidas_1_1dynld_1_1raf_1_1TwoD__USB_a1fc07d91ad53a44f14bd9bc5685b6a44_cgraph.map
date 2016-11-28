@@ -1,0 +1,9 @@
+<map id="nidas::dynld::raf::TwoD_USB::init_parameters" name="nidas::dynld::raf::TwoD_USB::init_parameters">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="254,37,429,78"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Parameter.html#a1409f9713ed0e3ceaec10900716b6b35" title="nidas::core::Parameter\l::getNumericValue" alt="" coords="258,102,425,143"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor.html#a3dcccb0a41d2b3dbc6fdaa479e3c4fa9" title="Fetch a parameter by name. " alt="" coords="254,167,429,209"/>
+<area shape="rect" id="node8" href="$classnidas_1_1dynld_1_1raf_1_1TwoD__USB.html#a8684ca8dc1e93c9760be17b24b36081d" title="nidas::dynld::raf::\lTwoD_USB::setTASRate" alt="" coords="256,233,427,274"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="478,5,653,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="478,70,653,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="701,70,872,111"/>
+</map>

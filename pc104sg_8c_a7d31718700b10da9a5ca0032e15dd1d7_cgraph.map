@@ -1,0 +1,6 @@
+<map id="get_irig_time_tv32" name="get_irig_time_tv32">
+<area shape="rect" id="node2" href="$pc104sg_8c.html#abdb74e80c66172da496b8908c84ab2b8" title="Get main clock. " alt="" coords="201,31,306,57"/>
+<area shape="rect" id="node5" href="$pc104sg_8c.html#a38b43c62a116640469a2281a5cda4d3d" title="Convert a struct irigTime into a struct timeval32. " alt="" coords="195,81,312,108"/>
+<area shape="rect" id="node3" href="$pc104sg_8c.html#ab63a2129e5c40030d8a7455b9f38674b" title="Read time from the registers. " alt="" coords="363,5,472,32"/>
+<area shape="rect" id="node4" href="$pc104sg_8c.html#a98e0bc7ad9fa3c2e4fed4581b87ece40" title="Convert a struct irigTime into a struct timespec. " alt="" coords="361,56,474,83"/>
+</map>

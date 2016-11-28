@@ -1,0 +1,6 @@
+<map id="nidas::core::SerialPortIODevice" name="nidas::core::SerialPortIODevice">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1UnixIODevice.html" title="A basic Unix I/O device, such as a named pipe, or a watched file. " alt="" coords="5,203,189,229"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IODevice.html" title="An interface to an IO device. " alt="" coords="19,104,175,131"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Termios.html" title="A class providing get/set methods into a termios structure. " alt="" coords="214,203,353,229"/>
+<area shape="rect" id="node6" href="$structnidas_1_1util_1_1Termios_1_1baudtable.html" title="nidas::util::Termios\l::baudtable" alt="" coords="214,97,353,138"/>
+</map>

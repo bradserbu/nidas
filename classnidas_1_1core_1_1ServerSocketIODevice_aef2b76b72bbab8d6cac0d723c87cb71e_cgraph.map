@@ -1,0 +1,4 @@
+<map id="nidas::core::ServerSocketIODevice::read" name="nidas::core::ServerSocketIODevice::read">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Socket.html#a77c77339098363fd8a02abcddf4d175e" title="nidas::util::Socket\l::recv" alt="" coords="241,5,375,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Socket.html#aea250fe4eb8dd8da5d6dd5f04c41c290" title="Set the timeout for receive(), recv(), and recvfrom() methods. " alt="" coords="241,70,375,111"/>
+</map>

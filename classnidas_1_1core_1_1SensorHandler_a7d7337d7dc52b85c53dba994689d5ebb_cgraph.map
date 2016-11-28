@@ -1,0 +1,12 @@
+<map id="nidas::core::SensorHandler::SensorHandler" name="nidas::core::SensorHandler::SensorHandler">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a14cca3ea8da5517e93be27700b261287" title="Block a signal in this thread. " alt="" coords="278,70,413,111"/>
+<area shape="rect" id="node9" href="$namespacenidas_1_1util.html#a2520059fec3fedb0affd25e8422f4257" title="Return the current unix system time, in microseconds since Jan 1, 1970, 00:00 GMT. " alt="" coords="249,136,441,163"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SensorHandler.html#a4fb2e83b7e4310edbc38710c8fc54c31" title="Set the sensor statistics calculation period. " alt="" coords="248,187,443,229"/>
+<area shape="rect" id="node11" href="$namespacenidas_1_1util.html#a9291980612f1aa0930fd5688c87f3ed6" title="Return smallest time that is an integral multiple of delta, that isn&#39;t less than or equal to argument..." alt="" coords="264,253,427,280"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a46662ffa7482f1c1e52b654c51639fd2" title="Return the thread object for the current thread. " alt="" coords="491,5,626,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="491,70,626,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#a11ae9e429566f0be72393793cae6e2a3" title="nidas::util::Thread\l::thr_add_sig" alt="" coords="491,135,626,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a9034d1ab82dfd5abced04f65c25c7441" title="nidas::util::Thread\l::sigAction" alt="" coords="675,135,810,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="859,102,994,143"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Thread.html#a3c6de48c411bc2b1a7752f1f4b031e1f" title="Signal handler function for this thread. " alt="" coords="859,167,994,209"/>
+</map>

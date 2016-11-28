@@ -1,0 +1,7 @@
+<map id="nidas::core::VariableConverter::getDSMConfig" name="nidas::core::VariableConverter::getDSMConfig">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a4f28df132de1bd8514c5aa64dbe2864d" title="What DSMConfig am I associated with? " alt="" coords="290,5,465,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1VariableConverter.html#a87a7d03fdf5a514bf18771cacbde2731" title="nidas::core::VariableConverter\l::getDSMSensor" alt="" coords="270,70,485,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#a3695fca9419619def30fb58d690d9427" title="nidas::core::SampleTag\l::getDSMSensor" alt="" coords="556,5,727,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#aa1b4f57a805b4eaec9e86d0da542d3da" title="What sample am I a part of? " alt="" coords="566,70,717,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1VariableConverter.html#ad0c5d3e3c2a9c186a2b997a71eb33fee" title="nidas::core::VariableConverter\l::getVariable" alt="" coords="534,135,749,177"/>
+</map>

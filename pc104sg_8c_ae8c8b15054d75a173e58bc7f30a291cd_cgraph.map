@@ -1,0 +1,11 @@
+<map id="pc104sg_ioctl" name="pc104sg_ioctl">
+<area shape="rect" id="node2" href="$pc104sg_8c.html#abdb74e80c66172da496b8908c84ab2b8" title="Get main clock. " alt="" coords="169,31,274,57"/>
+<area shape="rect" id="node5" href="$pc104sg_8c.html#a38b43c62a116640469a2281a5cda4d3d" title="Convert a struct irigTime into a struct timeval32. " alt="" coords="163,81,280,108"/>
+<area shape="rect" id="node6" href="$pc104sg_8c.html#adb929ec8d4c69d83a4b4d9134ff41374" title="The major time consists of the day&#45;of&#45;year, hour, minute and second fields. " alt="" coords="167,183,275,209"/>
+<area shape="rect" id="node7" href="$pc104sg_8c.html#ad1d97dfdfffe705858d994fe50095a62" title="Get external event time. " alt="" coords="351,132,419,159"/>
+<area shape="rect" id="node9" href="$pc104sg_8c.html#a3721fb10b228d8970ff9ac1a8d5acef8" title="timeval32Toirig" alt="" coords="163,233,280,260"/>
+<area shape="rect" id="node3" href="$pc104sg_8c.html#ab63a2129e5c40030d8a7455b9f38674b" title="Read time from the registers. " alt="" coords="331,5,440,32"/>
+<area shape="rect" id="node4" href="$pc104sg_8c.html#a98e0bc7ad9fa3c2e4fed4581b87ece40" title="Convert a struct irigTime into a struct timespec. " alt="" coords="329,56,442,83"/>
+<area shape="rect" id="node8" href="$pc104sg_8c.html#a57fdfe15265a20ca1347a96d84dbe25e" title="Set a value in dual port RAM. " alt="" coords="491,157,589,184"/>
+<area shape="rect" id="node10" href="$pc104sg_8c.html#aef5abbfb2b7452e89344e147b0ee88fb" title="Break a struct timeval32 into the fields of a struct irigTime. " alt="" coords="329,233,442,260"/>
+</map>

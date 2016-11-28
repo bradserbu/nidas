@@ -1,0 +1,5 @@
+<map id="DataDump::DataDump" name="DataDump::DataDump">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1NidasApp.html#ae7bdd8a67559a45f4ccc4af23d8db2be" title="An instance of NidasApp can be set as an application&#45;wide instance, like an application context..." alt="" coords="225,5,399,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1NidasApp.html#a3658eca131598dd18deb8eefeb8e5471" title="Setup signal handling for HUP, INT, and TERM signals. " alt="" coords="231,70,393,111"/>
+<area shape="rect" id="node4" href="$ck__mesa_8cc.html#ab7c178dc39d210d62b38ea60b55b9c37" title="sigAction" alt="" coords="448,77,528,104"/>
+</map>

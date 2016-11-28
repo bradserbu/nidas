@@ -1,0 +1,7 @@
+<map id="nidas::dynld::raf::CVIProcessor" name="nidas::dynld::raf::CVIProcessor">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleIOProcessor.html" title="Interface of a processor of samples. " alt="" coords="275,64,501,91"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="19,5,213,32"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleConnectionRequester.html" title="Interface for an object that requests connections SampleOutputs. " alt="" coords="5,57,227,98"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="37,123,195,149"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="295,115,481,141"/>
+</map>

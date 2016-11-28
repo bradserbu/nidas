@@ -1,0 +1,6 @@
+<map id="pcmcom8_init_module" name="pcmcom8_init_module">
+<area shape="rect" id="node2" href="$pcmcom8_8c.html#a4b98a340e0dbc1de0c8644c7a144e357" title="pcmcom8_check_config" alt="" coords="234,5,409,32"/>
+<area shape="rect" id="node3" href="$pcmcom8_8c.html#af7a98d1cf125e7009e5f5cea2e6512f0" title="pcmcom8_cleanup_module" alt="" coords="222,56,421,83"/>
+<area shape="rect" id="node4" href="$pcmcom8_8c.html#a6c7cc2640f7a32dd71f7c0c8af375c0a" title="pcmcom8_read_eeconfig" alt="" coords="230,107,413,133"/>
+<area shape="rect" id="node5" href="$pcmcom8_8c.html#a88dd1578f88b30bd6864b4ac473bc80f" title="pcmcom8_wait_eedone" alt="" coords="469,107,643,133"/>
+</map>

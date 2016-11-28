@@ -1,0 +1,3 @@
+<map id="nidas::core::XMLParser" name="nidas::core::XMLParser">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XMLCachingParser.html" title="Derived class of XMLParser that keeps its DOMDocuments when parsing an XML disk file, and returns the cached DOMDocument if the file hasn&#39;t changed. " alt="" coords="5,80,221,107"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="openPort" name="openPort">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1SerialPort.html#a3a76b557fec13885a56221b347c3b187" title="nidas::util::SerialPort\l::flushBoth" alt="" coords="145,5,298,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Termios.html#a48c91389a2f07af69d318a4ff0423f16" title="nidas::util::Termios\l::getBaudRate" alt="" coords="151,70,291,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Termios.html#a24f9c5c124bbc38d99c8ab053f8cc426" title="nidas::util::Termios\l::getDataBits" alt="" coords="151,135,291,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1SerialPort.html#a2b4fa5b6819ed8e311662467dd2b3f96" title="Get the current state of the modem bits. " alt="" coords="145,201,298,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Termios.html#a9d89a55280cc308c6516c3857df1ebfa" title="nidas::util::Termios\l::getStopBits" alt="" coords="151,266,291,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1SerialOptions.html#aee7c5bc3d4ba6eec9428844f4e61442b" title="nidas::util::SerialOptions\l::getTermios" alt="" coords="133,331,309,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1SerialPort.html#a93ea5527928ab14d552a82e47659148a" title="nidas::util::SerialPort\l::modemFlagsToString" alt="" coords="139,397,303,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1SerialPort.html#ad132913a39c459710cddea8c6ef2d3c6" title="open the serial port. " alt="" coords="145,462,298,503"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1SerialOptions.html#abba71e4b26199e08ec62bcfe5f0e5465" title="Parse a string into a Termios object. " alt="" coords="133,527,309,569"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1SerialPort.html#aaf7090255a275c2c985e6bfcd67caa5f" title="nidas::util::SerialPort\l::setBlocking" alt="" coords="145,593,298,634"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1SerialPort.html#aaf4b3a79965282f7762fdb6e124e3027" title="Set device name of the SerialPort. " alt="" coords="145,658,298,699"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Termios.html#a4442316106f281195df997ff6f7a5d27" title="Sets termios options for raw or non&#45;raw(cooked) mode. " alt="" coords="151,723,291,765"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Termios.html#af7e517ab4d19172df6250108e4aabccc" title="nidas::util::Termios\l::setRawLength" alt="" coords="151,789,291,830"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Termios.html#a415be5ebf0ee091f79e8daba74665034" title="nidas::util::Termios\l::setRawTimeout" alt="" coords="151,854,291,895"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1SerialPort.html#a48473e81db1d97fcb924a401798abecf" title="Writable reference to the SerialPort&#39;s Termios. " alt="" coords="145,919,298,961"/>
+</map>

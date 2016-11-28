@@ -1,0 +1,4 @@
+<map id="nidas::util::FlipConverter::doubleValue" name="nidas::util::FlipConverter::doubleValue">
+<area shape="rect" id="node2" href="$namespacenidas_1_1util.html#a2292c273fce241c50b5b52c2cc0a6269" title="nidas::util::flipDouble" alt="" coords="229,12,384,39"/>
+<area shape="rect" id="node3" href="$namespacenidas_1_1util.html#a3779a25764fe6825dafb50c6f8f1c510" title="Function for reading 8 bytes from an address, flipping the bytes, and returning the double value..." alt="" coords="432,12,597,39"/>
+</map>

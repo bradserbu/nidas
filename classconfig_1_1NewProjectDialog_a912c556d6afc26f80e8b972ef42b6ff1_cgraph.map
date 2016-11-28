@@ -1,0 +1,51 @@
+<map id="config::NewProjectDialog::accept" name="config::NewProjectDialog::accept">
+<area shape="rect" id="node2" href="$classConfigWindow.html#a7da2e35096c2ee668a4bdedf859f26bb" title="ConfigWindow::openFile" alt="" coords="263,700,431,727"/>
+<area shape="rect" id="node47" href="$classConfigWindow.html#ab4806b83b13aa06b8467a10f2b7a6c70" title="ConfigWindow::setFilename" alt="" coords="250,1175,443,1201"/>
+<area shape="rect" id="node48" href="$classConfigWindow.html#a68d789c8b4f012db30c6b740a8e5d699" title="ConfigWindow::writeProjectName" alt="" coords="232,1585,461,1612"/>
+<area shape="rect" id="node3" href="$classConfigWindow.html#a9f9350054f2023553f0f16b71876675e" title="ConfigWindow::buildSensor\lCatalog" alt="" coords="523,547,714,589"/>
+<area shape="rect" id="node12" href="$classDocument.html#a3afc0874cc88fad51ba051bd798ecbec" title="Document::engCalDirExists" alt="" coords="521,649,717,676"/>
+<area shape="rect" id="node13" href="$classDocument.html#a443a8b077dd28aca091abc5ae32a7b15" title="Document::getEngCalDir" alt="" coords="529,700,709,727"/>
+<area shape="rect" id="node14" href="$classDocument.html#a26e920996cfd092ac78fee568fb0156d" title="Document::getSiteNames" alt="" coords="524,751,713,777"/>
+<area shape="rect" id="node17" href="$classUserFriendlyExceptionHandler.html#a15b02f1cf4193de376a34e50af8023b7" title="UserFriendlyExceptionHandler\l::handle" alt="" coords="513,1102,725,1143"/>
+<area shape="rect" id="node20" href="$classDocument.html#a8679811f4f90c8f1d1ac7db83d35c86e" title="Document::parseFile" alt="" coords="542,1403,695,1429"/>
+<area shape="rect" id="node31" href="$classDocument.html#a5375a8594451fd8ce17ee6e2aaba00ac" title="Document::printSiteNames" alt="" coords="520,848,717,875"/>
+<area shape="rect" id="node36" href="$classconfig_1_1AddDSMComboDialog.html#a2b44e812648cb894ac5acc430516ea26" title="config::AddDSMComboDialog\l::setDocument" alt="" coords="514,1454,723,1495"/>
+<area shape="rect" id="node37" href="$classconfig_1_1VariableComboDialog.html#ac2010351a590fc61bc949465a15ed17c" title="config::VariableComboDialog\l::setDocument" alt="" coords="516,1519,721,1561"/>
+<area shape="rect" id="node38" href="$classconfig_1_1AddA2DVariableComboDialog.html#a302adfb5972e2a4ba32700af57ae497a" title="config::AddA2DVariableCombo\lDialog::setDocument" alt="" coords="510,197,727,238"/>
+<area shape="rect" id="node39" href="$classDocument.html#a84e3bd1655330803e3ff8e41afaf5c78" title="Document::setFilename" alt="" coords="531,263,706,289"/>
+<area shape="rect" id="node40" href="$classconfig_1_1AddA2DVariableComboDialog.html#a5bae6db8cbb18c7a83791582b95da410" title="config::AddA2DVariableCombo\lDialog::setup" alt="" coords="510,314,727,355"/>
+<area shape="rect" id="node43" href="$classConfigWindow.html#ada0ebff3d1521ac16c0eb03751cb491a" title="ConfigWindow::setupModelView" alt="" coords="509,380,728,407"/>
+<area shape="rect" id="node45" href="$classConfigWindow.html#a46a49c45fbe82ebe78fcdb330d93b15f" title="ConfigWindow::show" alt="" coords="545,431,693,457"/>
+<area shape="rect" id="node46" href="$classnidas_1_1util_1_1Exception.html#a822535e7028f32b6a0ea0b9835b2c7f2" title="nidas::util::Exception\l::toString" alt="" coords="542,482,695,523"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="833,1167,986,1209"/>
+<area shape="rect" id="node4" href="$classconfig_1_1AddSensorComboDialog.html#a40e8e5755b4c66170d80fb82654140b6" title="config::AddSensorComboDialog\l::addSensorDev" alt="" coords="797,449,1021,490"/>
+<area shape="rect" id="node5" href="$classconfig_1_1AddSensorComboDialog.html#a423a88e839f9dad6118ba2d3d037cae5" title="config::AddSensorComboDialog\l::addSensorSfx" alt="" coords="797,514,1021,555"/>
+<area shape="rect" id="node6" href="$classconfig_1_1AddSensorComboDialog.html#ad1421030b37bf483cab0d367c2d80913" title="config::AddSensorComboDialog\l::clearDevMap" alt="" coords="797,579,1021,621"/>
+<area shape="rect" id="node7" href="$classconfig_1_1AddSensorComboDialog.html#a44577eb86a4949e20721db0f8d1d4009" title="config::AddSensorComboDialog\l::clearSfxMap" alt="" coords="797,645,1021,686"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1XDOMElement.html#a29ecd13811c96fc7ad8ee05b872f6624" title="nidas::core::XDOMElement\l::getAttributeValue" alt="" coords="813,187,1005,229"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SensorCatalog.html#a37eaae68d8f2c5451478822619e812e2" title="nidas::core::SensorCatalog\l::getMap" alt="" coords="812,253,1007,294"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Project.html#a26694328480e103e481918966e518dc0" title="nidas::core::Project\l::getSensorCatalog" alt="" coords="837,318,982,359"/>
+<area shape="rect" id="node11" href="$classconfig_1_1AddSensorComboDialog.html#acba18d8c7528aa19cc560d9fcc4b4377" title="config::AddSensorComboDialog\l::setDocument" alt="" coords="797,383,1021,425"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Site.html#ad4d2683952ca26ecb0a2310a62eb9790" title="nidas::core::Site::\lgetName" alt="" coords="843,710,976,751"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="823,775,995,817"/>
+<area shape="rect" id="node18" href="$classUserFriendlyExceptionHandler.html#abdd8aaa90b39eb9aff4ff6a6f5cbee18" title="UserFriendlyExceptionHandler\l::display" alt="" coords="803,1102,1015,1143"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1XMLParser.html#a5788eb63bb44197c6663979579e8f030" title="nidas::core::XMLParser\l::parse" alt="" coords="826,1494,993,1535"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1XMLParser.html#a248bc8b17f27ed5138c18ef43720ece7" title="Enable/disable datatype normalization. " alt="" coords="795,1559,1024,1601"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1XMLParser.html#a4efd3358eca7e4b2b05308bdd1fe2aeb" title="Enable/disable namespace processing. " alt="" coords="826,1625,993,1666"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1XMLParser.html#a0335f83b75665e1192a99379c0abf19a" title="Enable/disable schema validation. " alt="" coords="813,1690,1005,1731"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1XMLParser.html#afabfb4fe18592c068d8232d1eb3655a1" title="DOMBuilder::setFilter is not yet implemented in xerces c++ 2.6.0 void setFilter(xercesc::DOMBuilderFi..." alt="" coords="826,1755,993,1797"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1XMLParser.html#aebadf07376e3b9e16c86060337a8bc2e" title="nidas::core::XMLParser\l::setXercesDoXInclude" alt="" coords="826,1821,993,1862"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1XMLParser.html#a12fa07edcbf1a8470c49bf11d2fd5de6" title="nidas::core::XMLParser\l::setXercesHandleMultipleImports" alt="" coords="792,1233,1027,1274"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1XMLParser.html#aa5c093a863f40403ddd2d0e099bad4e3" title="Enable/disable schema support. " alt="" coords="826,1298,993,1339"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1XMLParser.html#a6555ab7a2709322ec6cf611eae639071" title="Enable/disable full schema constraint checking, including checking which may be time&#45;consuming or mem..." alt="" coords="798,1363,1021,1405"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1XMLParser.html#ad172a1b6aa22439a8d4b3d1db4e75312" title="Control who owns DOMDocument pointer. " alt="" coords="777,1429,1042,1470"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1Project.html#a50fd3eccc69ce8e057bc36e1a965415d" title="nidas::core::Project\l::getName" alt="" coords="837,841,981,882"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1Site.html#aa5a980e760d66a7d2e7b50efa750fa8e" title="nidas::core::Site::\lgetNumber" alt="" coords="843,906,976,947"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1Site.html#af3bb97417e699175bb9431c4b6b00d83" title="Provide pointer to Project. " alt="" coords="843,971,976,1013"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1Site.html#a03c9baf2d9b0633360916e73956490f2" title="nidas::core::Site::\lgetSuffix" alt="" coords="843,1037,976,1078"/>
+<area shape="rect" id="node41" href="$classconfig_1_1AddA2DVariableComboDialog.html#aa014951050b11456191078ea9c80a567" title="config::AddA2DVariableCombo\lDialog::buildA2DVarDB" alt="" coords="801,70,1018,111"/>
+<area shape="rect" id="node42" href="$classconfig_1_1AddA2DVariableComboDialog.html#acc018ceb6e5e7f38fc823797dc73b35d" title="config::AddA2DVariableCombo\lDialog::openVarDB" alt="" coords="801,5,1018,46"/>
+<area shape="rect" id="node44" href="$classConfigWindow.html#af19ed7f9d4f29276b83e8ccb07854c9a" title="Display and setup the correct actions for the current index. " alt="" coords="804,136,1015,163"/>
+<area shape="rect" id="node49" href="$classDocument.html#a3cc8419f8ff1735524f2452d51aa1203" title="Document::getDirectory" alt="" coords="531,1585,707,1612"/>
+<area shape="rect" id="node50" href="$classDocument.html#aa63585eebeed0636811ad3cd36ec9518" title="Document::setProjectName" alt="" coords="519,1636,719,1663"/>
+</map>

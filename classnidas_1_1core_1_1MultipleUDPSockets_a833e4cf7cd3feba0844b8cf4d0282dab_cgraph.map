@@ -1,0 +1,4 @@
+<map id="nidas::core::MultipleUDPSockets::write" name="nidas::core::MultipleUDPSockets::write">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramSocket.html#a95bbc67e170cb2fcbfe293acc2eec5e2" title="nidas::util::DatagramSocket\l::sendto" alt="" coords="283,5,483,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="306,70,459,111"/>
+</map>

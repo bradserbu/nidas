@@ -1,0 +1,5 @@
+<map id="nidas::core::SerialSensor::buildIODevice" name="nidas::core::SerialSensor::buildIODevice">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="257,5,431,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SerialPortIODevice.html#a801414589dec7983d1609c67f7ac0903" title="Is this a RS485 half&#45;duplex device, and if so, can the transmitter on the data system be enabled/disa..." alt="" coords="235,70,453,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SerialPortIODevice.html#a6b21f6c6f462ce83a9db2a98b94d641c" title="nidas::core::SerialPortIODevice\l::termios" alt="" coords="235,135,453,177"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="nidas::core::DSMServerApp::killXmlRpcThread" name="nidas::core::DSMServerApp::killXmlRpcThread">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XmlRpcThread.html#ac3a500e4bbab846182bf7511fb947c6e" title="Interrupt this thread. " alt="" coords="251,41,442,82"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="279,173,414,214"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="491,70,645,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a08fdc084e658645f8c3b5ac54e6ffec0" title="Send a signal to this thread. " alt="" coords="501,5,635,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="694,67,847,109"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="501,187,635,229"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="501,253,635,294"/>
+</map>

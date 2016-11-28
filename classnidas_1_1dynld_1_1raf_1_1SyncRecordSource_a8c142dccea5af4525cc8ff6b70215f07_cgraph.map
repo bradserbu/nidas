@@ -1,0 +1,8 @@
+<map id="nidas::dynld::raf::SyncRecordSource::SyncRecordSource" name="nidas::dynld::raf::SyncRecordSource::SyncRecordSource">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordSource.html#af4b408261d6d7b9070c690d017126de3" title="Add a SampleTag to this SampleSource. " alt="" coords="277,5,520,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#a04570eacb965a6f2112589b9890918a8" title="Set the DSM portion of the id. " alt="" coords="313,70,484,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a64de05ffd819609dc39b6a798244a921" title="Set sampling rate in samples/sec. " alt="" coords="313,135,484,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleTag.html#aa5d96c63244aa51ce7bda046a818b36c" title="Set the sample portion of the shortId. " alt="" coords="313,201,484,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleTag.html#a0c1953e2384879d04e8121e101d4531c" title="Set the sensor portion of the shortId. " alt="" coords="313,266,484,307"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a91d7dc2586c54dde5790f860121e058b" title="Add a SampleTag to this SampleSource. " alt="" coords="568,5,763,46"/>
+</map>

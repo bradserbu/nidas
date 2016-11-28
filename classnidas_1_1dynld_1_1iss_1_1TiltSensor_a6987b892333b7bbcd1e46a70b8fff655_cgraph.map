@@ -1,0 +1,9 @@
+<map id="nidas::dynld::iss::TiltSensor::addSampleTag" name="nidas::dynld::iss::TiltSensor::addSampleTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a30304f0f6f4db1dabc8f28cc752d18bb" title="Add a SampleTag to this sensor. " alt="" coords="241,39,415,81"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="478,9,613,50"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="464,77,627,104"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="690,5,825,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="889,5,1023,46"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="675,70,839,111"/>
+<area shape="rect" id="node8" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="724,136,791,163"/>
+</map>

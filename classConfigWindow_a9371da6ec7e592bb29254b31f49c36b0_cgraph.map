@@ -1,0 +1,51 @@
+<map id="ConfigWindow::buildA2DVariableMenu" name="ConfigWindow::buildA2DVariableMenu">
+<area shape="rect" id="node2" href="$classConfigWindow.html#a01da3417466dc43d3a8d65cf953cf55e" title="ConfigWindow::buildA2DVariable\lActions" alt="" coords="312,841,536,882"/>
+<area shape="rect" id="node3" href="$classConfigWindow.html#a026387f89b7af1aa312c88bd1581666f" title="ConfigWindow::addA2DVariable\lCombo" alt="" coords="584,841,803,882"/>
+<area shape="rect" id="node40" href="$classConfigWindow.html#aa6fdaa436318fad6bdbd6efa951ef47c" title="ConfigWindow::deleteA2DVariable" alt="" coords="1125,1168,1360,1195"/>
+<area shape="rect" id="node50" href="$classConfigWindow.html#a6822bf2b8b3eaf8a1e0a5a3d25a3bb84" title="ConfigWindow::editA2DVariable\lCombo" alt="" coords="584,775,803,817"/>
+<area shape="rect" id="node4" href="$classconfig_1_1AddA2DVariableComboDialog.html#a99c59b76357925f7e2c8bb029c0e43bc" title="config::AddA2DVariableCombo\lDialog::show" alt="" coords="851,775,1069,817"/>
+<area shape="rect" id="node5" href="$classconfig_1_1AddA2DVariableComboDialog.html#a7a4f1154598a57755d168465a8406888" title="config::AddA2DVariableCombo\lDialog::clearForm" alt="" coords="1134,433,1351,474"/>
+<area shape="rect" id="node6" href="$classconfig_1_1AddA2DVariableComboDialog.html#afbeddbb65631cbb784cf29b64cc57545" title="config::AddA2DVariableCombo\lDialog::setCalLabels" alt="" coords="1134,498,1351,539"/>
+<area shape="rect" id="node7" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="2003,819,2157,845"/>
+<area shape="rect" id="node8" href="$classconfig_1_1AddA2DVariableComboDialog.html#a382545a64f3a7fc884d00eb09c75c9fc" title="config::AddA2DVariableCombo\lDialog::removeSuffix" alt="" coords="1134,615,1351,657"/>
+<area shape="rect" id="node9" href="$classA2DVariableItem.html#ab3da4c270d7a9f1bc7b74717a067342a" title="A2DVariableItem::name" alt="" coords="1155,681,1330,708"/>
+<area shape="rect" id="node10" href="$classA2DVariableItem.html#a89e3567c0d0e24bc0b6638dfb8f28dfe" title="A2DVariableItem::getLongName" alt="" coords="1129,732,1357,759"/>
+<area shape="rect" id="node11" href="$classA2DVariableItem.html#a4d8ef8cf600fd11c85e71c265324829c" title="A2DVariableItem::getGain" alt="" coords="1149,783,1336,809"/>
+<area shape="rect" id="node14" href="$classA2DVariableItem.html#a5488dcadc99835d1b1235c33c652c53e" title="A2DVariableItem::getBipolar" alt="" coords="1141,833,1344,860"/>
+<area shape="rect" id="node16" href="$classA2DVariableItem.html#ab8d976cb89862c37e56fed5769d2948d" title="A2DVariableItem::getA2DChannel" alt="" coords="1124,884,1361,911"/>
+<area shape="rect" id="node17" href="$classA2DVariableItem.html#aea80f280f3ad5e3920cb0b3734974f32" title="A2DVariableItem::getRate" alt="" coords="1149,935,1336,961"/>
+<area shape="rect" id="node18" href="$classA2DVariableItem.html#a85188d067ac8581b43cb066d2cf16e94" title="A2DVariableItem::getCalibrationInfo" alt="" coords="1118,985,1367,1012"/>
+<area shape="rect" id="node21" href="$classconfig_1_1AddA2DVariableComboDialog.html#ab4e17c0150a248a205a6e57881b4a347" title="config::AddA2DVariableCombo\lDialog::getSuffix" alt="" coords="1134,1037,1351,1078"/>
+<area shape="rect" id="node22" href="$classconfig_1_1AddA2DVariableComboDialog.html#a091818cf49bf3929a89e33b73767a8c0" title="config::AddA2DVariableCombo\lDialog::clearCalLabels" alt="" coords="1134,1102,1351,1143"/>
+<area shape="rect" id="node23" href="$classconfig_1_1AddA2DVariableComboDialog.html#abe831b13755a7f66b08d3c0eabcde4c8" title="config::AddA2DVariableCombo\lDialog::SetUpChannelBox" alt="" coords="1134,354,1351,395"/>
+<area shape="rect" id="node12" href="$classA2DSensorItem.html#a5186185b10919ed6a3cb96f16123ac07" title="A2DSensorItem::getDSMAnalog\lSensor" alt="" coords="1416,778,1643,819"/>
+<area shape="rect" id="node13" href="$classnidas_1_1dynld_1_1A2DSensor.html#af99e86ad3720107bcb0c002a7caf1217" title="Get the current gain for a channel. " alt="" coords="1440,713,1619,754"/>
+<area shape="rect" id="node15" href="$classnidas_1_1dynld_1_1A2DSensor.html#ad9a49fb6270a5ee4b252fa7facf3889a" title="Get the current bipolar parameter for a channel. " alt="" coords="1440,843,1619,885"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1VariableConverter.html#a447981ea13ec538f4f4e30e7e96aae53" title="nidas::core::VariableConverter\l::getCalFile" alt="" coords="1422,931,1637,973"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1VariableConverter.html#a20d8852129281dc41f06ec78f3e58486" title="Generate a string description of this VariableConverter. " alt="" coords="1422,997,1637,1038"/>
+<area shape="rect" id="node24" href="$classDocument.html#a7c85c8795a90b4ab8b91adc67e94a877" title="Document::getAvailableA2\lDChannels" alt="" coords="1434,341,1625,382"/>
+<area shape="rect" id="node25" href="$classNidasModel.html#a40cd91b0dffd6bdacc21f56784bdf6ba" title="NidasModel::getCurrentRootItem" alt="" coords="1691,447,1922,473"/>
+<area shape="rect" id="node26" href="$classSensorItem.html#a3b8692be5323fe38c03f67fe801be1f5" title="SensorItem::getDSMSensor" alt="" coords="1707,199,1907,225"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1DSMSensor.html#a997f133995facb78dcccfffa889d8728" title="nidas::core::DSMSensor\l::getSampleTagIterator" alt="" coords="1719,250,1894,291"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1SampleTagIterator.html#a67ac05bec706f73542e4cdaf189a0b95" title="nidas::core::SampleTagIterator\l::hasNext" alt="" coords="1971,169,2189,210"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1SampleTag.html#a338e296c060f63522e0b11750c074ad0" title="nidas::core::SampleTag\l::getVariableIterator" alt="" coords="1721,381,1892,422"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1VariableIterator.html#a9c5acde211bde12deabfe1040b8c085e" title="nidas::core::VariableIterator\l::hasNext" alt="" coords="1707,315,1906,357"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1Variable.html#a499f0e31b5f0b4c77a35f5c308d86ca1" title="nidas::core::Variable\l::getA2dChannel" alt="" coords="1731,498,1882,539"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="2255,5,2447,46"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1SensorIterator.html#ad941790929716a792881727f02b6c792" title="nidas::core::SensorIterator\l::next" alt="" coords="2255,70,2447,111"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1DSMSensor.html#ae0a23210df32b4296a473c2089297d30" title="Implementation of SampleSource::getSampleTags(). " alt="" coords="2263,135,2438,177"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1ProcessorIterator.html#a74f6dfcf9bcd9c22b76965e066ea1139" title="nidas::core::ProcessorIterator\l::hasNext" alt="" coords="2245,201,2456,242"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1ProcessorIterator.html#a47af38621d246014dc1ac1d1299c6880" title="nidas::core::ProcessorIterator\l::next" alt="" coords="2245,266,2456,307"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1SampleIOProcessor.html#ac0d24a63b52b5d397ef8e8cc2dcbce11" title="nidas::core::SampleIOProcessor\l::getRequestedSampleTags" alt="" coords="2238,331,2463,373"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1SampleTagIterator.html#abeb5ebe551e3aa7e0e0b0ff5bf1e837b" title="nidas::core::SampleTagIterator\l::next" alt="" coords="1971,289,2189,330"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="1995,354,2165,395"/>
+<area shape="rect" id="node41" href="$classNidasModel.html#a839b3d7903e9bfc7b48b663007fc115b" title="NidasModel::removeIndexes" alt="" coords="1428,1149,1631,1176"/>
+<area shape="rect" id="node49" href="$classDocument.html#a4dcddfe1c04faeed78b472a0edb41ddc" title="Document::setIsChangedBig" alt="" coords="1427,1099,1631,1125"/>
+<area shape="rect" id="node42" href="$classNidasModel.html#aa3fcdc2f107a9c1d62b1655a7f8375f4" title="NidasModel::index" alt="" coords="1737,1175,1876,1201"/>
+<area shape="rect" id="node44" href="$classNidasModel.html#abf6ce7e736a182c2dfe5e3ded9cff572" title="NidasModel::removeRows" alt="" coords="1715,1124,1899,1151"/>
+<area shape="rect" id="node46" href="$classNidasItem.html#a1478aadaf025bf43bfb540cfe0f13e3d" title="NidasItem::row" alt="" coords="1748,1225,1865,1252"/>
+<area shape="rect" id="node47" href="$classNidasItem.html#a9d0ad16ace06c567c8bc911bbcdeccf2" title="NidasItem::parent" alt="" coords="1738,972,1875,999"/>
+<area shape="rect" id="node48" href="$classNidasItem.html#a24bdfe920cf1b5e070c1c9e7a0bbef0c" title="NidasItem::createIndex" alt="" coords="1721,1023,1892,1049"/>
+<area shape="rect" id="node43" href="$classNidasItem.html#a06208cd74e7d82d8f674820c43bfcea6" title="return the ith child of this item. " alt="" coords="2018,1175,2142,1201"/>
+<area shape="rect" id="node45" href="$classNidasItem.html#af5ddd83f6c88bf72e820746cf314a62c" title="NidasItem::removeChildren" alt="" coords="1982,1124,2178,1151"/>
+</map>

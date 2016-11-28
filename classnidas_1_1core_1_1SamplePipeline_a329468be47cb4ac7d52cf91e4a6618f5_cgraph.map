@@ -1,0 +1,5 @@
+<map id="nidas::core::SamplePipeline::interrupt" name="nidas::core::SamplePipeline::interrupt">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a1da77fcda48cbee7ae54bd47ecc7bcf5" title="Interrupt this thread. " alt="" coords="254,5,389,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="256,70,387,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="256,135,387,177"/>
+</map>

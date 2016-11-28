@@ -1,0 +1,5 @@
+<map id="arinc_read" name="arinc_read">
+<area shape="rect" id="node2" href="$sing_8cc.html#a7cd7c66065ead3daabafb674047c78a8" title="if" alt="" coords="195,5,234,32"/>
+<area shape="rect" id="node3" href="$nidas__util_8c.html#abd271331fc81c951fd4ff2ae4c359af9" title="nidas_circbuf_read" alt="" coords="144,56,285,83"/>
+<area shape="rect" id="node4" href="$nidas__util_8c.html#ace2c2b9441f0dafe89d3a00790b996ae" title="nidas_circbuf_read\l_nowait" alt="" coords="333,49,475,90"/>
+</map>

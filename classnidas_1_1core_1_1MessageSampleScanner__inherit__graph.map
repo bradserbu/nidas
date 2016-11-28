@@ -1,0 +1,4 @@
+<map id="nidas::core::MessageSampleScanner" name="nidas::core::MessageSampleScanner">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DriverSampleScanner.html" title="A SampleScanner for reading samples that have been pre&#45;formatted by a device driver &#45; they already ha..." alt="" coords="15,81,201,122"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleScanner.html" title="A scanner of sample data. " alt="" coords="7,5,209,32"/>
+</map>

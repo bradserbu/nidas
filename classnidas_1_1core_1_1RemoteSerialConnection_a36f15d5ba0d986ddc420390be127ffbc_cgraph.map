@@ -1,0 +1,11 @@
+<map id="nidas::core::RemoteSerialConnection::close" name="nidas::core::RemoteSerialConnection::close">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Socket.html#a170b8a45ba456cc0d24b99b3b2b5c6ba" title="nidas::util::Socket\l::close" alt="" coords="270,5,405,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SensorHandler.html#a8f9c96ebc66e75db5dd22a132f59271f" title="nidas::core::SensorHandler\l::getEpollFd" alt="" coords="240,70,435,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Socket.html#a1a8c83e98fdea6d442a4e6ac6f5d2788" title="Fetch the file descriptor associate with this socket. " alt="" coords="270,135,405,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1RemoteSerialConnection.html#a927313366effa045ce7d9e984ba01a1c" title="nidas::core::RemoteSerial\lConnection::getName" alt="" coords="245,201,430,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#a4968783c9c102956a9d8a60f9a241587" title="Implementation of SampleSource::getRawSampleSource(). " alt="" coords="250,266,425,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor.html#ae98f6b413547d9c2da411f96965cc84f" title="nidas::core::DSMSensor\l::getTimeoutMsecs" alt="" coords="250,331,425,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleSource.html#a470d0441ac1c447dc3efa778a3dc9059" title="Remove a SampleClient from this SampleSource. " alt="" coords="240,397,435,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMSensor.html#a0f70dbf1f484150a6f212634211da3eb" title="Set the sensor timeout value in milliseconds. " alt="" coords="250,462,425,503"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SensorHandler.html#aadc6d74cf985529a4d87cc57372c66d5" title="Tell the SensorHandler that one or more sensor timeouts have changed. " alt="" coords="240,527,435,569"/>
+</map>

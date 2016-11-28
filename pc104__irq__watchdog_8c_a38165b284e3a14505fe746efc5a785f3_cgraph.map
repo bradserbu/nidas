@@ -1,0 +1,5 @@
+<map id="pc104_irq_watchdog_init" name="pc104_irq_watchdog_init">
+<area shape="rect" id="node2" href="$pc104__irq__watchdog_8c.html#a3e83146845027e7bc76ee41cf04679cf" title="pc104_irq_watchdog\l_timer_func" alt="" coords="232,5,384,46"/>
+<area shape="rect" id="node3" href="$pc104__irq__watchdog_8c.html#aea856d45f36d71d7d6c8a52b753915f9" title="pc104_irq_pending" alt="" coords="619,12,762,39"/>
+<area shape="rect" id="node4" href="$pc104__irq__watchdog_8c.html#a1bb62d31da6bf89aa71651e6f76c6bf6" title="pc104_irq_handler" alt="" coords="432,37,571,64"/>
+</map>

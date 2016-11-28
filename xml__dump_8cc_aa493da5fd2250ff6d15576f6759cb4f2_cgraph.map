@@ -1,0 +1,12 @@
+<map id="sensorTitle" name="sensorTitle">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a88744b9fd9b2da763db76a7e9db10728" title="Return the collection of CalFiles, mapped by name. " alt="" coords="145,5,319,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a6b720dff1e917e65dd506de35310c408" title="Fetch the name of the catalog entry for this sensor. " alt="" coords="145,70,319,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a77ce4233e5dc65544504c4d0ff94dc02" title="Fetch the class name. " alt="" coords="145,135,319,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="145,201,319,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#a423a5c73413fd24a5f8e2bb5035bb248" title="nidas::core::DSMSensor\l::getDSMId" alt="" coords="145,266,319,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1CalFile.html#adf9790635988352a671b25c2cc0c0556" title="nidas::core::CalFile\l::getFile" alt="" coords="162,331,302,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMSensor.html#a3dcccb0a41d2b3dbc6fdaa479e3c4fa9" title="Fetch a parameter by name. " alt="" coords="145,397,319,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMSensor.html#a1cd4b08fac1f53782bfad84f1db4337b" title="nidas::core::DSMSensor\l::getSensorId" alt="" coords="145,462,319,503"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Parameter.html#a2ced5301bcbcd2cba28d30cad9541eba" title="nidas::core::Parameter\l::getStringValue" alt="" coords="149,527,315,569"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DSMSensor.html#ae44bbb04b9ed2b5cd80a875ce8609653" title="Sensor suffix, which is added to variable names. " alt="" coords="145,593,319,634"/>
+</map>

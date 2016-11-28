@@ -1,0 +1,4 @@
+<map id="nidas::util::Thread::currentName" name="nidas::util::Thread::currentName">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a46662ffa7482f1c1e52b654c51639fd2" title="Return the thread object for the current thread. " alt="" coords="190,5,325,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="190,70,325,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::core::XMLParser" name="nidas::core::XMLParser">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XMLErrorHandler.html" title="nidas::core::XMLErrorHandler" alt="" coords="26,264,232,291"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1XMLException.html" title="Exception which can be built from an xerces::XMLException, xercesc::SAXException, or xercesc::DOMExce..." alt="" coords="163,173,351,200"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="181,96,333,123"/>
+</map>

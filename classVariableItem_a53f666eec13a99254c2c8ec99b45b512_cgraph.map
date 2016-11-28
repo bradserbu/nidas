@@ -1,0 +1,6 @@
+<map id="VariableItem::VariableItem" name="VariableItem::VariableItem">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1VariableConverter.html#a447981ea13ec538f4f4e30e7e96aae53" title="nidas::core::VariableConverter\l::getCalFile" alt="" coords="246,5,461,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a93633805e3605f24f1041b004b1cf1e0" title="nidas::core::Variable\l::getConverter" alt="" coords="278,70,429,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1CalFile.html#adf9790635988352a671b25c2cc0c0556" title="nidas::core::CalFile\l::getFile" alt="" coords="283,135,423,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a5ca3fbedfe97836dcef9c5b9063624ed" title="Get the sample portion of the shortId. " alt="" coords="268,201,439,242"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="nidas::dynld::AsciiOutput::printHeader" name="nidas::dynld::AsciiOutput::printHeader">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#a99ed3bd80a3a029e354fa1680c2b3573" title="nidas::core::SampleOutput\lBase::getIOChannel" alt="" coords="233,5,426,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOChannel.html#aeea332fa47970ef41714cac85a49c9b5" title="Physical write method which must be implemented in derived classes. " alt="" coords="247,70,412,111"/>
+</map>

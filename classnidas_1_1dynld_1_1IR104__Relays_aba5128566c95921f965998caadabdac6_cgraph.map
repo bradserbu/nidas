@@ -1,0 +1,6 @@
+<map id="nidas::dynld::IR104_Relays::getOutputs" name="nidas::dynld::IR104_Relays::getOutputs">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1BitArray.html#ab9ab9f1d59e38b4198df79dbf8cfbabe" title="Set all bits to 1 if value is true, otherwise set all to 0. " alt="" coords="203,23,346,65"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1BitArray.html#a1291f609786f31105511f0810b5d354f" title="Length of array, in bytes. " alt="" coords="587,27,730,69"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1BitArray.html#ad5a6c136acd7616a856c653f1f728da4" title="Length of array, in bits. " alt="" coords="395,23,538,65"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1BitArray.html#a1cf692ff89691db07b57df650ab78e6d" title="Set a bit, in range 0:(length()&#45;1) to 1 if value is true, otherwise false. " alt="" coords="395,89,538,130"/>
+</map>

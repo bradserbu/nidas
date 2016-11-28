@@ -1,0 +1,6 @@
+<map id="nidas::core::Socket::~Socket" name="nidas::core::Socket::~Socket">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Socket.html#a75ee749264ccbcfc4dfbf5442e55dcb8" title="nidas::core::Socket\l::close" alt="" coords="203,5,347,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Socket_1_1ConnectionThread.html#a8cb78f0b3f60a57c636b9f26af92bcc7" title="Interrupt this thread. " alt="" coords="197,71,352,127"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="198,151,351,193"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Socket.html#a170b8a45ba456cc0d24b99b3b2b5c6ba" title="nidas::util::Socket\l::close" alt="" coords="401,5,535,46"/>
+</map>

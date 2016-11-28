@@ -1,0 +1,6 @@
+<map id="nidas::dynld::psql::PSQLChannel::fromDOMElement" name="nidas::dynld::psql::PSQLChannel::fromDOMElement">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XDOMAttr.html#a2b378f967bc25e190f8b920936a675d9" title="nidas::core::XDOMAttr\l::getName" alt="" coords="293,5,456,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="293,71,456,97"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="505,34,669,75"/>
+<area shape="rect" id="node5" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="553,100,620,127"/>
+</map>

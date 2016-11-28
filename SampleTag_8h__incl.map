@@ -1,0 +1,17 @@
+<map id="nidas/core/SampleTag.h" name="nidas/core/SampleTag.h">
+<area shape="rect" id="node2" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="906,229,997,256"/>
+<area shape="rect" id="node20" href="$Sample_8h.html" title="Sample.h" alt="" coords="2545,80,2628,107"/>
+<area shape="rect" id="node43" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="3123,155,3239,181"/>
+<area shape="rect" id="node3" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1806,305,1996,346"/>
+<area shape="rect" id="node7" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="1146,312,1296,339"/>
+<area shape="rect" id="node8" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="273,312,345,339"/>
+<area shape="rect" id="node9" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="79,395,239,421"/>
+<area shape="rect" id="node5" href="$Exception_8h.html" title="Exception.h" alt="" coords="1856,395,1952,421"/>
+<area shape="rect" id="node21" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="2017,229,2207,256"/>
+<area shape="rect" id="node23" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="2171,312,2361,339"/>
+<area shape="rect" id="node27" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="2501,155,2672,181"/>
+<area shape="rect" id="node28" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="2281,155,2476,181"/>
+<area shape="rect" id="node29" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="1911,155,2051,181"/>
+<area shape="rect" id="node35" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="2835,155,2945,181"/>
+<area shape="rect" id="node36" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="2535,229,2673,256"/>
+</map>

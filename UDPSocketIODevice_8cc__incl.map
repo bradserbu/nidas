@@ -1,0 +1,22 @@
+<map id="nidas/core/UDPSocketIODevice.cc" name="nidas/core/UDPSocketIODevice.cc">
+<area shape="rect" id="node2" href="$UDPSocketIODevice_8h.html" title="UDPSocketIODevice.h" alt="" coords="1345,80,1508,107"/>
+<area shape="rect" id="node43" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="1820,528,1959,555"/>
+<area shape="rect" id="node3" href="$util_2Socket_8h.html" title="nidas/util/Socket.h" alt="" coords="1012,229,1151,256"/>
+<area shape="rect" id="node35" href="$SocketIODevice_8h.html" title="SocketIODevice.h" alt="" coords="174,155,308,181"/>
+<area shape="rect" id="node4" href="$Inet4SocketAddress_8h.html" title="Inet4SocketAddress.h" alt="" coords="1360,379,1523,405"/>
+<area shape="rect" id="node18" href="$Inet4NetworkInterface_8h.html" title="Inet4NetworkInterface.h" alt="" coords="1161,379,1335,405"/>
+<area shape="rect" id="node21" href="$Inet4PacketInfo_8h.html" title="Inet4PacketInfo.h" alt="" coords="1329,304,1460,331"/>
+<area shape="rect" id="node22" href="$UnixSocketAddress_8h.html" title="UnixSocketAddress.h" alt="" coords="1535,304,1693,331"/>
+<area shape="rect" id="node6" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="1378,528,1496,555"/>
+<area shape="rect" id="node19" href="$IOException_8h.html" title="IOException.h" alt="" coords="708,453,817,480"/>
+<area shape="rect" id="node24" href="$EOFException_8h.html" title="EOFException.h" alt="" coords="330,379,451,405"/>
+<area shape="rect" id="node25" href="$DatagramPacket_8h.html" title="DatagramPacket.h" alt="" coords="380,304,521,331"/>
+<area shape="rect" id="node5" href="$SocketAddress_8h.html" title="SocketAddress.h" alt="" coords="1475,453,1605,480"/>
+<area shape="rect" id="node7" href="$UnknownHostException_8h.html" title="UnknownHostException.h" alt="" coords="1037,611,1221,637"/>
+<area shape="rect" id="node11" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1550,611,1679,637"/>
+<area shape="rect" id="node9" href="$Exception_8h.html" title="Exception.h" alt="" coords="741,693,837,720"/>
+<area shape="rect" id="node36" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="113,379,204,405"/>
+<area shape="rect" id="node39" href="$ParseException_8h.html" title="nidas/util/ParseException.h" alt="" coords="533,528,725,555"/>
+<area shape="rect" id="node41" href="$auto__ptr_8h.html" title="nidas/util/auto_ptr.h" alt="" coords="5,229,152,256"/>
+<area shape="rect" id="node37" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="433,603,623,645"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="setRate2Output" name="setRate2Output">
+<area shape="rect" id="node2" href="$pc104sg_8c.html#a1135b8eef3e16d1c2e3b2b26380e6198" title="Read dual port RAM. " alt="" coords="177,5,273,32"/>
+<area shape="rect" id="node3" href="$pc104sg_8c.html#a57fdfe15265a20ca1347a96d84dbe25e" title="Set a value in dual port RAM. " alt="" coords="177,56,274,83"/>
+</map>

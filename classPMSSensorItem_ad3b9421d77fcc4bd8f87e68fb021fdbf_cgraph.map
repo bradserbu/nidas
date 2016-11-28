@@ -1,0 +1,4 @@
+<map id="PMSSensorItem::getSerialNumberString" name="PMSSensorItem::getSerialNumberString">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a3dcccb0a41d2b3dbc6fdaa479e3c4fa9" title="Fetch a parameter by name. " alt="" coords="243,5,418,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Parameter.html#a2ced5301bcbcd2cba28d30cad9541eba" title="nidas::core::Parameter\l::getStringValue" alt="" coords="247,70,414,111"/>
+</map>

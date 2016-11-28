@@ -1,0 +1,6 @@
+<map id="pc104sg_cleanup" name="pc104sg_cleanup">
+<area shape="rect" id="node2" href="$pc104sg_8c.html#ac928e2ad48c95a94c86aa08962f32410" title="Enable external time tag interrupt. " alt="" coords="219,5,325,32"/>
+<area shape="rect" id="node3" href="$pc104sg_8c.html#a4a6e50ded9d3f5c70e8bd2b7409b5370" title="Cleanup function that un&#45;registers all callbacks. " alt="" coords="216,56,328,83"/>
+<area shape="rect" id="node5" href="$pc104sg_8c.html#ae0aacc0145154de250d49a3def0888af" title="Modules call this function to dequeue their callbacks. " alt="" coords="187,107,357,133"/>
+<area shape="rect" id="node4" href="$pc104sg_8c.html#a0d33fce3e2b16674e7015304617be580" title="Handle pending adds and removes of callbacks from the active list for the appropriate rate..." alt="" coords="405,56,581,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="nidas::dynld::A2DSensor::process" name="nidas::dynld::A2DSensor::process">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1VariableConverter.html#a5d053639cbcb435c9f334d14556e871f" title="nidas::core::VariableConverter\l::convert" alt="" coords="233,5,447,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a93633805e3605f24f1041b004b1cf1e0" title="nidas::core::Variable\l::getConverter" alt="" coords="265,70,415,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="262,135,418,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="255,201,425,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Variable.html#abb2281682a7ee9bf5e85da363713a60f" title="How many values in this variable? " alt="" coords="265,266,415,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Variable.html#ace69670cdee25d3e63ff1f284b5c6e2f" title="nidas::core::Variable\l::getMaxValue" alt="" coords="265,331,415,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="265,397,415,438"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="255,462,425,503"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="265,527,415,569"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="265,593,415,634"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="497,397,693,438"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="497,527,693,569"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="497,593,693,634"/>
+</map>

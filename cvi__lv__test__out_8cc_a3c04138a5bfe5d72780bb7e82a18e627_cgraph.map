@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Socket.html#a170b8a45ba456cc0d24b99b3b2b5c6ba" title="nidas::util::Socket\l::close" alt="" coords="141,5,275,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Socket.html#a1d24df4fd414665c07e60ca71f425444" title="Connect to a given remote host and port. " alt="" coords="141,70,275,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Socket.html#a5a124be1d5892e485f64db1794f8a283" title="Get remote address of this socket. " alt="" coords="110,135,306,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Socket.html#aef5b4fad651d75987478e5abb7527073" title="send data on socket, see man page for send system function. " alt="" coords="141,201,275,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="115,266,301,307"/>
+<area shape="rect" id="node7" href="$arinc__out_8cc.html#a4d7e598eb9f90dfa71f9a963e620a961" title="usage" alt="" coords="177,332,239,359"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="131,383,285,425"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="nidas::core::DSMServiceIterator::hasNext" name="nidas::core::DSMServiceIterator::hasNext">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMServer.html#a15c34947133e2d6d322d24f9f6b713b7" title="nidas::core::DSMServer\l::getServices" alt="" coords="301,5,473,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMServerIterator.html#ae42855375cc6bba9005970e063b7e573" title="nidas::core::DSMServerIterator\l::hasNext" alt="" coords="277,70,496,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMServerIterator.html#a8ff1a50cc6c5efc324e32cec369b31d1" title="nidas::core::DSMServerIterator\l::next" alt="" coords="277,135,496,177"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Site.html#a683b10f50e5cf60759c6507f7d523751" title="nidas::core::Site::\lgetServers" alt="" coords="564,5,697,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="545,70,717,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="545,135,717,177"/>
+</map>

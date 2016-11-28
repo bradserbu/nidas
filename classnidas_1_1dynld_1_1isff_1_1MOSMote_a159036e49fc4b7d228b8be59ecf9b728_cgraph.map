@@ -1,0 +1,8 @@
+<map id="nidas::dynld::isff::MOSMote::open" name="nidas::dynld::isff::MOSMote::open">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="194,5,361,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Parameter.html#a1409f9713ed0e3ceaec10900716b6b35" title="nidas::core::Parameter\l::getNumericValue" alt="" coords="194,70,361,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Parameter.html#a0128f69c9664ac05e83cf2529bcd0a2c" title="nidas::core::Parameter\l::getType" alt="" coords="194,135,361,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SerialSensor.html#a91e710748776717d457cf9374bf0b743" title="Open the device connected to the sensor. " alt="" coords="187,201,368,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1CharacterSensor.html#ac47fdba4319ca33f6ad9feb05bf66fbd" title="Open the sensor device port for real&#45;time sampling. " alt="" coords="416,201,624,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="673,201,847,242"/>
+</map>

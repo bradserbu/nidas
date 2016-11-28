@@ -1,0 +1,23 @@
+<map id="nidas/apps/sample_test.cc" name="nidas/apps/sample_test.cc">
+<area shape="rect" id="node2" href="$SampleSource_8h.html" title="nidas/core/SampleSource.h" alt="" coords="1049,229,1247,256"/>
+<area shape="rect" id="node33" href="$SampleClient_8h.html" title="nidas/core/SampleClient.h" alt="" coords="1217,304,1407,331"/>
+<area shape="rect" id="node36" href="$SampleSorter_8h.html" title="nidas/core/SampleSorter.h" alt="" coords="1524,80,1716,107"/>
+<area shape="rect" id="node38" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="1877,304,2016,331"/>
+<area shape="rect" id="node3" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="318,453,433,480"/>
+<area shape="rect" id="node6" href="$SampleStats_8h.html" title="SampleStats.h" alt="" coords="1076,304,1193,331"/>
+<area shape="rect" id="node32" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="5,603,195,645"/>
+<area shape="rect" id="node7" href="$Sample_8h.html" title="Sample.h" alt="" coords="1093,379,1176,405"/>
+<area shape="rect" id="node8" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="567,528,756,555"/>
+<area shape="rect" id="node13" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="1274,611,1464,637"/>
+<area shape="rect" id="node17" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="1554,528,1725,555"/>
+<area shape="rect" id="node18" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="1020,453,1215,480"/>
+<area shape="rect" id="node19" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="1341,453,1480,480"/>
+<area shape="rect" id="node25" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="798,453,908,480"/>
+<area shape="rect" id="node9" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="532,693,689,720"/>
+<area shape="rect" id="node26" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="831,528,969,555"/>
+<area shape="rect" id="node34" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="220,611,391,637"/>
+<area shape="rect" id="node37" href="$SampleThread_8h.html" title="SampleThread.h" alt="" coords="1557,155,1683,181"/>
+<area shape="rect" id="node41" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="1353,155,1532,181"/>
+<area shape="rect" id="node43" href="$SortedSampleSet_8h.html" title="SortedSampleSet.h" alt="" coords="1634,304,1781,331"/>
+<area shape="rect" id="node42" href="$SampleClientList_8h.html" title="SampleClientList.h" alt="" coords="1335,229,1476,256"/>
+</map>

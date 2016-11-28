@@ -1,0 +1,4 @@
+<map id="nidas::dynld::isff::PacketInputStream::findSampleTag" name="nidas::dynld::isff::PacketInputStream::findSampleTag">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1isff_1_1GOESProject.html#a9ea606489bee4953d6b96883f2eb2530" title="Get a SampleTag*, corresponding to station and sampleid. " alt="" coords="220,5,431,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1isff_1_1GOESProject.html#a8005eb9ca3e786810924330b298e8223" title="Get the station number, corresponding to a GOES id. " alt="" coords="206,70,445,111"/>
+</map>

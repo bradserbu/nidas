@@ -1,0 +1,7 @@
+<map id="nidas::dynld::DSC_A2DSensor::close" name="nidas::dynld::DSC_A2DSensor::close">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1A2DSensor.html#a4ae9cfca36994d03e228face7084db5e" title="close my associated device. " alt="" coords="267,70,445,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a45a3ee15931af1e00b6ee409f1f491a7" title="close my associated device. " alt="" coords="494,70,669,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1IODevice.html#a7c0d765a4897e64a0762954a7df713dd" title="Close the device. " alt="" coords="727,5,883,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="718,70,893,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#ae3f9496427de8c4ffc833855d3e99aa8" title="nidas::core::DSMSensor\l::getTimeoutCount" alt="" coords="718,135,893,177"/>
+</map>

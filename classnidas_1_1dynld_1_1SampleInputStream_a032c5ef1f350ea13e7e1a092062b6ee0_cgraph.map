@@ -1,0 +1,5 @@
+<map id="nidas::dynld::SampleInputStream::search" name="nidas::dynld::SampleInputStream::search">
+<area shape="rect" id="node2" href="$namespacenidas_1_1core.html#a9b696c282183fed8a0b111f97a5eaace" title="A convienence method for getting a sample of an enumerated type from a pool. " alt="" coords="240,5,411,32"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="251,57,400,98"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="459,57,655,98"/>
+</map>

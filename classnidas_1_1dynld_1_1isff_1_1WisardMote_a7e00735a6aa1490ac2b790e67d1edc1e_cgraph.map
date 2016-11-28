@@ -1,0 +1,14 @@
+<map id="nidas::dynld::isff::WisardMote::createSampleTags" name="nidas::dynld::isff::WisardMote::createSampleTags">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="290,5,457,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Parameter.html#a1409f9713ed0e3ceaec10900716b6b35" title="nidas::core::Parameter\l::getNumericValue" alt="" coords="290,70,457,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Variable.html#a4e9f6ce4796c24fe85e86156c7fc9bd9" title="nidas::core::Variable\l::getPrefix" alt="" coords="298,135,449,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#acf54eb4fa859e2ea9ff762fcb1045e61" title="Variable suffix, which is added to the name. " alt="" coords="298,201,449,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Parameter.html#a0128f69c9664ac05e83cf2529bcd0a2c" title="nidas::core::Parameter\l::getType" alt="" coords="290,266,457,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleTag.html#a790923429494213072b51b9463cca14c" title="Provide a reference to a variable &#45; allowing one to modify it. " alt="" coords="288,331,459,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="288,397,459,438"/>
+<area shape="rect" id="node9" href="$namespacenidas_1_1util.html#abc50f52ecbe9d814693ae36d19bba7ac" title="nidas::util::replaceChars" alt="" coords="286,463,461,489"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Variable.html#a768fbecaf977252421ba0c62b9dbda63" title="Set the name prefix. " alt="" coords="298,514,449,555"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleTag.html#aa5d96c63244aa51ce7bda046a818b36c" title="Set the sample portion of the shortId. " alt="" coords="288,579,459,621"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Variable.html#ad57aa2315e99537d53eac9a71d138dec" title="nidas::core::Variable\l::setSuffix" alt="" coords="298,645,449,686"/>
+<area shape="rect" id="node10" href="$namespacenidas_1_1util.html#aab066de0601932ef00d1f42aea338b2f" title="Replace all occurences of pat in string in with rep. " alt="" coords="509,463,696,489"/>
+</map>

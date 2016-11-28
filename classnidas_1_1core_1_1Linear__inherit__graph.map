@@ -1,0 +1,4 @@
+<map id="nidas::core::Linear" name="nidas::core::Linear">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1VariableConverter.html" title="nidas::core::VariableConverter" alt="" coords="5,80,219,107"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="33,5,191,32"/>
+</map>

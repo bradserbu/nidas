@@ -1,0 +1,4 @@
+<map id="nidas::dynld::raf::SyncRecordSource::~SyncRecordSource" name="nidas::dynld::raf::SyncRecordSource::~SyncRecordSource">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleT.html#a1a4fc30a7ddc84ac06a668a4b5ff7c6b" title="Decrement the reference count for this sample. " alt="" coords="289,13,445,54"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SamplePool.html#a6def0d6115dae0704c33f2a1f46c55bf" title="Return a sample to the pool. " alt="" coords="493,13,669,54"/>
+</map>

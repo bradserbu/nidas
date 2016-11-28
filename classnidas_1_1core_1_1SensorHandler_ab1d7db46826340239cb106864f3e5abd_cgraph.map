@@ -1,0 +1,3 @@
+<map id="nidas::core::SensorHandler::setupTimeouts" name="nidas::core::SensorHandler::setupTimeouts">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SensorHandler_1_1PolledDSMSensor.html#a13a7ded05a38562322dd986b27d5c546" title="SensorHandler implements a fairly crude way to detect timeouts on data read from sensors. " alt="" coords="249,5,495,46"/>
+</map>

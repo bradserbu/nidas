@@ -1,0 +1,31 @@
+<map id="nidas/core/MultipleUDPSockets.h" name="nidas/core/MultipleUDPSockets.h">
+<area shape="rect" id="node2" href="$McSocketUDP_8h.html" title="McSocketUDP.h" alt="" coords="2331,80,2454,107"/>
+<area shape="rect" id="node3" href="$IOChannel_8h.html" title="IOChannel.h" alt="" coords="1316,229,1415,256"/>
+<area shape="rect" id="node18" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="2966,453,3058,480"/>
+<area shape="rect" id="node42" href="$util_2McSocket_8h.html" title="nidas/util/McSocket.h" alt="" coords="700,155,858,181"/>
+<area shape="rect" id="node4" href="$ConnectionInfo_8h.html" title="ConnectionInfo.h" alt="" coords="485,304,614,331"/>
+<area shape="rect" id="node16" href="$Datagrams_8h.html" title="Datagrams.h" alt="" coords="1886,304,1992,331"/>
+<area shape="rect" id="node30" href="$Sample_8h.html" title="Sample.h" alt="" coords="1324,304,1407,331"/>
+<area shape="rect" id="node13" href="$IOException_8h.html" title="IOException.h" alt="" coords="182,453,291,480"/>
+<area shape="rect" id="node6" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="462,453,580,480"/>
+<area shape="rect" id="node5" href="$Inet4NetworkInterface_8h.html" title="nidas/util/Inet4NetworkInterface.h" alt="" coords="72,379,307,405"/>
+<area shape="rect" id="node15" href="$Inet4SocketAddress_8h.html" title="nidas/util/Inet4SocketAddress.h" alt="" coords="382,379,604,405"/>
+<area shape="rect" id="node7" href="$UnknownHostException_8h.html" title="UnknownHostException.h" alt="" coords="459,536,643,563"/>
+<area shape="rect" id="node10" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1101,536,1230,563"/>
+<area shape="rect" id="node9" href="$Exception_8h.html" title="Exception.h" alt="" coords="1282,619,1378,645"/>
+<area shape="rect" id="node17" href="$SocketAddrs_8h.html" title="SocketAddrs.h" alt="" coords="1932,379,2047,405"/>
+<area shape="rect" id="node19" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="2212,529,2402,570"/>
+<area shape="rect" id="node20" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="2037,536,2187,563"/>
+<area shape="rect" id="node21" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="3738,536,3811,563"/>
+<area shape="rect" id="node22" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="3703,619,3863,645"/>
+<area shape="rect" id="node31" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="1202,453,1391,480"/>
+<area shape="rect" id="node32" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="904,453,1075,480"/>
+<area shape="rect" id="node33" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="883,379,1078,405"/>
+<area shape="rect" id="node34" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="1616,379,1755,405"/>
+<area shape="rect" id="node38" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="1429,379,1539,405"/>
+<area shape="rect" id="node39" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="1415,453,1554,480"/>
+<area shape="rect" id="node44" href="$util_2Socket_8h.html" title="Socket.h" alt="" coords="88,229,166,256"/>
+<area shape="rect" id="node45" href="$DatagramPacket_8h.html" title="DatagramPacket.h" alt="" coords="164,304,306,331"/>
+<area shape="rect" id="node46" href="$Thread_8h.html" title="Thread.h" alt="" coords="1578,453,1656,480"/>
+<area shape="rect" id="node47" href="$UTime_8h.html" title="UTime.h" alt="" coords="948,304,1023,331"/>
+</map>

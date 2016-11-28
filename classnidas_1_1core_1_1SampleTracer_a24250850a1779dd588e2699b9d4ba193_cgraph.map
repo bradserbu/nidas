@@ -1,0 +1,5 @@
+<map id="nidas::core::SampleTracer::active" name="nidas::core::SampleTracer::active">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="259,5,423,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleMatcher.html#ae41eab5767a1554e841ed5946a265ec6" title="Return true if the given id satisfies the current range criteria. " alt="" coords="241,70,442,111"/>
+<area shape="rect" id="node4" href="$sing_8cc.html#a7cd7c66065ead3daabafb674047c78a8" title="if" alt="" coords="491,77,530,104"/>
+</map>

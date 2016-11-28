@@ -1,0 +1,27 @@
+<map id="nidas::core::McSocket::connect" name="nidas::core::McSocket::connect">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1McSocket.html#ac6aa46ec7edf27f7ef5334449ca41947" title="Like ServerSocket::accept(), this method will return a connected socket. " alt="" coords="253,127,406,169"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1McSocket.html#add4e8722aa9d130ea3dbfe7e9de410a5" title="Do a request(), and then wait until a TCP connection is established, or a UDP datagram is received ba..." alt="" coords="253,193,406,234"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Inet4PacketInfo.html#a5d87d66d4cdfe5dd6ca4a62afc7bb039" title="The destination address of the packet. " alt="" coords="230,258,429,299"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1Inet4PacketInfo.html#a9a835a986de68982f212e314b30c6cd5" title="The interface that the packet was received on. " alt="" coords="247,323,412,365"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Inet4PacketInfoX.html#a0704ffd3c5735434cb583d971a932cbf" title="The remote address of the packet. " alt="" coords="216,389,443,430"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1McSocket.html#a62e8865a4413d9e314bcb37eaa8d53ab" title="nidas::core::McSocket\l::getRequestType" alt="" coords="248,454,411,495"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1McSocket.html#ad8d6f0c00ac2ec06c01258a0f9f691b5" title="Return isNonBlocking() of underlying socket. " alt="" coords="248,519,411,561"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1McSocket.html#a6582ba8753ba988e1bc3379580709072" title="Does this McSocket request connections, or does it listen for incoming connections. " alt="" coords="248,585,411,626"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1IOChannel.html#a58b98176a4eeb7c9576594c2ddd94484" title="nidas::core::IOChannel\l::setConnectionInfo" alt="" coords="247,650,412,691"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Socket.html#ae5c86145ad49902fe60473fe41c6bef2" title="Set the number of seconds a connection needs to be idle before TCP begins sending out keep&#45;alive prob..." alt="" coords="247,715,411,757"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Socket.html#a1b3dae4e515ea1935b1fa020bf77c698" title="Do fcntl system call to set O_NONBLOCK file descriptor flag on the socket. " alt="" coords="262,781,397,822"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1Socket.html#a92146d6f1bd8edd1ca3671b347b050bc" title="nidas::core::Socket\l::setRequestType" alt="" coords="257,846,401,887"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Cond.html#a069efcc951a01cf6a901dd4c92f14ebe" title="Lock the mutex associated with the condition variable. " alt="" coords="493,223,651,249"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Cond.html#a2b603f8bcd511d35350c4ab964e8cf5f" title="Wait on the condition variable. " alt="" coords="493,273,651,300"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Cond.html#afe6c8b703dd232a4f7c88b9f0f019c40" title="Unlock the mutex associated with the condition variable. " alt="" coords="506,41,638,82"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="505,106,639,147"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="491,172,653,199"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="719,253,849,294"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Mutex.html#a704c5544ed1d8bd7dcd4824097e814b1" title="Get the pointer to the pthread_mutex_t. " alt="" coords="706,319,862,345"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="719,5,849,46"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="717,70,851,111"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="915,70,1050,111"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="702,135,866,177"/>
+<area shape="rect" id="node14" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="751,201,817,228"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1McSocket.html#a4a3762f935ac244f2fab06711a025ce1" title="Get the request type number. " alt="" coords="495,454,649,495"/>
+</map>

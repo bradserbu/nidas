@@ -1,0 +1,3 @@
+<map id="enableHeartBeatInt" name="enableHeartBeatInt">
+<area shape="rect" id="node2" href="$pc104sg_8c.html#a59be4e9f51e3e4c7cba41fd4244ab801" title="After receiving a heartbeat interrupt, one must reset the heartbeat latch in the handler. " alt="" coords="201,5,357,32"/>
+</map>

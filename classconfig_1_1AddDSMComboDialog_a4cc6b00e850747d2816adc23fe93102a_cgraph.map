@@ -1,0 +1,6 @@
+<map id="config::AddDSMComboDialog::existingDSM" name="config::AddDSMComboDialog::existingDSM">
+<area shape="rect" id="node2" href="$classDSMItem.html#ab3233f0023a46c66d002d15faf11fb95" title="DSMItem::getDSMConfig" alt="" coords="265,5,445,32"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMConfig.html#a48cb5cb6024a9e23f6fd00f5c32c97d5" title="nidas::core::DSMConfig\l::getId" alt="" coords="269,57,440,98"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMConfig.html#a2f11522e7b009f018ca70226b05fce79" title="nidas::core::DSMConfig\l::getLocation" alt="" coords="269,122,440,163"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="269,187,440,229"/>
+</map>

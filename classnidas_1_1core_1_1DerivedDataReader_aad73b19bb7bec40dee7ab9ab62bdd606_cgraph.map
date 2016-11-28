@@ -1,0 +1,5 @@
+<map id="nidas::core::DerivedDataReader::notifyClients" name="nidas::core::DerivedDataReader::notifyClients">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DerivedDataClient.html#af191afd8ab7f95e64aca972b55be485b" title="Method called on a DerivedDataClient by the DerivedDataReader thread when a new packet of derived dat..." alt="" coords="235,5,416,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="260,70,391,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="260,135,391,177"/>
+</map>

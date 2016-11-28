@@ -1,0 +1,9 @@
+<map id="nidas/core/NearestResampler.h" name="nidas/core/NearestResampler.h">
+<area shape="rect" id="node2" href="$prep_8cc.html" title="nidas/apps/isff/prep.cc" alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$NearestResampler_8cc.html" title="nidas/core/NearestResampler.cc" alt="" coords="193,80,420,107"/>
+<area shape="rect" id="node4" href="$StatisticsCruncher_8h.html" title="nidas/dynld/StatisticsCruncher.h" alt="" coords="444,80,671,107"/>
+<area shape="rect" id="node5" href="$StatisticsProcessor_8h.html" title="nidas/dynld/StatisticsProcessor.h" alt="" coords="442,155,672,181"/>
+<area shape="rect" id="node6" href="$statsproc_8cc.html" title="nidas/apps/statsproc.cc" alt="" coords="244,229,417,256"/>
+<area shape="rect" id="node7" href="$StatisticsCruncher_8cc.html" title="nidas/dynld/StatisticsCruncher.cc" alt="" coords="441,229,673,256"/>
+<area shape="rect" id="node8" href="$StatisticsProcessor_8cc.html" title="nidas/dynld/StatisticsProcessor.cc" alt="" coords="697,229,935,256"/>
+</map>

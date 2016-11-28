@@ -1,0 +1,7 @@
+<map id="nidas::dynld::raf::UHSAS_Serial::open" name="nidas::dynld::raf::UHSAS_Serial::open">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="213,5,379,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Parameter.html#a1409f9713ed0e3ceaec10900716b6b35" title="nidas::core::Parameter\l::getNumericValue" alt="" coords="213,70,379,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SerialSensor.html#a91e710748776717d457cf9374bf0b743" title="Open the device connected to the sensor. " alt="" coords="205,135,387,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1CharacterSensor.html#ac47fdba4319ca33f6ad9feb05bf66fbd" title="Open the sensor device port for real&#45;time sampling. " alt="" coords="435,135,643,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="691,135,866,177"/>
+</map>

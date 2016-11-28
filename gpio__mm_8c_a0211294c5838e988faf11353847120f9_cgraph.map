@@ -1,0 +1,27 @@
+<map id="start_fcntr" name="start_fcntr">
+<area shape="rect" id="node2" href="$gpio__mm_8c.html#a56f68f9a6c22861869ed05164055088c" title="fcntr_timer_callback_func" alt="" coords="531,279,715,305"/>
+<area shape="rect" id="node16" href="$gpio__mm_8c.html#a77e6925178b4ebdbd57fd9d3bd73c100" title="gpio_mm_setup_fcntr" alt="" coords="542,456,703,483"/>
+<area shape="rect" id="node20" href="$gpio__mm_8c.html#a9c1fb15e1dd2c36a034af18869226c98" title="register_gpio_timer\l_callback" alt="" coords="141,569,288,610"/>
+<area shape="rect" id="node21" href="$gpio__mm_8c.html#aeb90c13665f246155dae091425c0fb1a" title="register_gpio_timer\l_callback_priv" alt="" coords="336,579,483,621"/>
+<area shape="rect" id="node3" href="$gpio__mm_8c.html#a42cb800e5df44384cf5dde4a486661ae" title="get_pulse_counter" alt="" coords="799,456,939,483"/>
+<area shape="rect" id="node4" href="$gpio__mm_8c.html#a1e07331f632f86e6bd01c98be31cfda6" title="gpio_mm_disarm_save\l_counter" alt="" coords="784,187,955,229"/>
+<area shape="rect" id="node6" href="$gpio__mm_8c.html#a4e314b40c39eec430dd5b93ffc7c8650" title="gpio_mm_disarm_save\l_counters" alt="" coords="784,57,955,98"/>
+<area shape="rect" id="node8" href="$gpio__mm_8c.html#a51ab4a2565d8dfe50edda9f3145792af" title="gpio_mm_get_hold_reg" alt="" coords="783,5,955,32"/>
+<area shape="rect" id="node10" href="$gpio__mm_8c.html#a6cd2d10915aade531deb9c58932965c0" title="gpio_mm_get_output\l_status" alt="" coords="790,122,949,163"/>
+<area shape="rect" id="node11" href="$gpio__mm_8c.html#aa25089f9cb90abf0a1d7a5277e64c799" title="gpio_mm_load_arm_counter" alt="" coords="767,355,972,381"/>
+<area shape="rect" id="node12" href="$gpio__mm_8c.html#ac7e7effa4bde5d71ced71f99da5312f7" title="gpio_mm_load_arm_counters" alt="" coords="763,253,975,280"/>
+<area shape="rect" id="node13" href="$gpio__mm_8c.html#aac7379a4236abdbd931de819332fb711" title="gpio_mm_set_hold_reg" alt="" coords="784,304,955,331"/>
+<area shape="rect" id="node15" href="$gpio__mm_8c.html#aae978b38fb982c1cdc5d45f74a673af7" title="gpio_mm_set_toggle_out" alt="" coords="777,405,961,432"/>
+<area shape="rect" id="node5" href="$gpio__mm_8c.html#a74ee7b4744c0688b4575c9827242e6bd" title="gpio_mm_cmd_counter" alt="" coords="1028,659,1201,685"/>
+<area shape="rect" id="node7" href="$gpio__mm_8c.html#aab26c6600502573da51d6fe200e855eb" title="gpio_mm_cmd_counters" alt="" coords="1025,159,1205,185"/>
+<area shape="rect" id="node9" href="$gpio__mm_8c.html#acdfb1241eddc44f2722cf874b75ac5c6" title="gpio_mm_get_reg" alt="" coords="1045,5,1184,32"/>
+<area shape="rect" id="node14" href="$gpio__mm_8c.html#a76af5d7f047e1f07822bba334db0108c" title="gpio_mm_set_reg" alt="" coords="1046,456,1183,483"/>
+<area shape="rect" id="node17" href="$gpio__mm_8c.html#a2f8db3657835ed6a78f9ef95b66f8b77" title="gpio_mm_reserve_cntrs" alt="" coords="781,507,957,533"/>
+<area shape="rect" id="node18" href="$gpio__mm_8c.html#a947b7302cb86cde3afa23f6658c655fb" title="gpio_mm_set_load_reg" alt="" coords="784,608,955,635"/>
+<area shape="rect" id="node19" href="$gpio__mm_8c.html#a97e71d353acef19ef6b3d2b8b0dfcf53" title="gpio_mm_setup_counter" alt="" coords="779,557,960,584"/>
+<area shape="rect" id="node22" href="$gpio__mm_8c.html#a80aa12d4624d751f51fe208f69e3e850" title="check_timer_interval" alt="" coords="545,659,700,685"/>
+<area shape="rect" id="node23" href="$gpio__mm_8c.html#a7886dcb4c0126410ad6188a9deda8ae6" title="start_gpio_timer" alt="" coords="559,608,686,635"/>
+<area shape="rect" id="node24" href="$gpio__mm_8c.html#ac51402aa8cdc5bba52521bf7ee9d2d3f" title="set_ticks" alt="" coords="830,760,909,787"/>
+<area shape="rect" id="node25" href="$gpio__mm_8c.html#ade93039b0ccced552492f8542daeaea7" title="gpio_mm_load_counter" alt="" coords="783,709,955,736"/>
+<area shape="rect" id="node26" href="$gpio__mm_8c.html#aca08c7dfc7f5f0c941e741daa205e575" title="gpio_mm_arm_counter" alt="" coords="784,659,955,685"/>
+</map>

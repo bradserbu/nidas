@@ -1,0 +1,6 @@
+<map id="nidas::dynld::DSC_PulseCounter::close" name="nidas::dynld::DSC_PulseCounter::close">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a45a3ee15931af1e00b6ee409f1f491a7" title="close my associated device. " alt="" coords="281,70,455,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IODevice.html#a7c0d765a4897e64a0762954a7df713dd" title="Close the device. " alt="" coords="514,5,670,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="505,70,679,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#ae3f9496427de8c4ffc833855d3e99aa8" title="nidas::core::DSMSensor\l::getTimeoutCount" alt="" coords="505,135,679,177"/>
+</map>

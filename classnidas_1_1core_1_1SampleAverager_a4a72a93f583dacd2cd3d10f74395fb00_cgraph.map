@@ -1,0 +1,5 @@
+<map id="nidas::core::SampleAverager::addVariables" name="nidas::core::SampleAverager::addVariables">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleAverager.html#a65d4f9e88dd0eebb15f4062e3af9a509" title="nidas::core::SampleAverager\l::addVariable" alt="" coords="262,38,469,79"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#adb0e42568c0a11b93d0a50249caa9863" title="Add a variable to this SampleTag. " alt="" coords="517,5,688,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Variable.html#abb2281682a7ee9bf5e85da363713a60f" title="How many values in this variable? " alt="" coords="527,70,678,111"/>
+</map>

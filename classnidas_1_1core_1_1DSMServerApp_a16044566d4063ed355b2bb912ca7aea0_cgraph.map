@@ -1,0 +1,13 @@
+<map id="nidas::core::DSMServerApp::initLogger" name="nidas::core::DSMServerApp::initLogger">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogScheme.html#a66b794432baaae5b1565c6cba7b1e99f" title="Push a new LogConfig onto the list of existing configs. " alt="" coords="251,5,418,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="267,70,402,111"/>
+<area shape="rect" id="node5" href="$group__LoggerSchemes.html#gaf9823a4aaef1f9e189a9ede8ad77f6cd" title="Set the current scheme. " alt="" coords="267,135,402,177"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1LogScheme.html#abf096193e761b41a18d874c628894e34" title="Set the fields to show in log messages and their order. " alt="" coords="251,201,418,242"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Exception.html#a822535e7028f32b6a0ea0b9835b2c7f2" title="nidas::util::Exception\l::toString" alt="" coords="258,266,411,307"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="489,70,623,111"/>
+<area shape="rect" id="node6" href="$structnidas_1_1util_1_1LoggerPrivate.html#aec9297d0b1f9f1be521721aef3f25c94" title="nidas::util::LoggerPrivate\l::reconfig" alt="" coords="467,135,645,177"/>
+<area shape="rect" id="node7" href="$Logger_8cc.html#ae52bc141b722f755c92f440b46292544" title="stream_backtrace" alt="" coords="708,84,847,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1LogScheme.html#a813a21f922014b98e5e2fb6cc2ba666e" title="nidas::util::LogScheme\l::getName" alt="" coords="694,135,861,177"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1LogScheme.html#aa379dfa5732328a0eea5af7d30c6faf0" title="Return a comma&#45;separated string describing the list of fields to be shown by this scheme..." alt="" coords="694,201,861,242"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1LogScheme.html#a18c7dcd737947a97891d61588b49b295" title="Convert a LogField to its lower&#45;case string name. " alt="" coords="910,201,1077,242"/>
+</map>

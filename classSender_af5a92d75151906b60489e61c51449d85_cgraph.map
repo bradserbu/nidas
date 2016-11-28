@@ -1,0 +1,10 @@
+<map id="Sender::run" name="Sender::run">
+<area shape="rect" id="node2" href="$classSender.html#a6362bbd9cfce0e840a7cf47302002588" title="Sender::flush" alt="" coords="397,12,504,39"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#aa4ffe1034a20b639689539d9ed1b8275" title="Return true when this thread has been interrupted. " alt="" coords="162,59,297,101"/>
+<area shape="rect" id="node5" href="$classSender.html#a38fa30b1ff5362bac5a2cc20a42cde5a" title="Sender::send" alt="" coords="176,125,283,152"/>
+<area shape="rect" id="node8" href="$namespacenidas_1_1util.html#ab8663ac99a7a8aa1f556daec3d4898d2" title="Utility function, sleeps until the next even period + offset. " alt="" coords="152,180,307,207"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SerialPort.html#ae4d09a43fe7d99a714858a88bdccd8fe" title="nidas::util::SerialPort\l::write" alt="" coords="595,5,749,46"/>
+<area shape="rect" id="node6" href="$sing_8cc.html#adcf5725bbde1be54757ea9397494fe29" title="cksum" alt="" coords="419,67,483,93"/>
+<area shape="rect" id="node7" href="$namespacenidas_1_1util.html#a1902a11460fd068872aca208a4f1b57d" title="Utility function for substituting backslash sequences back into a string. " alt="" coords="361,118,540,159"/>
+<area shape="rect" id="node9" href="$namespacenidas_1_1util.html#a2520059fec3fedb0affd25e8422f4257" title="Return the current unix system time, in microseconds since Jan 1, 1970, 00:00 GMT. " alt="" coords="355,184,547,211"/>
+</map>

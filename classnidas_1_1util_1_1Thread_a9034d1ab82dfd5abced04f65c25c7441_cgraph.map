@@ -1,0 +1,4 @@
+<map id="nidas::util::Thread::sigAction" name="nidas::util::Thread::sigAction">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="190,5,325,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a3c6de48c411bc2b1a7752f1f4b031e1f" title="Signal handler function for this thread. " alt="" coords="190,70,325,111"/>
+</map>

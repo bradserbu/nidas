@@ -1,0 +1,5 @@
+<map id="nidas::util::DatagramPacket" name="nidas::util::DatagramPacket">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramPacketT.html" title="nidas::util::DatagramPacket\lT\&lt; char \&gt;" alt="" coords="5,190,203,231"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1DatagramPacketBase.html" title="Abstract base class for a UDP datagram. " alt="" coords="10,5,240,32"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1DatagramPacketT.html" title="A DatagramPacket with a specific structure of data. " alt="" coords="121,83,319,125"/>
+</map>

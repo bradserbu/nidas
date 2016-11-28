@@ -1,0 +1,11 @@
+<map id="register_gpio_timer_callback_priv" name="register_gpio_timer_callback_priv">
+<area shape="rect" id="node2" href="$gpio__mm_8c.html#a80aa12d4624d751f51fe208f69e3e850" title="check_timer_interval" alt="" coords="200,56,355,83"/>
+<area shape="rect" id="node3" href="$gpio__mm_8c.html#a7886dcb4c0126410ad6188a9deda8ae6" title="start_gpio_timer" alt="" coords="214,107,341,133"/>
+<area shape="rect" id="node4" href="$gpio__mm_8c.html#a97e71d353acef19ef6b3d2b8b0dfcf53" title="gpio_mm_setup_counter" alt="" coords="403,5,584,32"/>
+<area shape="rect" id="node5" href="$gpio__mm_8c.html#ac51402aa8cdc5bba52521bf7ee9d2d3f" title="set_ticks" alt="" coords="454,56,533,83"/>
+<area shape="rect" id="node6" href="$gpio__mm_8c.html#a947b7302cb86cde3afa23f6658c655fb" title="gpio_mm_set_load_reg" alt="" coords="408,107,579,133"/>
+<area shape="rect" id="node8" href="$gpio__mm_8c.html#ade93039b0ccced552492f8542daeaea7" title="gpio_mm_load_counter" alt="" coords="407,157,579,184"/>
+<area shape="rect" id="node10" href="$gpio__mm_8c.html#aca08c7dfc7f5f0c941e741daa205e575" title="gpio_mm_arm_counter" alt="" coords="408,208,579,235"/>
+<area shape="rect" id="node7" href="$gpio__mm_8c.html#a76af5d7f047e1f07822bba334db0108c" title="gpio_mm_set_reg" alt="" coords="650,107,787,133"/>
+<area shape="rect" id="node9" href="$gpio__mm_8c.html#a74ee7b4744c0688b4575c9827242e6bd" title="gpio_mm_cmd_counter" alt="" coords="632,183,805,209"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="nidas::dynld::raf::CVIProcessor::addRequestedSampleTag" name="nidas::dynld::raf::CVIProcessor::addRequestedSampleTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleIOProcessor.html#a350ebd782976f07498bf102f8bfe0414" title="Add a request for a SampleTag from this SampleIOProcessor. " alt="" coords="259,5,485,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMConfig.html#a8ccb88d7ac2785f1e1c85acdd23205dc" title="nidas::core::DSMConfig\l::getSite" alt="" coords="287,70,457,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Variable.html#aab6af993db077456a1f9b3c5e5591aa5" title="Set the Site where this variable was measured. " alt="" coords="297,135,447,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#a59af25e0c61a9329e3bc30661d84a4ed" title="Station number of this variable: " alt="" coords="534,70,685,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Site.html#a03c9baf2d9b0633360916e73956490f2" title="nidas::core::Site::\lgetSuffix" alt="" coords="543,135,676,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Variable.html#a4c4262fd33f1cc834ea736feb5757417" title="nidas::core::Variable\l::setSiteSuffix" alt="" coords="534,201,685,242"/>
+</map>

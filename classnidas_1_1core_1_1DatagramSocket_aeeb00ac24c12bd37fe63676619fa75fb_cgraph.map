@@ -1,0 +1,7 @@
+<map id="nidas::core::DatagramSocket::getSocketAddress" name="nidas::core::DatagramSocket::getSocketAddress">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="282,5,457,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DatagramSocket.html#a2391788736c6877c09a16118ec6152f3" title="Get the unix path name. " alt="" coords="265,70,474,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DatagramSocket.html#a22ed41e79a77135a6280ac9c43f7b4a9" title="nidas::core::DatagramSocket\l::setName" alt="" coords="265,135,474,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DatagramSocket.html#a3566131a78636603f208474d6c74d94c" title="Set address for this socket. " alt="" coords="265,201,474,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketAddress.html#a704d2610cf7adfbe39dd5120c693f7fc" title="Virtual constructor. " alt="" coords="523,201,709,242"/>
+</map>

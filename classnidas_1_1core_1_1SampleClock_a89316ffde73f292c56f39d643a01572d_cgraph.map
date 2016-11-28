@@ -1,0 +1,4 @@
+<map id="nidas::core::SampleClock::setTime" name="nidas::core::SampleClock::setTime">
+<area shape="rect" id="node2" href="$namespacenidas_1_1util.html#a2520059fec3fedb0affd25e8422f4257" title="Return the current unix system time, in microseconds since Jan 1, 1970, 00:00 GMT. " alt="" coords="237,5,429,32"/>
+<area shape="rect" id="node3" href="$namespacenidas_1_1util.html#a258f494d6790abf034a0d985533fa876" title="Return largest time that is an integral multiple of delta, that isn&#39;t greater than argument t..." alt="" coords="258,56,409,83"/>
+</map>

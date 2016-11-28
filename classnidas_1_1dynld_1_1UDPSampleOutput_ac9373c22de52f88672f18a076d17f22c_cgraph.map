@@ -1,0 +1,10 @@
+<map id="nidas::dynld::UDPSampleOutput::getProjectDOM" name="nidas::dynld::UDPSampleOutput::getProjectDOM">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XMLImplementation.html#a490e7f74f7882a6f5134da46a25fabc6" title="nidas::core::XMLImplementation\l::getImplementation" alt="" coords="280,5,507,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="321,70,465,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DOMable.html#ab29a07ec9bb68342b8525c36079da761" title="nidas::core::DOMable\l::getNamespaceURI" alt="" coords="795,223,954,265"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1RWLock.html#ac6a63e33db30b3e586e864bffa2817b6" title="Acquire a read lock. " alt="" coords="324,187,463,229"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Project.html#aa57b57cfdb1117885b0a8cfa490f2cdd" title="Add my content into a DOMElement. " alt="" coords="321,253,465,294"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="565,187,737,229"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1XDOMElement.html#a2c601fae802485a0dfccad9d51d1a5c9" title="nidas::core::XDOMElement\l::setAttributeValue" alt="" coords="555,253,747,294"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Site.html#a9c7abcd6f9c05c5347d3fd8857d88a25" title="Create a DOMElement and append it to the parent. " alt="" coords="584,318,717,359"/>
+</map>

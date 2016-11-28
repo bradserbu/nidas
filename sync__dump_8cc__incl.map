@@ -1,0 +1,30 @@
+<map id="nidas/apps/sync_dump.cc" name="nidas/apps/sync_dump.cc">
+<area shape="rect" id="node3" href="$core_2FileSet_8h.html" title="nidas/core/FileSet.h" alt="" coords="1377,245,1524,272"/>
+<area shape="rect" id="node29" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="3361,395,3500,421"/>
+<area shape="rect" id="node22" href="$auto__ptr_8h.html" title="auto_ptr.h" alt="" coords="94,469,180,496"/>
+<area shape="rect" id="node33" href="$core_2Socket_8h.html" title="nidas/core/Socket.h" alt="" coords="1558,245,1705,272"/>
+<area shape="rect" id="node35" href="$SampleInputStream_8h.html" title="nidas/dynld/SampleInputStream.h" alt="" coords="2606,245,2844,272"/>
+<area shape="rect" id="node41" href="$SyncRecordReader_8h.html" title="nidas/dynld/raf/SyncRecord\lReader.h" alt="" coords="2561,81,2753,122"/>
+<area shape="rect" id="node4" href="$IOChannel_8h.html" title="IOChannel.h" alt="" coords="1401,320,1500,347"/>
+<area shape="rect" id="node19" href="$FsMount_8h.html" title="FsMount.h" alt="" coords="775,320,863,347"/>
+<area shape="rect" id="node26" href="$util_2FileSet_8h.html" title="nidas/util/FileSet.h" alt="" coords="918,320,1055,347"/>
+<area shape="rect" id="node5" href="$ConnectionInfo_8h.html" title="ConnectionInfo.h" alt="" coords="1153,395,1281,421"/>
+<area shape="rect" id="node6" href="$Datagrams_8h.html" title="Datagrams.h" alt="" coords="1307,395,1413,421"/>
+<area shape="rect" id="node7" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="1489,395,1580,421"/>
+<area shape="rect" id="node8" href="$Sample_8h.html" title="Sample.h" alt="" coords="3097,395,3180,421"/>
+<area shape="rect" id="node13" href="$IOException_8h.html" title="IOException.h" alt="" coords="855,469,964,496"/>
+<area shape="rect" id="node14" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="2222,395,2340,421"/>
+<area shape="rect" id="node9" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1918,469,2047,496"/>
+<area shape="rect" id="node20" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="1704,395,1843,421"/>
+<area shape="rect" id="node21" href="$Process_8h.html" title="nidas/util/Process.h" alt="" coords="473,395,617,421"/>
+<area shape="rect" id="node27" href="$UTime_8h.html" title="UTime.h" alt="" coords="1605,395,1680,421"/>
+<area shape="rect" id="node34" href="$util_2Socket_8h.html" title="nidas/util/Socket.h" alt="" coords="1160,320,1299,347"/>
+<area shape="rect" id="node36" href="$SampleInput_8h.html" title="nidas/core/SampleInput.h" alt="" coords="2619,320,2804,347"/>
+<area shape="rect" id="node37" href="$SampleInputHeader_8h.html" title="SampleInputHeader.h" alt="" coords="2670,395,2831,421"/>
+<area shape="rect" id="node38" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="1968,395,2147,421"/>
+<area shape="rect" id="node39" href="$SampleStats_8h.html" title="SampleStats.h" alt="" coords="3080,320,3197,347"/>
+<area shape="rect" id="node40" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="2855,395,2971,421"/>
+<area shape="rect" id="node43" href="$SampleTag_8h.html" title="nidas/core/SampleTag.h" alt="" coords="2881,320,3055,347"/>
+<area shape="rect" id="node45" href="$SyncRecordVariable_8h.html" title="SyncRecordVariable.h" alt="" coords="2695,171,2853,197"/>
+<area shape="rect" id="node46" href="$SyncServer_8h.html" title="SyncServer.h" alt="" coords="1720,171,1827,197"/>
+</map>

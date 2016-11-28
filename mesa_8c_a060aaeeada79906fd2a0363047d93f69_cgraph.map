@@ -1,0 +1,16 @@
+<map id="mesa_ioctl" name="mesa_ioctl">
+<area shape="rect" id="node2" href="$nidas__util_8c.html#a300153253ae0c68c2c41206be69adb45" title="alloc_dsm_circ_buf" alt="" coords="150,5,293,32"/>
+<area shape="rect" id="node3" href="$mesa_8c.html#a876a3144a3c4e936e4b9b55ee5f5f436" title="close_ports" alt="" coords="174,107,269,133"/>
+<area shape="rect" id="node5" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="363,56,501,83"/>
+<area shape="rect" id="node7" href="$irigclock_8h.html#a356c8f82d2089a496325a17337fcd152" title="Convert a rate in Hz to an enumerated value, rounding up to the next highest supported rate..." alt="" coords="144,208,299,235"/>
+<area shape="rect" id="node8" href="$mesa_8c.html#aeb1bdea29b69f9eebc15958af158013d" title="load_finish" alt="" coords="177,259,266,285"/>
+<area shape="rect" id="node9" href="$mesa_8c.html#a2e366da44ecafc22c8091002fc724cd9" title="load_program" alt="" coords="166,309,277,336"/>
+<area shape="rect" id="node11" href="$mesa_8c.html#a8adcfb1148e766296551c0078dd16921" title="load_start" alt="" coords="178,360,265,387"/>
+<area shape="rect" id="node12" href="$mesa_8c.html#a934ec4a33be153d0ed403263f4232c48" title="read_260x" alt="" coords="177,411,266,437"/>
+<area shape="rect" id="node13" href="$mesa_8c.html#a3cfdc1787d4b7dce192716d67d33f086" title="read_counter" alt="" coords="168,461,275,488"/>
+<area shape="rect" id="node14" href="$mesa_8c.html#a45da963c515eae35873940a876d31910" title="read_radar" alt="" coords="175,512,267,539"/>
+<area shape="rect" id="node15" href="$pc104sg_8c.html#a6be98cca820db8ed3d7b06aecfafc2ab" title="Module function that allows other modules to register their callback function to be called at the giv..." alt="" coords="144,563,299,589"/>
+<area shape="rect" id="node6" href="$pc104sg_8c.html#ae0aacc0145154de250d49a3def0888af" title="Modules call this function to dequeue their callbacks. " alt="" coords="347,157,517,184"/>
+<area shape="rect" id="node4" href="$pc104sg_8c.html#aaf72cc4ce7d06abb88b67911ad702f9d" title="flush_irig_callbacks" alt="" coords="361,107,503,133"/>
+<area shape="rect" id="node10" href="$mesa_8c.html#a7fd59a4316cad63a7b3f7963a94b9768" title="outportbwswap" alt="" coords="373,309,491,336"/>
+</map>

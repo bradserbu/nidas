@@ -1,0 +1,16 @@
+<map id="nidas::dynld::raf::SyncServer::initSensors" name="nidas::dynld::raf::SyncServer::initSensors">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a2e6854278f8a12cec4d3cdb62b01e654" title="Implementation of SampleInput::addSampleTag(). " alt="" coords="232,5,419,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="253,70,397,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#a29f82df18232c1d5f9e6a2baf3404ff4" title="Convenience function to get my one&#45;and&#45;only raw SampleTag(). " alt="" coords="238,135,413,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Project.html#a26bf0d84eab694cd72d9ca3927709f4e" title="nidas::core::Project\l::getSensorIterator" alt="" coords="253,201,397,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="229,266,421,307"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DSMSensor.html#ac8c5cc0c08bd086613971b606e9221b2" title="Initialize the DSMSensor. " alt="" coords="238,331,413,373"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SensorIterator.html#ad941790929716a792881727f02b6c792" title="nidas::core::SensorIterator\l::next" alt="" coords="229,397,421,438"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a91d7dc2586c54dde5790f860121e058b" title="Add a SampleTag to this SampleSource. " alt="" coords="481,5,676,46"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="493,201,664,242"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="470,266,687,307"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="470,331,687,373"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="756,201,889,242"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="737,266,909,307"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="737,331,909,373"/>
+</map>

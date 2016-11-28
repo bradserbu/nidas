@@ -1,0 +1,11 @@
+<map id="nidas::core::DSMServerApp::getDataset" name="nidas::core::DSMServerApp::getDataset">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Process.html#a1106e7c05fa20214f2fc7cdd29cc2871" title="nidas::util::Process\l::expandEnvVars" alt="" coords="260,5,401,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Datasets.html#a6e18616448e2114340b248bc602fce08" title="nidas::core::Datasets\l::getDataset" alt="" coords="251,70,410,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Datasets.html#a1d2582f53119009b173c94364c8061f8" title="nidas::core::Datasets\l::parseXML" alt="" coords="251,135,410,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Dataset.html#a9ac5b2fc43280aec1513d811f7227b62" title="Update the process environment with the current list of environment variables in the Dataset..." alt="" coords="255,201,406,242"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Process.html#a6a34d9f6ed7972f4327c95f9436bf509" title="Get an environment variable given a variable name like &quot;HOST&quot;, without the &#39;$&#39;, or any brackets..." alt="" coords="472,5,613,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1XMLParser.html#a5788eb63bb44197c6663979579e8f030" title="nidas::core::XMLParser\l::parse" alt="" coords="459,135,626,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Dataset.html#a4b8d1ec0deb99bbab960eaa43cdec4e5" title="nidas::core::Dataset\l::getName" alt="" coords="467,201,618,242"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Process.html#a7c4c8193e4bb7f31f7b8478a1b32e7bc" title="nidas::util::Process\l::setEnvVar" alt="" coords="472,266,613,307"/>
+<area shape="rect" id="node10" href="$sing_8cc.html#a7cd7c66065ead3daabafb674047c78a8" title="if" alt="" coords="675,273,714,300"/>
+</map>

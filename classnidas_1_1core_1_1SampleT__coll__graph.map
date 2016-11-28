@@ -1,0 +1,6 @@
+<map id="nidas::core::SampleT&lt; DataT &gt;" name="nidas::core::SampleT&lt; DataT &gt;">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html" title="Interface to a data sample. " alt="" coords="96,187,245,213"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleHeader.html" title="The header fields of a Sample: a time_tag, a data length field, and an identifier. " alt="" coords="5,96,200,123"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="225,96,356,123"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="194,5,387,32"/>
+</map>

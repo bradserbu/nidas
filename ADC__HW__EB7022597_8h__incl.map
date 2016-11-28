@@ -1,0 +1,30 @@
+<map id="nidas/dynld/raf/ADC_HW_EB7022597.h" name="nidas/dynld/raf/ADC_HW_EB7022597.h">
+<area shape="rect" id="node2" href="$DSMArincSensor_8h.html" title="DSMArincSensor.h" alt="" coords="573,96,712,123"/>
+<area shape="rect" id="node3" href="$arinc_8h.html" title="nidas/linux/arinc/arinc.h" alt="" coords="291,171,461,197"/>
+<area shape="rect" id="node7" href="$DSMSensor_8h.html" title="nidas/core/DSMSensor.h" alt="" coords="820,171,999,197"/>
+<area shape="rect" id="node49" href="$VariableConverter_8h.html" title="nidas/core/VariableConverter.h" alt="" coords="1438,320,1655,347"/>
+<area shape="rect" id="node25" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="11,545,201,586"/>
+<area shape="rect" id="node4" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="415,552,555,579"/>
+<area shape="rect" id="node8" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="577,395,695,421"/>
+<area shape="rect" id="node20" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="733,245,912,272"/>
+<area shape="rect" id="node29" href="$SampleScanner_8h.html" title="SampleScanner.h" alt="" coords="329,320,463,347"/>
+<area shape="rect" id="node31" href="$SampleTag_8h.html" title="SampleTag.h" alt="" coords="1141,320,1245,347"/>
+<area shape="rect" id="node44" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="117,395,208,421"/>
+<area shape="rect" id="node32" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="1734,469,1825,496"/>
+<area shape="rect" id="node46" href="$Dictionary_8h.html" title="Dictionary.h" alt="" coords="1455,709,1551,736"/>
+<area shape="rect" id="node18" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="304,469,475,496"/>
+<area shape="rect" id="node9" href="$Sample_8h.html" title="Sample.h" alt="" coords="777,469,860,496"/>
+<area shape="rect" id="node10" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="544,635,733,661"/>
+<area shape="rect" id="node13" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="758,635,948,661"/>
+<area shape="rect" id="node15" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="733,552,904,579"/>
+<area shape="rect" id="node16" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="929,552,1124,579"/>
+<area shape="rect" id="node11" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="668,709,825,736"/>
+<area shape="rect" id="node21" href="$SampleSource_8h.html" title="SampleSource.h" alt="" coords="860,320,988,347"/>
+<area shape="rect" id="node26" href="$SampleClientList_8h.html" title="SampleClientList.h" alt="" coords="577,320,719,347"/>
+<area shape="rect" id="node22" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="1039,395,1155,421"/>
+<area shape="rect" id="node30" href="$SampleClock_8h.html" title="SampleClock.h" alt="" coords="435,395,552,421"/>
+<area shape="rect" id="node33" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="1263,635,1413,661"/>
+<area shape="rect" id="node34" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="2750,552,2823,579"/>
+<area shape="rect" id="node35" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="2715,635,2875,661"/>
+<area shape="rect" id="node50" href="$Parameter_8h.html" title="Parameter.h" alt="" coords="1541,395,1640,421"/>
+</map>

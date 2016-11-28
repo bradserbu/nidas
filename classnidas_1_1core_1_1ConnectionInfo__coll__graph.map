@@ -1,0 +1,6 @@
+<map id="nidas::core::ConnectionInfo" name="nidas::core::ConnectionInfo">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Inet4Address.html" title="Support for IP version 4 host address. " alt="" coords="11,17,186,44"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html" title="nidas::util::Inet4Network\lInterface" alt="" coords="305,57,479,98"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Inet4SocketAddress.html" title="A IP version 4 socket address, containing a host address, and a port number. " alt="" coords="309,134,475,175"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="5,148,192,175"/>
+</map>

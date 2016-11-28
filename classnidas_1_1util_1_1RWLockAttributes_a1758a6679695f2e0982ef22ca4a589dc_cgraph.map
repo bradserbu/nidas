@@ -1,0 +1,4 @@
+<map id="nidas::util::RWLockAttributes::RWLockAttributes" name="nidas::util::RWLockAttributes::RWLockAttributes">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1RWLockAttributes.html#ae31bd0386e6816b314e2a48f36aef304" title="nidas::util::RWLockAttributes\l::getPShared" alt="" coords="257,5,458,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1RWLockAttributes.html#a090f5431805082bc8450196a92b8a117" title="Set the mutex pshared attribute, one of PTHREAD_PROCESS_PRIVATE or PTHREAD_PROCESS_SHARED. " alt="" coords="257,70,458,111"/>
+</map>

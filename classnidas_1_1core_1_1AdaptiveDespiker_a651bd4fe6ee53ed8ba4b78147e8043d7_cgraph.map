@@ -1,0 +1,7 @@
+<map id="nidas::core::AdaptiveDespiker::despike" name="nidas::core::AdaptiveDespiker::despike">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1AdaptiveDespiker.html#a01618fd5805f9901f24e8f60d5944040" title="Forecast a value based on the previous point and correlation and mean. " alt="" coords="267,5,479,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1AdaptiveDespiker.html#aaef4f1fc67c4bbde526c1d84266013c8" title="nidas::core::AdaptiveDespiker\l::incrementStatistics" alt="" coords="267,70,479,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1AdaptiveDespiker.html#a1083af30c23088f6b7ff60a56dc386a6" title="nidas::core::AdaptiveDespiker\l::initStatistics" alt="" coords="267,135,479,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1AdaptiveDespiker.html#aef3e4961a7a7ca49169f807aa369d94a" title="nidas::core::AdaptiveDespiker\l::updateStatistics" alt="" coords="267,201,479,242"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1AdaptiveDespiker.html#a9f7cb11e580c3ea30f0789d0ab5f63bb" title="Adjust the discrimination level based on the current correlation. " alt="" coords="529,135,741,177"/>
+</map>

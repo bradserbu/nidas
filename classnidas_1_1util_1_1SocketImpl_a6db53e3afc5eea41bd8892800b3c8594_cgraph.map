@@ -1,0 +1,7 @@
+<map id="nidas::util::SocketImpl::getInterface" name="nidas::util::SocketImpl::getInterface">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a5a980fd49b48f9cc36250f08efae7e19" title="Return the IP address portion. " alt="" coords="432,5,619,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a4d978bc0466771307de27cd70e76efe0" title="Java style toString: returns &quot;inet:hostname:port&quot;. " alt="" coords="217,69,383,110"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Inet4Address.html#a10a7dc15a9b5480d8dea756101d868fd" title="Do reverse lookup of a name, given an address. " alt="" coords="438,70,613,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a3f70de15bd05eb31407b30e1f4f2e841" title="Return the port number. " alt="" coords="442,135,609,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="667,70,821,111"/>
+</map>

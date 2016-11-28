@@ -1,0 +1,7 @@
+<map id="nidas::core::SampleSourceSupport" name="nidas::core::SampleSourceSupport">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="543,5,737,32"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleClientList.html" title="A list of SampleClients. " alt="" coords="537,56,743,83"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="291,96,421,123"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,96,199,123"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleStats.html" title="A source of samples. " alt="" coords="549,184,731,211"/>
+</map>

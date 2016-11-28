@@ -1,0 +1,7 @@
+<map id="nidas::core::Project::initSensors" name="nidas::core::Project::initSensors">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Project.html#a98e976fc918b8724ab1c55a8072f4955" title="nidas::core::Project\l::getSites" alt="" coords="197,5,341,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Site.html#a14dcb1da087ee4c0a1f076c725ad141f" title="Initialize all sensors for a Site. " alt="" coords="203,70,336,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="408,37,541,78"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMConfig.html#a33dc60b026921678d9c7bee3112c3f41" title="nidas::core::DSMConfig\l::initSensors" alt="" coords="389,102,560,143"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#ac8c5cc0c08bd086613971b606e9221b2" title="Initialize the DSMSensor. " alt="" coords="609,102,783,143"/>
+</map>

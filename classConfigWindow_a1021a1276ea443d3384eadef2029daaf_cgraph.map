@@ -1,0 +1,16 @@
+<map id="ConfigWindow::editDSMCombo" name="ConfigWindow::editDSMCombo">
+<area shape="rect" id="node2" href="$classconfig_1_1AddDSMComboDialog.html#a746ae25af8c95cc3853256153b2e8b1c" title="config::AddDSMComboDialog\l::show" alt="" coords="270,221,479,262"/>
+<area shape="rect" id="node3" href="$classconfig_1_1AddDSMComboDialog.html#a558ac67791ae123f9c33d9eda818a9a3" title="config::AddDSMComboDialog\l::setUpDialog" alt="" coords="529,221,738,262"/>
+<area shape="rect" id="node4" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="1325,140,1480,167"/>
+<area shape="rect" id="node5" href="$classconfig_1_1AddDSMComboDialog.html#a4cc6b00e850747d2816adc23fe93102a" title="config::AddDSMComboDialog\l::existingDSM" alt="" coords="787,158,997,199"/>
+<area shape="rect" id="node10" href="$classDocument.html#af1beb57fe055615d4850da02bf9cc8be" title="Document::getNextDSMId" alt="" coords="797,315,987,341"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Exception.html#a822535e7028f32b6a0ea0b9835b2c7f2" title="nidas::util::Exception\l::toString" alt="" coords="815,366,969,407"/>
+<area shape="rect" id="node6" href="$classDSMItem.html#ab3233f0023a46c66d002d15faf11fb95" title="DSMItem::getDSMConfig" alt="" coords="1071,41,1251,68"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="1076,93,1247,134"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMConfig.html#a48cb5cb6024a9e23f6fd00f5c32c97d5" title="nidas::core::DSMConfig\l::getId" alt="" coords="1076,158,1247,199"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMConfig.html#a2f11522e7b009f018ca70226b05fce79" title="nidas::core::DSMConfig\l::getLocation" alt="" coords="1076,223,1247,265"/>
+<area shape="rect" id="node11" href="$classNidasModel.html#a40cd91b0dffd6bdacc21f56784bdf6ba" title="NidasModel::getCurrentRootItem" alt="" coords="1046,289,1277,316"/>
+<area shape="rect" id="node12" href="$classSiteItem.html#a52dfd0fbfaf0002ce02baf75d626cfaf" title="SiteItem::getSite" alt="" coords="1096,340,1227,367"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Site.html#ad4d2683952ca26ecb0a2310a62eb9790" title="nidas::core::Site::\lgetName" alt="" coords="1095,391,1228,433"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="1095,457,1228,498"/>
+</map>

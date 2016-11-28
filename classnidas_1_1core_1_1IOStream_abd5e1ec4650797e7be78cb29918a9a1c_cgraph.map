@@ -1,0 +1,8 @@
+<map id="nidas::core::IOStream::createFile" name="nidas::core::IOStream::createFile">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IOChannel.html#ae3fe5aa13cd3cfd16e29b0c8277c3f0f" title="Request that an IOChannel open a new file, with a name based on a time. " alt="" coords="216,38,381,79"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOStream.html#a1ace18fad9276e26ef4802a1560086bf" title="Flush buffer to physical device. " alt="" coords="218,103,379,145"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1IOChannel.html#aeea332fa47970ef41714cac85a49c9b5" title="Physical write method which must be implemented in derived classes. " alt="" coords="429,5,595,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1IOStream.html#a700471db8265705be95e7581072a1f4e" title="nidas::core::IOStream\l::addNumOutputBytes" alt="" coords="429,70,595,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html#a980845bb9a0fb107d8b216e8099c1b0b" title="nidas::util::Exception\l::getErrno" alt="" coords="435,135,589,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1IOChannel.html#a652118cfca982a2dd675e8272e47ae60" title="Default flush implementation does nothing. " alt="" coords="429,201,595,242"/>
+</map>

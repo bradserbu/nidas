@@ -1,0 +1,12 @@
+<map id="nidas::core::FsMount::cancel" name="nidas::core::FsMount::cancel">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1FsMount.html#a0566d362f129c09b9cf033c7c6d6d9fc" title="nidas::core::FsMount\l::getDevice" alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Process.html#a1a54a8a3c28b8c5d88c2fc19362dd1e9" title="The process id of the Process. " alt="" coords="215,70,356,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#a4f6d1422edd345586e81e487335d20c4" title="Has this thread been joined? " alt="" coords="218,135,353,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="218,201,353,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Process.html#ad0c2a0296562d938412b23e5d211446e" title="Send a signal to the process. " alt="" coords="215,266,356,307"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Thread.html#a08fdc084e658645f8c3b5ac54e6ffec0" title="Send a signal to this thread. " alt="" coords="218,331,353,373"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Process.html#a740e9c3a469d2f425e83fe8c3d430ad6" title="Do a system wait on a process. " alt="" coords="215,397,356,438"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="209,462,362,503"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="421,135,555,177"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="411,331,565,373"/>
+</map>

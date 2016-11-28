@@ -1,0 +1,10 @@
+<map id="nidas::dynld::SampleOutputStream::receive" name="nidas::dynld::SampleOutputStream::receive">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Exception.html#a980845bb9a0fb107d8b216e8099c1b0b" title="nidas::util::Exception\l::getErrno" alt="" coords="258,5,411,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="267,70,402,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="253,136,416,163"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="258,187,411,229"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="479,63,614,105"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="678,63,813,105"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="465,129,629,170"/>
+<area shape="rect" id="node8" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="513,195,580,221"/>
+</map>

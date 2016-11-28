@@ -1,0 +1,9 @@
+<map id="nidas::dynld::raf::PSI9116_Sensor::open" name="nidas::dynld::raf::PSI9116_Sensor::open">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMEngine.html#a27a98c4d7a2508da05c4f281a11e81a0" title="Get a pointer to the singleton instance of DSMEngine created by main(). " alt="" coords="239,5,412,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1CharacterSensor.html#ac47fdba4319ca33f6ad9feb05bf66fbd" title="Open the sensor device port for real&#45;time sampling. " alt="" coords="221,70,429,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SocketIODevice.html#a83c5820a274dedcdded5a5065496fe86" title="Parse the getName() string to extract a socket type, destination address and optional port number..." alt="" coords="225,135,425,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMEngine.html#a7124ff57249f5addd307014df26b0cc3" title="Sensors register with the DSMEngineIntf XmlRpcThread if they have a executeXmlRpc() method which can ..." alt="" coords="226,201,425,242"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="487,70,662,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMEngineIntf.html#a8ed2a987ad687a48e454a2cd1ac165cd" title="Register a sensor to have its executeXmlRpc() method called when a &quot;SensorAction&quot; XmlRpc request come..." alt="" coords="478,201,671,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMEngineIntf_1_1SensorAction.html#aa8a08ab359e0d38ec24cecb99a8d29c0" title="nidas::core::DSMEngineIntf\l::SensorAction::registerSensor" alt="" coords="721,201,938,242"/>
+</map>

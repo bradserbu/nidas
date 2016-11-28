@@ -1,0 +1,5 @@
+<map id="nidas::core::Variable::setSite" name="nidas::core::Variable::setSite">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Variable.html#a59af25e0c61a9329e3bc30661d84a4ed" title="Station number of this variable: " alt="" coords="206,5,357,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Site.html#a03c9baf2d9b0633360916e73956490f2" title="nidas::core::Site::\lgetSuffix" alt="" coords="215,70,348,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Variable.html#a4c4262fd33f1cc834ea736feb5757417" title="nidas::core::Variable\l::setSiteSuffix" alt="" coords="206,135,357,177"/>
+</map>

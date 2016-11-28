@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Project.html#abccc2d618880e5c3cc4459bb4f64a05a" title="Destory the singleton. " alt="" coords="125,5,269,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1NidasApp.html#a1b05a7b2e5e2545db4b1cc3c0fa7e9be" title="Set the enabled flag on the given list of NidasApp instances. " alt="" coords="117,70,278,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a16fd839f83699d97cdc959491b8f30a0" title="Call this method to parse the project, setup sample tags, preload calibrations using the time of the ..." alt="" coords="132,835,263,877"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1NidasApp.html#a424d627e9569f50c40a1707b1e13ec75" title="nidas::core::NidasApp\l::loggingArgs" alt="" coords="117,901,278,942"/>
+<area shape="rect" id="node40" href="$arinc__out_8cc.html#a8d395a68b83ebaabd2c1f02a19eb681f" title="parseRunstring" alt="" coords="139,967,256,993"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1NidasApp.html#a84352c0c4ff32edf61d81a50be322a02" title="Call acceptShortFlag(false) on the given list of NidasApp instances, meaning only the long flag will ..." alt="" coords="117,1018,278,1059"/>
+<area shape="rect" id="node43" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a7416e207601dc1d8da1001879450c630" title="This method implements the Runnable interface for Threads, but it can also be called synchronously wh..." alt="" coords="132,303,263,345"/>
+<area shape="rect" id="node48" href="$classnidas_1_1core_1_1NidasApp.html#ae7bdd8a67559a45f4ccc4af23d8db2be" title="An instance of NidasApp can be set as an application&#45;wide instance, like an application context..." alt="" coords="110,1083,285,1125"/>
+<area shape="rect" id="node49" href="$dmd__mmat__test_8cc.html#aecb57712e6b25f9bfc3a56f52feb7176" title="setupSignals" alt="" coords="145,1348,249,1375"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1XMLImplementation.html#a4e5ee90cfc04350fd0073e45cc94fe0a" title="nidas::core::XMLImplementation\l::terminate" alt="" coords="333,369,560,410"/>
+<area shape="rect" id="node45" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="641,179,794,221"/>
+<area shape="rect" id="node5" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a93ce5c8b78499ca3ec3133cb9990492e" title="Open the data file input stream and read the nidas header, but do not parse the project. " alt="" coords="355,909,538,950"/>
+<area shape="rect" id="node18" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a869cf01188d82231415fd86f1a6a80f9" title="nidas::dynld::raf::\lSyncServer::initProject" alt="" coords="363,974,530,1015"/>
+<area shape="rect" id="node22" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#aa23bdf6b5ec9f27e10cb4d72d38671a8" title="nidas::dynld::raf::\lSyncServer::initSensors" alt="" coords="359,1039,534,1081"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1SamplePipeline.html#a7adb315f7a2e2cf10994df9bbb67c27c" title="nidas::core::SamplePipeline\l::setRealTime" alt="" coords="347,1105,546,1146"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1SamplePipeline.html#a73b5e78ee9c670c0294e6576eabe3445" title="Set length of raw SampleSorter, in seconds. " alt="" coords="347,1170,546,1211"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1SamplePipeline.html#afbd699d0eb07d138f29b301101283fe2" title="Set length of processed SampleSorter, in seconds. " alt="" coords="347,1235,546,1277"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1SamplePipeline.html#ab97dff3eb0161e9fd6e44ce7deeeb4ca" title="Set the maximum amount of heap memory to use for sorting samples. " alt="" coords="347,1301,546,1342"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1SamplePipeline.html#aa393716c8779887c1219c4592c7a466b" title="Set the maximum amount of heap memory to use for sorting samples. " alt="" coords="347,1366,546,1407"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1SamplePipeline.html#ad98e04882f62856dec7fa1ff38266249" title="Add an input to be merged and sorted. " alt="" coords="347,1431,546,1473"/>
+<area shape="rect" id="node32" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordGenerator.html#a7f5f66845f03fec69bfecd16e05e97f0" title="Implementation of SampleIOProcessor::connect(SampleSource*). " alt="" coords="366,485,527,541"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1SamplePipeline.html#ad6f35a21321e4db0a22e05c670dde378" title="Several objects in NIDAS can be both a SampleSource of raw Samples and processed Samples. " alt="" coords="612,314,823,355"/>
+<area shape="rect" id="node34" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordGenerator.html#a6d97b00708eb5169699a15f1e3611bf6" title="nidas::dynld::raf::\lSyncRecordGenerator::init" alt="" coords="353,566,541,607"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1ServerSocket.html#a132a121d28bfbc1b2cabb95443822031" title="Establish a connection. " alt="" coords="353,631,540,673"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1ServerSocket.html#a0245d40096ca089255c67303eebf17e6" title="nidas::core::ServerSocket\l::close" alt="" coords="353,697,540,738"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1SampleOutputBase.html#a0da9dd3cb9c9aedc4756e309291350a6" title="nidas::core::SampleOutput\lBase::setReconnectDelaySecs" alt="" coords="339,762,554,803"/>
+<area shape="rect" id="node38" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordGenerator.html#a1445b121aac7950374907106a8b11000" title="Implementation of SampleSource::addSampleClient(). " alt="" coords="366,828,527,884"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1FileSet.html#adf8ef81cad8e5ead98c6d943d4920a35" title="Convienence function to return a pointer to a nidas::core::FileSet, given a list of files..." alt="" coords="646,907,789,949"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1FileSet.html#a452d0e5d0238468aa58bb230ef61c9d1" title="Establish a connection. " alt="" coords="646,973,789,1014"/>
+<area shape="rect" id="node8" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ae717530c5a0f7b7a665743d6d099e458" title="nidas::dynld::SampleInput\lStream::setMaxDsmId" alt="" coords="624,1038,811,1079"/>
+<area shape="rect" id="node9" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ac74c22fae1523d5ae65dd9dbd04bfb9a" title="nidas::dynld::SampleInput\lStream::setMaxSampleLength" alt="" coords="609,385,826,426"/>
+<area shape="rect" id="node10" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a01c18b1fbae673633c3ad41c7ed19582" title="nidas::dynld::SampleInput\lStream::setMinSampleTime" alt="" coords="617,450,817,491"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1UTime.html#a5e6a55c2268fa5444564ad58b484a020" title="Parse a character string into a UTime, using these formats until success: [CC]YY [cmon|mon] day h:m[:..." alt="" coords="651,515,783,557"/>
+<area shape="rect" id="node12" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a7eff9584abad56533e63732189c31548" title="nidas::dynld::SampleInput\lStream::setMaxSampleTime" alt="" coords="615,581,819,622"/>
+<area shape="rect" id="node13" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a7194f54546601bc1968be8cc9371e94e" title="Read archive information at beginning of input stream or file. " alt="" coords="624,646,811,687"/>
+<area shape="rect" id="node14" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a83eae3ff45f7693298e15d0dede8abc6" title="nidas::dynld::SampleInput\lStream::getInputHeader" alt="" coords="624,711,811,753"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SampleInputHeader.html#a72647b7b4c1160ff4ac8467c530572e4" title="nidas::core::SampleInput\lHeader::getConfigName" alt="" coords="627,777,808,818"/>
+<area shape="rect" id="node16" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ac2b909036899cc2a4f663fc4c9836153" title="Read the next sample from the InputStream. " alt="" coords="624,246,811,287"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="643,842,792,883"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Process.html#a1106e7c05fa20214f2fc7cdd29cc2871" title="nidas::util::Process\l::expandEnvVars" alt="" coords="647,1169,788,1210"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="645,1234,789,1275"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1Project.html#aa38fef31999273aa7e77964a11f054fd" title="nidas::core::Project\l::setConfigName" alt="" coords="645,1103,789,1145"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1Project.html#a26bf0d84eab694cd72d9ca3927709f4e" title="nidas::core::Project\l::getSensorIterator" alt="" coords="645,1365,789,1406"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="621,1430,813,1471"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1SensorIterator.html#ad941790929716a792881727f02b6c792" title="nidas::core::SensorIterator\l::next" alt="" coords="621,1299,813,1341"/>
+<area shape="rect" id="node41" href="$arinc__out_8cc.html#a4d7e598eb9f90dfa71f9a963e620a961" title="usage" alt="" coords="416,1497,477,1524"/>
+<area shape="rect" id="node44" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a22cdedb14a0da6fcff38df441c863d2b" title="nidas::dynld::raf::\lSyncServer::read" alt="" coords="381,238,513,279"/>
+<area shape="rect" id="node46" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a2c9de1a5d9fe86e3ca32b0547522e8bf" title="nidas::dynld::raf::\lSyncServer::stop" alt="" coords="381,303,512,345"/>
+<area shape="rect" id="node50" href="$ck__mesa_8cc.html#ab7c178dc39d210d62b38ea60b55b9c37" title="sigAction" alt="" coords="407,1548,487,1575"/>
+</map>

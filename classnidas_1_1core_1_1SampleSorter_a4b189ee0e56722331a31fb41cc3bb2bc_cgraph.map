@@ -1,0 +1,8 @@
+<map id="nidas::core::SampleSorter::addSampleClientForTag" name="nidas::core::SampleSorter::addSampleClientForTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a64bf264413b611f84b773832e87d51da" title="Add a SampleClient to this SampleSource. " alt="" coords="243,38,474,79"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleClientList.html#aa5cf65a21e085a43948f814d38d1bfa3" title="Add a SampleClient to this list. " alt="" coords="523,38,709,79"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleClientList.html#a23fde5a659d2c8b1239b3deff47591a0" title="Lock this list. " alt="" coords="758,5,943,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleClientList.html#a070d4a7cc5bfd5308dfdf35d1133d9d5" title="Unlock this list. " alt="" coords="758,70,943,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="992,5,1123,46"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="992,70,1123,111"/>
+</map>

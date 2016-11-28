@@ -1,0 +1,7 @@
+<map id="nidas::core::UDPSocketIODevice" name="nidas::core::UDPSocketIODevice">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SocketIODevice.html" title="A IODevice providing support for UDP and TCP sockets. " alt="" coords="68,203,268,229"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IODevice.html" title="An interface to an IO device. " alt="" coords="5,111,160,137"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1DatagramSocket.html" title="A socket for sending or receiving datagrams, either unicast, broadcast or multicast. " alt="" coords="292,203,492,229"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketImpl.html" title="Implementation of a socket, providing a C++ interface to system socket calls: socket,bind,listen,accept,setsockopt, etc. " alt="" coords="311,111,473,137"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="299,5,485,32"/>
+</map>

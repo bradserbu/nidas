@@ -1,0 +1,9 @@
+<map id="nidas::core::DSMSensor::printStatusHeader" name="nidas::core::DSMSensor::printStatusHeader">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a4f28df132de1bd8514c5aa64dbe2864d" title="What DSMConfig am I associated with? " alt="" coords="230,5,405,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a9609a465c8ac0d75a810bc07efe2a6ed" title="Location string. " alt="" coords="230,70,405,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="230,135,405,177"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMConfig.html#a2f11522e7b009f018ca70226b05fce79" title="nidas::core::DSMConfig\l::getLocation" alt="" coords="456,70,627,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="454,135,629,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="454,201,629,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="677,201,848,242"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::core::SerialPortIODevice::SerialPortIODevice" name="nidas::core::SerialPortIODevice::SerialPortIODevice">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Termios.html#a4442316106f281195df997ff6f7a5d27" title="Sets termios options for raw or non&#45;raw(cooked) mode. " alt="" coords="273,5,413,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Termios.html#af7e517ab4d19172df6250108e4aabccc" title="nidas::util::Termios\l::setRawLength" alt="" coords="273,70,413,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Termios.html#a415be5ebf0ee091f79e8daba74665034" title="nidas::util::Termios\l::setRawTimeout" alt="" coords="273,135,413,177"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="nidas/core/NidasApp.h" name="nidas/core/NidasApp.h">
+<area shape="rect" id="node2" href="$SampleTag_8h.html" title="SampleTag.h" alt="" coords="1976,229,2080,256"/>
+<area shape="rect" id="node27" href="$SampleMatcher_8h.html" title="SampleMatcher.h" alt="" coords="2160,155,2294,181"/>
+<area shape="rect" id="node28" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="3002,304,3138,331"/>
+<area shape="rect" id="node36" href="$util_2Socket_8h.html" title="nidas/util/Socket.h" alt="" coords="3023,80,3162,107"/>
+<area shape="rect" id="node49" href="$auto__ptr_8h.html" title="nidas/util/auto_ptr.h" alt="" coords="3710,80,3858,107"/>
+<area shape="rect" id="node3" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="854,304,946,331"/>
+<area shape="rect" id="node16" href="$Sample_8h.html" title="Sample.h" alt="" coords="2348,304,2431,331"/>
+<area shape="rect" id="node23" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="1850,304,1966,331"/>
+<area shape="rect" id="node4" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1612,379,1802,421"/>
+<area shape="rect" id="node6" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="1212,387,1362,413"/>
+<area shape="rect" id="node7" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="513,387,586,413"/>
+<area shape="rect" id="node8" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="544,469,704,496"/>
+<area shape="rect" id="node17" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="2295,387,2484,413"/>
+<area shape="rect" id="node18" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="2080,387,2270,413"/>
+<area shape="rect" id="node20" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="2508,387,2703,413"/>
+<area shape="rect" id="node34" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="3174,387,3304,413"/>
+<area shape="rect" id="node35" href="$IOException_8h.html" title="IOException.h" alt="" coords="3560,387,3670,413"/>
+<area shape="rect" id="node37" href="$Inet4SocketAddress_8h.html" title="Inet4SocketAddress.h" alt="" coords="2574,229,2736,256"/>
+<area shape="rect" id="node39" href="$Inet4NetworkInterface_8h.html" title="Inet4NetworkInterface.h" alt="" coords="2857,229,3031,256"/>
+<area shape="rect" id="node40" href="$Inet4PacketInfo_8h.html" title="Inet4PacketInfo.h" alt="" coords="2799,155,2930,181"/>
+<area shape="rect" id="node41" href="$UnixSocketAddress_8h.html" title="UnixSocketAddress.h" alt="" coords="2954,155,3112,181"/>
+<area shape="rect" id="node38" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="2202,304,2320,331"/>
+<area shape="rect" id="node42" href="$EOFException_8h.html" title="EOFException.h" alt="" coords="3240,229,3360,256"/>
+<area shape="rect" id="node43" href="$DatagramPacket_8h.html" title="DatagramPacket.h" alt="" coords="2490,155,2631,181"/>
+</map>

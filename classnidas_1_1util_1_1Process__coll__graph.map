@@ -1,0 +1,4 @@
+<map id="nidas::util::Process" name="nidas::util::Process">
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="403,180,533,207"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,180,199,207"/>
+</map>

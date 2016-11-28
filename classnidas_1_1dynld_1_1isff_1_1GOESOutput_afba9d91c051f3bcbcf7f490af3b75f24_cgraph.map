@@ -1,0 +1,43 @@
+<map id="nidas::dynld::isff::GOESOutput::run" name="nidas::dynld::isff::GOESOutput::run">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Runnable.html#a84b9976acfbff4cbf8f169e4478724ae" title="Call testCancel, and return true when this thread has been interrupted. " alt="" coords="233,5,383,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1UTime.html#aeb55bd955c48b84b5d3113dc2311d3b5" title="Format a UTime into a string. " alt="" coords="242,70,374,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleT.html#a1a4fc30a7ddc84ac06a668a4b5ff7c6b" title="Decrement the reference count for this sample. " alt="" coords="230,187,386,229"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleT.html#ad67f1fc1241a368e1f9cf96664b43e7e" title="nidas::core::SampleT\l::getConstDataPtr" alt="" coords="230,253,386,294"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SampleT.html#a2484696bc7826cb3468efe8ff5aacb1c" title="Get number of elements of type DataT in data. " alt="" coords="230,318,386,359"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="230,383,386,425"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="223,449,393,490"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="241,514,375,555"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="211,579,405,621"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SampleTag.html#a23a02acfe69c0d300103909eb21fbabc" title="Get sampling period (1/rate) in sec. " alt="" coords="223,645,393,686"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SampleOutputBase.html#ad68731f787b33eeed30e71e8905e2fa6" title="nidas::core::SampleOutput\lBase::getRequestedSampleTags" alt="" coords="195,710,421,751"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="233,775,383,817"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="223,841,393,882"/>
+<area shape="rect" id="node23" href="$classnidas_1_1dynld_1_1isff_1_1GOESOutput.html#a354f1385570ef692614d6a2b9c820991" title="The GOES transmit interval, in seconds. " alt="" coords="200,906,416,947"/>
+<area shape="rect" id="node25" href="$classnidas_1_1dynld_1_1isff_1_1GOESOutput.html#a77daf6bed6d35f24fe1c8cdc844f1f3c" title="The GOES transmit offset, in seconds. " alt="" coords="205,971,411,1013"/>
+<area shape="rect" id="node27" href="$classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html#a08962ac55aba89e5a73f7cb36182b286" title="Initialize tranmitter. " alt="" coords="245,1037,371,1078"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="243,1102,373,1143"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="227,1168,389,1195"/>
+<area shape="rect" id="node32" href="$classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html#a6d13659ad7761aeb805e679bacf57668" title="Request that transmitter status be printed to an output stream. " alt="" coords="219,1219,397,1261"/>
+<area shape="rect" id="node33" href="$classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html#aa268e151727b4e7ea5d249edca42754a" title="nidas::dynld::isff\l::GOESXmtr::reset" alt="" coords="239,1285,377,1326"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="233,1350,383,1391"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="233,1415,383,1457"/>
+<area shape="rect" id="node38" href="$namespacenidas_1_1util.html#ab8663ac99a7a8aa1f556daec3d4898d2" title="Utility function, sleeps until the next even period + offset. " alt="" coords="231,1481,385,1508"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="505,129,637,170"/>
+<area shape="rect" id="node40" href="$classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html#a233cdec367f15a4119b6f7f301097ab6" title="Queue a sample for writing to a GOES transmitter. " alt="" coords="213,1533,403,1574"/>
+<area shape="rect" id="node41" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="243,1598,373,1639"/>
+<area shape="rect" id="node42" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="231,1663,385,1705"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html#a2a2bb7e4624bc6eba8b8f123540172e5" title="nidas::util::UTime\l::earlier" alt="" coords="505,11,637,53"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1UTime.html#a78aba4b6b51fdb3781638783fdf0e086" title="nidas::util::UTime::tm" alt="" coords="491,77,650,104"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1UTime.html#a5f66cd8e723288d61e4539af62d724c4" title="No&#45;arg constructor initializes to current time, with isUTC() true. " alt="" coords="722,11,854,53"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SamplePool.html#a6def0d6115dae0704c33f2a1f46c55bf" title="Return a sample to the pool. " alt="" coords="483,194,659,235"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="503,514,638,555"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="721,514,855,555"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="473,775,669,817"/>
+<area shape="rect" id="node24" href="$classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html#ae0f35e9320159c998506e7148845f338" title="nidas::dynld::isff\l::GOESXmtr::getXmitInterval" alt="" coords="469,906,672,947"/>
+<area shape="rect" id="node26" href="$classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html#a076a506771a301053ec0e417300506ca" title="nidas::dynld::isff\l::GOESXmtr::getXmitOffset" alt="" coords="473,971,668,1013"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="489,1131,653,1173"/>
+<area shape="rect" id="node31" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="537,1197,604,1224"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="473,1350,669,1391"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="473,1415,669,1457"/>
+<area shape="rect" id="node39" href="$namespacenidas_1_1util.html#a2520059fec3fedb0affd25e8422f4257" title="Return the current unix system time, in microseconds since Jan 1, 1970, 00:00 GMT. " alt="" coords="475,1481,667,1508"/>
+</map>

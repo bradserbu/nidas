@@ -1,0 +1,22 @@
+<map id="nidas/core/SocketIODevice.cc" name="nidas/core/SocketIODevice.cc">
+<area shape="rect" id="node2" href="$SocketIODevice_8h.html" title="SocketIODevice.h" alt="" coords="823,88,957,115"/>
+<area shape="rect" id="node42" href="$BluetoothRFCommSocketAddress_8h.html" title="nidas/util/BluetoothRFComm\lSocketAddress.h" alt="" coords="1871,81,2073,122"/>
+<area shape="rect" id="node44" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="1713,469,1852,496"/>
+<area shape="rect" id="node3" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="105,320,196,347"/>
+<area shape="rect" id="node11" href="$util_2Socket_8h.html" title="nidas/util/Socket.h" alt="" coords="821,171,960,197"/>
+<area shape="rect" id="node38" href="$ParseException_8h.html" title="nidas/util/ParseException.h" alt="" coords="1379,469,1571,496"/>
+<area shape="rect" id="node40" href="$auto__ptr_8h.html" title="nidas/util/auto_ptr.h" alt="" coords="5,171,152,197"/>
+<area shape="rect" id="node4" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="311,545,501,586"/>
+<area shape="rect" id="node8" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="455,395,625,421"/>
+<area shape="rect" id="node6" href="$Exception_8h.html" title="Exception.h" alt="" coords="996,635,1092,661"/>
+<area shape="rect" id="node12" href="$Inet4SocketAddress_8h.html" title="Inet4SocketAddress.h" alt="" coords="1036,320,1199,347"/>
+<area shape="rect" id="node23" href="$Inet4NetworkInterface_8h.html" title="Inet4NetworkInterface.h" alt="" coords="702,320,876,347"/>
+<area shape="rect" id="node24" href="$Inet4PacketInfo_8h.html" title="Inet4PacketInfo.h" alt="" coords="993,245,1124,272"/>
+<area shape="rect" id="node25" href="$UnixSocketAddress_8h.html" title="UnixSocketAddress.h" alt="" coords="1365,245,1523,272"/>
+<area shape="rect" id="node14" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="978,469,1096,496"/>
+<area shape="rect" id="node27" href="$EOFException_8h.html" title="EOFException.h" alt="" coords="221,320,341,347"/>
+<area shape="rect" id="node28" href="$DatagramPacket_8h.html" title="DatagramPacket.h" alt="" coords="1199,245,1340,272"/>
+<area shape="rect" id="node13" href="$SocketAddress_8h.html" title="SocketAddress.h" alt="" coords="1075,395,1205,421"/>
+<area shape="rect" id="node15" href="$UnknownHostException_8h.html" title="UnknownHostException.h" alt="" coords="945,552,1129,579"/>
+<area shape="rect" id="node16" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1205,552,1333,579"/>
+</map>

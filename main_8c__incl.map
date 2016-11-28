@@ -1,0 +1,9 @@
+<map id="nidas/linux/arinc/main.c" name="nidas/linux/arinc/main.c">
+<area shape="rect" id="node18" href="$arinc_8h.html" title="arinc.h" alt="" coords="2073,88,2137,115"/>
+<area shape="rect" id="node23" href="$ver__macros_8h.html" title="nidas/linux/ver_macros.h" alt="" coords="2361,88,2540,115"/>
+<area shape="rect" id="node19" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="2509,171,2648,197"/>
+<area shape="rect" id="node24" href="$linux_2util_8h.html" title="nidas/linux/util.h" alt="" coords="2617,88,2740,115"/>
+<area shape="rect" id="node25" href="$isa__bus_8h.html" title="nidas/linux/isa_bus.h" alt="" coords="2765,88,2917,115"/>
+<area shape="rect" id="node26" href="$klog_8h.html" title="nidas/linux/klog.h" alt="" coords="2943,88,3073,115"/>
+<area shape="rect" id="node28" href="$irigclock_8h.html" title="nidas/linux/irigclock.h" alt="" coords="3278,88,3433,115"/>
+</map>

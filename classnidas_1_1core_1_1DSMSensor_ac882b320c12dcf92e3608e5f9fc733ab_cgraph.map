@@ -1,0 +1,6 @@
+<map id="nidas::core::DSMSensor::setStation" name="nidas::core::DSMSensor::setStation">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#aef9ac28b01602756ae306187f465ef61" title="nidas::core::SampleTag\l::setStation" alt="" coords="229,38,400,79"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a311e982fd8a58d717627fe5a4a89306a" title="nidas::core::Variable\l::setStation" alt="" coords="449,38,599,79"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Site.html#a03c9baf2d9b0633360916e73956490f2" title="nidas::core::Site::\lgetSuffix" alt="" coords="657,5,791,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#a4c4262fd33f1cc834ea736feb5757417" title="nidas::core::Variable\l::setSiteSuffix" alt="" coords="649,70,799,111"/>
+</map>

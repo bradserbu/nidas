@@ -1,0 +1,4 @@
+<map id="nidas::util::SerialPort::~SerialPort" name="nidas::util::SerialPort::~SerialPort">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1SerialPort.html#a94d1ee3a3af45ef4f74a77f2dea2ec56" title="close the file descriptor. " alt="" coords="209,5,362,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SerialPort.html#aa586f39ea8cb368b66730df42fe6058a" title="Get device name of the SerialPort. " alt="" coords="411,5,565,46"/>
+</map>

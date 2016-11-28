@@ -1,0 +1,10 @@
+<map id="nidas::core::XmlRpcThread::XmlRpcThread" name="nidas::core::XmlRpcThread::XmlRpcThread">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a14cca3ea8da5517e93be27700b261287" title="Block a signal in this thread. " alt="" coords="246,38,381,79"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Thread.html#a152f4d45c1e247c5fb6179e5a49229ed" title="Install a signal handler and unblock the signal. " alt="" coords="246,103,381,145"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a46662ffa7482f1c1e52b654c51639fd2" title="Return the thread object for the current thread. " alt="" coords="430,5,565,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="430,70,565,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#a11ae9e429566f0be72393793cae6e2a3" title="nidas::util::Thread\l::thr_add_sig" alt="" coords="430,135,565,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a9034d1ab82dfd5abced04f65c25c7441" title="nidas::util::Thread\l::sigAction" alt="" coords="614,135,749,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="798,102,933,143"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Thread.html#a3c6de48c411bc2b1a7752f1f4b031e1f" title="Signal handler function for this thread. " alt="" coords="798,167,933,209"/>
+</map>

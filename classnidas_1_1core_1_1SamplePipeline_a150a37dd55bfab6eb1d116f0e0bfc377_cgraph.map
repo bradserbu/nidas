@@ -1,0 +1,10 @@
+<map id="nidas::core::SamplePipeline::addSampleClient" name="nidas::core::SamplePipeline::addSampleClient">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a232f59c76788bb8f52f7409e0409076c" title="Add a SampleClient to this SampleSource. " alt="" coords="254,5,429,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#a3695fca9419619def30fb58d690d9427" title="nidas::core::SampleTag\l::getDSMSensor" alt="" coords="256,70,427,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="254,135,429,177"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMSensor.html#a29f82df18232c1d5f9e6a2baf3404ff4" title="Convenience function to get my one&#45;and&#45;only raw SampleTag(). " alt="" coords="254,201,429,242"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a65f2f4bc3f469025d2f15a791f2b8aae" title="Add a SampleClient to this SampleSource. " alt="" coords="477,5,672,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="487,103,662,145"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="487,169,662,210"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="720,169,891,210"/>
+</map>

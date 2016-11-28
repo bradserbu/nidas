@@ -1,0 +1,5 @@
+<map id="nidas::dynld::isff::WisardMote::addMoteSampleTag" name="nidas::dynld::isff::WisardMote::addMoteSampleTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#ac7f92bf0e18051a6ca640dd1bcd7e96a" title="Get the DSM portion of the id. " alt="" coords="293,5,464,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="293,70,464,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#afc355b8efce676022f31783481892041" title="Get the sensor+sample portion of the id. " alt="" coords="293,135,464,177"/>
+</map>

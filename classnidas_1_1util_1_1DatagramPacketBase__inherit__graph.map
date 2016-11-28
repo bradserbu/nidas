@@ -1,0 +1,7 @@
+<map id="nidas::util::DatagramPacketBase" name="nidas::util::DatagramPacketBase">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramPacketT.html" title="nidas::util::DatagramPacket\lT\&lt; char \&gt;" alt="" coords="665,6,863,47"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1DatagramPacketT.html" title="nidas::util::DatagramPacket\lT\&lt; McSocketData \&gt;" alt="" coords="665,83,863,125"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1DatagramPacketT.html" title="A DatagramPacket with a specific structure of data. " alt="" coords="289,50,487,91"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1DatagramPacket.html" title="nidas::util::DatagramPacket" alt="" coords="925,13,1123,40"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1McSocketDatagram.html" title="Datagram that is multicast by a host when it wants a service. " alt="" coords="915,91,1133,117"/>
+</map>

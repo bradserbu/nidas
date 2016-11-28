@@ -1,0 +1,9 @@
+<map id="nidas::dynld::isff::PacketInputStream::getGOESProject" name="nidas::dynld::isff::PacketInputStream::getGOESProject">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="221,5,365,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1ParameterT.html#af4b0e67235aeb23889b2673bd3dc4888" title="nidas::core::ParameterT\l::getLength" alt="" coords="206,70,381,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Project.html#a50fd3eccc69ce8e057bc36e1a965415d" title="nidas::core::Project\l::getName" alt="" coords="221,135,365,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Project.html#aeb272a827a613626dbc318a7d382575e" title="nidas::core::Project\l::getParameter" alt="" coords="221,201,365,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Parameter.html#a0128f69c9664ac05e83cf2529bcd0a2c" title="nidas::core::Parameter\l::getType" alt="" coords="210,266,377,307"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1ParameterT.html#a2736665e3f583884d16b90ad886b3137" title="nidas::core::ParameterT\l::getValue" alt="" coords="206,331,381,373"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Parameter.html#a20466f907c896f145af1c48398d9f112" title="nidas::core::Parameter\l::getName" alt="" coords="430,201,597,242"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::util::SocketImpl::operator=" name="nidas::util::SocketImpl::operator=">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1SocketAddress.html#a704d2610cf7adfbe39dd5120c693f7fc" title="Virtual constructor. " alt="" coords="216,5,403,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketImpl.html#a7f72596edbeb1e13cbc3251a8609eea5" title="nidas::util::SocketImpl\l::getTimeout" alt="" coords="228,70,391,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SocketImpl.html#ab2baf0601c693c7e2ec3da9b1cc681e9" title="Set the timeout for receive(), recv(), and recvfrom() methods. " alt="" coords="228,135,391,177"/>
+</map>

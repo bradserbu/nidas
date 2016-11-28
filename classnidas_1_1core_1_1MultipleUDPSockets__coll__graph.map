@@ -1,0 +1,35 @@
+<map id="nidas::core::MultipleUDPSockets" name="nidas::core::MultipleUDPSockets">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1McSocketUDP.html" title="Implementation of an IOChannel, using nidas::util::McSocket&lt;nidas::util::DatagramSocket&gt; to establish..." alt="" coords="2339,697,2530,724"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1McSocketUDP_1_1MyMcSocket.html" title="nidas::core::McSocketUDP\l::MyMcSocket" alt="" coords="2673,735,2863,776"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOChannel.html" title="A channel for Input or Output of data. " alt="" coords="1975,537,2140,564"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,130,182,157"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DSMConfig.html" title="Class that should include all that is configurable about a DSM. " alt="" coords="1509,398,1680,425"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Site.html" title="A measurement site. " alt="" coords="1101,290,1227,317"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Project.html" title="nidas::core::Project" alt="" coords="692,189,836,216"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="321,29,500,56"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="313,80,509,106"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements, keyed by the ID attributes. " alt="" coords="313,130,508,157"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1ConnectionInfo.html" title="Extra information associated with an IOChannel concerning the connection. " alt="" coords="1067,672,1261,698"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Inet4Address.html" title="Support for IP version 4 host address. " alt="" coords="15,929,190,956"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html" title="nidas::util::Inet4Network\lInterface" alt="" coords="323,783,498,824"/>
+<area shape="rect" id="node34" href="$classnidas_1_1util_1_1Inet4PacketInfo.html" title="Ancillary information that can be determined about an incoming UDP packet. " alt="" coords="670,1094,858,1121"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1McSocket.html" title="nidas::util::McSocket\l\&lt; nidas::util::DatagramSocket \&gt;" alt="" coords="1942,1095,2173,1136"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1McSocket.html" title="A McSocket provides a way to establish a TCP stream socket connection, or a pair of UDP datagram sock..." alt="" coords="1518,1095,1671,1136"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1Dataset.html" title="A Dataset is a named collection of parameters, that are used in data processing. " alt="" coords="335,454,486,481"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="697,940,831,966"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="334,977,487,1004"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Inet4SocketAddress.html" title="A IP version 4 socket address, containing a host address, and a port number. " alt="" coords="681,1027,847,1068"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1Inet4PacketInfoX.html" title="nidas::util::Inet4Packet\lInfoX" alt="" coords="1081,1167,1247,1208"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="317,1028,504,1054"/>
+<area shape="rect" id="node27" href="$classnidas_1_1util_1_1SocketImpl.html" title="Implementation of a socket, providing a C++ interface to system socket calls: socket,bind,listen,accept,setsockopt, etc. " alt="" coords="683,1284,845,1310"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DSMConfig_1_1MyDictionary.html" title="nidas::core::DSMConfig\l::MyDictionary" alt="" coords="1972,346,2143,387"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="682,88,846,114"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="1092,148,1236,190"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="1528,238,1661,279"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="345,1284,476,1310"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1Cond.html" title="A wrapper class for a Posix condition variable. " alt="" coords="1102,1336,1226,1362"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,1284,199,1310"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1DatagramSocket.html" title="A socket for sending or receiving datagrams, either unicast, broadcast or multicast. " alt="" coords="1285,1293,1485,1320"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="336,926,485,953"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1IOChannelRequester.html" title="Interface for an object that requests connections to Inputs or Outputs. " alt="" coords="1943,646,2172,673"/>
+</map>

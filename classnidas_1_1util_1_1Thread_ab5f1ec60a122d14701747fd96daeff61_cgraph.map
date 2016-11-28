@@ -1,0 +1,4 @@
+<map id="nidas::util::Thread::cancel" name="nidas::util::Thread::cancel">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="190,5,343,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="199,70,334,111"/>
+</map>

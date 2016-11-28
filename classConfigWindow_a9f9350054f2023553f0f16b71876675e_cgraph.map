@@ -1,0 +1,10 @@
+<map id="ConfigWindow::buildSensorCatalog" name="ConfigWindow::buildSensorCatalog">
+<area shape="rect" id="node2" href="$classconfig_1_1AddSensorComboDialog.html#a40e8e5755b4c66170d80fb82654140b6" title="config::AddSensorComboDialog\l::addSensorDev" alt="" coords="245,5,469,46"/>
+<area shape="rect" id="node3" href="$classconfig_1_1AddSensorComboDialog.html#a423a88e839f9dad6118ba2d3d037cae5" title="config::AddSensorComboDialog\l::addSensorSfx" alt="" coords="245,70,469,111"/>
+<area shape="rect" id="node4" href="$classconfig_1_1AddSensorComboDialog.html#ad1421030b37bf483cab0d367c2d80913" title="config::AddSensorComboDialog\l::clearDevMap" alt="" coords="245,135,469,177"/>
+<area shape="rect" id="node5" href="$classconfig_1_1AddSensorComboDialog.html#a44577eb86a4949e20721db0f8d1d4009" title="config::AddSensorComboDialog\l::clearSfxMap" alt="" coords="245,201,469,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1XDOMElement.html#a29ecd13811c96fc7ad8ee05b872f6624" title="nidas::core::XDOMElement\l::getAttributeValue" alt="" coords="261,266,453,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SensorCatalog.html#a37eaae68d8f2c5451478822619e812e2" title="nidas::core::SensorCatalog\l::getMap" alt="" coords="260,331,455,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Project.html#a26694328480e103e481918966e518dc0" title="nidas::core::Project\l::getSensorCatalog" alt="" coords="285,397,430,438"/>
+<area shape="rect" id="node9" href="$classconfig_1_1AddSensorComboDialog.html#acba18d8c7528aa19cc560d9fcc4b4377" title="config::AddSensorComboDialog\l::setDocument" alt="" coords="245,462,469,503"/>
+</map>

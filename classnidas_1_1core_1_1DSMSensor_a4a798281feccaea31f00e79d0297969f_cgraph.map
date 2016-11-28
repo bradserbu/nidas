@@ -1,0 +1,3 @@
+<map id="nidas::core::DSMSensor::calcStatistics" name="nidas::core::DSMSensor::calcStatistics">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleScanner.html#a5aface878344d63ea7e48bb12da0e6dc" title="Update the sensor sampling statistics: samples/sec, bytes/sec, min/max sample size, that can be accessed via getObservedSamplingRate(), getObservedDataRate() etc. " alt="" coords="229,5,432,46"/>
+</map>

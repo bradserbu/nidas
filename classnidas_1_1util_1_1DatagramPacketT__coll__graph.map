@@ -1,0 +1,4 @@
+<map id="nidas::util::DatagramPacketT&lt; DataT &gt;" name="nidas::util::DatagramPacketT&lt; DataT &gt;">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramPacketBase.html" title="Abstract base class for a UDP datagram. " alt="" coords="5,96,235,123"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="27,5,213,32"/>
+</map>

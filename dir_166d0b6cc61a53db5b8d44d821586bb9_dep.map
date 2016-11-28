@@ -1,0 +1,21 @@
+<map id="nidas/apps/config" name="nidas/apps/config">
+<area shape="rect" id="node4" href="dir_ec6edf541cb73a578dc501ebc0621d66.html" title="util" alt="" coords="129,447,201,495"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000003_000012.html" title="7" alt="" coords="117,421,127,436"/>
+<area shape="rect" id="node2" href="dir_17c268a92e732db77d65aade2d7a8f01.html" title="exceptions" alt="" coords="37,255,128,303"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000003_000004.html" title="19" alt="" coords="61,227,78,242"/>
+<area shape="rect" id="node3" href="dir_40166882c8db08ec11067cd600b174ed.html" title="nidas_qmv" alt="" coords="64,159,155,207"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000003_000005.html" title="13" alt="" coords="101,132,118,146"/>
+<area shape="rect" id="node6" href="dir_c5278764d8062397cd42dabb267c041d.html" title="core" alt="" coords="269,351,341,399"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000003_000010.html" title="26" alt="" coords="319,328,336,343"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000004_000012.html" title="1" alt="" coords="151,419,160,434"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000005_000012.html" title="1" alt="" coords="168,421,177,435"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000005_000004.html" title="9" alt="" coords="98,232,107,247"/>
+<area shape="rect" id="node5" href="dir_f33628567ab4313ddf0716b7e779d609.html" title="dynld" alt="" coords="203,255,275,303"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000005_000011.html" title="3" alt="" coords="193,230,202,244"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000005_000010.html" title="17" alt="" coords="308,326,326,340"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000011_000012.html" title="171" alt="" coords="176,425,201,440"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000011_000010.html" title="297" alt="" coords="273,324,298,338"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000010_000012.html" title="206" alt="" coords="207,436,232,451"/>
+<area shape="rect" id="clust2" href="dir_166d0b6cc61a53db5b8d44d821586bb9.html" alt="" coords="27,52,165,313"/>
+<area shape="rect" id="clust1" href="dir_9e88f9a8f4cc98bb9167bdd0000e3f30.html" title="apps" alt="" coords="16,16,176,324"/>
+</map>

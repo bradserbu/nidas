@@ -1,0 +1,9 @@
+<map id="FileSim::sendASCIIMessage" name="FileSim::sendASCIIMessage">
+<area shape="rect" id="node2" href="$classFileSim.html#ac5a82b7715e4b2a2ecb83b0e1a0e6af9" title="FileSim::close" alt="" coords="726,72,834,98"/>
+<area shape="rect" id="node3" href="$classSensorSimulator.html#aae6a70c4798d0357e83a55eb1fc574db" title="Stop the simulation. " alt="" coords="267,34,459,61"/>
+<area shape="rect" id="node4" href="$namespacenidas_1_1util.html#acccb588a1000e0dbe252c59a3a7f2a3a" title="Utility function for replacing backslash sequences in a string. " alt="" coords="261,86,464,127"/>
+<area shape="rect" id="node5" href="$classFileSim.html#a1ed5d18b1033b5900dba99ad013ff3f2" title="FileSim::rewind" alt="" coords="305,152,421,178"/>
+<area shape="rect" id="node8" href="$classSensorSimulator.html#a261b971c21a0c802b125f365d67c2713" title="Subclasses generate the message to send, then call writeMessage() to send it out. ..." alt="" coords="251,202,475,229"/>
+<area shape="rect" id="node6" href="$classFileSim.html#ada8eb6fee57687fca97cdea53555064d" title="FileSim::open" alt="" coords="547,122,653,149"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="523,174,677,215"/>
+</map>

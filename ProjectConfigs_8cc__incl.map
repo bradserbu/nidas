@@ -1,0 +1,21 @@
+<map id="nidas/core/ProjectConfigs.cc" name="nidas/core/ProjectConfigs.cc">
+<area shape="rect" id="node2" href="$ProjectConfigs_8h.html" title="ProjectConfigs.h" alt="" coords="1648,80,1773,107"/>
+<area shape="rect" id="node33" href="$XMLWriter_8h.html" title="XMLWriter.h" alt="" coords="1979,80,2073,107"/>
+<area shape="rect" id="node34" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="2694,80,2767,107"/>
+<area shape="rect" id="node38" href="$DSMEngine_8h.html" title="DSMEngine.h" alt="" coords="2099,80,2205,107"/>
+<area shape="rect" id="node42" href="$Process_8h.html" title="nidas/util/Process.h" alt="" coords="3379,163,3524,189"/>
+<area shape="rect" id="node3" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="613,163,749,189"/>
+<area shape="rect" id="node18" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1835,155,2025,197"/>
+<area shape="rect" id="node19" href="$XMLException_8h.html" title="XMLException.h" alt="" coords="2652,245,2775,272"/>
+<area shape="rect" id="node22" href="$XMLParser_8h.html" title="XMLParser.h" alt="" coords="1661,163,1760,189"/>
+<area shape="rect" id="node29" href="$Project_8h.html" title="Project.h" alt="" coords="1365,163,1443,189"/>
+<area shape="rect" id="node13" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1261,245,1389,272"/>
+<area shape="rect" id="node15" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="804,245,935,272"/>
+<area shape="rect" id="node16" href="$time__constants_8h.html" title="time_constants.h" alt="" coords="369,245,503,272"/>
+<area shape="rect" id="node17" href="$IOException_8h.html" title="IOException.h" alt="" coords="1415,245,1524,272"/>
+<area shape="rect" id="node14" href="$Exception_8h.html" title="Exception.h" alt="" coords="2097,320,2193,347"/>
+<area shape="rect" id="node35" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="3093,163,3253,189"/>
+<area shape="rect" id="node39" href="$ConnectionRequester_8h.html" title="ConnectionRequester.h" alt="" coords="1467,163,1636,189"/>
+<area shape="rect" id="node40" href="$Inet4SocketAddress_8h.html" title="Inet4SocketAddress.h" alt="" coords="2397,163,2560,189"/>
+<area shape="rect" id="node43" href="$auto__ptr_8h.html" title="auto_ptr.h" alt="" coords="3893,245,3979,272"/>
+</map>

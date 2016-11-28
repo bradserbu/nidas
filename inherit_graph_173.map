@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classnidas_1_1util_1_1DatagramSocket.html" title="A socket for sending or receiving datagrams, either unicast, broadcast or multicast. " alt="" coords="5,5,205,32"/>
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1MulticastSocket.html" title="A datagram socket to be used for multicasts. " alt="" coords="253,5,445,32"/>
+</map>

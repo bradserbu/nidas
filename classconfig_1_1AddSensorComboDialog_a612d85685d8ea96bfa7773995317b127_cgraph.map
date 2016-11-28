@@ -1,0 +1,51 @@
+<map id="config::AddSensorComboDialog::accept" name="config::AddSensorComboDialog::accept">
+<area shape="rect" id="node2" href="$classDocument.html#ad00c96833758be66264922aadf1a8e35" title="Document::addSensor" alt="" coords="286,947,453,973"/>
+<area shape="rect" id="node41" href="$classDocument.html#a35017bf8f68e61f8938a991df5c48ffd" title="Document::setIsChanged" alt="" coords="277,997,461,1024"/>
+<area shape="rect" id="node42" href="$classnidas_1_1util_1_1Exception.html#a822535e7028f32b6a0ea0b9835b2c7f2" title="nidas::util::Exception\l::toString" alt="" coords="293,1049,446,1090"/>
+<area shape="rect" id="node43" href="$classDocument.html#a286bf0e8e608a300a17d63cfd8e3c8d8" title="Document::updateSensor" alt="" coords="511,365,697,392"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMConfig.html#a4f749830e689a577d06bffc1101bd56d" title="nidas::core::DSMConfig\l::addSensor" alt="" coords="519,881,689,922"/>
+<area shape="rect" id="node4" href="$classNidasModel.html#acafbc20f43479aa3f2ec91f572275b0a" title="Add a child to parentItem by updating the Qt model and thus also the NidasItem tree from Project..." alt="" coords="513,796,695,823"/>
+<area shape="rect" id="node9" href="$classNidasModel.html#a40cd91b0dffd6bdacc21f56784bdf6ba" title="NidasModel::getCurrentRootItem" alt="" coords="774,543,1005,569"/>
+<area shape="rect" id="node10" href="$classDSMItem.html#a492cd221dea3b2171a24a24f8a1cf5d4" title="DSMItem::getDOMNode" alt="" coords="517,679,691,705"/>
+<area shape="rect" id="node11" href="$classDSMItem.html#ab3233f0023a46c66d002d15faf11fb95" title="DSMItem::getDSMConfig" alt="" coords="799,812,979,839"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="1349,2057,1520,2098"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMConfig.html#a8ccb88d7ac2785f1e1c85acdd23205dc" title="nidas::core::DSMConfig\l::getSite" alt="" coords="519,730,689,771"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DSMConfig.html#a0048fc9df9e7db1d949b07bc15924e9e" title="nidas::core::DSMConfig\l::removeSensor" alt="" coords="519,1081,689,1122"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMConfig.html#a03adaa8f2a5f12ce8e496f5f6a696bcc" title="Parse a DOMElement for a DSMSensor, returning a pointer to the DSMSensor. " alt="" coords="509,1015,699,1057"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1DSMConfig.html#a7fba91b61e7899027d9a0df4f9e5873f" title="nidas::core::DSMConfig\l::validate" alt="" coords="804,1889,975,1930"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1Site.html#ab28c1de43cb04d8f3183756094a287fe" title="nidas::core::Site::\lvalidate" alt="" coords="537,1649,671,1690"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1DSMSensor.html#a8ef2a883b53198f19948fa10c0a194a9" title="validate() is called once on a DSMSensor after it has been configured, but before open() or init() ar..." alt="" coords="1102,1874,1277,1915"/>
+<area shape="rect" id="node5" href="$classNidasItem.html#a24bdfe920cf1b5e070c1c9e7a0bbef0c" title="NidasItem::createIndex" alt="" coords="804,761,975,788"/>
+<area shape="rect" id="node6" href="$classNidasModel.html#a7d0359347c5992019669278ad8ff80f7" title="Create a QModelIndex for the NidasItem that points to nidasData and is a descendant of startItem..." alt="" coords="804,644,975,671"/>
+<area shape="rect" id="node8" href="$classNidasModel.html#abd81f24e00f512015be955cb6f86ad37" title="NidasModel::rowCount" alt="" coords="807,593,971,620"/>
+<area shape="rect" id="node7" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="1112,568,1267,595"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1DSMSensor.html#a77ce4233e5dc65544504c4d0ff94dc02" title="Fetch the class name. " alt="" coords="1102,1249,1277,1290"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1XDOMElement.html#aa5cf2414389cde3adfac301a290b1a7f" title="nidas::core::XDOMElement\l::getNodeName" alt="" coords="1093,1314,1285,1355"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1XDOMElement.html#a29ecd13811c96fc7ad8ee05b872f6624" title="nidas::core::XDOMElement\l::getAttributeValue" alt="" coords="1093,885,1285,926"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="1571,1203,1746,1245"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="1347,1581,1522,1622"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DOMObjectFactory.html#a47555fd77715fb175ccb000ec50517b8" title="Create a DOMable object given its classname, by looking up and executing its creator function..." alt="" coords="780,1015,999,1057"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="1113,1015,1266,1057"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1DSMSensor.html#a42f176ec88c9012eaa5dad956286b37b" title="Set the DSMConfig for this sensor. " alt="" coords="802,1554,977,1595"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1DSMSensor.html#a3ed4317ccd8f23ace0e8833d9c9c2ebe" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="802,1133,977,1174"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1DSMConfig.html#a48cb5cb6024a9e23f6fd00f5c32c97d5" title="nidas::core::DSMConfig\l::getId" alt="" coords="1104,1678,1275,1719"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="1104,1497,1275,1538"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="1114,1183,1265,1225"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1DSMSensor.html#a1cd4b08fac1f53782bfad84f1db4337b" title="nidas::core::DSMSensor\l::getSensorId" alt="" coords="1347,1438,1522,1479"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1DSMSensor.html#ae44bbb04b9ed2b5cd80a875ce8609653" title="Sensor suffix, which is added to variable names. " alt="" coords="1102,681,1277,722"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1DSMSensor.html#afae0fa297cde45bb451949708feb03f4" title="nidas::core::DSMSensor\l::getVariableIterator" alt="" coords="1102,1379,1277,1421"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1VariableIterator.html#a9c5acde211bde12deabfe1040b8c085e" title="nidas::core::VariableIterator\l::hasNext" alt="" coords="1090,950,1289,991"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1DSMConfig.html#a2fcc717412637bf0bd9e03a146cfa3ad" title="nidas::core::DSMConfig\l::getSensorIterator" alt="" coords="1104,1809,1275,1850"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="1093,2057,1285,2098"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1DSMConfig.html#a4af5207088addc368d37e22d4e3f9998" title="Validate the ids of the DSMSensors belonging to this DSMConfig, and their SampleTags, for uniqueness. " alt="" coords="1081,1939,1298,1981"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1DSMSensor.html#aa6d403dbfda36ed6ba09759f7c0dbdf9" title="getDuplicateIdOK will be true if it is OK for samples from this sensor to have identical IDs to sampl..." alt="" coords="1347,1965,1522,2006"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1DSMSensor.html#a423a5c73413fd24a5f8e2bb5035bb248" title="nidas::core::DSMSensor\l::getDSMId" alt="" coords="1347,1811,1522,1853"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="823,1619,956,1661"/>
+<area shape="rect" id="node44" href="$classSensorItem.html#a6f45081c32b6f0c46c21085f7c56a5fd" title="Re&#45;initialize the nidas model from the DOM element. " alt="" coords="807,340,972,367"/>
+<area shape="rect" id="node45" href="$classA2DSensorItem.html#a6ae80fd52ad59380841e0a378d0f7338" title="A2DSensorItem::getA2DTemp\lSuffix" alt="" coords="783,695,996,737"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1DSMSensor.html#a88744b9fd9b2da763db76a7e9db10728" title="Return the collection of CalFiles, mapped by name. " alt="" coords="802,5,977,46"/>
+<area shape="rect" id="node47" href="$classSensorItem.html#a3b8692be5323fe38c03f67fe801be1f5" title="SensorItem::getDSMSensor" alt="" coords="789,71,989,97"/>
+<area shape="rect" id="node48" href="$classA2DSensorItem.html#a1200c664912207babdaa099a7e8e09f9" title="A2DSensorItem::updateDOMA2\lDTempSfx" alt="" coords="777,223,1001,265"/>
+<area shape="rect" id="node49" href="$classA2DSensorItem.html#afa001dd9735d188e52fa8b438023dc59" title="update the A2D Calibration Filename to calFileName. " alt="" coords="766,289,1013,316"/>
+<area shape="rect" id="node50" href="$classPMSSensorItem.html#a2b692f0f71fcba334c44075e955b60f8" title="update the PMS Serial Number to pmsSN " alt="" coords="747,492,1031,519"/>
+</map>

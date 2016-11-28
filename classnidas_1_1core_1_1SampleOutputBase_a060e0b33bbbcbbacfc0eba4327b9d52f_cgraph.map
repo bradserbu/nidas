@@ -1,0 +1,4 @@
+<map id="nidas::core::SampleOutputBase::setIOChannel" name="nidas::core::SampleOutputBase::setIOChannel">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#a0c1310a8fff6513a58fb8411edd7f041" title="nidas::core::SampleOutput\lBase::getDSMConfig" alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOChannel.html#ae98b295be6f1293dec855675ad98245c" title="What DSM is this IOChannel connected to? " alt="" coords="263,70,428,111"/>
+</map>

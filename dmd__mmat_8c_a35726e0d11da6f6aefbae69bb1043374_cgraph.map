@@ -1,0 +1,7 @@
+<map id="dmd_mmat_cleanup" name="dmd_mmat_cleanup">
+<area shape="rect" id="node2" href="$dmd__mmat_8c.html#aefc7d35a830753bd14b162e2e7b9b3e4" title="cleanup_a2d" alt="" coords="209,5,311,32"/>
+<area shape="rect" id="node4" href="$dmd__mmat_8c.html#adb038743c22555b97feac046bde26760" title="cleanup_cntr" alt="" coords="208,56,312,83"/>
+<area shape="rect" id="node5" href="$dmd__mmat_8c.html#af1ed84109984e038546787dd41d55711" title="cleanup_d2a" alt="" coords="209,107,311,133"/>
+<area shape="rect" id="node6" href="$dmd__mmat_8c.html#a6ce381891c1228dbd4855f702a332bc1" title="cleanup_d2d" alt="" coords="209,157,311,184"/>
+<area shape="rect" id="node3" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="360,31,499,57"/>
+</map>

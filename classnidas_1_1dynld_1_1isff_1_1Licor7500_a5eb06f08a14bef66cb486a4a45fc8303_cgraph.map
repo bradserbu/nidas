@@ -1,0 +1,8 @@
+<map id="nidas::dynld::isff::Licor7500::validate" name="nidas::dynld::isff::Licor7500::validate">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Variable.html#ace69670cdee25d3e63ff1f284b5c6e2f" title="nidas::core::Variable\l::getMaxValue" alt="" coords="215,5,366,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a7f9b5dce0107542c5b4e5b0465de2f3c" title="nidas::core::Variable\l::getMinValue" alt="" coords="215,70,366,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="215,135,366,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="205,201,376,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Variable.html#a20131031727a675be40ff77b532ff2f3" title="nidas::core::Variable\l::setMaxValue" alt="" coords="215,266,366,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Variable.html#a1b1c5d4c53429ce6a310d9e90eaa5873" title="Set the minimum allowed value for this variable. " alt="" coords="215,331,366,373"/>
+</map>

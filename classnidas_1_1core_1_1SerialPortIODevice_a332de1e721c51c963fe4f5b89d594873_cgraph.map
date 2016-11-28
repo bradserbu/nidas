@@ -1,0 +1,4 @@
+<map id="nidas::core::SerialPortIODevice::applyTermios" name="nidas::core::SerialPortIODevice::applyTermios">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Termios.html#a110ee903ca9c6f7ab6817284cb7f533b" title="Set the termios options on a serial port. " alt="" coords="281,5,421,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IODevice.html#a319ef1fd16ca1af6b0835aac031dcac1" title="nidas::core::IODevice\l::getName" alt="" coords="273,70,429,111"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="nidas::dynld::raf::DSMArincSensor::open" name="nidas::dynld::raf::DSMArincSensor::open">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Variable.html#afe5da71e570b3ab45dfd0452adb9353c" title="nidas::core::Variable\l::getLongName" alt="" coords="237,5,387,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="237,70,387,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="227,135,397,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a5ca3fbedfe97836dcef9c5b9063624ed" title="Get the sample portion of the shortId. " alt="" coords="227,201,397,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Variable.html#a65758a64115d33b93af192286a35fe62" title="nidas::core::Variable\l::getUnits" alt="" coords="237,266,387,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="227,331,397,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleTag.html#a00fac76b3c7acec34730700d74fa1d7b" title="Test to see if this sample is to be post processed. " alt="" coords="227,397,397,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="225,462,399,503"/>
+</map>

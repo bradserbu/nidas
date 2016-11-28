@@ -1,0 +1,6 @@
+<map id="config::AddSensorComboDialog::AddSensorComboDialog" name="config::AddSensorComboDialog::AddSensorComboDialog">
+<area shape="rect" id="node2" href="$AddSensorComboDialog_8cc.html#ae6eda710c4327a3a8a11aa9c66982205" title="_idRegEx" alt="" coords="350,5,429,32"/>
+<area shape="rect" id="node3" href="$classconfig_1_1AddSensorComboDialog.html#a2031d6f7d892123eb4aa0665c627c55e" title="config::AddSensorComboDialog\l::dialogSetup" alt="" coords="277,57,501,98"/>
+<area shape="rect" id="node4" href="$classconfig_1_1AddSensorComboDialog.html#a15ca9e97e6eb567e224c3ed029f8e9ed" title="config::AddSensorComboDialog\l::setupA2DSerNums" alt="" coords="277,122,501,163"/>
+<area shape="rect" id="node5" href="$classconfig_1_1AddSensorComboDialog.html#a5dc9940658930467ecbf1c766e25ed46" title="config::AddSensorComboDialog\l::setupPMSSerNums" alt="" coords="277,187,501,229"/>
+</map>

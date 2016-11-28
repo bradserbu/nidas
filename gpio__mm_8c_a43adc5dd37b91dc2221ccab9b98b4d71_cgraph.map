@@ -1,0 +1,13 @@
+<map id="cleanup_fcntrs" name="cleanup_fcntrs">
+<area shape="rect" id="node2" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="168,107,307,133"/>
+<area shape="rect" id="node3" href="$gpio__mm_8c.html#ae98f6c35e22431517f485c6e2dda861b" title="stop_fcntr" alt="" coords="194,157,281,184"/>
+<area shape="rect" id="node4" href="$gpio__mm_8c.html#a761a0c27207342fc9117a532a93a83be" title="gpio_mm_stop_fcntr" alt="" coords="359,107,513,133"/>
+<area shape="rect" id="node11" href="$gpio__mm_8c.html#a82bd64c5d83be43a4ad78eeab113b0f4" title="unregister_gpio_timer\l_callback_priv" alt="" coords="583,209,745,250"/>
+<area shape="rect" id="node12" href="$gpio__mm_8c.html#aa1a7e68e16cc75040e3c2f9b07d25b55" title="unregister_gpio_timer\l_callback" alt="" coords="355,209,517,250"/>
+<area shape="rect" id="node5" href="$gpio__mm_8c.html#a42cb800e5df44384cf5dde4a486661ae" title="get_pulse_counter" alt="" coords="594,5,734,32"/>
+<area shape="rect" id="node6" href="$gpio__mm_8c.html#af984a06db7e563c53be996d9f58637f7" title="gpio_mm_disarm_counters" alt="" coords="566,56,762,83"/>
+<area shape="rect" id="node8" href="$gpio__mm_8c.html#a20a7fe4932de53a18ae6372a0c8e21d4" title="gpio_mm_disarm_counter" alt="" coords="569,107,759,133"/>
+<area shape="rect" id="node10" href="$gpio__mm_8c.html#a0a0893b1e7063ffac44fcfa092bda55a" title="gpio_mm_free_cntrs" alt="" coords="587,157,741,184"/>
+<area shape="rect" id="node7" href="$gpio__mm_8c.html#aab26c6600502573da51d6fe200e855eb" title="gpio_mm_cmd_counters" alt="" coords="811,56,991,83"/>
+<area shape="rect" id="node9" href="$gpio__mm_8c.html#a74ee7b4744c0688b4575c9827242e6bd" title="gpio_mm_cmd_counter" alt="" coords="815,107,988,133"/>
+</map>

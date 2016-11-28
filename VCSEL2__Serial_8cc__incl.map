@@ -1,0 +1,29 @@
+<map id="nidas/dynld/raf/VCSEL2_Serial.cc" name="nidas/dynld/raf/VCSEL2_Serial.cc">
+<area shape="rect" id="node2" href="$VCSEL2__Serial_8h.html" title="VCSEL2_Serial.h" alt="" coords="2098,96,2224,123"/>
+<area shape="rect" id="node22" href="$UnixIODevice_8h.html" title="UnixIODevice.h" alt="" coords="921,395,1039,421"/>
+<area shape="rect" id="node44" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="2900,469,3039,496"/>
+<area shape="rect" id="node3" href="$DSMSerialSensor_8h.html" title="nidas/dynld/DSMSerialSensor.h" alt="" coords="1741,171,1960,197"/>
+<area shape="rect" id="node30" href="$DerivedDataClient_8h.html" title="nidas/core/DerivedDataClient.h" alt="" coords="2191,171,2411,197"/>
+<area shape="rect" id="node14" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1717,545,1907,586"/>
+<area shape="rect" id="node4" href="$SerialSensor_8h.html" title="nidas/core/SerialSensor.h" alt="" coords="1733,245,1917,272"/>
+<area shape="rect" id="node5" href="$CharacterSensor_8h.html" title="CharacterSensor.h" alt="" coords="1705,320,1847,347"/>
+<area shape="rect" id="node20" href="$LooperClient_8h.html" title="LooperClient.h" alt="" coords="1871,320,1985,347"/>
+<area shape="rect" id="node21" href="$SerialPortIODevice_8h.html" title="SerialPortIODevice.h" alt="" coords="1017,320,1169,347"/>
+<area shape="rect" id="node6" href="$DSMSensor_8h.html" title="DSMSensor.h" alt="" coords="1577,395,1684,421"/>
+<area shape="rect" id="node17" href="$Prompt_8h.html" title="Prompt.h" alt="" coords="1931,552,2012,579"/>
+<area shape="rect" id="node19" href="$util_2util_8h.html" title="nidas/util/util.h" alt="" coords="1719,469,1833,496"/>
+<area shape="rect" id="node7" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="1474,469,1592,496"/>
+<area shape="rect" id="node13" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="1359,469,1449,496"/>
+<area shape="rect" id="node8" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="1412,552,1583,579"/>
+<area shape="rect" id="node10" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="2105,635,2263,661"/>
+<area shape="rect" id="node29" href="$Termios_8h.html" title="nidas/util/Termios.h" alt="" coords="5,469,149,496"/>
+<area shape="rect" id="node24" href="$IOTimeoutException_8h.html" title="nidas/util/IOTimeoutException.h" alt="" coords="275,469,497,496"/>
+<area shape="rect" id="node23" href="$EOFException_8h.html" title="nidas/util/EOFException.h" alt="" coords="839,469,1021,496"/>
+<area shape="rect" id="node25" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="523,469,717,496"/>
+<area shape="rect" id="node31" href="$DerivedDataReader_8h.html" title="DerivedDataReader.h" alt="" coords="2353,320,2511,347"/>
+<area shape="rect" id="node32" href="$SocketAddress_8h.html" title="nidas/util/SocketAddress.h" alt="" coords="2337,395,2527,421"/>
+<area shape="rect" id="node38" href="$ParseException_8h.html" title="nidas/util/ParseException.h" alt="" coords="2516,469,2708,496"/>
+<area shape="rect" id="node40" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="2189,469,2328,496"/>
+<area shape="rect" id="node33" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="2373,469,2491,496"/>
+<area shape="rect" id="node34" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="2422,552,2612,579"/>
+</map>

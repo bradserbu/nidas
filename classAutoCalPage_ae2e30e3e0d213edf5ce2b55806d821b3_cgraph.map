@@ -1,0 +1,51 @@
+<map id="AutoCalPage::initializePage" name="AutoCalPage::initializePage">
+<area shape="rect" id="node2" href="$classAutoCalPage.html#a0b13407e30e41a96829f357aeb33eef5" title="AutoCalPage::createGrid" alt="" coords="259,343,437,369"/>
+<area shape="rect" id="node3" href="$classAutoCalPage.html#aeafe3a231ab4df01c09836ecce7cdfee" title="AutoCalPage::createTree" alt="" coords="259,393,437,420"/>
+<area shape="rect" id="node18" href="$classAutoCalPage.html#aa930b4960de270b79083eb314ee166d6" title="AutoCalPage::errMessage" alt="" coords="255,580,441,607"/>
+<area shape="rect" id="node19" href="$classAutoCalClient.html#a5bd4a6c668eac0985a3d62841f83ccaa" title="AutoCalClient::maxProgress" alt="" coords="248,631,448,657"/>
+<area shape="rect" id="node20" href="$classCalibrator.html#a3696c7eb5fa536b4da74dc1724e835d4" title="Calibrator::setup" alt="" coords="284,952,412,979"/>
+<area shape="rect" id="node50" href="$classAutoCalPage.html#a7fc3d3f9b5be692114bac425588d6e4a" title="AutoCalPage::setValue" alt="" coords="265,1003,431,1029"/>
+<area shape="rect" id="node4" href="$classAutoCalClient.html#a2b83ae6cc324d5a936f5372edce62637" title="AutoCalClient::GetTreeModel" alt="" coords="508,264,711,291"/>
+<area shape="rect" id="node5" href="$classAutoCalPage.html#ae57a7136e1c225ea902f11d9f9dad7a1" title="AutoCalPage::selectionChanged" alt="" coords="497,315,722,341"/>
+<area shape="rect" id="node6" href="$classTreeModel.html#aa9d2620ed71a36c3402a56de1ac51f88" title="TreeModel::data" alt="" coords="833,5,956,32"/>
+<area shape="rect" id="node8" href="$classAutoCalClient.html#a3f9e7ada89511d0e8d20d822d56460f0" title="AutoCalClient::GetVarName" alt="" coords="795,56,994,83"/>
+<area shape="rect" id="node9" href="$classAutoCalClient.html#a25ebbf3e30cfbe8a7e27ab47677f4585" title="AutoCalClient::GetOldTime\lStamp" alt="" coords="799,107,990,149"/>
+<area shape="rect" id="node11" href="$classAutoCalClient.html#a3b5b44a43279efbc61f046cf28a60303" title="AutoCalClient::GetNewTime\lStamp" alt="" coords="796,173,993,214"/>
+<area shape="rect" id="node12" href="$classAutoCalClient.html#a4e80aa79467cb2b2fae530542a3f08e2" title="AutoCalClient::GetOldTemperature" alt="" coords="774,239,1015,265"/>
+<area shape="rect" id="node13" href="$classAutoCalClient.html#a972b6368c4d0739020096a168ca9f8ab" title="AutoCalClient::GetNewTemperature" alt="" coords="771,289,1018,316"/>
+<area shape="rect" id="node14" href="$classAutoCalClient.html#a5829106d997195dfb885d190482ca76e" title="AutoCalClient::GetOldIntcp" alt="" coords="799,340,990,367"/>
+<area shape="rect" id="node15" href="$classAutoCalClient.html#ae11679beacc35e8f2a316fd16abb6f03" title="AutoCalClient::GetNewIntcp" alt="" coords="796,391,993,417"/>
+<area shape="rect" id="node16" href="$classAutoCalClient.html#a5ba25732994df3e86c58578f47f3818d" title="AutoCalClient::GetOldSlope" alt="" coords="797,441,993,468"/>
+<area shape="rect" id="node17" href="$classAutoCalClient.html#a038636be9b5e08f62f74c25f4288f093" title="AutoCalClient::GetNewSlope" alt="" coords="793,492,996,519"/>
+<area shape="rect" id="node7" href="$classTreeItem.html#a16641e42c78f004d47a66f3b2c39341f" title="TreeItem::data" alt="" coords="1087,5,1201,32"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1UTime.html#aeb55bd955c48b84b5d3113dc2311d3b5" title="Format a UTime into a string. " alt="" coords="1078,141,1210,182"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1FileSet.html#adf8ef81cad8e5ead98c6d943d4920a35" title="Convienence function to return a pointer to a nidas::core::FileSet, given a list of files..." alt="" coords="538,543,681,585"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1FileSet.html#a452d0e5d0238468aa58bb230ef61c9d1" title="Establish a connection. " alt="" coords="538,609,681,650"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="522,674,697,715"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="1067,922,1221,963"/>
+<area shape="rect" id="node31" href="$namespacenidas_1_1core.html#a0d06fcc4313aca0a7667ace4865bc99e" title="Request the XML configuration via a McSocket request to a given multicast socket address. " alt="" coords="502,795,717,821"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="501,846,718,887"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="501,911,718,953"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="524,977,695,1018"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1DSMSensor.html#a77ce4233e5dc65544504c4d0ff94dc02" title="Fetch the class name. " alt="" coords="522,1042,697,1083"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1DSMConfig.html#a48cb5cb6024a9e23f6fd00f5c32c97d5" title="nidas::core::DSMConfig\l::getId" alt="" coords="524,1107,695,1149"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1DSMConfig.html#a2f11522e7b009f018ca70226b05fce79" title="nidas::core::DSMConfig\l::getLocation" alt="" coords="524,1173,695,1214"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1DSMSensor.html#a423a5c73413fd24a5f8e2bb5035bb248" title="nidas::core::DSMSensor\l::getDSMId" alt="" coords="522,1238,697,1279"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1DSMSensor.html#a1cd4b08fac1f53782bfad84f1db4337b" title="nidas::core::DSMSensor\l::getSensorId" alt="" coords="522,1303,697,1345"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1DSMSensor.html#a585814d735dffdfd3ebc44dd24893165" title="Remove all CalFiles. " alt="" coords="522,1369,697,1410"/>
+<area shape="rect" id="node48" href="$classnidas_1_1core_1_1DSMSensor.html#ac8c5cc0c08bd086613971b606e9221b2" title="Initialize the DSMSensor. " alt="" coords="522,1434,697,1475"/>
+<area shape="rect" id="node49" href="$classnidas_1_1core_1_1DSMSensor.html#a29f82df18232c1d5f9e6a2baf3404ff4" title="Convenience function to get my one&#45;and&#45;only raw SampleTag(). " alt="" coords="522,1499,697,1541"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1FileSet.html#a6233f68c5d7dfedb9280ae9dd17c56c6" title="nidas::core::FileSet\l::addFileName" alt="" coords="823,543,966,585"/>
+<area shape="rect" id="node23" href="$classnidas_1_1util_1_1FileSet.html#ad6b6001c805bd1ad2e112d1c8a8c8e22" title="nidas::util::FileSet\l::addFileName" alt="" coords="1077,511,1211,553"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1FsMount.html#a96bcbb9507031c84cc9ed697f0dc2d46" title="Synchronous mount request (on return the file system is mounted). " alt="" coords="817,609,972,650"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1FsMount.html#a9ec26792c7a01630823fb460d50e33e5" title="Reads /proc/mount to see if getDir() is mounted. " alt="" coords="1067,577,1221,618"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1FileSet.html#a9b1abea862c313aefcca984396158768" title="nidas::util::FileSet\l::createDirectory" alt="" coords="1077,642,1211,683"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1FsMount.html#a969a4a14326246624d42d2e4acb69f48" title="Get the mount point directory, with environment variables expanded. " alt="" coords="1269,639,1424,681"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1McSocket.html#a59fba8ff6fe96e0ab0c657d6d1d12c90" title="Set the request type value. " alt="" coords="818,726,971,767"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1McSocket.html#a48485645106e2a83f9957f2019a6bf79" title="Set the multicast address for listening to requests. " alt="" coords="787,791,1003,833"/>
+<area shape="rect" id="node34" href="$classnidas_1_1util_1_1McSocket.html#add4e8722aa9d130ea3dbfe7e9de410a5" title="Do a request(), and then wait until a TCP connection is established, or a UDP datagram is received ba..." alt="" coords="818,857,971,898"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1McSocket.html#a274da3210a2e941a7d534c045ab00a7a" title="Unregister this McSocket from the multicasting and listening threads. " alt="" coords="818,922,971,963"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="809,1039,981,1081"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="809,1105,981,1146"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="828,1170,961,1211"/>
+</map>

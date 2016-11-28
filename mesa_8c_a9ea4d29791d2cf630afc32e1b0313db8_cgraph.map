@@ -1,0 +1,7 @@
+<map id="mesa_init" name="mesa_init">
+<area shape="rect" id="node2" href="$mesa_8c.html#a11feed891d696ab3e0db3c340aa690e8" title="mesa_cleanup" alt="" coords="139,56,253,83"/>
+<area shape="rect" id="node3" href="$mesa_8c.html#a876a3144a3c4e936e4b9b55ee5f5f436" title="close_ports" alt="" coords="302,56,397,83"/>
+<area shape="rect" id="node4" href="$pc104sg_8c.html#aaf72cc4ce7d06abb88b67911ad702f9d" title="flush_irig_callbacks" alt="" coords="459,5,602,32"/>
+<area shape="rect" id="node5" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="461,56,600,83"/>
+<area shape="rect" id="node6" href="$pc104sg_8c.html#ae0aacc0145154de250d49a3def0888af" title="Modules call this function to dequeue their callbacks. " alt="" coords="445,107,616,133"/>
+</map>

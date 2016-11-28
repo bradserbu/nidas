@@ -1,0 +1,11 @@
+<map id="nidas::core::NidasApp::NidasApp" name="nidas::core::NidasApp::NidasApp">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogScheme.html#a66b794432baaae5b1565c6cba7b1e99f" title="Push a new LogConfig onto the list of existing configs. " alt="" coords="217,5,383,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1NidasApp.html#a1b05a7b2e5e2545db4b1cc3c0fa7e9be" title="Set the enabled flag on the given list of NidasApp instances. " alt="" coords="219,70,381,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1LogScheme.html#a813a21f922014b98e5e2fb6cc2ba666e" title="nidas::util::LogScheme\l::getName" alt="" coords="659,131,826,173"/>
+<area shape="rect" id="node5" href="$group__LoggerSchemes.html#gacafd09879fe30a5e2045356b25211bfd" title="Get a copy of the scheme with the given name. " alt="" coords="233,187,367,229"/>
+<area shape="rect" id="node6" href="$group__LoggerSchemes.html#gaf9823a4aaef1f9e189a9ede8ad77f6cd" title="Set the current scheme. " alt="" coords="233,253,367,294"/>
+<area shape="rect" id="node7" href="$structnidas_1_1util_1_1LoggerPrivate.html#aec9297d0b1f9f1be521721aef3f25c94" title="nidas::util::LoggerPrivate\l::reconfig" alt="" coords="432,235,611,277"/>
+<area shape="rect" id="node8" href="$Logger_8cc.html#ae52bc141b722f755c92f440b46292544" title="stream_backtrace" alt="" coords="673,213,812,240"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1LogScheme.html#aa379dfa5732328a0eea5af7d30c6faf0" title="Return a comma&#45;separated string describing the list of fields to be shown by this scheme..." alt="" coords="659,265,826,306"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1LogScheme.html#a18c7dcd737947a97891d61588b49b295" title="Convert a LogField to its lower&#45;case string name. " alt="" coords="875,265,1042,306"/>
+</map>

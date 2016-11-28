@@ -1,0 +1,7 @@
+<map id="A2DConfigAll" name="A2DConfigAll">
+<area shape="rect" id="node2" href="$ncar__a2d_8c.html#a204f9b45aea65ee08b791d52d3cd1308" title="A2DConfig" alt="" coords="158,81,247,108"/>
+<area shape="rect" id="node3" href="$ncar__a2d_8c.html#ae28add5302cda2a6d055b0626a093cd5" title="AD7725Status" alt="" coords="323,5,437,32"/>
+<area shape="rect" id="node5" href="$ncar__a2d_8c.html#af8eb92f4eaa6367f69345e19ba767337" title="AD7725 sets some of the bits of the previous instruction in its status register. " alt="" coords="297,56,463,83"/>
+<area shape="rect" id="node4" href="$ncar__a2d_8c.html#adc6b3dee0ff56987f46568f68956a594" title="CHAN_ADDR16" alt="" coords="512,56,632,83"/>
+<area shape="rect" id="node6" href="$ncar__a2d_8c.html#af701c7f4ae6ec649d160247e6242b89c" title="wait7725Int" alt="" coords="333,157,427,184"/>
+</map>

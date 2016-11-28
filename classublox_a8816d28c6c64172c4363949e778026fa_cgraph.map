@@ -1,0 +1,4 @@
+<map id="ublox::read_smbus" name="ublox::read_smbus">
+<area shape="rect" id="node2" href="$classublox.html#a3737c4bbca6d60a12f20987b739c24a2" title="ublox::read_byte" alt="" coords="216,5,344,32"/>
+<area shape="rect" id="node3" href="$classublox.html#a7faef90bf89ee6ec820b314ef719a429" title="ublox::read_byte_data" alt="" coords="198,56,362,83"/>
+</map>

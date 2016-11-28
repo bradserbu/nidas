@@ -1,0 +1,11 @@
+<map id="nidas::dynld::raf::SyncRecordGenerator::printStatus" name="nidas::dynld::raf::SyncRecordGenerator::printStatus">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1UTime.html#aeb55bd955c48b84b5d3113dc2311d3b5" title="Format a UTime into a string. " alt="" coords="247,70,379,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleStats.html#a90d927493970ee3e9088225565cf8661" title="nidas::core::SampleStats\l::getLastTimeTag" alt="" coords="222,135,405,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleStats.html#a355d20403e6fe825d7f681012ef55cb3" title="nidas::core::SampleStats\l::getNumBytes" alt="" coords="222,201,405,242"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleStats.html#a1884d0c89833f574c30e78c674e4a72b" title="nidas::core::SampleStats\l::getNumSamples" alt="" coords="222,266,405,307"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleSource.html#a7aa8cdce7dd2b5bc1174d247d5fb8b83" title="nidas::core::SampleSource\l::getSampleStats" alt="" coords="216,331,411,373"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1UTime.html#a2a2bb7e4624bc6eba8b8f123540172e5" title="nidas::util::UTime\l::earlier" alt="" coords="473,5,605,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="473,70,605,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1UTime.html#a78aba4b6b51fdb3781638783fdf0e086" title="nidas::util::UTime::tm" alt="" coords="459,136,618,163"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html#a5f66cd8e723288d61e4539af62d724c4" title="No&#45;arg constructor initializes to current time, with isUTC() true. " alt="" coords="667,5,799,46"/>
+</map>

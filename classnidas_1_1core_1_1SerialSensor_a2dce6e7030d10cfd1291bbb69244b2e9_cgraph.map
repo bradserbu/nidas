@@ -1,0 +1,6 @@
+<map id="nidas::core::SerialSensor::applyTermios" name="nidas::core::SerialSensor::applyTermios">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SerialPortIODevice.html#a332de1e721c51c963fe4f5b89d594873" title="Apply the current Termios to an opened port. " alt="" coords="235,37,453,78"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SerialPortIODevice.html#a6b21f6c6f462ce83a9db2a98b94d641c" title="nidas::core::SerialPortIODevice\l::termios" alt="" coords="235,102,453,143"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Termios.html#a110ee903ca9c6f7ab6817284cb7f533b" title="Set the termios options on a serial port. " alt="" coords="510,5,650,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1IODevice.html#a319ef1fd16ca1af6b0835aac031dcac1" title="nidas::core::IODevice\l::getName" alt="" coords="502,70,658,111"/>
+</map>

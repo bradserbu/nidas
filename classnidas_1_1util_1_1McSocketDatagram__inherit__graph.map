@@ -1,0 +1,5 @@
+<map id="nidas::util::McSocketDatagram" name="nidas::util::McSocketDatagram">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramPacketT.html" title="nidas::util::DatagramPacket\lT\&lt; McSocketData \&gt;" alt="" coords="15,190,213,231"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1DatagramPacketBase.html" title="Abstract base class for a UDP datagram. " alt="" coords="21,5,251,32"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1DatagramPacketT.html" title="A DatagramPacket with a specific structure of data. " alt="" coords="131,83,329,125"/>
+</map>

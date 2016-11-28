@@ -1,0 +1,7 @@
+<map id="Document::getNextSensorId" name="Document::getNextSensorId">
+<area shape="rect" id="node2" href="$classNidasModel.html#a40cd91b0dffd6bdacc21f56784bdf6ba" title="NidasModel::getCurrentRootItem" alt="" coords="259,5,490,32"/>
+<area shape="rect" id="node4" href="$classDSMItem.html#ab3233f0023a46c66d002d15faf11fb95" title="DSMItem::getDSMConfig" alt="" coords="285,56,465,83"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="289,107,460,149"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="289,173,460,214"/>
+<area shape="rect" id="node3" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="539,5,693,32"/>
+</map>

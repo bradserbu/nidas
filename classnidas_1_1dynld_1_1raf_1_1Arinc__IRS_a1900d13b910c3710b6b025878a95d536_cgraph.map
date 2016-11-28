@@ -1,0 +1,51 @@
+<map id="nidas::dynld::raf::Arinc_IRS::fromDOMElement" name="nidas::dynld::raf::Arinc_IRS::fromDOMElement">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1raf_1_1DSMArincSensor.html#a807a9dde783b955ccc5962db350346a2" title="Extract the ARINC configuration elements from the XML header. " alt="" coords="256,2889,507,2930"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a3ed4317ccd8f23ace0e8833d9c9c2ebe" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="555,1455,730,1497"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1XDOMAttr.html#a2b378f967bc25e190f8b920936a675d9" title="nidas::core::XDOMAttr\l::getName" alt="" coords="1285,605,1448,646"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="799,2889,974,2930"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#aab713cbfbe9d612a86dca7f70993401e" title="Add a calibration file for this DSMSensor. " alt="" coords="799,122,974,163"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#aaad645d8923dc20c48313bcb98194ac2" title="Add a parameter to this DSMSensor. " alt="" coords="799,735,974,777"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a91d7dc2586c54dde5790f860121e058b" title="Add a SampleTag to this SampleSource. " alt="" coords="789,239,984,281"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMSensor.html#a30304f0f6f4db1dabc8f28cc752d18bb" title="Add a SampleTag to this sensor. " alt="" coords="799,1609,974,1650"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Parameter.html#ababf7c53b0fb8c567ad60409efd02ae0" title="nidas::core::Parameter\l::createParameter" alt="" coords="1055,214,1222,255"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DSMSensor.html#a6a3740a2572ef117e5a20404408ececd" title="Utility function to expand ${TOKEN} or $TOKEN fields in a string with their value from getTokenValue(..." alt="" coords="799,422,974,463"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SensorCatalog.html#a8d2921b3686df736186dcf05f824c0c8" title="nidas::core::SensorCatalog\l::find" alt="" coords="789,487,984,529"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1SampleTag.html#a850dd380521f927dd7215012c1a5619d" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="801,305,972,346"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1CalFile.html#acdd18155baa219b800e93ec0b0508466" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="815,605,959,646"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1DSMSensor.html#aad55338873bff345fb1c0db16c57e6e9" title="nidas::core::DSMSensor\l::getApplyVariableConversions" alt="" coords="779,670,994,711"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1XDOMElement.html#a29ecd13811c96fc7ad8ee05b872f6624" title="nidas::core::XDOMElement\l::getAttributeValue" alt="" coords="1043,363,1235,405"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DSMSensor.html#a77ce4233e5dc65544504c4d0ff94dc02" title="Fetch the class name. " alt="" coords="799,801,974,842"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1DSMSensor.html#a7185498f691f4015dc22b5c48031c21b" title="How do I want to be opened. " alt="" coords="799,866,974,907"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1DSMSensor.html#a4f28df132de1bd8514c5aa64dbe2864d" title="What DSMConfig am I associated with? " alt="" coords="799,931,974,973"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1SampleTag.html#ac7f92bf0e18051a6ca640dd1bcd7e96a" title="Get the DSM portion of the id. " alt="" coords="801,997,972,1038"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1DSMSensor.html#ae16eb474cba30454df1649b3a65fa17d" title="Full sensor suffix, the concatenation of the sensor suffix, if any, and the height or depth string..." alt="" coords="799,1062,974,1103"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="801,1127,972,1169"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1DSMSensor.html#a2883f4452f6d9bdbdaefcca4c85c87a0" title="Get the various levels of the samples identification. " alt="" coords="799,1193,974,1234"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="1071,1547,1206,1589"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="1283,139,1450,181"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Parameter.html#a20466f907c896f145af1c48398d9f112" title="nidas::core::Parameter\l::getName" alt="" coords="1055,1234,1222,1275"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="801,1426,972,1467"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="811,1543,962,1585"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1XDOMElement.html#aa5cf2414389cde3adfac301a290b1a7f" title="nidas::core::XDOMElement\l::getNodeName" alt="" coords="1043,429,1235,470"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1Parameter.html#a1409f9713ed0e3ceaec10900716b6b35" title="nidas::core::Parameter\l::getNumericValue" alt="" coords="803,1674,970,1715"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1DSMConfig.html#a2559e238a8ed6a1e5ea18a2a3317416d" title="nidas::core::DSMConfig\l::getProject" alt="" coords="801,1739,972,1781"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="801,1805,972,1846"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1SampleTag.html#a5ca3fbedfe97836dcef9c5b9063624ed" title="Get the sample portion of the shortId. " alt="" coords="801,1870,972,1911"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1DSMSensor.html#ae0a23210df32b4296a473c2089297d30" title="Implementation of SampleSource::getSampleTags(). " alt="" coords="799,1935,974,1977"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1Project.html#a26694328480e103e481918966e518dc0" title="nidas::core::Project\l::getSensorCatalog" alt="" coords="814,2001,959,2042"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1DSMSensor.html#a1cd4b08fac1f53782bfad84f1db4337b" title="nidas::core::DSMSensor\l::getSensorId" alt="" coords="799,2066,974,2107"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1DSMSensor.html#aee4b03fe916e146304097ceffdf41783" title="What Site am I associated with? " alt="" coords="799,2131,974,2173"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1SampleTag.html#afc355b8efce676022f31783481892041" title="Get the sensor+sample portion of the id. " alt="" coords="801,2197,972,2238"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1DSMSensor.html#aaf9dd45ff1249b1790176dc5a6ade620" title="nidas::core::DSMSensor\l::getStation" alt="" coords="799,2262,974,2303"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1DSMSensor.html#ae44bbb04b9ed2b5cd80a875ce8609653" title="Sensor suffix, which is added to variable names. " alt="" coords="1051,1321,1226,1362"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1Parameter.html#a0128f69c9664ac05e83cf2529bcd0a2c" title="nidas::core::Parameter\l::getType" alt="" coords="803,2327,970,2369"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1DSMSensor.html#afae0fa297cde45bb451949708feb03f4" title="nidas::core::DSMSensor\l::getVariableIterator" alt="" coords="799,2393,974,2434"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1VariableIterator.html#a9c5acde211bde12deabfe1040b8c085e" title="nidas::core::VariableIterator\l::hasNext" alt="" coords="787,2458,986,2499"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="1057,2100,1220,2127"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1VariableIterator.html#a3313ba0fb52778eb0806b0698c0377e4" title="nidas::core::VariableIterator\l::next" alt="" coords="787,2575,986,2617"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1DSMSensor.html#acba461ba2ddbd2a4e7eb3dd667d5e6cd" title="nidas::core::DSMSensor\l::setApplyVariableConversions" alt="" coords="779,2641,994,2682"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1DSMSensor.html#ae3aa1789b001beb823427fb275e940eb" title="Set the name of the catalog entry for this sensor. " alt="" coords="799,2706,974,2747"/>
+<area shape="rect" id="node48" href="$classnidas_1_1core_1_1DSMSensor.html#abc18b15a6f520aa81d64c02df9ee9962" title="Set the class name. " alt="" coords="799,2771,974,2813"/>
+<area shape="rect" id="node49" href="$classnidas_1_1core_1_1DSMSensor.html#a07c266bf6ba724989c2100b3fc97eb91" title="nidas::core::DSMSensor\l::setDefaultMode" alt="" coords="799,5,974,46"/>
+<area shape="rect" id="node50" href="$classnidas_1_1core_1_1DSMSensor.html#ac3235c7af0d4af283226d021a5c51b39" title="Set sensor depth below ground via a string which is added to variable names. " alt="" coords="799,1361,974,1402"/>
+</map>

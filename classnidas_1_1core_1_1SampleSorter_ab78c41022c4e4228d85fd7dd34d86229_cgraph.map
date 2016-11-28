@@ -1,0 +1,10 @@
+<map id="nidas::core::SampleSorter::SampleSorter" name="nidas::core::SampleSorter::SampleSorter">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogScheme.html#aadd9f9ae59a7f6f5bf5d01cea2974239" title="Return the LogScheme currently in effect for the global Logger instance. " alt="" coords="243,70,410,111"/>
+<area shape="rect" id="node7" href="$group__Logging.html#ga725963fe5b9c6f504c57f7f92f28bca3" title="nidas::util::LogScheme\l::getParameterT" alt="" coords="243,135,410,177"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="475,5,610,46"/>
+<area shape="rect" id="node6" href="$group__LoggerSchemes.html#gacafd09879fe30a5e2045356b25211bfd" title="Get a copy of the scheme with the given name. " alt="" coords="475,70,610,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="675,5,810,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="859,5,994,46"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1LogScheme.html#ac10acc870b53b06982b6aeba256e22a9" title="Return the value of the parameter. " alt="" coords="459,135,626,177"/>
+<area shape="rect" id="node9" href="$twins__ramp_8c.html#af9b63e2c7c515c96336409508090a89a" title="T" alt="" coords="523,201,562,228"/>
+</map>

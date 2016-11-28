@@ -1,0 +1,12 @@
+<map id="nidas::dynld::isff::CSAT3_Sonic::open" name="nidas::dynld::isff::CSAT3_Sonic::open">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1UTime.html#aeb55bd955c48b84b5d3113dc2311d3b5" title="Format a UTime into a string. " alt="" coords="233,83,365,125"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SerialSensor.html#a91e710748776717d457cf9374bf0b743" title="Open the device connected to the sensor. " alt="" coords="208,174,389,215"/>
+<area shape="rect" id="node10" href="$namespacenidas_1_1util.html#aee4920ee1f24d59b1e2deae8dd980ca7" title="Utility to remove white space characters (matching isspace()) from end of string. ..." alt="" coords="221,240,376,267"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="222,291,375,333"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1UTime.html#a2a2bb7e4624bc6eba8b8f123540172e5" title="nidas::util::UTime\l::earlier" alt="" coords="475,5,607,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="475,70,607,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1UTime.html#a78aba4b6b51fdb3781638783fdf0e086" title="nidas::util::UTime::tm" alt="" coords="462,136,621,163"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html#a5f66cd8e723288d61e4539af62d724c4" title="No&#45;arg constructor initializes to current time, with isUTC() true. " alt="" coords="715,5,847,46"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1CharacterSensor.html#ac47fdba4319ca33f6ad9feb05bf66fbd" title="Open the sensor device port for real&#45;time sampling. " alt="" coords="437,187,645,229"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="694,187,869,229"/>
+</map>

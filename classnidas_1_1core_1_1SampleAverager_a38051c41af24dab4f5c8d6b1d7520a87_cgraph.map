@@ -1,0 +1,10 @@
+<map id="nidas::core::SampleAverager::receive" name="nidas::core::SampleAverager::receive">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="265,5,421,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="268,70,417,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="268,135,417,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="268,201,417,242"/>
+<area shape="rect" id="node9" href="$namespacenidas_1_1util.html#a9291980612f1aa0930fd5688c87f3ed6" title="Return smallest time that is an integral multiple of delta, that isn&#39;t less than or equal to argument..." alt="" coords="261,267,424,293"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="473,70,669,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="473,135,669,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="473,201,669,242"/>
+</map>

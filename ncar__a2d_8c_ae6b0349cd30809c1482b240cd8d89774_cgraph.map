@@ -1,0 +1,5 @@
+<map id="i2c_stop_sequence" name="i2c_stop_sequence">
+<area shape="rect" id="node2" href="$ncar__a2d_8c.html#a4569e7baa3569cbbdcb9180f77a4cef1" title="i2c_clock_hi" alt="" coords="198,5,295,32"/>
+<area shape="rect" id="node3" href="$ncar__a2d_8c.html#a73af34f5a93fbd331577e88239164be1" title="i2c_data_hi" alt="" coords="199,56,294,83"/>
+<area shape="rect" id="node4" href="$ncar__a2d_8c.html#aa2647b6754e7bc09d6bc5ba6be45a875" title="i2c_data_lo" alt="" coords="199,107,294,133"/>
+</map>

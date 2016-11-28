@@ -1,0 +1,5 @@
+<map id="nidas::core::VariableConverter::getDSMSensor" name="nidas::core::VariableConverter::getDSMSensor">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#a3695fca9419619def30fb58d690d9427" title="nidas::core::SampleTag\l::getDSMSensor" alt="" coords="292,5,463,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#aa1b4f57a805b4eaec9e86d0da542d3da" title="What sample am I a part of? " alt="" coords="302,70,453,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1VariableConverter.html#ad0c5d3e3c2a9c186a2b997a71eb33fee" title="nidas::core::VariableConverter\l::getVariable" alt="" coords="270,135,485,177"/>
+</map>

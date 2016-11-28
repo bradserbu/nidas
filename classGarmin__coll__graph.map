@@ -1,0 +1,6 @@
+<map id="Garmin" name="Garmin">
+<area shape="rect" id="node2" href="$structGarmin_1_1baudRates.html" title="Garmin::baudRates" alt="" coords="5,203,149,229"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SerialPort.html" title="nidas::util::SerialPort" alt="" coords="174,203,327,229"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Termios.html" title="A class providing get/set methods into a termios structure. " alt="" coords="145,112,284,139"/>
+<area shape="rect" id="node5" href="$structnidas_1_1util_1_1Termios_1_1baudtable.html" title="nidas::util::Termios\l::baudtable" alt="" coords="145,6,284,47"/>
+</map>

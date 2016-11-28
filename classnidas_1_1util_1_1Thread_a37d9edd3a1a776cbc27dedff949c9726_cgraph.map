@@ -1,0 +1,7 @@
+<map id="nidas::util::Thread::~Thread" name="nidas::util::Thread::~Thread">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="199,5,334,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a4f6d1422edd345586e81e487335d20c4" title="Has this thread been joined? " alt="" coords="199,70,334,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="199,135,334,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="190,201,343,242"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="393,70,527,111"/>
+</map>

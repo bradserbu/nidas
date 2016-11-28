@@ -1,0 +1,23 @@
+<map id="nidas::core::CharacterSensor::validate" name="nidas::core::CharacterSensor::validate">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1CharacterSensor.html#a73d031ae61dabeff9dc0fa8753bd6b72" title="Prompting Sensors can have multiple prompts and rates. " alt="" coords="261,102,469,143"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="527,699,702,741"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleTag.html#aed0fa11edb0ac0b7b86bcabc3b91849c" title="nidas::core::SampleTag\l::getPromptOffset" alt="" coords="280,249,451,290"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1CharacterSensor.html#a30b8d6483ee47eaa692cae24e26bc33b" title="nidas::core::CharacterSensor\l::getPromptOffset" alt="" coords="261,314,469,355"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1CharacterSensor.html#af957fd8f4d314ad6ffc481a3963d2ba9" title="nidas::core::CharacterSensor\l::getPromptRate" alt="" coords="261,379,469,421"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1CharacterSensor.html#a09bedb208e106273485b6baf806d9d61" title="nidas::core::CharacterSensor\l::getPrompts" alt="" coords="261,445,469,486"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleTag.html#a3c02edb010b00928b8807b281bc848b4" title="nidas::core::SampleTag\l::getPromptString" alt="" coords="280,510,451,551"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1CharacterSensor.html#a3b3a5e42c21b5bd2c16f429f9061e2bf" title="nidas::core::CharacterSensor\l::getPromptString" alt="" coords="261,575,469,617"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="280,641,451,682"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1DSMSensor.html#ae0a23210df32b4296a473c2089297d30" title="Implementation of SampleSource::getSampleTags(). " alt="" coords="278,183,453,225"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SampleTag.html#a64de05ffd819609dc39b6a798244a921" title="Set sampling rate in samples/sec. " alt="" coords="280,758,451,799"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1DSMSensor.html#a8ef2a883b53198f19948fa10c0a194a9" title="validate() is called once on a DSMSensor after it has been configured, but before open() or init() ar..." alt="" coords="278,823,453,865"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Prompt.html#ac5ac7ef10498ba5c3414585a7395915b" title="Set prompt offset in seconds. " alt="" coords="541,135,688,177"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Prompt.html#ad1848938a3fd83f2dacac12412d0b5fc" title="Set rate of desired prompting, in Hz (sec^&#45;1). " alt="" coords="541,5,688,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Prompt.html#a1cbf8c5369c4a51c7e203088c675f2d9" title="nidas::core::Prompt\l::setString" alt="" coords="541,70,688,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="761,826,935,867"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="761,699,935,741"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="984,699,1155,741"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a2a2fca8de4087ee4921e0dc1d358fc3d" title="What SampleTags am I a SampleSource for? " alt="" coords="517,201,712,242"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DSMSensor.html#a4f28df132de1bd8514c5aa64dbe2864d" title="What DSMConfig am I associated with? " alt="" coords="527,765,702,806"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1DSMSensor.html#a1cd4b08fac1f53782bfad84f1db4337b" title="nidas::core::DSMSensor\l::getSensorId" alt="" coords="527,830,702,871"/>
+</map>

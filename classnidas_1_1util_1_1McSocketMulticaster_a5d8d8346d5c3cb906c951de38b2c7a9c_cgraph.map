@@ -1,0 +1,51 @@
+<map id="nidas::util::McSocketMulticaster::run" name="nidas::util::McSocketMulticaster::run">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1ServerSocket.html#a30aa9e584d99cf5f7a77b336989ba450" title="Accept connection, return a connected Socket instance. " alt="" coords="331,5,509,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1ServerSocket.html#a0245d40096ca089255c67303eebf17e6" title="close the socket. " alt="" coords="331,181,509,222"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1DatagramSocket.html#a3ab2156eb9dcf6cc93a53bde7c4770da" title="nidas::util::DatagramSocket\l::close" alt="" coords="320,298,520,339"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1SocketAddress.html#a9a0749f3122491935c86a5b98895d239" title="nidas::util::SocketAddress\l::getConstSockAddrPtr" alt="" coords="327,363,513,405"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1SocketAddress.html#afa988ac5e32b61dfb899d87f10671002" title="Get the family of this SocketAddress, one of the values from /usr/include/sys/socket.h: AF_UNIX, AF_INET, AF_INET6, etc. " alt="" coords="327,429,513,470"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1ServerSocket.html#a58412e9aa1c783e0cf06ed84d00d09b2" title="nidas::util::ServerSocket\l::getFd" alt="" coords="331,494,509,535"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1DatagramSocket.html#a917bfb6f9412edf77b44c21c0bc21d4f" title="nidas::util::DatagramSocket\l::getFd" alt="" coords="320,559,520,601"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#a158bf57b3a13af00f9eb5b5df9d01325" title="The interface flags. " alt="" coords="333,625,507,666"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a5a980fd49b48f9cc36250f08efae7e19" title="Return the IP address portion. " alt="" coords="327,690,513,731"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="353,755,487,797"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1MulticastSocket.html#a4127d0182b2038385d73ad99ff5977b2" title="Return the IP addresses of all my network interfaces. " alt="" coords="324,821,516,862"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1DatagramPacketBase.html#aab1a729e8bb33b1f00e5249246b3608c" title="Get the value for the current number of bytes in data. " alt="" coords="321,886,519,927"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1ServerSocket.html#a630644b1930150f33d427f1e329bb030" title="nidas::util::ServerSocket\l::getLocalPort" alt="" coords="331,951,509,993"/>
+<area shape="rect" id="node23" href="$classnidas_1_1util_1_1DatagramSocket.html#aaaf68fca3aa829be1c00c236af7dcaa7" title="Get local port number of this socket. " alt="" coords="320,1017,520,1058"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Socket.html#a8a34740fa4110e379fd469d20e07a8ce" title="Get local address of this socket. " alt="" coords="330,1082,510,1123"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1ServerSocket.html#a07252c8257ea7923f85deef66c811ddd" title="Fetch the local address that this socket is bound to. " alt="" coords="585,305,765,346"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1DatagramSocket.html#a48551d9efa88722adf13bb4d0f2f1a32" title="Get local address of this socket. " alt="" coords="320,1147,520,1189"/>
+<area shape="rect" id="node26" href="$namespacenidas_1_1util.html#a9f79966ac70f7391fc359648e5363bce" title="nidas::util::getMcSocketType" alt="" coords="319,1213,521,1240"/>
+<area shape="rect" id="node27" href="$classnidas_1_1util_1_1Socket.html#a5a124be1d5892e485f64db1794f8a283" title="Get remote address of this socket. " alt="" coords="322,1265,518,1306"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1McSocketDatagram.html#a5b541cc5369300f53061194b019d850f" title="What TCP port is the requester listening on for the connection back? " alt="" coords="311,1330,529,1371"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1McSocketDatagram.html#acf51c2d0eab0e7bc65e1b30c50aaec9e" title="nidas::util::McSocketDatagram\l::getRequestType" alt="" coords="311,1395,529,1437"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1DatagramPacketBase.html#ac4ebf929284133f39110573766a7304f" title="nidas::util::DatagramPacket\lBase::getSocketAddress" alt="" coords="321,1461,519,1502"/>
+<area shape="rect" id="node31" href="$classnidas_1_1util_1_1McSocketDatagram.html#ad9ed8835789e53cc44b1c453764a365f" title="What socket type does the requester want to establish? SOCK_STREAM or SOCK_DGRAM. ..." alt="" coords="311,1526,529,1567"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1Inet4Address.html#ab5665d441e015fed8fd5b97a7e388a37" title="Is this address a multicast address? Multicast addresses are in the range 224.0.0.1 to 239.255.255.255, their first four bits are 1110=0xe. " alt="" coords="333,1591,507,1633"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="355,1657,485,1698"/>
+<area shape="rect" id="node34" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="339,1723,501,1749"/>
+<area shape="rect" id="node37" href="$classnidas_1_1util_1_1DatagramSocket.html#a6eea15206b0f464203a419197190626f" title="Read a packet from the DatagramSocket. " alt="" coords="320,1774,520,1815"/>
+<area shape="rect" id="node38" href="$classnidas_1_1util_1_1DatagramSocket.html#addab1e86567cb30eecfb7983f732e7a3" title="nidas::util::DatagramSocket\l::send" alt="" coords="320,1839,520,1881"/>
+<area shape="rect" id="node39" href="$classnidas_1_1util_1_1Inet4PacketInfo.html#a42241ef1c21ad9fc758e2b217a8c83e7" title="nidas::util::Inet4Packet\lInfo::setDestinationAddress" alt="" coords="321,1905,519,1946"/>
+<area shape="rect" id="node40" href="$classnidas_1_1util_1_1MulticastSocket.html#a93091a322552dee94edf40c5743d41e7" title="Set the interface for a given multicast address. " alt="" coords="324,1970,516,2011"/>
+<area shape="rect" id="node41" href="$classnidas_1_1util_1_1Inet4PacketInfo.html#a1746008dbed371165f7e0156bdd4fb40" title="nidas::util::Inet4Packet\lInfo::setLocalAddress" alt="" coords="337,2035,503,2077"/>
+<area shape="rect" id="node42" href="$classnidas_1_1util_1_1McSocketDatagram.html#a5ed0ce929b2d359f0f7bf7a2005ae63c" title="nidas::util::McSocketDatagram\l::setMagic" alt="" coords="311,2101,529,2142"/>
+<area shape="rect" id="node43" href="$classnidas_1_1util_1_1Inet4PacketInfoX.html#a43e2010282052f66e7da187afa4cc5ab" title="nidas::util::Inet4Packet\lInfoX::setRemoteSocketAddress" alt="" coords="307,2166,533,2207"/>
+<area shape="rect" id="node44" href="$classnidas_1_1util_1_1McSocketDatagram.html#ac99c10c5823320923d33de54233817b9" title="nidas::util::McSocketDatagram\l::setRequesterListenPort" alt="" coords="311,2231,529,2273"/>
+<area shape="rect" id="node45" href="$classnidas_1_1util_1_1McSocketDatagram.html#a0b69d04087902b1a9ef554678acea663" title="nidas::util::McSocketDatagram\l::setRequestType" alt="" coords="311,2297,529,2338"/>
+<area shape="rect" id="node46" href="$classnidas_1_1util_1_1DatagramPacketBase.html#a7496a7f0297243c59d042882ce2e7262" title="nidas::util::DatagramPacket\lBase::setSocketAddress" alt="" coords="321,2362,519,2403"/>
+<area shape="rect" id="node48" href="$classnidas_1_1util_1_1McSocketDatagram.html#aae6d5f2adea573066406d49d4ec720ee" title="nidas::util::McSocketDatagram\l::setSocketType" alt="" coords="311,2427,529,2469"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="821,174,1008,215"/>
+<area shape="rect" id="node49" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="355,2493,485,2534"/>
+<area shape="rect" id="node50" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="343,2558,497,2599"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SocketImpl.html#ac4407b5d18cab939e96ababd8006d5fd" title="nidas::util::SocketImpl\l::close" alt="" coords="593,239,756,281"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1ServerSocket.html#a93121a3756947e2e48f1512604873f5a" title="nidas::util::ServerSocket\l::getDomain" alt="" coords="586,122,763,163"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1SocketImpl.html#aed0edf6bcfa48a862f2f95ac18ca4bf3" title="Get local socket address of this socket. " alt="" coords="825,239,1005,281"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1SocketImpl.html#a823649cca15b0c841266621653f5e026" title="Get remote socket address of this socket. " alt="" coords="817,305,1013,346"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="607,755,742,797"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="847,755,982,797"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="593,1686,757,1727"/>
+<area shape="rect" id="node36" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="641,1752,708,1779"/>
+<area shape="rect" id="node47" href="$classnidas_1_1util_1_1SocketAddress.html#a704d2610cf7adfbe39dd5120c693f7fc" title="Virtual constructor. " alt="" coords="581,2362,768,2403"/>
+</map>

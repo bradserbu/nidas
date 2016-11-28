@@ -1,0 +1,12 @@
+<map id="addA2DSampleConfig" name="addA2DSampleConfig">
+<area shape="rect" id="node2" href="$short__filters_8c.html#a2134445ca6627a81887917354c98bb7d" title="Return structure of pointers to the methods for a given filter. " alt="" coords="217,183,399,209"/>
+<area shape="rect" id="node11" href="$dmd__mmat_8c.html#a55ef3b4f0cc765d38cd86d9128ec2e48" title="getA2DDeviceName" alt="" coords="232,233,384,260"/>
+<area shape="rect" id="node3" href="$short__filters_8c.html#a00ffd5be1ac12a4775b8e3d2d43a18d8" title="Constructor for a pickoff filter. " alt="" coords="465,5,554,32"/>
+<area shape="rect" id="node4" href="$short__filters_8c.html#a4ac9195c19afb5286aa73b790053a5c7" title="Configure a pickoff filter. " alt="" coords="455,56,563,83"/>
+<area shape="rect" id="node5" href="$short__filters_8c.html#a0feada1af68344f932a2bd92f388e416" title="Pickoff filter method. " alt="" coords="460,107,559,133"/>
+<area shape="rect" id="node6" href="$short__filters_8c.html#a4ac108c1899e56f62255a8e5dc89087e" title="Destructor for a pickoff filter. " alt="" coords="449,157,569,184"/>
+<area shape="rect" id="node7" href="$short__filters_8c.html#af8a8c39dbfbc44705fbedb4edb1a8a05" title="Constructor for a boxcar filter. " alt="" coords="464,208,555,235"/>
+<area shape="rect" id="node8" href="$short__filters_8c.html#a6e33223474426de92931f239a5ffd209" title="Configure a boxcar filter. " alt="" coords="454,259,565,285"/>
+<area shape="rect" id="node9" href="$short__filters_8c.html#a4772e1ab6d22fe2dc465da8cb569f1c1" title="Boxcar filter method. " alt="" coords="459,309,559,336"/>
+<area shape="rect" id="node10" href="$short__filters_8c.html#a4f44612a66c322d744dc73e7f6b4c769" title="Destructor for a boxcar filter. " alt="" coords="448,360,571,387"/>
+</map>

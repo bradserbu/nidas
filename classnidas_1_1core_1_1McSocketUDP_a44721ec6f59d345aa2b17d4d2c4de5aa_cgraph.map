@@ -1,0 +1,9 @@
+<map id="nidas::core::McSocketUDP::connected" name="nidas::core::McSocketUDP::connected">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IOChannelRequester.html#a0c7ca55a7c3dc9c8c1f68b10334beec6" title="nidas::core::IOChannelRequester\l::connected" alt="" coords="245,5,475,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Inet4PacketInfo.html#a5d87d66d4cdfe5dd6ca4a62afc7bb039" title="The destination address of the packet. " alt="" coords="261,70,459,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Inet4PacketInfo.html#a9a835a986de68982f212e314b30c6cd5" title="The interface that the packet was received on. " alt="" coords="277,135,443,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Inet4PacketInfoX.html#a0704ffd3c5735434cb583d971a932cbf" title="The remote address of the packet. " alt="" coords="247,201,473,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1McSocketUDP.html#a293acf9aa165428337436923f574b3a4" title="Return isNonBlocking() of underlying socket. " alt="" coords="265,266,455,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1IOChannel.html#a58b98176a4eeb7c9576594c2ddd94484" title="nidas::core::IOChannel\l::setConnectionInfo" alt="" coords="277,331,443,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1DatagramSocket.html#ab88cab15dcf2a448228e7e1d664c9d7d" title="Do fcntl system call to set O_NONBLOCK file descriptor flag on the socket. " alt="" coords="260,397,460,438"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="nidas::dynld::GPS_Novatel_Serial::process" name="nidas::dynld::GPS_Novatel_Serial::process">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="470,5,626,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1GPS__NMEA__Serial.html#a97f898ffcc6e890a86c66999bbda653f" title="Virtual method that is called to convert a raw sample containing an ASCII NMEA message to a processed..." alt="" coords="243,58,421,99"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="473,79,623,121"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="473,149,623,190"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="675,79,871,121"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="675,149,871,190"/>
+</map>

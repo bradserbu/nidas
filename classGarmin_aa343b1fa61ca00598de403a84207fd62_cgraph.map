@@ -1,0 +1,12 @@
+<map id="Garmin::setBaudRateOption" name="Garmin::setBaudRateOption">
+<area shape="rect" id="node2" href="$classGarmin.html#af1224f442a91a4b7708c7bfb78f844ea" title="Garmin::getBaudRate" alt="" coords="273,5,433,32"/>
+<area shape="rect" id="node3" href="$classGarmin.html#a36d27202411f99e5b669f85e549092c2" title="Garmin::getBaudRateIndex" alt="" coords="256,56,451,83"/>
+<area shape="rect" id="node4" href="$classGarmin.html#a85a7c92073f8d7062f8a25eb17ebcef9" title="Garmin::getStringField" alt="" coords="271,107,435,133"/>
+<area shape="rect" id="node5" href="$classGarmin.html#a3a95f63c3833e13d69285b20b218fc00" title="Garmin::readMessage" alt="" coords="272,157,435,184"/>
+<area shape="rect" id="node8" href="$classGarmin.html#acc8d1b42d686458a4f4f279ec4c49a00" title="Garmin::substCRNL" alt="" coords="280,208,427,235"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="277,259,430,301"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1SerialPort.html#ae4d09a43fe7d99a714858a88bdccd8fe" title="nidas::util::SerialPort\l::write" alt="" coords="277,325,430,366"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SerialPort.html#aa586f39ea8cb368b66730df42fe6058a" title="Get device name of the SerialPort. " alt="" coords="511,85,665,126"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1SerialPort.html#ac81cf836e8032838eb425276d025fdfa" title="Read bytes until either the term character is read, or len&#45;1 number of characters have been read..." alt="" coords="511,150,665,191"/>
+<area shape="rect" id="node9" href="$namespacenidas_1_1util.html#a1902a11460fd068872aca208a4f1b57d" title="Utility function for substituting backslash sequences back into a string. " alt="" coords="499,215,677,257"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nidas::dynld::SampleInputStream::readInputHeader" name="nidas::dynld::SampleInputStream::readInputHeader">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html#a355553922b04c738465e06c7e7d21767" title="Decrement the reference count for this sample. " alt="" coords="264,5,413,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleHeader.html#ac3e18adbfd3fb1ae67f168ee98de005f" title="nidas::core::SampleHeader\l::getSizeOf" alt="" coords="241,70,437,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleInputHeader.html#a8662e12a8c7486daf2d7ac129e55d567" title="Read IOStream until the SampleInputHeader has been fully read. " alt="" coords="248,135,429,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="486,135,639,177"/>
+</map>

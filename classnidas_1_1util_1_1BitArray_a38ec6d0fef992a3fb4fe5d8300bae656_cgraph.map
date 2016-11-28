@@ -1,0 +1,5 @@
+<map id="nidas::util::BitArray::operator|" name="nidas::util::BitArray::operator|">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1BitArray.html#a646dba9fd7ee748a81b4e095f10b7e90" title="Return const pointer to first byte of BitArray. " alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1BitArray.html#ad5a6c136acd7616a856c653f1f728da4" title="Length of array, in bits. " alt="" coords="198,70,341,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1BitArray.html#a1291f609786f31105511f0810b5d354f" title="Length of array, in bytes. " alt="" coords="198,135,341,177"/>
+</map>

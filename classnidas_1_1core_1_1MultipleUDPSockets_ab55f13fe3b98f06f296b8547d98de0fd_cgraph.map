@@ -1,0 +1,6 @@
+<map id="nidas::core::MultipleUDPSockets::handleChangedSockets" name="nidas::core::MultipleUDPSockets::handleChangedSockets">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramSocket.html#a48551d9efa88722adf13bb4d0f2f1a32" title="Get local address of this socket. " alt="" coords="283,5,483,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="317,70,448,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SocketAddress.html#add6af6ba09e0ae7aff3c3db7c20b9ed5" title="Java style toString, but no DNS lookup. " alt="" coords="289,135,476,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="317,201,448,242"/>
+</map>

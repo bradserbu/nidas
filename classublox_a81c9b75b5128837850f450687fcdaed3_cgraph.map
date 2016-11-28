@@ -1,0 +1,5 @@
+<map id="ublox::config_nmea" name="ublox::config_nmea">
+<area shape="rect" id="node2" href="$classublox__pkt.html#a27a9d6175d1d9b3448903a8d76f81a38" title="ublox_pkt::cksum" alt="" coords="204,5,337,32"/>
+<area shape="rect" id="node4" href="$classublox__pkt.html#a9b64ed2caf0ede12d5b699783b041cbc" title="ublox_pkt::payload" alt="" coords="200,56,341,83"/>
+<area shape="rect" id="node3" href="$classublox__pkt.html#a0103280b3812babaf507e1fe94ba0b21" title="ublox_pkt::cksump" alt="" coords="389,5,531,32"/>
+</map>

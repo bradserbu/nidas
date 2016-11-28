@@ -1,0 +1,14 @@
+<map id="nidas/core/SampleScanner.h" name="nidas/core/SampleScanner.h">
+<area shape="rect" id="node2" href="$SampleClock_8h.html" title="SampleClock.h" alt="" coords="767,80,884,107"/>
+<area shape="rect" id="node30" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="5,387,176,413"/>
+<area shape="rect" id="node32" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="201,379,391,421"/>
+<area shape="rect" id="node3" href="$Sample_8h.html" title="Sample.h" alt="" coords="1219,155,1301,181"/>
+<area shape="rect" id="node4" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="517,304,707,331"/>
+<area shape="rect" id="node9" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="1299,387,1489,413"/>
+<area shape="rect" id="node13" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="1770,229,1941,256"/>
+<area shape="rect" id="node14" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="1163,229,1357,256"/>
+<area shape="rect" id="node15" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="1606,229,1745,256"/>
+<area shape="rect" id="node21" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="977,229,1087,256"/>
+<area shape="rect" id="node5" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="284,469,441,496"/>
+<area shape="rect" id="node22" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="864,304,1003,331"/>
+</map>

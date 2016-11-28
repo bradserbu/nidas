@@ -1,0 +1,51 @@
+<map id="DataDump::main" name="DataDump::main">
+<area shape="rect" id="node2" href="$classDataDump.html#a8a5d1f11983105511328fdd45ee39959" title="DataDump::parseRunstring" alt="" coords="187,380,381,407"/>
+<area shape="rect" id="node21" href="$classDataDump.html#a811198a71c9266bbb407b341ae314c2c" title="DataDump::run" alt="" coords="223,1568,345,1595"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="722,938,875,979"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1NidasApp.html#a1b05a7b2e5e2545db4b1cc3c0fa7e9be" title="Set the enabled flag on the given list of NidasApp instances. " alt="" coords="461,89,622,130"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1NidasAppInputFilesArg.html#a79bf940fe42bfe17b26d21c98a2b6d80" title="nidas::core::NidasAppInput\lFilesArg::setDefaultInput" alt="" coords="445,154,638,195"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1NidasApp.html#a6200a2121ab762824ebdd1f1fed16319" title="Set the options from the given argument list. " alt="" coords="461,219,622,261"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1NidasApp.html#a2bc34e52cd098436ada446e1f56bc644" title="Return true when a help option was parsed, meaning the usage info has been requested. " alt="" coords="461,285,622,326"/>
+<area shape="rect" id="node15" href="$classDataDump.html#a0dbdb8228fb6f49a25684644db6044b9" title="DataDump::usage" alt="" coords="472,351,611,377"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1NidasApp.html#a5d1c1028c404fbbca072a251b053f056" title="Store the format in which sample IDs should be shown, as listed in the id_format_t enum..." alt="" coords="461,402,622,443"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1NidasApp.html#a28c2ca23abf3880a172b1f083d1a1e5b" title="Parse one or more input URLs from a list of non&#45;option command&#45;line arguments. " alt="" coords="461,533,622,574"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1NidasApp.html#a935e8e75b182e374601bd5afbb91f841" title="Use this method to access the SampleMatcher instance for this NidasApp. " alt="" coords="461,650,622,691"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1SampleMatcher.html#a4591ece5380c1718862e80511ffeea8b" title="The number of ranges added to this SampleMatcher. " alt="" coords="441,467,642,509"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1NidasAppInputFilesArg.html#a82434df2eaf40a5584d42aa54e27270f" title="nidas::core::NidasAppInput\lFilesArg::updateUsage" alt="" coords="702,5,895,46"/>
+<area shape="rect" id="node7" href="$NidasApp_8cc.html#a9c36f8635caf93eefe6f3bbd7b1bfbff" title="xarg" alt="" coords="773,136,824,163"/>
+<area shape="rect" id="node8" href="$group__LoggerSchemes.html#gacafd09879fe30a5e2045356b25211bfd" title="Get a copy of the scheme with the given name. " alt="" coords="731,187,866,229"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1LogScheme.html#abf096193e761b41a18d874c628894e34" title="Set the fields to show in log messages and their order. " alt="" coords="715,253,882,294"/>
+<area shape="rect" id="node10" href="$group__LoggerSchemes.html#gaf9823a4aaef1f9e189a9ede8ad77f6cd" title="Set the current scheme. " alt="" coords="731,318,866,359"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1LogScheme.html#af11708a7dff8b605d45f8cafc70992c1" title="Parse a parameter setting using syntax &lt;name&gt;=. " alt="" coords="715,383,882,425"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1LogScheme.html#a3f99428aa20c6126f1306039dfc17f3d" title="If show is true, then all the known log points will be listed in log messages, and all future log poi..." alt="" coords="715,449,882,490"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Version.html#a5d0f899b4fdad8f2b62f608cd617decf" title="nidas::core::Version\l::getSoftwareVersion" alt="" coords="721,70,876,111"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1NidasApp.html#ad7b7959a13d2b0bc5725b6e6de558c4e" title="Return the list of filenames parsed from the input URLs with parseInputs(). " alt="" coords="461,2099,622,2141"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1FileSet.html#adf8ef81cad8e5ead98c6d943d4920a35" title="Convienence function to return a pointer to a nidas::core::FileSet, given a list of files..." alt="" coords="470,2165,613,2206"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1FileSet.html#a452d0e5d0238468aa58bb230ef61c9d1" title="Establish a connection. " alt="" coords="470,2230,613,2271"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1NidasApp.html#ac7e23c5e74ad537eb99467b85f52e38f" title="If parseInputs() parsed a network socket specifier, then this method returns a pointer to the corresp..." alt="" coords="461,2295,622,2337"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1NidasApp.html#a7a401f2b18a206ebdd2d34e9c8735d11" title="nidas::core::NidasApp\l::processData" alt="" coords="461,2361,622,2402"/>
+<area shape="rect" id="node27" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ac74c22fae1523d5ae65dd9dbd04bfb9a" title="nidas::dynld::SampleInput\lStream::setMaxSampleLength" alt="" coords="433,2426,650,2467"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1NidasApp.html#aee9dc30d667e3b332507eb5500fca06e" title="nidas::core::NidasApp\l::xmlHeaderFile" alt="" coords="461,2491,622,2533"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1SampleInputHeader.html#a72647b7b4c1160ff4ac8467c530572e4" title="nidas::core::SampleInput\lHeader::getConfigName" alt="" coords="451,2557,632,2598"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1Process.html#a1106e7c05fa20214f2fc7cdd29cc2871" title="nidas::util::Process\l::expandEnvVars" alt="" coords="471,715,612,757"/>
+<area shape="rect" id="node31" href="$namespacenidas_1_1core.html#a68532040e766cc1c177fd68c2de7b767" title="Utility function which creates a temporary XMLParser, sets the options we typically want and parses t..." alt="" coords="430,781,653,808"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="433,833,650,874"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="433,898,650,939"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="456,963,627,1005"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1SamplePipeline.html#a7adb315f7a2e2cf10994df9bbb67c27c" title="nidas::core::SamplePipeline\l::setRealTime" alt="" coords="442,1029,641,1070"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1SamplePipeline.html#a73b5e78ee9c670c0294e6576eabe3445" title="Set length of raw SampleSorter, in seconds. " alt="" coords="442,1094,641,1135"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1SamplePipeline.html#afbd699d0eb07d138f29b301101283fe2" title="Set length of processed SampleSorter, in seconds. " alt="" coords="442,1159,641,1201"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1DSMSensor.html#ac8c5cc0c08bd086613971b606e9221b2" title="Initialize the DSMSensor. " alt="" coords="454,1225,629,1266"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1DSMSensor.html#a29f82df18232c1d5f9e6a2baf3404ff4" title="Convenience function to get my one&#45;and&#45;only raw SampleTag(). " alt="" coords="454,1342,629,1383"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1NidasApp.html#adcf2addad865eba575c577ce0c63bd8e" title="nidas::core::NidasApp\l::getIdFormat" alt="" coords="461,1473,622,1514"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1SamplePipeline.html#ad98e04882f62856dec7fa1ff38266249" title="Add an input to be merged and sorted. " alt="" coords="442,1590,641,1631"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1SamplePipeline.html#ad6f35a21321e4db0a22e05c670dde378" title="Several objects in NIDAS can be both a SampleSource of raw Samples and processed Samples. " alt="" coords="436,1655,647,1697"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1SampleSource.html#a67931335b882c7664765d63747c85215" title="Add a SampleClient of all Samples to this SampleSource. " alt="" coords="701,1561,896,1602"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1SamplePipeline.html#aaa7b59ad6c0545211fa1ff213d079294" title="Several objects in NIDAS can be both a SampleSource of raw Samples and processed Samples. " alt="" coords="442,1721,641,1762"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1NidasApp.html#ab993959d8ee80a13a2963489544dc1b8" title="nidas::core::NidasApp\l::interrupted" alt="" coords="461,1786,622,1827"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1SampleSource.html#a470d0441ac1c447dc3efa778a3dc9059" title="Remove a SampleClient from this SampleSource. " alt="" coords="701,2005,896,2046"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1SamplePipeline.html#a2768077f4fb2f1c2a3a3c515b1d8ff85" title="Remove a SampleSource from the SamplePipeline. " alt="" coords="442,2034,641,2075"/>
+<area shape="rect" id="node48" href="$classnidas_1_1core_1_1SamplePipeline.html#a329468be47cb4ac7d52cf91e4a6618f5" title="Interrupt the SampleSorters in this pipeline. " alt="" coords="442,1851,641,1893"/>
+<area shape="rect" id="node49" href="$classnidas_1_1core_1_1SamplePipeline.html#accd6f588733bdd8ca1960a7b9f4ae5f0" title="Join the SampleSorters in this pipeline. " alt="" coords="442,1407,641,1449"/>
+<area shape="rect" id="node50" href="$classnidas_1_1core_1_1SamplePipeline.html#a5319c1d2be4cc8e164d902b053d33160" title="Purge samples from the SampleSorters in this pipeline. " alt="" coords="442,1917,641,1958"/>
+</map>

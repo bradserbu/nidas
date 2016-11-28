@@ -1,0 +1,5 @@
+<map id="lams_open" name="lams_open">
+<area shape="rect" id="node2" href="$nidas__util_8c.html#a300153253ae0c68c2c41206be69adb45" title="alloc_dsm_circ_buf" alt="" coords="147,5,290,32"/>
+<area shape="rect" id="node3" href="$lamsx_8c.html#afbcdba45fd2e7241e4e0b2ac4e01c4c7" title="lams_request_irq" alt="" coords="153,56,285,83"/>
+<area shape="rect" id="node4" href="$lamsx_8c.html#a851d2bcaa73b34aa52f0b21d4a79ec7c" title="lams_irq_handler" alt="" coords="339,56,469,83"/>
+</map>

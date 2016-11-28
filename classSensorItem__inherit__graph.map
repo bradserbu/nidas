@@ -1,0 +1,5 @@
+<map id="SensorItem" name="SensorItem">
+<area shape="rect" id="node3" href="$classA2DSensorItem.html" title="A2DSensorItem" alt="" coords="5,155,128,181"/>
+<area shape="rect" id="node4" href="$classPMSSensorItem.html" title="PMSSensorItem" alt="" coords="153,155,276,181"/>
+<area shape="rect" id="node2" href="$classNidasItem.html" title="NidasItem" alt="" coords="97,5,183,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nidas::util::SocketImpl::getInterfaces" name="nidas::util::SocketImpl::getInterfaces">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1SocketImpl.html#a17c56c76f5adbb3757039ba3069da2b1" title="nidas::util::SocketImpl\l::getFd" alt="" coords="439,5,601,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketImpl.html#af297632e1ddcaf3b735920abe595eb76" title="nidas::util::SocketImpl\l::getInterface" alt="" coords="216,70,379,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#af41346d3d0a166c501c77dc94cb1e891" title="The IPV4 address of the interface. " alt="" coords="433,70,607,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Inet4Address.html#a0955351978950ff32c1daa6dcc13764c" title="Return string containing address in dot notation: w.x.y.z. " alt="" coords="433,135,607,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketAddress.html#add6af6ba09e0ae7aff3c3db7c20b9ed5" title="Java style toString, but no DNS lookup. " alt="" coords="427,201,613,242"/>
+</map>

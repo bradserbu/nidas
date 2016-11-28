@@ -1,0 +1,51 @@
+<map id="nidas::core::Project::fromDOMElement" name="nidas::core::Project::fromDOMElement">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DOMObjectFactory.html#a47555fd77715fb175ccb000ec50517b8" title="Create a DOMable object given its classname, by looking up and executing its creator function..." alt="" coords="955,772,1173,814"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Parameter.html#ababf7c53b0fb8c567ad60409efd02ae0" title="nidas::core::Parameter\l::createParameter" alt="" coords="478,1070,645,1111"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1ServiceCatalog.html#a37485f0162298dec84573dd80db2100a" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="710,195,906,236"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SensorCatalog.html#a60c22ec53d515cce9d7e80ab1c58c752" title="Build this SensorCatalog from a catalog element. " alt="" coords="711,312,905,354"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DSMCatalog.html#a6094b28e7b234020190650784c0acb9d" title="Build this DSMCatalog from a catalog element. " alt="" coords="719,130,897,171"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMServer.html#a3e7168e11faf92e85508d490d2c9b2f5" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="475,831,647,872"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1Site.html#a126009d1b5e088a443756484f43d2010" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="237,890,373,931"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1XDOMElement.html#a29ecd13811c96fc7ad8ee05b872f6624" title="nidas::core::XDOMElement\l::getAttributeValue" alt="" coords="968,283,1160,324"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="997,1384,1131,1426"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1LogScheme.html#a813a21f922014b98e5e2fb6cc2ba666e" title="nidas::util::LogScheme\l::getName" alt="" coords="981,1602,1147,1643"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1XDOMElement.html#aa5cf2414389cde3adfac301a290b1a7f" title="nidas::core::XDOMElement\l::getNodeName" alt="" coords="968,422,1160,463"/>
+<area shape="rect" id="node30" href="$group__LoggerSchemes.html#gacafd09879fe30a5e2045356b25211bfd" title="Get a copy of the scheme with the given name. " alt="" coords="238,2046,373,2087"/>
+<area shape="rect" id="node31" href="$Project_8cc.html#aff5817c0da6607e2801f1fd600fc6ac8" title="LogSchemeFromDOMElement" alt="" coords="198,1310,413,1337"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1DSMServer.html#a284282cb40228562c2fedbfb8b9ae567" title="nidas::core::DSMServer\l::setProject" alt="" coords="475,480,647,522"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1Site.html#a9e3ebf523a42a6d80c8f8a6e3d335444" title="Set the current project for this Site. " alt="" coords="239,2111,372,2152"/>
+<area shape="rect" id="node39" href="$group__LoggerSchemes.html#gaf9823a4aaef1f9e189a9ede8ad77f6cd" title="Set the current scheme. " alt="" coords="238,1482,373,1523"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1Site.html#ab28c1de43cb04d8f3183756094a287fe" title="nidas::core::Site::\lvalidate" alt="" coords="239,1980,372,2022"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="1245,882,1398,923"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DynamicLoader.html#aca9fb67084677713791eb844c40288ce" title="Get a pointer to the singleton instance of DynamicLoader. " alt="" coords="1221,730,1421,771"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DynamicLoader.html#a275d45c165d64e6261c17315a8be8517" title="Search the main program itself, and its currently loaded libraries for a symbol. " alt="" coords="1221,795,1421,836"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Parameter.html#a4367107ecc483b0e838ccaab19b82556" title="nidas::core::Parameter\l::fromDOMElement" alt="" coords="725,1151,891,1192"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="725,1216,891,1258"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1XDOMAttr.html#a2b378f967bc25e190f8b920936a675d9" title="nidas::core::XDOMAttr\l::getName" alt="" coords="983,1006,1145,1047"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1DSMService.html#a8fed88679d09a56deb39a130dbb02177" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="719,816,897,858"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="977,940,1151,982"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1DSMService.html#aa9c29fc1a2d4e4107fe36a9ec1dbc87e" title="nidas::core::DSMService\l::getClassName" alt="" coords="719,582,897,623"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DSMService.html#aacf158bc250bcce6f2a860ccc9ad388f" title="nidas::core::DSMService\l::setDSMServer" alt="" coords="719,699,897,740"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="1254,1384,1389,1426"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1DSMConfig.html#af0be654d191b323575dabd1b6dd7c6c8" title="nidas::core::DSMConfig\l::setSite" alt="" coords="476,546,647,587"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1DSMConfig.html#a93487f0e4e833293309d8fc0f2c4a092" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="723,882,893,923"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1DSMConfig.html#a48cb5cb6024a9e23f6fd00f5c32c97d5" title="nidas::core::DSMConfig\l::getId" alt="" coords="476,1719,647,1760"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="476,1784,647,1826"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1DSMServer.html#aaef08bb2b5096657177d5c837971b600" title="nidas::core::DSMServer\l::setSite" alt="" coords="475,663,647,704"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1LogScheme.html#a66b794432baaae5b1565c6cba7b1e99f" title="Push a new LogConfig onto the list of existing configs. " alt="" coords="478,1486,645,1527"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1LogScheme.html#add7cbe6fa9a98c9a8fb1cc03be68211d" title="LogScheme names must not be empty, so this method has no effect unless name.length() &gt; 0..." alt="" coords="478,1303,645,1344"/>
+<area shape="rect" id="node34" href="$classnidas_1_1util_1_1LogScheme.html#abf096193e761b41a18d874c628894e34" title="Set the fields to show in log messages and their order. " alt="" coords="478,1368,645,1410"/>
+<area shape="rect" id="node35" href="$group__Logging.html#ga91e35110bf3d8a4c84120173a88385ed" title="Convert the name of a log level to its integer value. " alt="" coords="480,1238,643,1279"/>
+<area shape="rect" id="node36" href="$group__LoggerSchemes.html#gaea2ad0e75677ea39f2ad1ec19a5fdfd2" title="Update or insert this scheme in the collection of log configuration schemes. " alt="" coords="494,1551,629,1592"/>
+<area shape="rect" id="node37" href="$structnidas_1_1util_1_1LoggerPrivate.html#aec9297d0b1f9f1be521721aef3f25c94" title="nidas::util::LoggerPrivate\l::reconfig" alt="" coords="719,1602,897,1643"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="495,2046,628,2087"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1DSMConfig.html#a7fba91b61e7899027d9a0df4f9e5873f" title="nidas::core::DSMConfig\l::validate" alt="" coords="476,2163,647,2204"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1DSMConfig.html#a2fcc717412637bf0bd9e03a146cfa3ad" title="nidas::core::DSMConfig\l::getSensorIterator" alt="" coords="723,2118,893,2159"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="712,2208,904,2250"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1DSMSensor.html#afae0fa297cde45bb451949708feb03f4" title="nidas::core::DSMSensor\l::getVariableIterator" alt="" coords="474,2280,649,2322"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1VariableIterator.html#a9c5acde211bde12deabfe1040b8c085e" title="nidas::core::VariableIterator\l::hasNext" alt="" coords="462,2346,661,2387"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1DSMSensor.html#aa6d403dbfda36ed6ba09759f7c0dbdf9" title="getDuplicateIdOK will be true if it is OK for samples from this sensor to have identical IDs to sampl..." alt="" coords="474,2411,649,2452"/>
+<area shape="rect" id="node48" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="486,1850,637,1891"/>
+<area shape="rect" id="node49" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="474,1915,649,1956"/>
+<area shape="rect" id="node50" href="$classnidas_1_1core_1_1DSMSensor.html#a423a5c73413fd24a5f8e2bb5035bb248" title="nidas::core::DSMSensor\l::getDSMId" alt="" coords="474,1980,649,2022"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::core::SampleIOProcessor::~SampleIOProcessor" name="nidas::core::SampleIOProcessor::~SampleIOProcessor">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutput.html#a0b1494a8f09e6a7814a4f08f303c01c3" title="nidas::core::SampleOutput\l::close" alt="" coords="281,5,474,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleClient.html#a4d6e37f0deb1f2c20fa2cffdf1a15baf" title="Ask that this SampleClient send out any buffered Samples that it may be holding. " alt="" coords="285,70,470,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleOutput.html#a311707a421cf8e51124f3921ebe7eed3" title="nidas::core::SampleOutput\l::getName" alt="" coords="281,135,474,177"/>
+</map>

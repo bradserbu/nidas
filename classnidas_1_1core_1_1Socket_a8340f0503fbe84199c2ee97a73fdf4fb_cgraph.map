@@ -1,0 +1,7 @@
+<map id="nidas::core::Socket::getRemoteSocketAddress" name="nidas::core::Socket::getRemoteSocketAddress">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="261,5,435,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Socket.html#a9250c4ed3e5d80148db0de3a2d45afeb" title="Get the name of the remote host. " alt="" coords="270,70,426,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Socket.html#ab6dce90e79e44c6b0666c979689b4eaa" title="nidas::core::Socket\l::setName" alt="" coords="276,135,420,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Socket.html#a0bd441d30210ccc81721e64ad9826439" title="nidas::core::Socket\l::setRemoteSocketAddress" alt="" coords="251,201,445,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketAddress.html#a704d2610cf7adfbe39dd5120c693f7fc" title="Virtual constructor. " alt="" coords="493,201,680,242"/>
+</map>

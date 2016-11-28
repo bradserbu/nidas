@@ -1,0 +1,3 @@
+<map id="nidas::core::SamplePipeline::getNumFutureRawSamples" name="nidas::core::SamplePipeline::getNumFutureRawSamples">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleThread.html#a9222ac8d560fae80be670264081086ad" title="Number of samples discarded because their timetags were in the future. " alt="" coords="257,5,450,46"/>
+</map>

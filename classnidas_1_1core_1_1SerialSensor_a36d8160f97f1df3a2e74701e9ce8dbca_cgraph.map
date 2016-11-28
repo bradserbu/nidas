@@ -1,0 +1,41 @@
+<map id="nidas::core::SerialSensor::buildSampleScanner" name="nidas::core::SerialSensor::buildSampleScanner">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1CharacterSensor.html#a43aa43d4ba0eee7a432cb63660a3c84e" title="Creates a SampleScanner for this DSMSensor depending on the device name prefix: name prefix type of S..." alt="" coords="235,465,443,506"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="251,235,426,277"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1SerialSensor.html#aa07f8734cf1d64d7bd3462979999d904" title="If the underlying IODevice is a SerialPortIODevice, return the value of SerialPortIODevice::getUsecsP..." alt="" coords="248,530,429,571"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1SampleScanner.html#ae5df7f2d048794bbd2e30866d9f3072a" title="nidas::core::SampleScanner\l::setUsecsPerByte" alt="" coords="237,595,440,637"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1CharacterSensor.html#a9152d91ceefd89b5aa6c8829967e010c" title="nidas::core::CharacterSensor\l::doesAsciiSscanfs" alt="" coords="496,301,704,342"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="513,235,687,277"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1CharacterSensor.html#a4f3cbb03ecb71a67dff576b7d868eede" title="nidas::core::CharacterSensor\l::getMessageLength" alt="" coords="496,497,704,538"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1CharacterSensor.html#a37e586b68b9935a9ea27b67ac0979b75" title="Get message separator with backslash sequences replaced by their intended character. " alt="" coords="496,562,704,603"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1CharacterSensor.html#afdf772bb47ab5b2b020bc8c63b42d81a" title="nidas::core::CharacterSensor\l::getMessageSeparatorAtEOM" alt="" coords="493,627,707,669"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1SampleScanner.html#a0be41a36022a3787813c2e8001887cc1" title="Set the parameters associated with scanning of character messages. " alt="" coords="499,693,701,734"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1MessageStreamScanner.html#adb0c176bdf03799224848a5902939eb4" title="nidas::core::MessageStream\lScanner::setNullTerminate" alt="" coords="497,366,703,407"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1DatagramSampleScanner.html#a2e5d45d0c96afb1615b0f56d70549221" title="User of DatagramSampleScanner should specify if they want the samples to be null terminated. " alt="" coords="493,431,707,473"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a997f133995facb78dcccfffa889d8728" title="nidas::core::DSMSensor\l::getSampleTagIterator" alt="" coords="779,366,954,407"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a922d9a9ab5f853f98319c4fb1fa846a3" title="nidas::core::SampleTag\l::getScanfFormat" alt="" coords="781,235,952,277"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleTagIterator.html#a67ac05bec706f73542e4cdaf189a0b95" title="nidas::core::SampleTagIterator\l::hasNext" alt="" coords="758,301,975,342"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleIOProcessor.html#ac0d24a63b52b5d397ef8e8cc2dcbce11" title="nidas::core::SampleIOProcessor\l::getRequestedSampleTags" alt="" coords="1025,137,1250,178"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMSensor.html#ae0a23210df32b4296a473c2089297d30" title="Implementation of SampleSource::getSampleTags(). " alt="" coords="1050,202,1225,243"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1ProcessorIterator.html#a74f6dfcf9bcd9c22b76965e066ea1139" title="nidas::core::ProcessorIterator\l::hasNext" alt="" coords="1032,267,1243,309"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="1041,333,1233,374"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1ProcessorIterator.html#a47af38621d246014dc1ac1d1299c6880" title="nidas::core::ProcessorIterator\l::next" alt="" coords="1032,398,1243,439"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1SensorIterator.html#ad941790929716a792881727f02b6c792" title="nidas::core::SensorIterator\l::next" alt="" coords="1041,463,1233,505"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a2a2fca8de4087ee4921e0dc1d358fc3d" title="What SampleTags am I a SampleSource for? " alt="" coords="1313,6,1508,47"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DSMService.html#acca64a915e14c7cfe739681d582f2e44" title="nidas::core::DSMService\l::getProcessors" alt="" coords="1322,71,1499,113"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DSMConfig.html#abad2c5a48e6a470fbdea70c477e76287" title="nidas::core::DSMConfig\l::getProcessors" alt="" coords="1325,137,1496,178"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMServiceIterator.html#ab18f70c36cfbd0bb425545224c796afd" title="nidas::core::DSMServiceIterator\l::hasNext" alt="" coords="1299,202,1523,243"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="1302,333,1519,374"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1DSMServiceIterator.html#ad782a68a992e686b1e111a002bc5e160" title="nidas::core::DSMServiceIterator\l::next" alt="" coords="1299,267,1523,309"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="1302,398,1519,439"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DSMServer.html#a15c34947133e2d6d322d24f9f6b713b7" title="nidas::core::DSMServer\l::getServices" alt="" coords="1594,110,1766,151"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMServerIterator.html#ae42855375cc6bba9005970e063b7e573" title="nidas::core::DSMServerIterator\l::hasNext" alt="" coords="1571,175,1789,217"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1DSMServerIterator.html#a8ff1a50cc6c5efc324e32cec369b31d1" title="nidas::core::DSMServerIterator\l::next" alt="" coords="1571,241,1789,282"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Site.html#a683b10f50e5cf60759c6507f7d523751" title="nidas::core::Site::\lgetServers" alt="" coords="1857,175,1991,217"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="1838,270,2010,311"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="1838,361,2010,402"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="1613,358,1747,399"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="1325,463,1496,505"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="513,170,687,211"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="781,170,952,211"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1SerialPortIODevice.html#a750f57423c0e79c661d1d7e76ca096ba" title="Calculate the transmission time of each byte from this serial port. " alt="" coords="491,758,709,799"/>
+</map>

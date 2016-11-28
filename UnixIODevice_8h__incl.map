@@ -1,0 +1,9 @@
+<map id="nidas/core/UnixIODevice.h" name="nidas/core/UnixIODevice.h">
+<area shape="rect" id="node2" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="459,80,549,107"/>
+<area shape="rect" id="node10" href="$EOFException_8h.html" title="nidas/util/EOFException.h" alt="" coords="251,80,433,107"/>
+<area shape="rect" id="node11" href="$IOTimeoutException_8h.html" title="nidas/util/IOTimeoutException.h" alt="" coords="5,80,227,107"/>
+<area shape="rect" id="node12" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="573,80,768,107"/>
+<area shape="rect" id="node3" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="409,155,599,197"/>
+<area shape="rect" id="node7" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="213,163,384,189"/>
+<area shape="rect" id="node5" href="$Exception_8h.html" title="Exception.h" alt="" coords="345,245,441,272"/>
+</map>

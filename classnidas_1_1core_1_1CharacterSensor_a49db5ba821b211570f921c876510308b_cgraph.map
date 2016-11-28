@@ -1,0 +1,4 @@
+<map id="nidas::core::CharacterSensor::getNullTerminated" name="nidas::core::CharacterSensor::getNullTerminated">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleScanner.html#a01eb71be6f00d423bdeb166d7e586306" title="Should the SampleScanner append a null character, &#39;\0&#39;, to the messages. " alt="" coords="261,5,464,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#add9abba296c2b17423cbb818c0b55595" title="nidas::core::DSMSensor\l::getSampleScanner" alt="" coords="275,70,450,111"/>
+</map>

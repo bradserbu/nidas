@@ -1,0 +1,16 @@
+<map id="nidas::core::FileSet::connect" name="nidas::core::FileSet::connect">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1FsMount.html#a96bcbb9507031c84cc9ed697f0dc2d46" title="Synchronous mount request (on return the file system is mounted). " alt="" coords="197,286,352,327"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1FileSet.html#a9b1abea862c313aefcca984396158768" title="nidas::util::FileSet\l::createDirectory" alt="" coords="412,5,545,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1FsMount.html#a08660bd0930129e3ca728dd2bae43ab4" title="nidas::core::FsMount\l::getDeviceExpanded" alt="" coords="400,70,557,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1FsMount.html#a969a4a14326246624d42d2e4acb69f48" title="Get the mount point directory, with environment variables expanded. " alt="" coords="605,223,760,265"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1FsMount.html#a9759d2465f7d2b86939a3bed77fed878" title="nidas::core::FsMount\l::getOptions" alt="" coords="401,187,556,229"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1FsMount.html#a5e14af8c477dc5e1aab3019ef43179d8" title="nidas::core::FsMount\l::getType" alt="" coords="401,253,556,294"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1FsMount.html#a9ec26792c7a01630823fb460d50e33e5" title="Reads /proc/mount to see if getDir() is mounted. " alt="" coords="401,318,556,359"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Process.html#a0f83c14f38395556ed6d95020da22bc2" title="Get the istream of the pipe that is connected to the standard out of the Process. ..." alt="" coords="408,383,549,425"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Process.html#a1688ead28883a89f78c40550431ff060" title="Fork and execute a command and associated arguments and environment. " alt="" coords="408,449,549,490"/>
+<area shape="rect" id="node14" href="$namespacenidas_1_1util.html#aee4920ee1f24d59b1e2deae8dd980ca7" title="Utility to remove white space characters (matching isspace()) from end of string. ..." alt="" coords="401,515,556,541"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Process.html#a740e9c3a469d2f425e83fe8c3d430ad6" title="Do a system wait on a process. " alt="" coords="408,566,549,607"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Process.html#a9f815e29072e947f304e851032880482" title="nidas::util::Process\l::setInFd" alt="" coords="612,383,753,425"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Process.html#a3278a5ed89e5bc3c3d89a73bc15c6810" title="nidas::util::Process\l::setOutFd" alt="" coords="612,449,753,490"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Process.html#a769477f6efb4f0e2428c5102d8b3b226" title="nidas::util::Process\l::setErrFd" alt="" coords="612,514,753,555"/>
+</map>

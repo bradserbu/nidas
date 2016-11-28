@@ -1,0 +1,9 @@
+<map id="nidas::core::DSMServerApp::killStatusThread" name="nidas::core::DSMServerApp::killStatusThread">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="261,5,395,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="261,135,395,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#a08fdc084e658645f8c3b5ac54e6ffec0" title="Send a signal to this thread. " alt="" coords="261,70,395,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="251,201,405,242"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="454,70,607,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="463,135,598,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="463,201,598,242"/>
+</map>

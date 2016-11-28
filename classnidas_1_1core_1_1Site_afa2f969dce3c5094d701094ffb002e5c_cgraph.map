@@ -1,0 +1,10 @@
+<map id="nidas::core::Site::getTokenValue" name="nidas::core::Site::getTokenValue">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html#a5f58676717025367252f7386d672df24" title="nidas::core::Site::\lMyDictionary::getTokenValue" alt="" coords="187,70,389,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Site.html#ad4d2683952ca26ecb0a2310a62eb9790" title="nidas::core::Site::\lgetName" alt="" coords="443,5,576,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Site.html#af3bb97417e699175bb9431c4b6b00d83" title="Provide pointer to Project. " alt="" coords="443,70,576,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Project.html#a1c199379daadfaf489632ae5396b8daa" title="Implement a lookup for tokens that I know about, like $PROJECT, and $SYSTEM. " alt="" coords="437,135,581,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html#a2c6a5cd011d65f2441b558902c025cab" title="nidas::core::Project\l::MyDictionary::getTokenValue" alt="" coords="629,135,840,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Process.html#a6a34d9f6ed7972f4327c95f9436bf509" title="Get an environment variable given a variable name like &quot;HOST&quot;, without the &#39;$&#39;, or any brackets..." alt="" coords="889,70,1031,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Project.html#a50fd3eccc69ce8e057bc36e1a965415d" title="nidas::core::Project\l::getName" alt="" coords="888,135,1032,177"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Project.html#aa6e91bd9097306413e00e8fb6715f6f7" title="nidas::core::Project\l::getSystemName" alt="" coords="888,201,1032,242"/>
+</map>

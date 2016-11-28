@@ -1,0 +1,4 @@
+<map id="nidas::dynld::raf::SyncRecordReader::throw" name="nidas::dynld::raf::SyncRecordReader::throw">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="239,5,390,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordVariable.html#a038fd7568a02653d90f16486b4b4d1d0" title="Get the index into the sync record of the first value for this variable. " alt="" coords="237,71,392,127"/>
+</map>

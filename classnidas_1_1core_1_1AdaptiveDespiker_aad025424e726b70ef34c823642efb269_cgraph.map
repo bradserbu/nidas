@@ -1,0 +1,5 @@
+<map id="nidas::core::AdaptiveDespiker::AdaptiveDespiker" name="nidas::core::AdaptiveDespiker::AdaptiveDespiker">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1AdaptiveDespiker.html#ad048bcfd1974bddce0120ab3315e870a" title="nidas::core::AdaptiveDespiker\l::setDiscLevelMultiplier" alt="" coords="267,5,479,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1AdaptiveDespiker.html#a4ac3fe43c436008337805af4dd8dc5fc" title="nidas::core::AdaptiveDespiker\l::setOutlierProbability" alt="" coords="267,70,479,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1AdaptiveDespiker.html#a32dfb307c4879fe4804b032ea5e25a17" title="Compute a discrimination level from a Gaussan probability. " alt="" coords="529,38,741,79"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="nidas::core::NearestResamplerAtRate::~NearestResamplerAtRate" name="nidas::core::NearestResamplerAtRate::~NearestResamplerAtRate">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleT.html#a1a4fc30a7ddc84ac06a668a4b5ff7c6b" title="Decrement the reference count for this sample. " alt="" coords="299,5,455,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SamplePool.html#a6def0d6115dae0704c33f2a1f46c55bf" title="Return a sample to the pool. " alt="" coords="504,5,680,46"/>
+</map>

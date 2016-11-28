@@ -1,0 +1,7 @@
+<map id="nidas::dynld::ParoSci_202BG_T::readParams" name="nidas::dynld::ParoSci_202BG_T::readParams">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Parameter.html#a7919087992cdfe5ba23c29f3d8e3795c" title="nidas::core::Parameter\l::getLength" alt="" coords="491,5,658,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Parameter.html#a20466f907c896f145af1c48398d9f112" title="nidas::core::Parameter\l::getName" alt="" coords="491,71,658,113"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Parameter.html#a1409f9713ed0e3ceaec10900716b6b35" title="nidas::core::Parameter\l::getNumericValue" alt="" coords="491,139,658,181"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Parameter.html#a0128f69c9664ac05e83cf2529bcd0a2c" title="nidas::core::Parameter\l::getType" alt="" coords="491,210,658,251"/>
+<area shape="rect" id="node6" href="$classnidas_1_1dynld_1_1DSC__FreqCounter.html#a7a1ee5b9008d8da698db80771c17c623" title="nidas::dynld::DSC_FreqCounter\l::readParams" alt="" coords="224,111,443,153"/>
+</map>

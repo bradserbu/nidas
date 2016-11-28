@@ -1,0 +1,30 @@
+<map id="dmmat_ioctl_a2d" name="dmmat_ioctl_a2d">
+<area shape="rect" id="node2" href="$dmd__mmat_8c.html#afbb27251cce74dcc06641d74b69bbb5d" title="addA2DSampleConfig" alt="" coords="191,411,353,437"/>
+<area shape="rect" id="node13" href="$dmd__mmat_8c.html#a1dc0fbb954bc3e3dd6b6aaf01905c581" title="configA2D" alt="" coords="229,563,315,589"/>
+<area shape="rect" id="node12" href="$dmd__mmat_8c.html#a55ef3b4f0cc765d38cd86d9128ec2e48" title="getA2DDeviceName" alt="" coords="1064,588,1216,615"/>
+<area shape="rect" id="node17" href="$dmd__mmat_8c.html#a8703acf92d75e29134680ee0dd62a71f" title="startA2D" alt="" coords="233,816,311,843"/>
+<area shape="rect" id="node27" href="$dmd__mmat_8c.html#a4c015dca98cecf382cdc5b7cf3c7b2e5" title="startAutoCal_MM32XAT" alt="" coords="187,664,357,691"/>
+<area shape="rect" id="node28" href="$dmd__mmat_8c.html#a7db4e98c5aeb108ad611480cf5514775" title="General function to stop the A2D. " alt="" coords="233,613,311,640"/>
+<area shape="rect" id="node3" href="$short__filters_8c.html#a2134445ca6627a81887917354c98bb7d" title="Return structure of pointers to the methods for a given filter. " alt="" coords="419,208,602,235"/>
+<area shape="rect" id="node4" href="$short__filters_8c.html#a00ffd5be1ac12a4775b8e3d2d43a18d8" title="Constructor for a pickoff filter. " alt="" coords="693,208,782,235"/>
+<area shape="rect" id="node5" href="$short__filters_8c.html#a4ac9195c19afb5286aa73b790053a5c7" title="Configure a pickoff filter. " alt="" coords="683,259,791,285"/>
+<area shape="rect" id="node6" href="$short__filters_8c.html#a0feada1af68344f932a2bd92f388e416" title="Pickoff filter method. " alt="" coords="688,309,787,336"/>
+<area shape="rect" id="node7" href="$short__filters_8c.html#a4ac108c1899e56f62255a8e5dc89087e" title="Destructor for a pickoff filter. " alt="" coords="677,360,797,387"/>
+<area shape="rect" id="node8" href="$short__filters_8c.html#af8a8c39dbfbc44705fbedb4edb1a8a05" title="Constructor for a boxcar filter. " alt="" coords="692,5,783,32"/>
+<area shape="rect" id="node9" href="$short__filters_8c.html#a6e33223474426de92931f239a5ffd209" title="Configure a boxcar filter. " alt="" coords="682,56,793,83"/>
+<area shape="rect" id="node10" href="$short__filters_8c.html#a4772e1ab6d22fe2dc465da8cb569f1c1" title="Boxcar filter method. " alt="" coords="687,107,787,133"/>
+<area shape="rect" id="node11" href="$short__filters_8c.html#a4f44612a66c322d744dc73e7f6b4c769" title="Destructor for a boxcar filter. " alt="" coords="676,157,799,184"/>
+<area shape="rect" id="node14" href="$dmd__mmat_8c.html#a5cf0e371108908bf0f2112b998b20f61" title="Reset state of data processing. " alt="" coords="431,563,590,589"/>
+<area shape="rect" id="node15" href="$dmd__mmat_8c.html#a4cb57e483e03da52ef8e6277ddf5d43c" title="freeA2DFilters" alt="" coords="682,563,793,589"/>
+<area shape="rect" id="node16" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="668,613,807,640"/>
+<area shape="rect" id="node18" href="$nidas__util_8c.html#a300153253ae0c68c2c41206be69adb45" title="alloc_dsm_circ_buf" alt="" coords="439,968,582,995"/>
+<area shape="rect" id="node19" href="$dmd__mmat_8c.html#ad0d78fac7ecfa5c8fc2d52fce9a52156" title="dmd_mmat_add_irq_user" alt="" coords="417,816,604,843"/>
+<area shape="rect" id="node23" href="$dmd__mmat_8c.html#ac4e63a34bb8b0bd9775fcd2a57587603" title="setupClock12" alt="" coords="457,867,565,893"/>
+<area shape="rect" id="node26" href="$dmd__mmat_8c.html#a12f3ad46bc07ae7009f994f5751ab185" title="dmd_mmat_remove_irq_user" alt="" coords="405,715,616,741"/>
+<area shape="rect" id="node20" href="$dmd__mmat_8c.html#ad6a9edfb683f76cf648c3d72012217af" title="dmmat_irq_handler" alt="" coords="664,765,811,792"/>
+<area shape="rect" id="node21" href="$dmd__mmat_8c.html#ae3e8d69dfe31cc7435f3d115be2bf1df" title="dmmat_cntr_handler" alt="" coords="859,765,1015,792"/>
+<area shape="rect" id="node22" href="$dmd__mmat_8c.html#a6305a955c7979ab86e5889ec9990ae38" title="dmmat_a2d_handler" alt="" coords="860,715,1015,741"/>
+<area shape="rect" id="node24" href="$dmd__mmat_8c.html#a33b4f7074a420eae05f11e55cf1e9afa" title="div_10" alt="" coords="706,867,769,893"/>
+<area shape="rect" id="node25" href="$dmd__mmat_8c.html#a84c7b29f15529e4b982a75eb6624ecd3" title="Set counter value in a 82C54 clock. " alt="" coords="681,816,793,843"/>
+<area shape="rect" id="node29" href="$dmd__mmat_8c.html#af2af3b3155c0133048cb9ca2e922263a" title="releaseClock12" alt="" coords="451,613,570,640"/>
+</map>

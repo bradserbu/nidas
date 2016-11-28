@@ -1,0 +1,51 @@
+<map id="NidsMerge::run" name="NidsMerge::run">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1SampleOutputStream.html#aa5ab0bf50fa1309021693be3aec845da" title="nidas::dynld::SampleOutput\lStream::close" alt="" coords="183,135,382,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1dynld_1_1SampleOutputStream.html#aef589fc208952c87ed98dbe6ca743f53" title="Ask that this SampleClient send out any buffered Samples that it may be holding. " alt="" coords="183,361,382,402"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1UTime.html#aeb55bd955c48b84b5d3113dc2311d3b5" title="Format a UTime into a string. " alt="" coords="217,875,349,917"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1Sample.html#a355553922b04c738465e06c7e7d21767" title="Decrement the reference count for this sample. " alt="" coords="471,819,620,861"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Exception.html#a980845bb9a0fb107d8b216e8099c1b0b" title="nidas::util::Exception\l::getErrno" alt="" coords="719,331,873,373"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1FileSet.html#adf8ef81cad8e5ead98c6d943d4920a35" title="Convienence function to return a pointer to a nidas::core::FileSet, given a list of files..." alt="" coords="211,1189,354,1230"/>
+<area shape="rect" id="node22" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a83eae3ff45f7693298e15d0dede8abc6" title="nidas::dynld::SampleInput\lStream::getInputHeader" alt="" coords="189,1254,376,1295"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1FileSet.html#aeac5751b14fcdf4fd9bad476a639bb37" title="nidas::core::FileSet\l::getName" alt="" coords="211,1319,354,1361"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="208,1385,357,1426"/>
+<area shape="rect" id="node27" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a7194f54546601bc1968be8cc9371e94e" title="Read archive information at beginning of input stream or file. " alt="" coords="189,755,376,797"/>
+<area shape="rect" id="node30" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ac2b909036899cc2a4f663fc4c9836153" title="Read the next sample from the InputStream. " alt="" coords="189,1450,376,1491"/>
+<area shape="rect" id="node31" href="$classnidas_1_1dynld_1_1SampleOutputStream.html#ae930aaab77eaa660483f5eab2bca6b0b" title="Method called to pass a sample to this client. " alt="" coords="183,529,382,570"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1FileSet.html#a3565f461e58b57ee5b4112f9cdb8de3c" title="nidas::core::FileSet\l::setEndTime" alt="" coords="211,1515,354,1557"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1FileSet.html#ac0e0b28be5a85a2b5401f1f406b9dab4" title="Set/get the file length in seconds. " alt="" coords="210,1581,355,1622"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1FileSet.html#a5377c748f6c9d3e60565809b36284476" title="Set the file portion of the file search path. " alt="" coords="211,1646,354,1687"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1SampleOutputBase.html#a61dbb6c1422aafd8df3bd5b947229dd3" title="nidas::core::SampleOutput\lBase::setHeaderSource" alt="" coords="186,1711,379,1753"/>
+<area shape="rect" id="node43" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ac74c22fae1523d5ae65dd9dbd04bfb9a" title="nidas::dynld::SampleInput\lStream::setMaxSampleLength" alt="" coords="174,1123,391,1165"/>
+<area shape="rect" id="node45" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a7eff9584abad56533e63732189c31548" title="nidas::dynld::SampleInput\lStream::setMaxSampleTime" alt="" coords="181,993,385,1034"/>
+<area shape="rect" id="node46" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a01c18b1fbae673633c3ad41c7ed19582" title="nidas::dynld::SampleInput\lStream::setMinSampleTime" alt="" coords="183,1058,383,1099"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1FileSet.html#a0ad062e9699f58d7e84f120fcf4ae730" title="nidas::core::FileSet\l::setStartTime" alt="" coords="211,1809,354,1850"/>
+<area shape="rect" id="node49" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="208,1939,357,1981"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="479,1002,611,1043"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="719,605,873,646"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleOutputBase.html#a7cca225499b66837e23ddf095fb2adac" title="nidas::core::SampleOutput\lBase::close" alt="" coords="449,70,642,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="699,70,893,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1IOChannel.html#aa3d9e2949bee9a54712eb4d7addbe3e4" title="nidas::core::IOChannel\l::close" alt="" coords="713,5,879,46"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1IOStream.html#a1ace18fad9276e26ef4802a1560086bf" title="Flush buffer to physical device. " alt="" coords="465,201,626,242"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="478,419,613,461"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="464,485,627,512"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1IOChannel.html#aeea332fa47970ef41714cac85a49c9b5" title="Physical write method which must be implemented in derived classes. " alt="" coords="713,266,879,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1IOStream.html#a700471db8265705be95e7581072a1f4e" title="nidas::core::IOStream\l::addNumOutputBytes" alt="" coords="713,135,879,177"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1IOChannel.html#a652118cfca982a2dd675e8272e47ae60" title="Default flush implementation does nothing. " alt="" coords="713,201,879,242"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1UTime.html#a2a2bb7e4624bc6eba8b8f123540172e5" title="nidas::util::UTime\l::earlier" alt="" coords="479,885,611,926"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1UTime.html#a78aba4b6b51fdb3781638783fdf0e086" title="nidas::util::UTime::tm" alt="" coords="466,951,625,977"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1FileSet.html#a6233f68c5d7dfedb9280ae9dd17c56c6" title="nidas::core::FileSet\l::addFileName" alt="" coords="474,1189,617,1230"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1FileSet.html#a5689356eb7639c5c0208abd323c249bf" title="Get name of current file. " alt="" coords="474,1319,617,1361"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="447,1385,643,1426"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1SampleHeader.html#ac3e18adbfd3fb1ae67f168ee98de005f" title="nidas::core::SampleHeader\l::getSizeOf" alt="" coords="447,754,643,795"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1SampleInputHeader.html#a8662e12a8c7486daf2d7ac129e55d567" title="Read IOStream until the SampleInputHeader has been fully read. " alt="" coords="455,689,636,730"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1FileSet.html#a209805da32817b3c510df435656c953b" title="nidas::util::FileSet\l::setEndTime" alt="" coords="479,1450,612,1491"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1FileSet.html#a111e43dbd7b8fb015c5252bb9b7b1a1a" title="Set/get the file length in seconds. " alt="" coords="473,1515,618,1557"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1IOChannel.html#a885eb72c6cfd6fac063ebeb1df22c644" title="What DSM is this IOChannel connected to? May be NULL. " alt="" coords="463,1581,628,1622"/>
+<area shape="rect" id="node38" href="$classnidas_1_1util_1_1FileSet.html#a5377c748f6c9d3e60565809b36284476" title="Set file name portion of file path. " alt="" coords="479,1646,612,1687"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="473,1711,617,1753"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1FileSet.html#a546437de6ad14a07407b6f35b4981863" title="Recognizeable name of this IOChannel &#45; used for informative messages. " alt="" coords="474,1777,617,1818"/>
+<area shape="rect" id="node41" href="$classnidas_1_1util_1_1FileSet.html#a3887e4aafcaf39809386a79bd326e01c" title="Get the full path, the concatenation of getDir() and getFileName(). " alt="" coords="479,1842,612,1883"/>
+<area shape="rect" id="node44" href="$classnidas_1_1dynld_1_1SampleInputStream.html#a0f4c99e3fd96318079c79f8b487b3e36" title="nidas::dynld::SampleInput\lStream::setFilterBadSamples" alt="" coords="441,1067,650,1109"/>
+<area shape="rect" id="node48" href="$classnidas_1_1util_1_1FileSet.html#add156e1deab9e2044987d5ea709c56f6" title="nidas::util::FileSet\l::setStartTime" alt="" coords="479,1907,612,1949"/>
+<area shape="rect" id="node50" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="447,1973,643,2014"/>
+</map>

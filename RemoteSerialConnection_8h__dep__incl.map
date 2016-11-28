@@ -1,0 +1,12 @@
+<map id="nidas/core/RemoteSerialConnection.h" name="nidas/core/RemoteSerialConnection.h">
+<area shape="rect" id="node2" href="$RemoteSerialListener_8h.html" title="nidas/core/RemoteSerialListener.h" alt="" coords="782,80,1020,107"/>
+<area shape="rect" id="node7" href="$RemoteSerialConnection_8cc.html" title="nidas/core/RemoteSerialConnection.cc" alt="" coords="1588,229,1855,256"/>
+<area shape="rect" id="node3" href="$SensorHandler_8h.html" title="nidas/core/SensorHandler.h" alt="" coords="802,155,1000,181"/>
+<area shape="rect" id="node8" href="$RemoteSerialListener_8cc.html" title="nidas/core/RemoteSerialListener.cc" alt="" coords="5,229,251,256"/>
+<area shape="rect" id="node4" href="$DSMConfig_8cc.html" title="nidas/core/DSMConfig.cc" alt="" coords="275,229,455,256"/>
+<area shape="rect" id="node5" href="$DSMEngine_8cc.html" title="nidas/core/DSMEngine.cc" alt="" coords="479,229,661,256"/>
+<area shape="rect" id="node6" href="$DSMEngineIntf_8cc.html" title="nidas/core/DSMEngineIntf.cc" alt="" coords="687,229,889,256"/>
+<area shape="rect" id="node9" href="$SensorHandler_8cc.html" title="nidas/core/SensorHandler.cc" alt="" coords="914,229,1117,256"/>
+<area shape="rect" id="node10" href="$SensorOpener_8cc.html" title="nidas/core/SensorOpener.cc" alt="" coords="1142,229,1343,256"/>
+<area shape="rect" id="node11" href="$StatusThread_8cc.html" title="nidas/core/StatusThread.cc" alt="" coords="1367,229,1563,256"/>
+</map>

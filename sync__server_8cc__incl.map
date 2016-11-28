@@ -1,0 +1,32 @@
+<map id="nidas/apps/sync_server.cc" name="nidas/apps/sync_server.cc">
+<area shape="rect" id="node2" href="$SyncServer_8h.html" title="nidas/dynld/raf/SyncServer.h" alt="" coords="2240,80,2443,107"/>
+<area shape="rect" id="node39" href="$NidasApp_8h.html" title="nidas/core/NidasApp.h" alt="" coords="704,163,869,189"/>
+<area shape="rect" id="node41" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="2805,395,2944,421"/>
+<area shape="rect" id="node46" href="$Project_8h.html" title="nidas/core/Project.h" alt="" coords="1514,320,1661,347"/>
+<area shape="rect" id="node6" href="$core_2Socket_8h.html" title="nidas/core/Socket.h" alt="" coords="2003,245,2151,272"/>
+<area shape="rect" id="node27" href="$SyncRecordGenerator_8h.html" title="SyncRecordGenerator.h" alt="" coords="1646,163,1817,189"/>
+<area shape="rect" id="node33" href="$SamplePipeline_8h.html" title="nidas/core/SamplePipeline.h" alt="" coords="1776,245,1979,272"/>
+<area shape="rect" id="node35" href="$RawSampleInputStream_8h.html" title="nidas/dynld/RawSampleInput\lStream.h" alt="" coords="1858,155,2061,197"/>
+<area shape="rect" id="node37" href="$SampleOutputStream_8h.html" title="nidas/dynld/SampleOutput\lStream.h" alt="" coords="2246,155,2436,197"/>
+<area shape="rect" id="node22" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="2440,395,2579,421"/>
+<area shape="rect" id="node26" href="$auto__ptr_8h.html" title="nidas/util/auto_ptr.h" alt="" coords="2621,320,2768,347"/>
+<area shape="rect" id="node7" href="$IOChannel_8h.html" title="IOChannel.h" alt="" coords="1788,320,1887,347"/>
+<area shape="rect" id="node8" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="2065,395,2156,421"/>
+<area shape="rect" id="node18" href="$util_2Socket_8h.html" title="nidas/util/Socket.h" alt="" coords="1351,320,1489,347"/>
+<area shape="rect" id="node24" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="991,320,1127,347"/>
+<area shape="rect" id="node9" href="$Sample_8h.html" title="Sample.h" alt="" coords="2283,395,2365,421"/>
+<area shape="rect" id="node14" href="$IOException_8h.html" title="IOException.h" alt="" coords="1533,395,1643,421"/>
+<area shape="rect" id="node15" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="1667,395,1785,421"/>
+<area shape="rect" id="node10" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="2166,469,2295,496"/>
+<area shape="rect" id="node12" href="$Exception_8h.html" title="Exception.h" alt="" coords="2119,544,2215,571"/>
+<area shape="rect" id="node28" href="$SampleIOProcessor_8h.html" title="nidas/core/SampleIOProcessor.h" alt="" coords="2063,320,2291,347"/>
+<area shape="rect" id="node29" href="$SyncRecordSource_8h.html" title="SyncRecordSource.h" alt="" coords="309,245,461,272"/>
+<area shape="rect" id="node30" href="$SampleTag_8h.html" title="nidas/core/SampleTag.h" alt="" coords="481,320,655,347"/>
+<area shape="rect" id="node31" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="657,395,772,421"/>
+<area shape="rect" id="node34" href="$SampleThread_8h.html" title="SampleThread.h" alt="" coords="2367,320,2493,347"/>
+<area shape="rect" id="node36" href="$SampleInputStream_8h.html" title="SampleInputStream.h" alt="" coords="1303,245,1465,272"/>
+<area shape="rect" id="node38" href="$SampleOutput_8h.html" title="SampleOutput.h" alt="" coords="2278,245,2404,272"/>
+<area shape="rect" id="node40" href="$SampleMatcher_8h.html" title="SampleMatcher.h" alt="" coords="563,245,697,272"/>
+<area shape="rect" id="node47" href="$Dictionary_8h.html" title="Dictionary.h" alt="" coords="1476,544,1572,571"/>
+<area shape="rect" id="node48" href="$Datasets_8h.html" title="Datasets.h" alt="" coords="1214,395,1305,421"/>
+</map>

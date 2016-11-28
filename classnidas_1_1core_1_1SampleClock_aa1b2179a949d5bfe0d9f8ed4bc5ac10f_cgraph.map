@@ -1,0 +1,22 @@
+<map id="nidas::core::SampleClock::addSampleDate" name="nidas::core::SampleClock::addSampleDate">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1UTime.html#aeb55bd955c48b84b5d3113dc2311d3b5" title="Format a UTime into a string. " alt="" coords="263,93,395,134"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Sample.html#a773f6f7732f631184c0daab9522baba9" title="Get the id portion of the sample header. " alt="" coords="255,187,404,229"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="262,253,397,294"/>
+<area shape="rect" id="node12" href="$namespacenidas_1_1util.html#a2520059fec3fedb0affd25e8422f4257" title="Return the current unix system time, in microseconds since Jan 1, 1970, 00:00 GMT. " alt="" coords="472,385,664,412"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="255,318,404,359"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="248,501,411,528"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SampleClock.html#a89316ffde73f292c56f39d643a01572d" title="Update the SampleClock from the UNIX OS clock. " alt="" coords="238,435,421,477"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="255,577,404,618"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1UTime.html#a2a2bb7e4624bc6eba8b8f123540172e5" title="nidas::util::UTime\l::earlier" alt="" coords="502,122,634,163"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="502,5,634,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1UTime.html#a78aba4b6b51fdb3781638783fdf0e086" title="nidas::util::UTime::tm" alt="" coords="489,71,647,97"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html#a5f66cd8e723288d61e4539af62d724c4" title="No&#45;arg constructor initializes to current time, with isUTC() true. " alt="" coords="717,122,849,163"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleHeader.html#a91a71e15fd149e79d7a94a310d880fda" title="nidas::core::SampleHeader\l::getId" alt="" coords="470,187,666,229"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="501,253,635,294"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="715,253,850,294"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="470,318,666,359"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="486,542,650,583"/>
+<area shape="rect" id="node17" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="535,491,601,517"/>
+<area shape="rect" id="node19" href="$namespacenidas_1_1util.html#a258f494d6790abf034a0d985533fa876" title="Return largest time that is an integral multiple of delta, that isn&#39;t greater than argument t..." alt="" coords="493,440,643,467"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="470,607,666,649"/>
+</map>

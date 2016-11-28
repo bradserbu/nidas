@@ -1,0 +1,4 @@
+<map id="nidas::core::RemoteSerialListener::getName" name="nidas::core::RemoteSerialListener::getName">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1ServerSocket.html#a07252c8257ea7923f85deef66c811ddd" title="Fetch the local address that this socket is bound to. " alt="" coords="243,5,423,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketAddress.html#add6af6ba09e0ae7aff3c3db7c20b9ed5" title="Java style toString, but no DNS lookup. " alt="" coords="240,70,427,111"/>
+</map>

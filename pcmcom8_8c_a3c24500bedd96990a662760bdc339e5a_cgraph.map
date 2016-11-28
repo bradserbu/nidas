@@ -1,0 +1,4 @@
+<map id="pcmcom8_write_eeconfig" name="pcmcom8_write_eeconfig">
+<area shape="rect" id="node2" href="$pcmcom8_8c.html#a88dd1578f88b30bd6864b4ac473bc80f" title="pcmcom8_wait_eedone" alt="" coords="467,5,640,32"/>
+<area shape="rect" id="node3" href="$pcmcom8_8c.html#a324f9c6a7d23a1909359b5ba671f4dfa" title="pcmcom8_write_eeprom" alt="" coords="238,31,418,57"/>
+</map>

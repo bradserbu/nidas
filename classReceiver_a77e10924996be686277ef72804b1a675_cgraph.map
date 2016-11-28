@@ -1,0 +1,5 @@
+<map id="Receiver::report" name="Receiver::report">
+<area shape="rect" id="node2" href="$classSender.html#ab4e6feba3b6a4e8faffe5ed0402f6e08" title="Sender::getKbytePerSec" alt="" coords="180,5,359,32"/>
+<area shape="rect" id="node3" href="$classReceiver.html#ac88bd92947a1428f2439e2b5071055ae" title="Receiver::getKbytePerSec" alt="" coords="177,56,362,83"/>
+<area shape="rect" id="node4" href="$classSender.html#a3a93496c2ba26432a2141db553432b57" title="Sender::getNout" alt="" coords="205,107,333,133"/>
+</map>

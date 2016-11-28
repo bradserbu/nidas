@@ -1,0 +1,4 @@
+<map id="nidas::core::SerialSensor::setMessageParameters" name="nidas::core::SerialSensor::setMessageParameters">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1CharacterSensor.html#a65a2a661196f1c9f86ca0e809ea5f108" title="The messageSeparator is the string of bytes that sensor generates to separate messages. " alt="" coords="235,5,443,46"/>
+<area shape="rect" id="node3" href="$namespacenidas_1_1util.html#acccb588a1000e0dbe252c59a3a7f2a3a" title="Utility function for replacing backslash sequences in a string. " alt="" coords="491,5,693,46"/>
+</map>

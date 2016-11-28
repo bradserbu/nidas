@@ -1,0 +1,18 @@
+<map id="nidas::core::SampleSorter" name="nidas::core::SampleSorter">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleThread.html" title="Interface for a Thread for buffering samples. " alt="" coords="993,359,1186,385"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="647,376,782,403"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="315,309,464,336"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="324,147,455,173"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Cond.html" title="A wrapper class for a Posix condition variable. " alt="" coords="843,127,967,153"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Sample.html" title="Interface to a data sample. " alt="" coords="640,41,789,68"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SampleClientList.html" title="A list of SampleClients. " alt="" coords="611,147,818,173"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1SampleSourceSupport.html" title="A source of samples. " alt="" coords="992,207,1187,249"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,147,199,173"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="313,437,466,464"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="622,427,807,453"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="617,325,812,352"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SampleT.html" title="nidas::core::SampleT\l\&lt; char \&gt;" alt="" coords="1345,85,1501,126"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1SampleT.html" title="A typed Sample, with data of type DataT. " alt="" coords="1011,26,1167,67"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SampleHeader.html" title="The header fields of a Sample: a time_tag, a data length field, and an identifier. " alt="" coords="291,5,487,32"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SampleStats.html" title="A source of samples. " alt="" coords="623,275,806,301"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::core::IOStream::IOStream" name="nidas::core::IOStream::IOStream">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IOStream.html#a567f5e3ec860b0fdf5e29faaa2baad8f" title="nidas::core::IOStream\l::reallocateBuffer" alt="" coords="217,5,378,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOStream.html#a830da98b1066a31d5f6fdccf749a3b06" title="nidas::core::IOStream\l::getName" alt="" coords="427,5,589,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1IOChannel.html#ac7b72aca1f3d3a39996ce5cf3a32d490" title="nidas::core::IOChannel\l::getName" alt="" coords="637,5,803,46"/>
+</map>

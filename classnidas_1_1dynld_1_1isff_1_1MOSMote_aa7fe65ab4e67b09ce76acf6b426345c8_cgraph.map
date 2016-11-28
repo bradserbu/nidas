@@ -1,0 +1,47 @@
+<map id="nidas::dynld::isff::MOSMote::close" name="nidas::dynld::isff::MOSMote::close">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SerialSensor.html#a9a38faf60184a0ccd8172c16b68e0112" title="close my associated device. " alt="" coords="187,267,368,309"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a45a3ee15931af1e00b6ee409f1f491a7" title="close my associated device. " alt="" coords="419,218,594,259"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SerialSensor.html#aebf5b4e0655b8de7f83012414b78ab85" title="Shutdown prompting, typically done when a device is closed. " alt="" coords="416,315,597,357"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1IODevice.html#a7c0d765a4897e64a0762954a7df713dd" title="Close the device. " alt="" coords="658,266,814,307"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="649,135,823,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#ae3f9496427de8c4ffc833855d3e99aa8" title="nidas::core::DSMSensor\l::getTimeoutCount" alt="" coords="649,201,823,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SerialSensor.html#a40cc7b6ba1eeb3a22510755feaade224" title="nidas::core::SerialSensor\l::stopPrompting" alt="" coords="645,331,827,373"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMSensor.html#af947f15794c9e75d94a428ca6312ba09" title="Fetch a pointer to a static instance of a Looper thread. " alt="" coords="891,175,1066,217"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1CharacterSensor.html#af5106ee7fe87f2f94328e093842d6f44" title="Is this a prompted sensor. " alt="" coords="875,331,1083,373"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Looper.html#a01999ac8cbc37595229febc05a0d9833" title="Remove a client from the Looper. " alt="" coords="907,455,1051,497"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="1145,207,1279,249"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Thread.html#af51d756d74e29093b4e33fbd0e6bb56d" title="Convenience function to return a string for the given scheduler policy: &quot;Non&#45;RT&quot;, &quot;RT:FIFO&quot;..." alt="" coords="1826,70,1961,111"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="1131,273,1293,300"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1Thread.html#af311f08172482d11d45389c65f9ea19b" title="nidas::util::Thread\l::setThreadScheduler" alt="" coords="1133,142,1291,183"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="1135,77,1289,118"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="1362,102,1497,143"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="1599,66,1734,107"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="1347,266,1511,307"/>
+<area shape="rect" id="node16" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="1396,215,1463,241"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1Thread.html#a0c6f68d2e3e8f6104466d8c1f6c90065" title="nidas::util::Thread\l::currentThreadId" alt="" coords="1145,455,1279,497"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="2041,855,2175,897"/>
+<area shape="rect" id="node23" href="$classnidas_1_1util_1_1Thread.html#a1da77fcda48cbee7ae54bd47ecc7bcf5" title="Interrupt this thread. " alt="" coords="1145,623,1279,665"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="1362,331,1497,373"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="1362,533,1497,574"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="2043,622,2173,663"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1Looper.html#a6808262045a86b3269428932e4b8cc16" title="nidas::core::Looper\l::setupClientMaps" alt="" coords="1140,390,1284,431"/>
+<area shape="rect" id="node46" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="2043,557,2173,598"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="1817,255,1970,297"/>
+<area shape="rect" id="node27" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="1599,562,1734,603"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1Looper.html#aadda8a413a32051b5d6417651bf3e3ce" title="Utility function for finding greatest common divisor. " alt="" coords="1342,463,1517,489"/>
+<area shape="rect" id="node31" href="$classnidas_1_1util_1_1Thread.html#a1f53ee62bd30a7924186ef26150ce262" title="Start the thread running, meaning execute the run method in a separate thread. " alt="" coords="1362,397,1497,438"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1Thread.html#ac87ca027e08548964a48c84058bc28f4" title="nidas::util::Thread\l::makeFullName" alt="" coords="1599,131,1734,173"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1Thread.html#a15080a5dc63e04c8e752904c3a37e824" title="Register this current thread with a static registry of threads by id. " alt="" coords="1599,314,1734,355"/>
+<area shape="rect" id="node34" href="$classnidas_1_1util_1_1Thread.html#a808c9d72433555d1ba91a7cfb92a1d32" title="nidas::util::Thread\l::setThreadSchedulerNolock" alt="" coords="1566,197,1767,238"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1Thread.html#afe8f2c69743f06ad71ee7adf04cd24a0" title="nidas::util::Thread\l::thr_run" alt="" coords="1599,431,1734,473"/>
+<area shape="rect" id="node44" href="$classnidas_1_1util_1_1Thread.html#a68d19fd0e974e692a90eebef1732146c" title="nidas::util::Thread\l::thr_run_detached" alt="" coords="1595,497,1738,538"/>
+<area shape="rect" id="node36" href="$classnidas_1_1util_1_1Thread.html#a08d3dc81b99d4ebdde3757e6339458e7" title="nidas::util::Thread\l::thr_cleanup" alt="" coords="1826,431,1961,473"/>
+<area shape="rect" id="node39" href="$classnidas_1_1util_1_1Thread.html#a40ff907091176225b9ed16d0d2ec05b4" title="nidas::util::Thread\l::pRun" alt="" coords="1826,741,1961,782"/>
+<area shape="rect" id="node37" href="$classnidas_1_1util_1_1Thread.html#aa8a1a7ffac686e7d797cca2cc094de72" title="nidas::util::Thread\l::unregisterThread" alt="" coords="2039,426,2177,467"/>
+<area shape="rect" id="node38" href="$classnidas_1_1util_1_1Thread.html#a96c8067714dffaffa9b3078186ca9671" title="Return a name with a bunch of descriptive fields, specifying whether it is detached, the real&#45;time priority, etc. " alt="" coords="2041,491,2175,533"/>
+<area shape="rect" id="node40" href="$classnidas_1_1util_1_1Mutex.html#a704c5544ed1d8bd7dcd4824097e814b1" title="Get the pointer to the pthread_mutex_t. " alt="" coords="2030,753,2186,780"/>
+<area shape="rect" id="node41" href="$classnidas_1_1util_1_1Runnable.html#ac804aacbcda5473d328d73e3a2ab0518" title="The method which will run in its own thread. " alt="" coords="2019,804,2197,831"/>
+<area shape="rect" id="node42" href="$classnidas_1_1util_1_1Exception.html#a231e721a7c01a2d8b61e6d697d55e565" title="nidas::util::Exception\l::clone" alt="" coords="2031,687,2185,729"/>
+<area shape="rect" id="node43" href="$classnidas_1_1util_1_1Exception.html#a787cf8bb0c3c737452e0d51319479795" title="nidas::util::Exception\l::Exception" alt="" coords="2246,687,2399,729"/>
+<area shape="rect" id="node45" href="$classnidas_1_1util_1_1Thread.html#a47d9837c942aec77a3d1a28eeb8900d3" title="nidas::util::Thread\l::thr_cleanup_delete" alt="" coords="1817,497,1969,538"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::core::CharacterSensor::addPrompt" name="nidas::core::CharacterSensor::addPrompt">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Prompt.html#ac5ac7ef10498ba5c3414585a7395915b" title="Set prompt offset in seconds. " alt="" coords="261,5,408,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Prompt.html#ad1848938a3fd83f2dacac12412d0b5fc" title="Set rate of desired prompting, in Hz (sec^&#45;1). " alt="" coords="261,70,408,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Prompt.html#a1cbf8c5369c4a51c7e203088c675f2d9" title="nidas::core::Prompt\l::setString" alt="" coords="261,135,408,177"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="nidas/dynld/isff/ATIK_Sonic.cc" name="nidas/dynld/isff/ATIK_Sonic.cc">
+<area shape="rect" id="node2" href="$ATIK__Sonic_8h.html" title="ATIK_Sonic.h" alt="" coords="985,96,1087,123"/>
+<area shape="rect" id="node27" href="$Variable_8h.html" title="nidas/core/Variable.h" alt="" coords="1811,96,1965,123"/>
+<area shape="rect" id="node49" href="$PhysConstants_8h.html" title="nidas/core/PhysConstants.h" alt="" coords="1477,96,1675,123"/>
+<area shape="rect" id="node47" href="$Parameter_8h.html" title="Parameter.h" alt="" coords="1323,320,1423,347"/>
+<area shape="rect" id="node3" href="$SonicAnemometer_8h.html" title="SonicAnemometer.h" alt="" coords="626,171,779,197"/>
+<area shape="rect" id="node4" href="$SerialSensor_8h.html" title="nidas/core/SerialSensor.h" alt="" coords="173,245,357,272"/>
+<area shape="rect" id="node8" href="$Sample_8h.html" title="Sample.h" alt="" coords="681,320,764,347"/>
+<area shape="rect" id="node24" href="$AdaptiveDespiker_8h.html" title="nidas/core/AdaptiveDespiker.h" alt="" coords="407,245,621,272"/>
+<area shape="rect" id="node5" href="$CharacterSensor_8h.html" title="CharacterSensor.h" alt="" coords="181,320,323,347"/>
+<area shape="rect" id="node6" href="$LooperClient_8h.html" title="LooperClient.h" alt="" coords="347,320,461,347"/>
+<area shape="rect" id="node7" href="$SerialPortIODevice_8h.html" title="SerialPortIODevice.h" alt="" coords="5,320,157,347"/>
+<area shape="rect" id="node9" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="1051,477,1240,504"/>
+<area shape="rect" id="node13" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="835,477,1025,504"/>
+<area shape="rect" id="node15" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="869,395,1040,421"/>
+<area shape="rect" id="node16" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="433,395,628,421"/>
+<area shape="rect" id="node17" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="653,395,792,421"/>
+<area shape="rect" id="node21" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="1065,395,1175,421"/>
+<area shape="rect" id="node10" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="1336,560,1493,587"/>
+<area shape="rect" id="node28" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="2527,395,2619,421"/>
+<area shape="rect" id="node43" href="$Site_8h.html" title="Site.h" alt="" coords="1825,171,1884,197"/>
+<area shape="rect" id="node48" href="$VariableConverter_8h.html" title="VariableConverter.h" alt="" coords="1400,245,1547,272"/>
+<area shape="rect" id="node29" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="3002,470,3192,511"/>
+<area shape="rect" id="node30" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="2602,477,2752,504"/>
+<area shape="rect" id="node31" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="3269,477,3341,504"/>
+<area shape="rect" id="node32" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="3233,560,3393,587"/>
+<area shape="rect" id="node44" href="$DSMConfig_8h.html" title="DSMConfig.h" alt="" coords="1640,245,1744,272"/>
+<area shape="rect" id="node46" href="$Dictionary_8h.html" title="Dictionary.h" alt="" coords="1737,320,1833,347"/>
+<area shape="rect" id="node45" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="1505,395,1620,421"/>
+</map>

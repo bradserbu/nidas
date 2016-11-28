@@ -1,0 +1,32 @@
+<map id="nidas/dynld/isff/SonicAnemometer.h" name="nidas/dynld/isff/SonicAnemometer.h">
+<area shape="rect" id="node2" href="$SerialSensor_8h.html" title="nidas/core/SerialSensor.h" alt="" coords="2037,80,2221,107"/>
+<area shape="rect" id="node6" href="$Sample_8h.html" title="Sample.h" alt="" coords="800,379,883,405"/>
+<area shape="rect" id="node48" href="$AdaptiveDespiker_8h.html" title="nidas/core/AdaptiveDespiker.h" alt="" coords="2246,80,2460,107"/>
+<area shape="rect" id="node3" href="$CharacterSensor_8h.html" title="CharacterSensor.h" alt="" coords="1696,155,1837,181"/>
+<area shape="rect" id="node41" href="$LooperClient_8h.html" title="LooperClient.h" alt="" coords="2169,155,2284,181"/>
+<area shape="rect" id="node42" href="$SerialPortIODevice_8h.html" title="SerialPortIODevice.h" alt="" coords="2721,304,2873,331"/>
+<area shape="rect" id="node4" href="$DSMSensor_8h.html" title="DSMSensor.h" alt="" coords="1517,229,1624,256"/>
+<area shape="rect" id="node39" href="$Prompt_8h.html" title="Prompt.h" alt="" coords="5,619,85,645"/>
+<area shape="rect" id="node40" href="$util_2util_8h.html" title="nidas/util/util.h" alt="" coords="2132,453,2247,480"/>
+<area shape="rect" id="node5" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="1007,304,1125,331"/>
+<area shape="rect" id="node29" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="1545,304,1724,331"/>
+<area shape="rect" id="node30" href="$SampleScanner_8h.html" title="SampleScanner.h" alt="" coords="1589,453,1723,480"/>
+<area shape="rect" id="node32" href="$SampleTag_8h.html" title="SampleTag.h" alt="" coords="879,304,983,331"/>
+<area shape="rect" id="node34" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="2017,453,2108,480"/>
+<area shape="rect" id="node33" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="1285,379,1376,405"/>
+<area shape="rect" id="node36" href="$Dictionary_8h.html" title="Dictionary.h" alt="" coords="1503,379,1599,405"/>
+<area shape="rect" id="node28" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="1936,536,2107,563"/>
+<area shape="rect" id="node31" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1390,529,1580,570"/>
+<area shape="rect" id="node7" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="713,536,903,563"/>
+<area shape="rect" id="node11" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="918,619,1108,645"/>
+<area shape="rect" id="node15" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="927,536,1099,563"/>
+<area shape="rect" id="node16" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="1748,453,1943,480"/>
+<area shape="rect" id="node17" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="1170,453,1309,480"/>
+<area shape="rect" id="node23" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="621,453,731,480"/>
+<area shape="rect" id="node8" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="1376,693,1533,720"/>
+<area shape="rect" id="node24" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="407,536,545,563"/>
+<area shape="rect" id="node43" href="$UnixIODevice_8h.html" title="UnixIODevice.h" alt="" coords="2518,379,2636,405"/>
+<area shape="rect" id="node47" href="$Termios_8h.html" title="nidas/util/Termios.h" alt="" coords="3124,453,3268,480"/>
+<area shape="rect" id="node45" href="$IOTimeoutException_8h.html" title="nidas/util/IOTimeoutException.h" alt="" coords="2615,453,2837,480"/>
+<area shape="rect" id="node44" href="$EOFException_8h.html" title="nidas/util/EOFException.h" alt="" coords="2357,453,2539,480"/>
+</map>

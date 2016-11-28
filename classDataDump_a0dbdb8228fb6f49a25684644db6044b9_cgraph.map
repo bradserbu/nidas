@@ -1,0 +1,5 @@
+<map id="DataDump::usage" name="DataDump::usage">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1NidasApp.html#a432911aac03f2734ba4f03fc414737af" title="Return a usage string describing the arguments accepted by this application. " alt="" coords="193,27,354,69"/>
+<area shape="rect" id="node3" href="$sing_8cc.html#a7cd7c66065ead3daabafb674047c78a8" title="if" alt="" coords="475,5,514,32"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1NidasAppArg.html#a8f5147ae165330dbfccb03aaaea9dea4" title="Return the usage string for this particular argument. " alt="" coords="403,57,586,98"/>
+</map>

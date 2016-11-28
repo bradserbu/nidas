@@ -1,0 +1,6 @@
+<map id="nidas::core::ProjectConfig::putenv" name="nidas::core::ProjectConfig::putenv">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Process.html#a6a34d9f6ed7972f4327c95f9436bf509" title="Get an environment variable given a variable name like &quot;HOST&quot;, without the &#39;$&#39;, or any brackets..." alt="" coords="259,5,400,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1ProjectConfig.html#a1d255cc55ab9c40e4b3d1cd98cd2ca3e" title="nidas::core::ProjectConfig\l::getName" alt="" coords="237,70,421,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Process.html#a7c4c8193e4bb7f31f7b8478a1b32e7bc" title="nidas::util::Process\l::setEnvVar" alt="" coords="259,135,400,177"/>
+<area shape="rect" id="node5" href="$sing_8cc.html#a7cd7c66065ead3daabafb674047c78a8" title="if" alt="" coords="470,143,509,169"/>
+</map>

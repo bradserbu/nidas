@@ -1,0 +1,7 @@
+<map id="nidas/util/SerialOptions.h" name="nidas/util/SerialOptions.h">
+<area shape="rect" id="node2" href="$sensor__sim_8cc.html" title="nidas/apps/sensor_sim.cc" alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$sing_8cc.html" title="nidas/apps/sing.cc" alt="" coords="216,80,355,107"/>
+<area shape="rect" id="node4" href="$tee__i2c_8cc.html" title="nidas/apps/tee_i2c.cc" alt="" coords="379,80,537,107"/>
+<area shape="rect" id="node5" href="$tee__tty_8cc.html" title="nidas/apps/tee_tty.cc" alt="" coords="562,80,717,107"/>
+<area shape="rect" id="node6" href="$SerialOptions_8cc.html" title="nidas/util/SerialOptions.cc" alt="" coords="743,80,929,107"/>
+</map>

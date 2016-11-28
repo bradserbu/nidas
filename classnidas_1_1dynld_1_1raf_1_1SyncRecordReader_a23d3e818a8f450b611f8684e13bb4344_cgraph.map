@@ -1,0 +1,10 @@
+<map id="nidas::dynld::raf::SyncRecordReader::read" name="nidas::dynld::raf::SyncRecordReader::read">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html#a355553922b04c738465e06c7e7d21767" title="Decrement the reference count for this sample. " alt="" coords="240,5,389,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Sample.html#a507f3ca946601f9b21cc67df9035f028" title="Get a const void* pointer to the data portion of the sample. " alt="" coords="233,70,397,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Sample.html#a9d888ef233114a39471c69b2176890c1" title="Get the number of elements in data portion of sample. " alt="" coords="240,135,389,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Sample.html#a773f6f7732f631184c0daab9522baba9" title="Get the id portion of the sample header. " alt="" coords="240,201,389,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="240,266,389,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Sample.html#a45ead9ba670ea4d2e234e33f36b9ee4a" title="Get the type of the sample. " alt="" coords="240,331,389,373"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleHeader.html#a91a71e15fd149e79d7a94a310d880fda" title="nidas::core::SampleHeader\l::getId" alt="" coords="446,201,642,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="446,266,642,307"/>
+</map>

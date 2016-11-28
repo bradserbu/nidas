@@ -1,0 +1,4 @@
+<map id="nidas::core::SensorHandler::PolledDSMSensor::getFd" name="nidas::core::SensorHandler::PolledDSMSensor::getFd">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a8c04b162828eae704b74383d99254f24" title="nidas::core::DSMSensor\l::getReadFd" alt="" coords="249,5,423,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IODevice.html#a7f5a6146adcbb4d0c49923f95b501ce0" title="The file descriptor used when reading from this sensor. " alt="" coords="473,5,629,46"/>
+</map>

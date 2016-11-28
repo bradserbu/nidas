@@ -1,0 +1,4 @@
+<map id="nidas::dynld::raf::SortByRateThenLabel::operator()" name="nidas::dynld::raf::SortByRateThenLabel::operator()">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="213,5,384,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="213,70,384,111"/>
+</map>

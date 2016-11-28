@@ -1,0 +1,51 @@
+<map id="nidas::dynld::raf::SyncServer::run" name="nidas::dynld::raf::SyncServer::run">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a22cdedb14a0da6fcff38df441c863d2b" title="nidas::dynld::raf::\lSyncServer::read" alt="" coords="231,59,363,101"/>
+<area shape="rect" id="node5" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a2c9de1a5d9fe86e3ca32b0547522e8bf" title="nidas::dynld::raf::\lSyncServer::stop" alt="" coords="232,694,363,735"/>
+<area shape="rect" id="node50" href="$classnidas_1_1core_1_1XMLImplementation.html#a4e5ee90cfc04350fd0073e45cc94fe0a" title="nidas::core::XMLImplementation\l::terminate" alt="" coords="184,177,411,218"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="766,63,919,105"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ac2b909036899cc2a4f663fc4c9836153" title="Read the next sample from the InputStream. " alt="" coords="479,5,665,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1dynld_1_1raf_1_1SyncServer.html#a9051207b4b21e86fbffa1bc98ad2b3e3" title="nidas::dynld::raf::\lSyncServer::signalStop" alt="" coords="487,1315,657,1357"/>
+<area shape="rect" id="node8" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordGenerator.html#ab73a4386c6ea28d359f1c357df0bfad5" title="Remove a SampleClient from this SampleSource. " alt="" coords="490,724,654,780"/>
+<area shape="rect" id="node9" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordGenerator.html#ae008a0640a70d458700dc87220e203f4" title="Implementation of SampleIOProcessor::disconnect(SampleSource*). " alt="" coords="491,804,653,860"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleOutputRequestThread.html#ad749786c1cdab8f32820240db8dae6ab" title="Singleton destructor. " alt="" coords="459,178,685,219"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SamplePipeline.html#ad6f35a21321e4db0a22e05c670dde378" title="Several objects in NIDAS can be both a SampleSource of raw Samples and processed Samples. " alt="" coords="467,658,677,699"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1SamplePipeline.html#a2768077f4fb2f1c2a3a3c515b1d8ff85" title="Remove a SampleSource from the SamplePipeline. " alt="" coords="473,1185,671,1226"/>
+<area shape="rect" id="node41" href="$classnidas_1_1dynld_1_1SampleInputStream.html#ac82103b629cdf7aeb63e2592b5081d7a" title="nidas::dynld::SampleInput\lStream::close" alt="" coords="479,1511,665,1553"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1SamplePipeline.html#a329468be47cb4ac7d52cf91e4a6618f5" title="Interrupt the SampleSorters in this pipeline. " alt="" coords="473,246,671,287"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1SamplePipeline.html#accd6f588733bdd8ca1960a7b9f4ae5f0" title="Join the SampleSorters in this pipeline. " alt="" coords="473,318,671,359"/>
+<area shape="rect" id="node7" href="$structnidas_1_1dynld_1_1raf_1_1StopSignal.html#a70ec7902c5ea1822bb26b6b0f72374de" title="nidas::dynld::raf::\lStopSignal::stop" alt="" coords="777,1479,908,1521"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SamplePipeline.html#a14bee50a0ecc7f27c42282a133e5ebf0" title="nidas::core::SamplePipeline\l::procinit" alt="" coords="743,957,942,998"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SamplePipeline.html#ae4a91e5f04ffec6424ccdcd13e5d623c" title="nidas::core::SamplePipeline\l::getHeapBlock" alt="" coords="1014,1283,1213,1325"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleThread.html#a6a8de7c6f61a6940f79b0657301275f2" title="nidas::core::SampleThread\l::getHeapMax" alt="" coords="1017,1349,1210,1390"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SampleThread.html#abb01f8e8851cc5b2a1fdf2f72fe98486" title="nidas::core::SampleThread\l::getKeepStats" alt="" coords="1017,1414,1210,1455"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1SampleThread.html#ae19ddc199fbc31d509c54bab326b9793" title="nidas::core::SampleThread\l::getLengthSecs" alt="" coords="1017,1479,1210,1521"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1SamplePipeline.html#a01487dd5257147bb0cc468db994fabb9" title="nidas::core::SamplePipeline\l::getProcHeapMax" alt="" coords="1014,1545,1213,1586"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SamplePipeline.html#acab13114f4d9d049a5ba98cebe980c85" title="Cache this number of samples with potentially anomalous, late time tags in the processed sample sorte..." alt="" coords="1002,499,1225,541"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SamplePipeline.html#a4e7e980f54e0e910b425c07a28463ca8" title="nidas::core::SamplePipeline\l::getProcSorterLength" alt="" coords="1014,565,1213,606"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1SampleThread.html#a2469ec620e01461c9126e357764a1a36" title="nidas::core::SampleThread\l::getRealTime" alt="" coords="1017,630,1210,671"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1SamplePipeline.html#aacb981b9789e98dc25bca38af30da562" title="nidas::core::SamplePipeline\l::getRealTime" alt="" coords="1014,695,1213,737"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1SampleThread.html#a28c5c1f11fa8d6b7d1b7b7587d9d5e6b" title="nidas::core::SampleThread\l::setHeapBlock" alt="" coords="1017,761,1210,802"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1SampleThread.html#aa63bd0f6f2c404380ba80e18865cacb6" title="Set the maximum amount of heap memory to use for sorting samples. " alt="" coords="1017,826,1210,867"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1SampleThread.html#a1296d19c0e7801a52bd2b0659539d2c8" title="nidas::core::SampleThread\l::setKeepStats" alt="" coords="1017,891,1210,933"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1SampleThread.html#ac49ec93d4006da459f0332823b7e317a" title="nidas::core::SampleThread\l::setLateSampleCacheSize" alt="" coords="1016,957,1211,998"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1SampleThread.html#a571e3a374283846d73fc3828aa89d55f" title="nidas::core::SampleThread\l::setLengthSecs" alt="" coords="1017,1022,1210,1063"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1SampleThread.html#aa9bc3b499cffcb8c9bf6ac4b979618b1" title="Is this thread running in real&#45;time, meaning is it handling recently sampled data? If so then we can screen for bad sample time&#45;tags by checking against the system clock, which is trusted. " alt="" coords="1017,1087,1210,1129"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Thread.html#ace5133c77ae2e11ce4938cf9210e705e" title="nidas::util::Thread\l::setRealTimeFIFOPriority" alt="" coords="1024,1153,1203,1194"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Thread.html#a1f53ee62bd30a7924186ef26150ce262" title="Start the thread running, meaning execute the run method in a separate thread. " alt="" coords="1046,1218,1181,1259"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="1275,441,1410,482"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1SampleTag.html#a3695fca9419619def30fb58d690d9427" title="nidas::core::SampleTag\l::getDSMSensor" alt="" coords="757,1349,928,1390"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1SampleSource.html#a2bfca743a3dee2667c6b2e7e4ebe010b" title="Several objects in NIDAS can be both a SampleSource of raw Samples and processed Samples. " alt="" coords="745,1414,940,1455"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1SampleSource.html#ac9c19633c70ee01e29e7ec7d258ca2a0" title="nidas::core::SampleSource\l::getSampleTagIterator" alt="" coords="745,1022,940,1063"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1DSMSensor.html#a997f133995facb78dcccfffa889d8728" title="nidas::core::DSMSensor\l::getSampleTagIterator" alt="" coords="755,1087,930,1129"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1SampleTagIterator.html#a67ac05bec706f73542e4cdaf189a0b95" title="nidas::core::SampleTagIterator\l::hasNext" alt="" coords="734,1153,951,1194"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1SampleTagIterator.html#abeb5ebe551e3aa7e0e0b0ff5bf1e837b" title="nidas::core::SampleTagIterator\l::next" alt="" coords="734,1218,951,1259"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1SampleSource.html#a470d0441ac1c447dc3efa778a3dc9059" title="Remove a SampleClient from this SampleSource. " alt="" coords="745,1283,940,1325"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1SampleIOProcessor.html#ac0d24a63b52b5d397ef8e8cc2dcbce11" title="nidas::core::SampleIOProcessor\l::getRequestedSampleTags" alt="" coords="1001,1675,1226,1717"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1DSMSensor.html#ae0a23210df32b4296a473c2089297d30" title="Implementation of SampleSource::getSampleTags(). " alt="" coords="1026,1610,1201,1651"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1IOChannel.html#aa3d9e2949bee9a54712eb4d7addbe3e4" title="nidas::core::IOChannel\l::close" alt="" coords="760,1545,925,1586"/>
+<area shape="rect" id="node44" href="$classnidas_1_1util_1_1Thread.html#a1da77fcda48cbee7ae54bd47ecc7bcf5" title="Interrupt this thread. " alt="" coords="775,129,910,170"/>
+<area shape="rect" id="node45" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="777,194,908,235"/>
+<area shape="rect" id="node46" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="777,259,908,301"/>
+<area shape="rect" id="node48" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="775,325,910,366"/>
+<area shape="rect" id="node49" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="775,390,910,431"/>
+</map>

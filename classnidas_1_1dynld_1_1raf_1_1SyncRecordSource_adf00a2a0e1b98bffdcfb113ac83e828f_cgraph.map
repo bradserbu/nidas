@@ -1,0 +1,29 @@
+<map id="nidas::dynld::raf::SyncRecordSource::preLoadCalibrations" name="nidas::dynld::raf::SyncRecordSource::preLoadCalibrations">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="357,123,521,165"/>
+<area shape="rect" id="node3" href="$group__Logging.html#ga7338df5cd6ba4e41eb973dae65fe91a9" title="LogMessage manipulator which logs the current message buffer, if any, and then clears the message..." alt="" coords="371,189,506,216"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1Polynomial.html#abe4a19ed017b0adfe38913560d98af2f" title="nidas::core::Polynomial\l::getCoefficients" alt="" coords="354,241,523,282"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1Variable.html#a93633805e3605f24f1041b004b1cf1e0" title="nidas::core::Variable\l::getConverter" alt="" coords="363,306,514,347"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1Linear.html#aff256e6523ce85dbf60bbc694b2e44ed" title="nidas::core::Linear\l::getIntercept" alt="" coords="369,371,508,413"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="363,437,514,478"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1Linear.html#a96be6d565b416ae92e72733d04182068" title="nidas::core::Linear\l::getSlope" alt="" coords="369,502,508,543"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1VariableConverter.html#ab66cf565913578f70f35748a0838883e" title="nidas::core::VariableConverter\l::readCalFile" alt="" coords="331,567,546,609"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1LogMessage.html#aa0cce312fb212368fdb6a5a7c41ec3c9" title="If this LogMessage is associated with a LogContext and if the current message is not empty..." alt="" coords="595,189,794,216"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1LogMessage.html#a28142f0c9ef8ff4b66d38baa415ddc8f" title="Return the length of the current message buffer. " alt="" coords="853,153,1024,194"/>
+<area shape="rect" id="node6" href="$group__Logging.html#ga7009fbecc782844f7c93edc74008ae2f" title="Convenience method which writes the given message to the current Logger instance, passing this object..." alt="" coords="843,219,1034,245"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="1101,155,1235,197"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Logger.html#abc29e54d0b7bbe6620d05f4536041862" title="Send a log message for the given LogContext lc. " alt="" coords="1083,273,1253,300"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="1302,103,1437,145"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="1501,5,1635,46"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Logger.html#af4e5b3c04cf09dd7ff1bb42fdc2035ff" title="Other Log classes call this method to log a message when the log mutex is already locked..." alt="" coords="1302,266,1437,307"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1LogContext.html#a8616a5e2a925928023b540a04c1843bb" title="nidas::util::LogContext\l::filename" alt="" coords="1486,70,1650,111"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1LogContext.html#ac3280b636c628214f7772e7b2aeef333" title="nidas::util::LogContext\l::line" alt="" coords="1486,135,1650,177"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1LogContext.html#ae28382b5999edf4640d4e2ccfebf4c43" title="nidas::util::LogContext\l::levelName" alt="" coords="1486,201,1650,242"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1LogContext.html#af9ae629fe7ffcaa4b0e00da5683c6bee" title="nidas::util::LogContext\l::function" alt="" coords="1486,266,1650,307"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1Thread.html#adc078afbfc16f8686cb8b186c39d06a1" title="Convenience routine to return the name for the current thread, or a string indicating that the name o..." alt="" coords="1501,331,1635,373"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1UTime.html#a9e9f1e3ef8419ebb4f005f0302aac2c6" title="Format this UTime relative to UTC, or the local timezone? " alt="" coords="1502,397,1634,438"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1UTime.html#aad6ca4e6f9521f8f7074b90bfc9d5998" title="Set the format used when converting this UTime to a string with format(utc), or format(), or on a ostream. " alt="" coords="1502,462,1634,503"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1LogContext.html#ac970753e1dcec8b83d832e1e2155d527" title="nidas::util::LogContext\l::level" alt="" coords="1486,527,1650,569"/>
+<area shape="rect" id="node15" href="$group__Logging.html#ga5e85e54338bb820df23390f203c0581e" title="Convert an integral log level to a string name. " alt="" coords="1699,208,1893,235"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Thread.html#a46662ffa7482f1c1e52b654c51639fd2" title="Return the thread object for the current thread. " alt="" coords="1729,299,1863,341"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="1729,365,1863,406"/>
+</map>

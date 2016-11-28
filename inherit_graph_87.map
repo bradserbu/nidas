@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classnidas_1_1core_1_1LooperClient.html" title="Interface of a client of Looper. " alt="" coords="6,77,186,104"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SerialSensor_1_1Prompter.html" title="nidas::core::SerialSensor\l::Prompter" alt="" coords="251,5,432,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1isff_1_1MOSMote_1_1MOS__TimeSyncer.html" title="nidas::dynld::isff\l::MOSMote::MOS_TimeSyncer" alt="" coords="235,70,447,111"/>
+<area shape="rect" id="node4" href="$classSensorSimulator.html" title="Base class for sensor simulators. " alt="" coords="277,136,406,163"/>
+<area shape="rect" id="node5" href="$classCsat3Sim.html" title="Simulate a CSAT3 sonic. " alt="" coords="497,85,581,112"/>
+<area shape="rect" id="node6" href="$classFileSim.html" title="Read serial records from a file and send them at a given rate or after a prompt. " alt="" coords="505,136,572,163"/>
+<area shape="rect" id="node7" href="$classFixedSim.html" title="Send a fixed message at a given rate or after a prompt. " alt="" coords="499,187,578,213"/>
+</map>

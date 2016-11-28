@@ -1,0 +1,5 @@
+<map id="gpio_mm_release_event" name="gpio_mm_release_event">
+<area shape="rect" id="node2" href="$gpio__mm_8c.html#a48b5629c519ef8fcbcadf507a24b5a32" title="stop_event" alt="" coords="232,5,325,32"/>
+<area shape="rect" id="node3" href="$gpio__mm_8c.html#ae9559d81c4e17307cd79cec3532897d7" title="gpio_mm_stop_event" alt="" coords="373,5,533,32"/>
+<area shape="rect" id="node4" href="$gpio__mm_8c.html#acca5dd2a193b5f030d70e5076abac74a" title="gpio_mm_remove_irq_user" alt="" coords="582,5,778,32"/>
+</map>

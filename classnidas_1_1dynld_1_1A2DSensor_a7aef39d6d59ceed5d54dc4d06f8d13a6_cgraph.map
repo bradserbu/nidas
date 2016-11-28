@@ -1,0 +1,4 @@
+<map id="nidas::dynld::A2DSensor::getConversion" name="nidas::dynld::A2DSensor::getConversion">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1A2DSensor.html#a37a16e6dabe089b5608029d5cfa73edb" title="Get the current conversion intercept, which includes any correction as set by setConversionCorrection..." alt="" coords="232,5,411,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1A2DSensor.html#a3a393fba336f043b4dc4ed47f064a334" title="Get the current conversion slope, which includes any correction as set by setConversionCorrection(). " alt="" coords="232,70,411,111"/>
+</map>

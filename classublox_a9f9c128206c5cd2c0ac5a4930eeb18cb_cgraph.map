@@ -1,0 +1,5 @@
+<map id="ublox::set_rate" name="ublox::set_rate">
+<area shape="rect" id="node2" href="$classublox__pkt.html#a27a9d6175d1d9b3448903a8d76f81a38" title="ublox_pkt::cksum" alt="" coords="175,5,308,32"/>
+<area shape="rect" id="node4" href="$classublox__pkt.html#a9b64ed2caf0ede12d5b699783b041cbc" title="ublox_pkt::payload" alt="" coords="171,56,312,83"/>
+<area shape="rect" id="node3" href="$classublox__pkt.html#a0103280b3812babaf507e1fe94ba0b21" title="ublox_pkt::cksump" alt="" coords="360,5,501,32"/>
+</map>

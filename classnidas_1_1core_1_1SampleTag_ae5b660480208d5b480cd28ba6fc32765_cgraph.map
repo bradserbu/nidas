@@ -1,0 +1,8 @@
+<map id="nidas::core::SampleTag::SampleTag" name="nidas::core::SampleTag::SampleTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#a1c84f67191f717d337d3ff6565c7663c" title="Add a parameter to this SampleTag. " alt="" coords="224,5,395,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#adb0e42568c0a11b93d0a50249caa9863" title="Add a variable to this SampleTag. " alt="" coords="224,70,395,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Parameter.html#ab222f68c807dc27edd48b7e63cd630e8" title="nidas::core::Parameter\l::clone" alt="" coords="226,135,393,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleTag.html#aefaf8a7da5d5a11b01787186a9f99069" title="nidas::core::SampleTag\l::getParameters" alt="" coords="224,201,395,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="224,266,395,307"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Parameter.html#a20466f907c896f145af1c48398d9f112" title="nidas::core::Parameter\l::getName" alt="" coords="443,5,610,46"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="nidas::core::SamplePipeline::join" name="nidas::core::SamplePipeline::join">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="466,11,601,53"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a1da77fcda48cbee7ae54bd47ecc7bcf5" title="Interrupt this thread. " alt="" coords="263,38,398,79"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="263,103,398,145"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="263,169,398,210"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="265,234,396,275"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="265,299,396,341"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="254,365,407,406"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="457,138,610,179"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="466,203,601,245"/>
+</map>

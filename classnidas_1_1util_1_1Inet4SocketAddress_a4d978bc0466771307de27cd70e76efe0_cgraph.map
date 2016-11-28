@@ -1,0 +1,6 @@
+<map id="nidas::util::Inet4SocketAddress::toString" name="nidas::util::Inet4SocketAddress::toString">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Inet4Address.html#a10a7dc15a9b5480d8dea756101d868fd" title="Do reverse lookup of a name, given an address. " alt="" coords="227,5,402,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a5a980fd49b48f9cc36250f08efae7e19" title="Return the IP address portion. " alt="" coords="221,70,408,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a3f70de15bd05eb31407b30e1f4f2e841" title="Return the port number. " alt="" coords="231,135,398,177"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="457,5,610,46"/>
+</map>

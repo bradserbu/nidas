@@ -1,0 +1,3 @@
+<map id="nidas::core::SerialSensor::getUsecsPerByte" name="nidas::core::SerialSensor::getUsecsPerByte">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SerialPortIODevice.html#a750f57423c0e79c661d1d7e76ca096ba" title="Calculate the transmission time of each byte from this serial port. " alt="" coords="235,5,453,46"/>
+</map>

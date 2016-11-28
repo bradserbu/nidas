@@ -1,0 +1,6 @@
+<map id="nidas::dynld::isff::GOESXmtr" name="nidas::dynld::isff::GOESXmtr">
+<area shape="rect" id="node4" href="$classnidas_1_1dynld_1_1isff_1_1SE__GOESXmtr.html" title="An IOChannel implementation for a Signal Engineering GOES transmitter. " alt="" coords="5,246,128,287"/>
+<area shape="rect" id="node5" href="$classnidas_1_1dynld_1_1isff_1_1SimGOESXmtr.html" title="An IOChannel implementation to simulate a GOES transmitter. " alt="" coords="153,246,276,287"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IOChannel.html" title="A channel for Input or Output of data. " alt="" coords="57,80,223,107"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="61,5,219,32"/>
+</map>

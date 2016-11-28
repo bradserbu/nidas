@@ -1,0 +1,12 @@
+<map id="nidas::dynld::psql::PSQLSampleOutput::receive" name="nidas::dynld::psql::PSQLSampleOutput::receive">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleT.html#ad67f1fc1241a368e1f9cf96664b43e7e" title="nidas::core::SampleT\l::getConstDataPtr" alt="" coords="226,5,382,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleT.html#a2484696bc7826cb3468efe8ff5aacb1c" title="Get number of elements of type DataT in data. " alt="" coords="226,70,382,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="237,135,371,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="219,201,389,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="223,267,385,293"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="227,318,381,359"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="453,135,587,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="651,135,786,177"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="438,230,602,271"/>
+<area shape="rect" id="node10" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="487,296,553,323"/>
+</map>

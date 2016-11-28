@@ -1,0 +1,4 @@
+<map id="Logging" name="Logging">
+<area shape="rect" id="node3" href="$group__LogLevelSymbols.html" title="Define constants equal to the syslog levels, so we can redefine the syslog symbols. " alt="" coords="126,5,285,32"/>
+<area shape="rect" id="node2" href="$group__LoggerMacros.html" title="These macros specify a log point in the code from which the given message can be logged with the give..." alt="" coords="144,56,267,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::dynld::raf::IRIGSensor::getStatus" name="nidas::dynld::raf::IRIGSensor::getStatus">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html#a507f3ca946601f9b21cc67df9035f028" title="Get a const void* pointer to the data portion of the sample. " alt="" coords="217,5,381,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Sample.html#a17dd8ec6246870ade99f6680a98525d2" title="Get the number of bytes in data portion of sample. " alt="" coords="221,70,376,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleHeader.html#aec57e900800863620fb79c225b947b75" title="Get the value of the length member of the header. " alt="" coords="430,70,626,111"/>
+</map>

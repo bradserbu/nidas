@@ -1,0 +1,13 @@
+<map id="Receiver::run" name="Receiver::run">
+<area shape="rect" id="node2" href="$namespacenidas_1_1util.html#a1902a11460fd068872aca208a4f1b57d" title="Utility function for substituting backslash sequences back into a string. " alt="" coords="157,5,336,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SerialPort.html#a9f7435ee4a8cbc1e19e2db420b97d291" title="nidas::util::SerialPort\l::getFd" alt="" coords="170,70,323,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SerialPort.html#a7cda81901e55fa83939d005acf01de27" title="nidas::util::SerialPort\l::read" alt="" coords="170,135,323,177"/>
+<area shape="rect" id="node5" href="$classReceiver.html#a77e10924996be686277ef72804b1a675" title="Receiver::report" alt="" coords="415,201,537,228"/>
+<area shape="rect" id="node9" href="$classReceiver.html#a9195e0eef0d83d34cf06517f93e8a77a" title="Return 0 on normal scan, 1 on receipt of EOF packet. " alt="" coords="171,252,322,279"/>
+<area shape="rect" id="node6" href="$classSender.html#ab4e6feba3b6a4e8faffe5ed0402f6e08" title="Sender::getKbytePerSec" alt="" coords="620,151,799,177"/>
+<area shape="rect" id="node7" href="$classReceiver.html#ac88bd92947a1428f2439e2b5071055ae" title="Receiver::getKbytePerSec" alt="" coords="617,201,802,228"/>
+<area shape="rect" id="node8" href="$classSender.html#a3a93496c2ba26432a2141db553432b57" title="Sender::getNout" alt="" coords="645,252,773,279"/>
+<area shape="rect" id="node10" href="$classReceiver.html#a5a0c1ff76537e56155e1b487c50ee292" title="Receiver::reallocateBuffer" alt="" coords="384,252,568,279"/>
+<area shape="rect" id="node11" href="$sing_8cc.html#adcf5725bbde1be54757ea9397494fe29" title="cksum" alt="" coords="444,303,508,329"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1SerialPort.html#ae4d09a43fe7d99a714858a88bdccd8fe" title="nidas::util::SerialPort\l::write" alt="" coords="399,354,553,395"/>
+</map>

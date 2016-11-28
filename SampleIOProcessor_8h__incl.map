@@ -1,0 +1,27 @@
+<map id="nidas/core/SampleIOProcessor.h" name="nidas/core/SampleIOProcessor.h">
+<area shape="rect" id="node2" href="$ConnectionRequester_8h.html" title="ConnectionRequester.h" alt="" coords="1473,80,1641,107"/>
+<area shape="rect" id="node10" href="$SampleSource_8h.html" title="SampleSource.h" alt="" coords="1109,155,1237,181"/>
+<area shape="rect" id="node34" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="1256,80,1435,107"/>
+<area shape="rect" id="node38" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="2225,379,2316,405"/>
+<area shape="rect" id="node15" href="$Sample_8h.html" title="Sample.h" alt="" coords="612,304,695,331"/>
+<area shape="rect" id="node3" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="1472,304,1643,331"/>
+<area shape="rect" id="node7" href="$Inet4PacketInfo_8h.html" title="nidas/util/Inet4PacketInfo.h" alt="" coords="1595,155,1787,181"/>
+<area shape="rect" id="node5" href="$Exception_8h.html" title="Exception.h" alt="" coords="1292,635,1388,661"/>
+<area shape="rect" id="node8" href="$Inet4NetworkInterface_8h.html" title="Inet4NetworkInterface.h" alt="" coords="1595,229,1769,256"/>
+<area shape="rect" id="node9" href="$Inet4SocketAddress_8h.html" title="Inet4SocketAddress.h" alt="" coords="1795,229,1957,256"/>
+<area shape="rect" id="node11" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="215,379,331,405"/>
+<area shape="rect" id="node14" href="$SampleStats_8h.html" title="SampleStats.h" alt="" coords="561,229,679,256"/>
+<area shape="rect" id="node33" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1254,545,1444,586"/>
+<area shape="rect" id="node16" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="905,461,1095,488"/>
+<area shape="rect" id="node18" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="1049,552,1177,579"/>
+<area shape="rect" id="node22" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="1089,379,1260,405"/>
+<area shape="rect" id="node23" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="632,379,827,405"/>
+<area shape="rect" id="node24" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="51,379,191,405"/>
+<area shape="rect" id="node30" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="851,379,961,405"/>
+<area shape="rect" id="node31" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="692,461,831,488"/>
+<area shape="rect" id="node35" href="$SampleClientList_8h.html" title="SampleClientList.h" alt="" coords="1261,155,1403,181"/>
+<area shape="rect" id="node36" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="1283,229,1401,256"/>
+<area shape="rect" id="node39" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="1646,552,1796,579"/>
+<area shape="rect" id="node40" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="2814,461,2887,488"/>
+<area shape="rect" id="node41" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="2283,552,2443,579"/>
+</map>

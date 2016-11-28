@@ -1,0 +1,10 @@
+<map id="nidas::dynld::raf::CVIOutput::CVIOutput" name="nidas::dynld::raf::CVIOutput::CVIOutput">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DerivedDataReader.html#a2b65ab5a6195322fce33f2be0056cf73" title="Add a client to DerivedDataReader. " alt="" coords="221,50,401,91"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DerivedDataReader.html#a251a0410a3bf65d021bb2b5ee8bf1982" title="Fetch the pointer to the instance of DerivedDataReader. " alt="" coords="221,115,401,157"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleOutputBase.html#a99ed3bd80a3a029e354fa1680c2b3573" title="nidas::core::SampleOutput\lBase::getIOChannel" alt="" coords="214,181,407,222"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="214,246,407,287"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleOutputBase.html#a2c2fe5e787de769f9604f68778afe397" title="nidas::core::SampleOutput\lBase::setName" alt="" coords="214,311,407,353"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="685,5,816,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DerivedDataReader.html#aa488e7aa9bc5fdb5c9520072c5118745" title="nidas::core::DerivedData\lReader::removeClient" alt="" coords="457,50,637,91"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="685,83,816,125"/>
+</map>

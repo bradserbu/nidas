@@ -1,0 +1,17 @@
+<map id="nidas::core::MultipleUDPSockets::addClient" name="nidas::core::MultipleUDPSockets::addClient">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html#af41346d3d0a166c501c77dc94cb1e891" title="The IPV4 address of the interface. " alt="" coords="310,5,485,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1MultipleUDPSockets.html#aff558947a37b4acd03b38db72c651c22" title="nidas::core::MultipleUDPSockets\l::getDataPort" alt="" coords="283,70,511,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1ConnectionInfo.html#a77f9cc7c1be522a9c38ecd4b611274f0" title="The destination address of the packet. " alt="" coords="300,135,495,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Inet4Address.html#a0955351978950ff32c1daa6dcc13764c" title="Return string containing address in dot notation: w.x.y.z. " alt="" coords="582,263,757,305"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a5a980fd49b48f9cc36250f08efae7e19" title="Return the IP address portion. " alt="" coords="576,549,763,590"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1McSocketUDP.html#acf7f1155adb48231ee1b53163047eeb1" title="nidas::core::McSocketUDP\l::getInet4McastSocketAddress" alt="" coords="289,201,506,242"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1ConnectionInfo.html#a32932eef4cc65d6eaff85a1109ea2e14" title="The interface that the packet was received on. " alt="" coords="300,383,495,425"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1ConnectionInfo.html#aeb0c3db1da521ac5c7b9914e722edbc7" title="The remote address of connection. " alt="" coords="299,449,495,490"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Inet4Address.html#ab5665d441e015fed8fd5b97a7e388a37" title="Is this address a multicast address? Multicast addresses are in the range 224.0.0.1 to 239.255.255.255, their first four bits are 1110=0xe. " alt="" coords="310,514,485,555"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="332,579,463,621"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a71ff19aa4758847ef724cd30c506cdf3" title="Set the port number. " alt="" coords="314,645,481,686"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a42e8934101c8ff3291031d4773b6168f" title="Java style toString, but no DNS lookup: returns &quot;inet:w.x.y.z:port&quot;. " alt="" coords="305,318,490,359"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="332,762,463,803"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1McSocket.html#a26e7d3dd583b522cdc15f63fba2e8913" title="Get the multicast address for listening to requests. " alt="" coords="561,198,778,239"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a3f70de15bd05eb31407b30e1f4f2e841" title="Return the port number. " alt="" coords="586,329,753,370"/>
+</map>

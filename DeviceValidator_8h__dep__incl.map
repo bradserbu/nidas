@@ -1,0 +1,8 @@
+<map id="nidas/apps/config/DeviceValidator.h" name="nidas/apps/config/DeviceValidator.h">
+<area shape="rect" id="node2" href="$AddA2DVariableComboDialog_8cc.html" title="nidas/apps/config/AddA2DVariable\lComboDialog.cc" alt="" coords="5,97,245,138"/>
+<area shape="rect" id="node3" href="$AddDSMComboDialog_8cc.html" title="nidas/apps/config/AddDSMCombo\lDialog.cc" alt="" coords="270,97,508,138"/>
+<area shape="rect" id="node4" href="$AddSensorComboDialog_8cc.html" title="nidas/apps/config/AddSensor\lComboDialog.cc" alt="" coords="533,97,739,138"/>
+<area shape="rect" id="node5" href="$DeviceValidator_8cc.html" title="nidas/apps/config/Device\lValidator.cc" alt="" coords="763,97,943,138"/>
+<area shape="rect" id="node6" href="$SensorItem_8cc.html" title="nidas/apps/config/nidas\l_qmv/SensorItem.cc" alt="" coords="968,97,1139,138"/>
+<area shape="rect" id="node7" href="$VariableComboDialog_8cc.html" title="nidas/apps/config/Variable\lComboDialog.cc" alt="" coords="1163,97,1351,138"/>
+</map>

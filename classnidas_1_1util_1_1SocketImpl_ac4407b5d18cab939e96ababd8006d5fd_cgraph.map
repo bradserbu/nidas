@@ -1,0 +1,5 @@
+<map id="nidas::util::SocketImpl::close" name="nidas::util::SocketImpl::close">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1SocketImpl.html#aed0edf6bcfa48a862f2f95ac18ca4bf3" title="Get local socket address of this socket. " alt="" coords="225,5,405,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketImpl.html#a823649cca15b0c841266621653f5e026" title="Get remote socket address of this socket. " alt="" coords="217,70,413,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="221,135,408,177"/>
+</map>

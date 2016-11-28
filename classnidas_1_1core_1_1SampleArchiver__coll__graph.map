@@ -1,0 +1,25 @@
+<map id="nidas::core::SampleArchiver" name="nidas::core::SampleArchiver">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleIOProcessor.html" title="Interface of a processor of samples. " alt="" coords="2014,261,2239,288"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="663,133,857,160"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1SampleSourceSupport.html" title="A source of samples. " alt="" coords="987,254,1181,295"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleConnectionRequester.html" title="Interface for an object that requests connections SampleOutputs. " alt="" coords="1685,195,1907,237"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,627,182,653"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMConfig.html" title="Class that should include all that is configurable about a DSM. " alt="" coords="1391,1147,1561,1173"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Site.html" title="A measurement site. " alt="" coords="1021,904,1147,931"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Project.html" title="nidas::core::Project" alt="" coords="688,728,832,755"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="308,627,487,653"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="299,677,495,704"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements, keyed by the ID attributes. " alt="" coords="300,728,495,755"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DSMService.html" title="Base class for a service, as built from a &lt;service&gt; XML tag. " alt="" coords="1707,475,1885,501"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1DSMServer.html" title="A provider of services to a DSM. " alt="" coords="1390,735,1562,761"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="332,217,463,244"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1SampleClientList.html" title="A list of SampleClients. " alt="" coords="657,261,863,288"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,217,199,244"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1DSMConfig_1_1MyDictionary.html" title="nidas::core::DSMConfig\l::MyDictionary" alt="" coords="1711,1169,1881,1210"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="991,1047,1177,1073"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="678,1052,842,1079"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="1012,787,1156,829"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="1409,885,1543,926"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1Dataset.html" title="A Dataset is a named collection of parameters, that are used in data processing. " alt="" coords="322,900,473,927"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1SampleStats.html" title="A source of samples. " alt="" coords="669,312,851,339"/>
+</map>

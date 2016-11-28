@@ -1,0 +1,5 @@
+<map id="nidas::dynld::psql::PSQLSampleOutput::initializeGlobalAttributes" name="nidas::dynld::psql::PSQLSampleOutput::initializeGlobalAttributes">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="240,5,384,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a50fd3eccc69ce8e057bc36e1a965415d" title="nidas::core::Project\l::getName" alt="" coords="240,70,384,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1dynld_1_1psql_1_1PSQLSampleOutput.html#aacdbdb7dbe11f65dce5f2b4efb790536" title="nidas::dynld::psql\l::PSQLSampleOutput::\lsubmitCommand" alt="" coords="229,136,395,192"/>
+</map>

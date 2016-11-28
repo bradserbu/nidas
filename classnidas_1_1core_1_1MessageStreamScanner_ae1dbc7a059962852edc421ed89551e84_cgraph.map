@@ -1,0 +1,21 @@
+<map id="nidas::core::MessageStreamScanner::nextSampleSepEOM" name="nidas::core::MessageStreamScanner::nextSampleSepEOM">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleScanner.html#af59099d4a743ebe99b21644395c1e380" title="nidas::core::SampleScanner\l::addSampleToStats" alt="" coords="543,5,745,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Sample.html#a4b528a587ecef233795b0eaf729e6d85" title="Get number of bytes allocated in data portion of sample. " alt="" coords="567,658,721,699"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a2883f4452f6d9bdbdaefcca4c85c87a0" title="Get the various levels of the samples identification. " alt="" coords="294,517,469,558"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1MessageStreamScanner.html#a93c6d02f85ff7e7666bdb73d1debcb13" title="Returns 0. " alt="" coords="279,582,484,623"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1MessageStreamScanner.html#a8c9e724c7fee043b14df68482f69dfa2" title="Should the SampleScanner append a null character, &#39;\0&#39;, to the messages. " alt="" coords="541,70,747,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleScanner.html#a0f2ae0d8b266a3bbfa02f059dc8577ca" title="nidas::core::SampleScanner\l::getUsecsPerByte" alt="" coords="280,647,483,689"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Sample.html#a5fb35a1da497c72048bc31c57864af74" title="Get a void* pointer to the data portion of the sample. " alt="" coords="569,201,719,242"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1MessageStreamScanner.html#a562d401af53045c341f14fa40085a2ca" title="If a new sample can be allocated without exceeding MAX_MESSAGE_STREAM_SAMPLE_SIZE then get a new..." alt="" coords="270,298,493,339"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Sample.html#a51e680d1bd4cca5ffc53eff8cd98802c" title="Set the number of elements in data portion of sample. " alt="" coords="569,135,719,177"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="569,593,719,634"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="569,527,719,569"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SampleT.html#a8c3ba23ff2dc23c9285ea119ba9080bd" title="Get a void* pointer to the data portion of the sample. " alt="" coords="566,331,722,373"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="569,397,719,438"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1Sample.html#a773f6f7732f631184c0daab9522baba9" title="Get the id portion of the sample header. " alt="" coords="569,462,719,503"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Sample.html#a355553922b04c738465e06c7e7d21767" title="Decrement the reference count for this sample. " alt="" coords="569,266,719,307"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="795,527,991,569"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="795,397,991,438"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="795,593,991,634"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SampleHeader.html#a91a71e15fd149e79d7a94a310d880fda" title="nidas::core::SampleHeader\l::getId" alt="" coords="795,462,991,503"/>
+</map>

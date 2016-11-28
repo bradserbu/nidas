@@ -1,0 +1,6 @@
+<map id="nidas::core::SampleScanner" name="nidas::core::SampleScanner">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DatagramSampleScanner.html" title="nidas::core::DatagramSample\lScanner" alt="" coords="257,5,471,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DriverSampleScanner.html" title="A SampleScanner for reading samples that have been pre&#45;formatted by a device driver &#45; they already ha..." alt="" coords="271,70,457,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1MessageStreamScanner.html" title="A SampleScanner which supports the set/get of message separation parameters and extracts samples from..." alt="" coords="261,135,467,177"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1MessageSampleScanner.html" title="A DriverSampleScanner which supports the set/get of message separation parameters. " alt="" coords="521,70,727,111"/>
+</map>

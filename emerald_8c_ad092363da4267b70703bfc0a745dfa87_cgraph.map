@@ -1,0 +1,5 @@
+<map id="emm_load_config_from_eeprom" name="emm_load_config_from_eeprom">
+<area shape="rect" id="node2" href="$emerald_8c.html#ab60c5d92bad1404442f7c233d0e61bc1" title="emm_check_config" alt="" coords="231,5,377,32"/>
+<area shape="rect" id="node3" href="$emerald_8c.html#a238cdd0b0998df1e4df57c42d0d89633" title="emm_read_config" alt="" coords="235,56,373,83"/>
+<area shape="rect" id="node4" href="$emerald_8c.html#a10c5112b6381474949c2483f583cb742" title="emm_read_eeconfig" alt="" coords="227,107,381,133"/>
+</map>

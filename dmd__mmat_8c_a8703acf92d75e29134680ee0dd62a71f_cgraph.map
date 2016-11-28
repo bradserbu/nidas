@@ -1,0 +1,13 @@
+<map id="startA2D" name="startA2D">
+<area shape="rect" id="node2" href="$nidas__util_8c.html#a300153253ae0c68c2c41206be69adb45" title="alloc_dsm_circ_buf" alt="" coords="167,5,310,32"/>
+<area shape="rect" id="node3" href="$dmd__mmat_8c.html#ad0d78fac7ecfa5c8fc2d52fce9a52156" title="dmd_mmat_add_irq_user" alt="" coords="145,56,332,83"/>
+<area shape="rect" id="node8" href="$dmd__mmat_8c.html#a12f3ad46bc07ae7009f994f5751ab185" title="dmd_mmat_remove_irq_user" alt="" coords="133,107,344,133"/>
+<area shape="rect" id="node9" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="169,157,308,184"/>
+<area shape="rect" id="node6" href="$dmd__mmat_8c.html#a55ef3b4f0cc765d38cd86d9128ec2e48" title="getA2DDeviceName" alt="" coords="792,145,944,172"/>
+<area shape="rect" id="node10" href="$dmd__mmat_8c.html#ac4e63a34bb8b0bd9775fcd2a57587603" title="setupClock12" alt="" coords="185,259,293,285"/>
+<area shape="rect" id="node4" href="$dmd__mmat_8c.html#ad6a9edfb683f76cf648c3d72012217af" title="dmmat_irq_handler" alt="" coords="392,81,539,108"/>
+<area shape="rect" id="node5" href="$dmd__mmat_8c.html#a6305a955c7979ab86e5889ec9990ae38" title="dmmat_a2d_handler" alt="" coords="588,81,743,108"/>
+<area shape="rect" id="node7" href="$dmd__mmat_8c.html#ae3e8d69dfe31cc7435f3d115be2bf1df" title="dmmat_cntr_handler" alt="" coords="587,132,743,159"/>
+<area shape="rect" id="node11" href="$dmd__mmat_8c.html#a33b4f7074a420eae05f11e55cf1e9afa" title="div_10" alt="" coords="434,259,497,285"/>
+<area shape="rect" id="node12" href="$dmd__mmat_8c.html#a84c7b29f15529e4b982a75eb6624ecd3" title="Set counter value in a 82C54 clock. " alt="" coords="409,309,521,336"/>
+</map>

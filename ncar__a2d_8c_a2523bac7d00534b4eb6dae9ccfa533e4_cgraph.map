@@ -1,0 +1,4 @@
+<map id="i2c_getAck" name="i2c_getAck">
+<area shape="rect" id="node2" href="$ncar__a2d_8c.html#a4569e7baa3569cbbdcb9180f77a4cef1" title="i2c_clock_hi" alt="" coords="145,5,242,32"/>
+<area shape="rect" id="node3" href="$ncar__a2d_8c.html#ac7d5f43ef0a9b98263626a306936a12a" title="i2c_clock_lo" alt="" coords="145,56,242,83"/>
+</map>

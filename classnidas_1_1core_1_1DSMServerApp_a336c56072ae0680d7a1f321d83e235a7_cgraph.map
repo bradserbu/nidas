@@ -1,0 +1,16 @@
+<map id="nidas::core::DSMServerApp::parseXMLConfigFile" name="nidas::core::DSMServerApp::parseXMLConfigFile">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Process.html#a1106e7c05fa20214f2fc7cdd29cc2871" title="nidas::util::Process\l::expandEnvVars" alt="" coords="297,5,439,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1XMLCachingParser.html#a0c435ba5e6ff996df66e867a665668cf" title="nidas::core::XMLCachingParser\l::getInstance" alt="" coords="259,70,477,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1XMLCachingParser.html#abcaeb221bd29e5374351f99665b05d73" title="Parse from a file. " alt="" coords="259,135,477,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1XMLParser.html#a248bc8b17f27ed5138c18ef43720ece7" title="Enable/disable datatype normalization. " alt="" coords="253,201,483,242"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1XMLParser.html#a4efd3358eca7e4b2b05308bdd1fe2aeb" title="Enable/disable namespace processing. " alt="" coords="285,266,451,307"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1XMLParser.html#a0335f83b75665e1192a99379c0abf19a" title="Enable/disable schema validation. " alt="" coords="272,331,464,373"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1XMLParser.html#afabfb4fe18592c068d8232d1eb3655a1" title="DOMBuilder::setFilter is not yet implemented in xerces c++ 2.6.0 void setFilter(xercesc::DOMBuilderFi..." alt="" coords="285,397,451,438"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1XMLParser.html#aebadf07376e3b9e16c86060337a8bc2e" title="nidas::core::XMLParser\l::setXercesDoXInclude" alt="" coords="285,462,451,503"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1XMLParser.html#a12fa07edcbf1a8470c49bf11d2fd5de6" title="nidas::core::XMLParser\l::setXercesHandleMultipleImports" alt="" coords="251,527,485,569"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1XMLParser.html#aa5c093a863f40403ddd2d0e099bad4e3" title="Enable/disable schema support. " alt="" coords="285,593,451,634"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1XMLParser.html#a6555ab7a2709322ec6cf611eae639071" title="Enable/disable full schema constraint checking, including checking which may be time&#45;consuming or mem..." alt="" coords="257,658,479,699"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Process.html#a6a34d9f6ed7972f4327c95f9436bf509" title="Get an environment variable given a variable name like &quot;HOST&quot;, without the &#39;$&#39;, or any brackets..." alt="" coords="572,5,713,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1XMLCachingParser.html#acfe751d9bc47de405e9723fadfa2432d" title="nidas::core::XMLCachingParser\l::XMLCachingParser" alt="" coords="534,70,751,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1XMLParser.html#a5788eb63bb44197c6663979579e8f030" title="nidas::core::XMLParser\l::parse" alt="" coords="559,135,726,177"/>
+</map>

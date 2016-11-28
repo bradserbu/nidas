@@ -1,0 +1,13 @@
+<map id="nidas::core::SampleAverager::flush" name="nidas::core::SampleAverager::flush">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a4f57b47ab525c419326c0884cd1d5962" title="Distribute a sample to my clients, calling the receive() method of each client, passing the const poi..." alt="" coords="261,70,456,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleT.html#a1a4fc30a7ddc84ac06a668a4b5ff7c6b" title="Decrement the reference count for this sample. " alt="" coords="281,135,437,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="281,201,437,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="273,266,444,307"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="284,331,433,373"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="284,397,433,438"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleClientList.html#a1d0229196b4d3317468e422af3d3892a" title="get a const_iterator pointing to first element. " alt="" coords="510,5,695,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleClientList.html#a78261da3f72cf13f92354247424fd82a" title="get a const_iterator pointing to one&#45;past&#45;last element. " alt="" coords="510,70,695,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SamplePool.html#a6def0d6115dae0704c33f2a1f46c55bf" title="Return a sample to the pool. " alt="" coords="515,135,691,177"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="505,331,701,373"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="505,397,701,438"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nidas/core/UDPSocketIODevice.h" name="nidas/core/UDPSocketIODevice.h">
+<area shape="rect" id="node2" href="$CharacterSensor_8cc.html" title="nidas/core/CharacterSensor.cc" alt="" coords="5,80,221,107"/>
+<area shape="rect" id="node3" href="$SerialSensor_8cc.html" title="nidas/core/SerialSensor.cc" alt="" coords="246,80,436,107"/>
+<area shape="rect" id="node4" href="$UDPSocketIODevice_8cc.html" title="nidas/core/UDPSocketIODevice.cc" alt="" coords="461,80,699,107"/>
+<area shape="rect" id="node5" href="$UDPSocketSensor_8cc.html" title="nidas/dynld/UDPSocketSensor.cc" alt="" coords="724,80,956,107"/>
+</map>

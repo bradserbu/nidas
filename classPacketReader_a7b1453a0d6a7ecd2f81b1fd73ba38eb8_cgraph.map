@@ -1,0 +1,13 @@
+<map id="PacketReader::checkPacket" name="PacketReader::checkPacket">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramPacketT.html#a2d970c21eab255864b1a46ea133d120b" title="nidas::util::DatagramPacket\lT::getConstDataVoidPtr" alt="" coords="499,5,698,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleHeader.html#aec57e900800863620fb79c225b947b75" title="Get the value of the length member of the header. " alt="" coords="251,175,447,217"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleHeader.html#a91a71e15fd149e79d7a94a310d880fda" title="nidas::core::SampleHeader\l::getId" alt="" coords="251,241,447,282"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1DatagramPacketBase.html#aab1a729e8bb33b1f00e5249246b3608c" title="Get the value for the current number of bytes in data. " alt="" coords="499,70,698,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleHeader.html#ac3e18adbfd3fb1ae67f168ee98de005f" title="nidas::core::SampleHeader\l::getSizeOf" alt="" coords="251,306,447,347"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="251,371,447,413"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleHeader.html#a5477c2a00f32a96a9f0b9740a099ef66" title="Get the data type of this sample. " alt="" coords="251,437,447,478"/>
+<area shape="rect" id="node9" href="$classPacketReader.html#aaaaf1df93c8a4106ac48ac6777d2231d" title="PacketReader::logBadPacket" alt="" coords="248,124,451,151"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1DatagramPacketBase.html#a3de6572b2381400c14981a3ed2aac923" title="Set the value for the current number of bytes in data. " alt="" coords="250,502,449,543"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1DatagramPacketBase.html#ac4ebf929284133f39110573766a7304f" title="nidas::util::DatagramPacket\lBase::getSocketAddress" alt="" coords="499,135,698,177"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="505,201,692,242"/>
+</map>

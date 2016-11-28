@@ -1,0 +1,8 @@
+<map id="nidas::core::SensorHandler::addSensor" name="nidas::core::SensorHandler::addSensor">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="693,5,824,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SensorOpener.html#abfad7d573cc7cf4da785bfec15ae2542" title="A SensorHandler calls this method to schedule a sensor to be opened. " alt="" coords="248,89,440,130"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="693,183,824,225"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Cond.html#a069efcc951a01cf6a901dd4c92f14ebe" title="Lock the mutex associated with the condition variable. " alt="" coords="488,37,645,64"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Cond.html#aec94b8d8b478f5e298dd264bf13bd57c" title="Unblock at least one thread waiting on the condition variable. " alt="" coords="501,89,633,130"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Cond.html#afe6c8b703dd232a4f7c88b9f0f019c40" title="Unlock the mutex associated with the condition variable. " alt="" coords="501,154,633,195"/>
+</map>

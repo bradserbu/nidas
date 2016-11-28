@@ -1,0 +1,22 @@
+<map id="nidas/apps/proj_configs.cc" name="nidas/apps/proj_configs.cc">
+<area shape="rect" id="node2" href="$ProjectConfigs_8h.html" title="nidas/core/ProjectConfigs.h" alt="" coords="1831,80,2025,107"/>
+<area shape="rect" id="node3" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="3013,312,3149,339"/>
+<area shape="rect" id="node23" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="5,305,195,346"/>
+<area shape="rect" id="node24" href="$XMLException_8h.html" title="XMLException.h" alt="" coords="903,395,1025,421"/>
+<area shape="rect" id="node27" href="$XMLParser_8h.html" title="XMLParser.h" alt="" coords="1879,312,1977,339"/>
+<area shape="rect" id="node35" href="$Project_8h.html" title="Project.h" alt="" coords="2178,155,2256,181"/>
+<area shape="rect" id="node13" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="2454,395,2583,421"/>
+<area shape="rect" id="node18" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="3629,395,3760,421"/>
+<area shape="rect" id="node20" href="$time__constants_8h.html" title="time_constants.h" alt="" coords="2797,395,2931,421"/>
+<area shape="rect" id="node21" href="$IOException_8h.html" title="IOException.h" alt="" coords="2269,395,2379,421"/>
+<area shape="rect" id="node16" href="$Exception_8h.html" title="Exception.h" alt="" coords="1909,469,2005,496"/>
+<area shape="rect" id="node36" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="538,229,629,256"/>
+<area shape="rect" id="node43" href="$Sample_8h.html" title="Sample.h" alt="" coords="2692,312,2775,339"/>
+<area shape="rect" id="node44" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="2207,229,2323,256"/>
+<area shape="rect" id="node45" href="$Dictionary_8h.html" title="Dictionary.h" alt="" coords="2567,229,2663,256"/>
+<area shape="rect" id="node46" href="$Datasets_8h.html" title="Datasets.h" alt="" coords="1442,229,1533,256"/>
+<area shape="rect" id="node47" href="$Inet4Address_8h.html" title="nidas/util/Inet4Address.h" alt="" coords="2257,312,2436,339"/>
+<area shape="rect" id="node37" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="219,312,369,339"/>
+<area shape="rect" id="node38" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="547,312,620,339"/>
+<area shape="rect" id="node39" href="$XMLStringConverter_8h.html" title="XMLStringConverter.h" alt="" coords="164,395,324,421"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Csat3Sim::run" name="Csat3Sim::run">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1SerialPort.html#a9f7435ee4a8cbc1e19e2db420b97d291" title="nidas::util::SerialPort\l::getFd" alt="" coords="173,5,326,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SerialPort.html#aa586f39ea8cb368b66730df42fe6058a" title="Get device name of the SerialPort. " alt="" coords="173,70,326,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SerialPort.html#a7cda81901e55fa83939d005acf01de27" title="nidas::util::SerialPort\l::read" alt="" coords="173,135,326,177"/>
+<area shape="rect" id="node5" href="$classFileSim.html#a130979b4ead061f9f047b5a5d29f098d" title="Implement this to send a message from the simulated sensor. " alt="" coords="168,201,331,228"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1SerialPort.html#ae4d09a43fe7d99a714858a88bdccd8fe" title="nidas::util::SerialPort\l::write" alt="" coords="173,253,326,294"/>
+<area shape="rect" id="node6" href="$classFileSim.html#a8f8fc1ee32ecf31fe916f8efa0ddc550" title="FileSim::sendBinaryMessage" alt="" coords="379,176,581,203"/>
+<area shape="rect" id="node9" href="$classFileSim.html#aa27d76a9a584f5c4578a0714b1c2b4b3" title="FileSim::sendASCIIMessage" alt="" coords="382,227,578,253"/>
+<area shape="rect" id="node7" href="$classSensorSimulator.html#aae6a70c4798d0357e83a55eb1fc574db" title="Stop the simulation. " alt="" coords="645,176,837,203"/>
+<area shape="rect" id="node8" href="$classSensorSimulator.html#a261b971c21a0c802b125f365d67c2713" title="Subclasses generate the message to send, then call writeMessage() to send it out. ..." alt="" coords="629,125,853,152"/>
+<area shape="rect" id="node10" href="$classFileSim.html#a1ed5d18b1033b5900dba99ad013ff3f2" title="FileSim::rewind" alt="" coords="683,277,799,304"/>
+<area shape="rect" id="node11" href="$classFileSim.html#ac5a82b7715e4b2a2ecb83b0e1a0e6af9" title="FileSim::close" alt="" coords="1105,277,1213,304"/>
+<area shape="rect" id="node14" href="$namespacenidas_1_1util.html#acccb588a1000e0dbe252c59a3a7f2a3a" title="Utility function for replacing backslash sequences in a string. " alt="" coords="640,329,843,370"/>
+<area shape="rect" id="node12" href="$classFileSim.html#ada8eb6fee57687fca97cdea53555064d" title="FileSim::open" alt="" coords="925,277,1032,304"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="902,329,1055,370"/>
+</map>

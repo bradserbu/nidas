@@ -1,0 +1,5 @@
+<map id="nidas::core::SampleTag::setStation" name="nidas::core::SampleTag::setStation">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Variable.html#a311e982fd8a58d717627fe5a4a89306a" title="nidas::core::Variable\l::setStation" alt="" coords="225,38,375,79"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a4c4262fd33f1cc834ea736feb5757417" title="nidas::core::Variable\l::setSiteSuffix" alt="" coords="425,5,575,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Site.html#a03c9baf2d9b0633360916e73956490f2" title="nidas::core::Site::\lgetSuffix" alt="" coords="433,70,567,111"/>
+</map>

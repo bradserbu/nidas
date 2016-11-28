@@ -1,0 +1,12 @@
+<map id="nidas::core::DSMEngine::deleteDataThreads" name="nidas::core::DSMEngine::deleteDataThreads">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DerivedDataReader.html#ae6557c6003322139271c482463786e0a" title="Delete the singleton instance of DerivedDataReader, shutting down the thread if is is running..." alt="" coords="227,135,407,177"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DerivedDataReader.html#a251a0410a3bf65d021bb2b5ee8bf1982" title="Fetch the pointer to the instance of DerivedDataReader. " alt="" coords="227,201,407,242"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#ab5f1ec60a122d14701747fd96daeff61" title="Cancel this thread. " alt="" coords="466,5,601,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a4f6d1422edd345586e81e487335d20c4" title="Has this thread been joined? " alt="" coords="466,135,601,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="466,201,601,242"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="466,70,601,111"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="457,266,610,307"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="659,70,813,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="669,5,803,46"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="669,135,803,177"/>
+</map>

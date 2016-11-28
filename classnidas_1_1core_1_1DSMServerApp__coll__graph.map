@@ -1,0 +1,23 @@
+<map id="nidas::core::DSMServerApp" name="nidas::core::DSMServerApp">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMServerStat.html" title="nidas::core::DSMServerStat" alt="" coords="1646,301,1845,328"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1StatusThread.html" title="A thread that runs periodically checking and multicasting the status of a DSMEngine. " alt="" coords="1157,281,1344,308"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="671,241,806,268"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1XmlRpcThread.html" title="A thread that provides XML&#45;based Remote Procedure Calls to web interfaces. " alt="" coords="1155,223,1346,249"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="323,273,472,300"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="332,527,463,553"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Project.html" title="nidas::core::Project" alt="" coords="667,724,811,751"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,655,199,681"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="321,223,474,249"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Dataset.html" title="A Dataset is a named collection of parameters, that are used in data processing. " alt="" coords="322,425,473,452"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DSMServer.html" title="A provider of services to a DSM. " alt="" coords="1371,385,1543,412"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1Site.html" title="A measurement site. " alt="" coords="975,685,1100,712"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1DSMServerIntf.html" title="A thread that provides XML&#45;based Remote Procedure Calls to web interfaces from the DSMServer..." alt="" coords="1649,236,1841,263"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,779,182,805"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="308,901,487,928"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="299,749,495,776"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements, keyed by the ID attributes. " alt="" coords="300,851,495,877"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="944,385,1131,412"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="965,762,1109,803"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="657,831,821,857"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="1391,742,1524,783"/>
+</map>

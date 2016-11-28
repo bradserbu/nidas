@@ -1,0 +1,4 @@
+<map id="nidas::core::Variable::closeMatch" name="nidas::core::Variable::closeMatch">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Variable.html#abb2281682a7ee9bf5e85da363713a60f" title="How many values in this variable? " alt="" coords="206,5,357,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a44378bbc7bc86ddd645d1d02a0e18efc" title="Return the measurement site for this variable. " alt="" coords="206,70,357,111"/>
+</map>

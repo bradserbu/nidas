@@ -1,0 +1,35 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classGarmin.html#abe6300d943df795d31c9e890677e61ae" title="Garmin::parseRunstring" alt="" coords="110,107,282,133"/>
+<area shape="rect" id="node7" href="$classGarmin.html#a8bd9a042486224a2ad8d49c043a5b785" title="Garmin::run" alt="" coords="147,648,245,675"/>
+<area shape="rect" id="node3" href="$classGarmin.html#a36d27202411f99e5b669f85e549092c2" title="Garmin::getBaudRateIndex" alt="" coords="581,263,776,289"/>
+<area shape="rect" id="node4" href="$classGarmin.html#a346a69031dc88bd508e374060cc4bc17" title="Garmin::usage" alt="" coords="374,56,490,83"/>
+<area shape="rect" id="node5" href="$classGarmin.html#a22c51497b415cb2b9f41221b103c91b0" title="Garmin::checkMessage" alt="" coords="347,107,517,133"/>
+<area shape="rect" id="node6" href="$classGarmin.html#ae63d79de417f75db0976f21207318d3a" title="Garmin::getPulseWidthIndex" alt="" coords="331,5,533,32"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1SerialPort.html#aaf4b3a79965282f7762fdb6e124e3027" title="Set device name of the SerialPort. " alt="" coords="355,411,509,453"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1SerialPort.html#a48473e81db1d97fcb924a401798abecf" title="Writable reference to the SerialPort&#39;s Termios. " alt="" coords="355,477,509,518"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Termios.html#a7b5b9aa3cf04153b7e2cfbc05673038b" title="nidas::util::Termios\l::setBaudRate" alt="" coords="362,542,502,583"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Termios.html#a4442316106f281195df997ff6f7a5d27" title="Sets termios options for raw or non&#45;raw(cooked) mode. " alt="" coords="362,607,502,649"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Termios.html#a415be5ebf0ee091f79e8daba74665034" title="nidas::util::Termios\l::setRawTimeout" alt="" coords="362,673,502,714"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Termios.html#af7e517ab4d19172df6250108e4aabccc" title="nidas::util::Termios\l::setRawLength" alt="" coords="362,738,502,779"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1SerialPort.html#ad132913a39c459710cddea8c6ef2d3c6" title="open the serial port. " alt="" coords="355,803,509,845"/>
+<area shape="rect" id="node15" href="$classGarmin.html#a9ba3a6197f38df6c49dc4cfbcdb329f2" title="Garmin::scanMessages" alt="" coords="593,212,764,239"/>
+<area shape="rect" id="node17" href="$classGarmin.html#aa343b1fa61ca00598de403a84207fd62" title="Garmin::setBaudRateOption" alt="" coords="331,309,533,336"/>
+<area shape="rect" id="node26" href="$classGarmin.html#ad5a8dc36caacc350ced60cab6e3add55" title="Garmin::disableAllMessages" alt="" coords="331,360,533,387"/>
+<area shape="rect" id="node27" href="$classGarmin.html#a7cc05d38af40049a86c533c238cc8127" title="Garmin::enableAllMessages" alt="" coords="333,869,531,896"/>
+<area shape="rect" id="node28" href="$classGarmin.html#ae411818112a9f87b7b03103af2ffda47" title="Garmin::disableMessage" alt="" coords="589,1109,768,1136"/>
+<area shape="rect" id="node29" href="$classGarmin.html#a9edd6e6f15535c61556cfa29287046d9" title="Garmin::enableMessage" alt="" coords="590,1059,767,1085"/>
+<area shape="rect" id="node30" href="$classGarmin.html#a3527a46389861c4d0b9750fcf51d8d9e" title="Garmin::disablePPS" alt="" coords="359,920,505,947"/>
+<area shape="rect" id="node32" href="$classGarmin.html#acd350b51ba8ce261bb6a2f1ff60c5174" title="Garmin::enablePPS" alt="" coords="359,971,505,997"/>
+<area shape="rect" id="node34" href="$classnidas_1_1util_1_1SerialPort.html#a94d1ee3a3af45ef4f74a77f2dea2ec56" title="close the file descriptor. " alt="" coords="602,146,755,187"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="837,874,990,915"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1SerialPort.html#ae4d09a43fe7d99a714858a88bdccd8fe" title="nidas::util::SerialPort\l::write" alt="" coords="602,689,755,730"/>
+<area shape="rect" id="node19" href="$classGarmin.html#a3a95f63c3833e13d69285b20b218fc00" title="Garmin::readMessage" alt="" coords="597,579,760,605"/>
+<area shape="rect" id="node22" href="$classGarmin.html#acc8d1b42d686458a4f4f279ec4c49a00" title="Garmin::substCRNL" alt="" coords="605,755,752,781"/>
+<area shape="rect" id="node24" href="$classGarmin.html#a85a7c92073f8d7062f8a25eb17ebcef9" title="Garmin::getStringField" alt="" coords="597,364,761,391"/>
+<area shape="rect" id="node25" href="$classGarmin.html#af1224f442a91a4b7708c7bfb78f844ea" title="Garmin::getBaudRate" alt="" coords="599,415,759,441"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1SerialPort.html#ac81cf836e8032838eb425276d025fdfa" title="Read bytes until either the term character is read, or len&#45;1 number of characters have been read..." alt="" coords="837,571,990,613"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1SerialPort.html#aa586f39ea8cb368b66730df42fe6058a" title="Get device name of the SerialPort. " alt="" coords="837,326,990,367"/>
+<area shape="rect" id="node23" href="$namespacenidas_1_1util.html#a1902a11460fd068872aca208a4f1b57d" title="Utility function for substituting backslash sequences back into a string. " alt="" coords="824,747,1003,789"/>
+<area shape="rect" id="node31" href="$classGarmin.html#a8f0e156b68151b7d00cb69db02e05112" title="Garmin::checkPPS" alt="" coords="609,907,748,933"/>
+<area shape="rect" id="node33" href="$classGarmin.html#aae8e08229096713ec7232c3c12ca1eec" title="Garmin::getPulseWidth" alt="" coords="595,957,762,984"/>
+</map>

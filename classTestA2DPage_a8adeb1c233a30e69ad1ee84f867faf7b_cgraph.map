@@ -1,0 +1,4 @@
+<map id="TestA2DPage::TestVoltage" name="TestA2DPage::TestVoltage">
+<area shape="rect" id="node2" href="$classAutoCalClient.html#a01f7227c8d878333e18b05fd7b7cf824" title="AutoCalClient::GetVoltage\lLevels" alt="" coords="252,5,439,46"/>
+<area shape="rect" id="node3" href="$classAutoCalClient.html#abe595259c85ef38e6968ca81fc9f206c" title="AutoCalClient::setTestVoltage" alt="" coords="241,71,450,97"/>
+</map>

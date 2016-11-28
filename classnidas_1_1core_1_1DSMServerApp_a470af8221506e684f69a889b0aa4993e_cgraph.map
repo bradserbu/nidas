@@ -1,0 +1,5 @@
+<map id="nidas::core::DSMServerApp::~DSMServerApp" name="nidas::core::DSMServerApp::~DSMServerApp">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SamplePools.html#ac298111c365540a14a0cdd4f9e0cd964" title="nidas::core::SamplePools\l::deleteInstance" alt="" coords="273,5,455,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleOutputRequestThread.html#ad749786c1cdab8f32820240db8dae6ab" title="Singleton destructor. " alt="" coords="251,70,477,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="526,70,679,111"/>
+</map>

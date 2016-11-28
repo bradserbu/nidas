@@ -1,0 +1,11 @@
+<map id="nidas::dynld::IEEE_Float::process" name="nidas::dynld::IEEE_Float::process">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1VariableConverter.html#a5d053639cbcb435c9f334d14556e871f" title="nidas::core::VariableConverter\l::convert" alt="" coords="187,5,402,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a93633805e3605f24f1041b004b1cf1e0" title="nidas::core::Variable\l::getConverter" alt="" coords="219,70,370,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="217,135,373,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#ace69670cdee25d3e63ff1f284b5c6e2f" title="nidas::core::Variable\l::getMaxValue" alt="" coords="219,201,370,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Variable.html#a97ad6c9527823ece2f521a4607e84aeb" title="nidas::core::Variable\l::getMissingValue" alt="" coords="219,266,370,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="220,331,369,373"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="220,397,369,438"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="451,331,647,373"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="451,397,647,438"/>
+</map>

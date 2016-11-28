@@ -1,0 +1,5 @@
+<map id="nidas::util::BitArray::setBits64" name="nidas::util::BitArray::setBits64">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1BitArray.html#ad5a6c136acd7616a856c653f1f728da4" title="Length of array, in bits. " alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1BitArray.html#a1cf692ff89691db07b57df650ab78e6d" title="Set a bit, in range 0:(length()&#45;1) to 1 if value is true, otherwise false. " alt="" coords="198,70,341,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1BitArray.html#a1291f609786f31105511f0810b5d354f" title="Length of array, in bytes. " alt="" coords="390,70,533,111"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="nidas::core::DSMEngine::openSensors" name="nidas::core::DSMEngine::openSensors">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SamplePipeline.html#ad98e04882f62856dec7fa1ff38266249" title="Add an input to be merged and sorted. " alt="" coords="239,471,438,512"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="271,536,406,578"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1DSMConfig.html#a02e79e44ca58905e73a72304665913c5" title="Get the size of in bytes of the processed SampleSorter. " alt="" coords="253,602,424,643"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1DSMConfig.html#ae8e6aca86f6a551bbb9f0b04fca90b7f" title="Get the size of the late sample cache in the processed sample sorter. " alt="" coords="227,667,450,708"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1DSMConfig.html#ad5400c1b0e420ceab3d1ec41d6a0c338" title="Get the length of the SampleSorter of processed Samples, in seconds. " alt="" coords="253,732,424,774"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1DSMConfig.html#a624d37eee3f8f1f1e9032a28c97b42f8" title="Get the size of in bytes of the raw SampleSorter. " alt="" coords="253,798,424,839"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1DSMConfig.html#a76c5a7c1b509d45afb1e8e7ab516341d" title="Get the size of the late sample cache in the raw sample sorter. " alt="" coords="229,863,449,904"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1DSMConfig.html#ab31cada1347ae39a596b8ecf22ba5f3d" title="Get the length of the SampleSorter of raw Samples, in seconds. " alt="" coords="253,928,424,970"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1DSMConfig.html#a68b321f087209c98510f30f717f4eae2" title="nidas::core::DSMConfig\l::getRemoteSerialSocketPort" alt="" coords="235,994,442,1035"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="1024,94,1195,135"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="257,152,420,178"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1DSMConfig.html#a0d59cfd92d695d8e933e0ab2c7a1df3d" title="Pass my sensors to the SensorHandler for opening. " alt="" coords="253,1059,424,1100"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1SamplePipeline.html#a989204e029d8c6a38cee603d6f62ebe9" title="nidas::core::SamplePipeline\l::setKeepStats" alt="" coords="239,1124,438,1166"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1SamplePipeline.html#aa393716c8779887c1219c4592c7a466b" title="Set the maximum amount of heap memory to use for sorting samples. " alt="" coords="239,1190,438,1231"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1SamplePipeline.html#ac424383170c6d1c3482b946930aca04e" title="Get the size of the late sample cache in the processed sample sorter. " alt="" coords="227,1255,450,1296"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1SamplePipeline.html#afbd699d0eb07d138f29b301101283fe2" title="Set length of processed SampleSorter, in seconds. " alt="" coords="239,1320,438,1362"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1SamplePipeline.html#ab97dff3eb0161e9fd6e44ce7deeeb4ca" title="Set the maximum amount of heap memory to use for sorting samples. " alt="" coords="239,1386,438,1427"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1SamplePipeline.html#a61d153a42df7f7eeb66e09d7dc42730b" title="Get the size of the late sample cache in the raw sample sorter. " alt="" coords="229,1451,448,1492"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1SamplePipeline.html#a73b5e78ee9c670c0294e6576eabe3445" title="Set length of raw SampleSorter, in seconds. " alt="" coords="239,1516,438,1558"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1SamplePipeline.html#a7adb315f7a2e2cf10994df9bbb67c27c" title="nidas::core::SamplePipeline\l::setRealTime" alt="" coords="239,1582,438,1623"/>
+<area shape="rect" id="node42" href="$classnidas_1_1util_1_1Thread.html#ace5133c77ae2e11ce4938cf9210e705e" title="nidas::util::Thread\l::setRealTimeFIFOPriority" alt="" coords="249,1647,428,1688"/>
+<area shape="rect" id="node43" href="$classnidas_1_1util_1_1Thread.html#a1f53ee62bd30a7924186ef26150ce262" title="Start the thread running, meaning execute the run method in a separate thread. " alt="" coords="271,1771,406,1812"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleSource.html#a2bfca743a3dee2667c6b2e7e4ebe010b" title="Several objects in NIDAS can be both a SampleSource of raw Samples and processed Samples. " alt="" coords="511,210,705,251"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleSource.html#ac9c19633c70ee01e29e7ec7d258ca2a0" title="nidas::core::SampleSource\l::getSampleTagIterator" alt="" coords="511,275,705,316"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTagIterator.html#a67ac05bec706f73542e4cdaf189a0b95" title="nidas::core::SampleTagIterator\l::hasNext" alt="" coords="499,340,717,382"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SampleTagIterator.html#abeb5ebe551e3aa7e0e0b0ff5bf1e837b" title="nidas::core::SampleTagIterator\l::next" alt="" coords="499,406,717,447"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="526,144,690,186"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="523,471,693,512"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleTag.html#a5ca3fbedfe97836dcef9c5b9063624ed" title="Get the sample portion of the shortId. " alt="" coords="523,536,693,578"/>
+<area shape="rect" id="node15" href="$group__Logging.html#ga7338df5cd6ba4e41eb973dae65fe91a9" title="LogMessage manipulator which logs the current message buffer, if any, and then clears the message..." alt="" coords="541,602,675,629"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1SampleTag.html#a3695fca9419619def30fb58d690d9427" title="nidas::core::SampleTag\l::getDSMSensor" alt="" coords="523,654,693,695"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="521,719,695,760"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1DSMSensor.html#a997f133995facb78dcccfffa889d8728" title="nidas::core::DSMSensor\l::getSampleTagIterator" alt="" coords="521,784,695,826"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SampleSource.html#a67931335b882c7664765d63747c85215" title="Add a SampleClient of all Samples to this SampleSource. " alt="" coords="511,850,705,891"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="775,151,967,192"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SensorIterator.html#ad941790929716a792881727f02b6c792" title="nidas::core::SensorIterator\l::next" alt="" coords="775,275,967,316"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMSensor.html#ae0a23210df32b4296a473c2089297d30" title="Implementation of SampleSource::getSampleTags(). " alt="" coords="783,340,958,382"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1ProcessorIterator.html#a74f6dfcf9bcd9c22b76965e066ea1139" title="nidas::core::ProcessorIterator\l::hasNext" alt="" coords="765,406,976,447"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="541,915,675,956"/>
+<area shape="rect" id="node30" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="575,93,641,120"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1SensorHandler.html#a0fc66f0ec86990b3150971cf036704ab" title="Add an unopened sensor to the SensorHandler. " alt="" coords="511,1059,705,1100"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1SamplePipeline.html#aa7dbe691bf5017e1069435b3c0033be3" title="nidas::core::SamplePipeline\l::setHeapBlock" alt="" coords="509,1552,707,1594"/>
+<area shape="rect" id="node44" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="794,1640,947,1682"/>
+<area shape="rect" id="node45" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="541,1735,675,1776"/>
+<area shape="rect" id="node46" href="$classnidas_1_1util_1_1Thread.html#ac87ca027e08548964a48c84058bc28f4" title="nidas::util::Thread\l::makeFullName" alt="" coords="541,1800,675,1842"/>
+<area shape="rect" id="node47" href="$classnidas_1_1util_1_1Thread.html#a15080a5dc63e04c8e752904c3a37e824" title="Register this current thread with a static registry of threads by id. " alt="" coords="541,1866,675,1907"/>
+<area shape="rect" id="node48" href="$classnidas_1_1util_1_1Thread.html#a808c9d72433555d1ba91a7cfb92a1d32" title="nidas::util::Thread\l::setThreadSchedulerNolock" alt="" coords="507,1670,709,1711"/>
+<area shape="rect" id="node49" href="$classnidas_1_1util_1_1Thread.html#afe8f2c69743f06ad71ee7adf04cd24a0" title="nidas::util::Thread\l::thr_run" alt="" coords="541,1931,675,1972"/>
+<area shape="rect" id="node50" href="$classnidas_1_1util_1_1Thread.html#a68d19fd0e974e692a90eebef1732146c" title="nidas::util::Thread\l::thr_run_detached" alt="" coords="537,1996,679,2038"/>
+</map>

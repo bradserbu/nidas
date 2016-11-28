@@ -1,0 +1,35 @@
+<map id="nidas::core::GetAdsFileName::execute" name="nidas::core::GetAdsFileName::execute">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Project.html#a22d571b0c2ed1d6a2440ceb34e856ecf" title="Find SampleOutputStreamFileSets belonging to SampleArchivers of DSMServers whose name matches the arg..." alt="" coords="262,456,498,512"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1FileSet.html#a5689356eb7639c5c0208abd323c249bf" title="Get name of current file. " alt="" coords="309,691,451,733"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="313,757,447,798"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1DSMServer.html#a2eecc4828694e7ed8895ad569dc6e2e8" title="nidas::core::DSMServer\l::getProject" alt="" coords="294,822,466,863"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="299,888,461,915"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a800cc31017656c5ad7e786ac259151f8" title="Look for a server for this project that either has no name or whose name matches hostname. " alt="" coords="588,165,732,206"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMServer.html#a7b51301cff3a163d611b754a5937bedb" title="nidas::core::DSMServer\l::getProcessorIterator" alt="" coords="574,365,746,406"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1ProcessorIterator.html#a74f6dfcf9bcd9c22b76965e066ea1139" title="nidas::core::ProcessorIterator\l::hasNext" alt="" coords="555,430,765,471"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1ProcessorIterator.html#a47af38621d246014dc1ac1d1299c6880" title="nidas::core::ProcessorIterator\l::next" alt="" coords="555,495,765,537"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1SampleIOProcessor.html#a3f9ecba308221d22139677ed1fdf5cef" title="nidas::core::SampleIOProcessor\l::getOutputs" alt="" coords="547,561,773,602"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1SampleOutput.html#a6208b268acf4a01c76720f626e230f0b" title="nidas::core::SampleOutput\l::getIOChannel" alt="" coords="563,626,757,667"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1DSMServer.html#a8b8207ba16507d1d31efa1275e24e538" title="nidas::core::DSMServer\l::getName" alt="" coords="1117,5,1289,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Project.html#a2a740663dd2a3cd8c2774d23fa19d12f" title="nidas::core::Project\l::getDSMServerIterator" alt="" coords="1117,75,1288,117"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMServerIterator.html#ae42855375cc6bba9005970e063b7e573" title="nidas::core::DSMServerIterator\l::hasNext" alt="" coords="1093,221,1312,262"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMServerIterator.html#a8ff1a50cc6c5efc324e32cec369b31d1" title="nidas::core::DSMServerIterator\l::next" alt="" coords="1093,286,1312,327"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Inet4Address.html#a1c06514b1b23c2a00e43b48754cf7cce" title="Static method returning a list of addresses for a name. " alt="" coords="1115,151,1290,193"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Project.html#a8aab87273839658e8494ae00e5f23b3f" title="nidas::core::Project\l::findServer" alt="" coords="861,165,1005,206"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="1361,286,1533,327"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="1361,351,1533,393"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Site.html#a683b10f50e5cf60759c6507f7d523751" title="nidas::core::Site::\lgetServers" alt="" coords="1380,221,1513,262"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMServiceIterator.html#ab18f70c36cfbd0bb425545224c796afd" title="nidas::core::DSMServiceIterator\l::hasNext" alt="" coords="821,333,1045,374"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1DSMServiceIterator.html#ad782a68a992e686b1e111a002bc5e160" title="nidas::core::DSMServiceIterator\l::next" alt="" coords="821,581,1045,622"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1DSMService.html#acca64a915e14c7cfe739681d582f2e44" title="nidas::core::DSMService\l::getProcessors" alt="" coords="845,646,1022,687"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="1094,417,1311,458"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="825,398,1042,439"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1DSMConfig.html#abad2c5a48e6a470fbdea70c477e76287" title="nidas::core::DSMConfig\l::getProcessors" alt="" coords="848,463,1019,505"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1DSMServer.html#a15c34947133e2d6d322d24f9f6b713b7" title="nidas::core::DSMServer\l::getServices" alt="" coords="1117,351,1289,393"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="1380,417,1513,458"/>
+<area shape="rect" id="node27" href="$classnidas_1_1util_1_1FileSet.html#ab4eb2ef2a0bde41e7f5c25fe8288387a" title="Get name of current file. " alt="" coords="591,691,729,733"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="593,757,727,798"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="866,757,1001,798"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="578,851,742,893"/>
+<area shape="rect" id="node34" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="627,917,693,944"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="nidas::core::ServerSocket::ConnectionThread::run" name="nidas::core::ServerSocket::ConnectionThread::run">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Socket.html#a8340f0503fbe84199c2ee97a73fdf4fb" title="This method does a DNS lookup of the value of getRemoteHost(), and so it can throw an UnknownHostExce..." alt="" coords="241,102,437,143"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Socket.html#ae5c86145ad49902fe60473fe41c6bef2" title="Set the number of seconds a connection needs to be idle before TCP begins sending out keep&#45;alive prob..." alt="" coords="257,167,421,209"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Socket.html#a1b3dae4e515ea1935b1fa020bf77c698" title="Do fcntl system call to set O_NONBLOCK file descriptor flag on the socket. " alt="" coords="271,233,406,274"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1SocketAddress.html#add6af6ba09e0ae7aff3c3db7c20b9ed5" title="Java style toString, but no DNS lookup. " alt="" coords="245,298,432,339"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="495,5,670,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Socket.html#a9250c4ed3e5d80148db0de3a2d45afeb" title="Get the name of the remote host. " alt="" coords="505,70,661,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Socket.html#ab6dce90e79e44c6b0666c979689b4eaa" title="nidas::core::Socket\l::setName" alt="" coords="511,135,655,177"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Socket.html#a0bd441d30210ccc81721e64ad9826439" title="nidas::core::Socket\l::setRemoteSocketAddress" alt="" coords="485,201,680,242"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1SocketAddress.html#a704d2610cf7adfbe39dd5120c693f7fc" title="Virtual constructor. " alt="" coords="728,201,915,242"/>
+</map>

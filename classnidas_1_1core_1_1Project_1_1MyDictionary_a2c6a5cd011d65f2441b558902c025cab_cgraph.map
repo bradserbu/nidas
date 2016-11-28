@@ -1,0 +1,5 @@
+<map id="nidas::core::Project::MyDictionary::getTokenValue" name="nidas::core::Project::MyDictionary::getTokenValue">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Process.html#a6a34d9f6ed7972f4327c95f9436bf509" title="Get an environment variable given a variable name like &quot;HOST&quot;, without the &#39;$&#39;, or any brackets..." alt="" coords="265,5,407,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a50fd3eccc69ce8e057bc36e1a965415d" title="nidas::core::Project\l::getName" alt="" coords="264,70,408,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Project.html#aa6e91bd9097306413e00e8fb6715f6f7" title="nidas::core::Project\l::getSystemName" alt="" coords="264,135,408,177"/>
+</map>

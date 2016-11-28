@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classNidasItem.html" title="NidasItem" alt="" coords="6,132,93,159"/>
+<area shape="rect" id="node2" href="$classA2DVariableItem.html" title="A2DVariableItem" alt="" coords="142,5,271,32"/>
+<area shape="rect" id="node3" href="$classDSMItem.html" title="DSMItem" alt="" coords="166,56,247,83"/>
+<area shape="rect" id="node4" href="$classProjectItem.html" title="ProjectItem" alt="" coords="159,107,254,133"/>
+<area shape="rect" id="node5" href="$classSensorItem.html" title="SensorItem" alt="" coords="159,157,255,184"/>
+<area shape="rect" id="node8" href="$classSiteItem.html" title="SiteItem" alt="" coords="169,208,245,235"/>
+<area shape="rect" id="node9" href="$classVariableItem.html" title="VariableItem" alt="" coords="155,259,258,285"/>
+<area shape="rect" id="node6" href="$classA2DSensorItem.html" title="A2DSensorItem" alt="" coords="321,132,444,159"/>
+<area shape="rect" id="node7" href="$classPMSSensorItem.html" title="PMSSensorItem" alt="" coords="321,183,445,209"/>
+</map>

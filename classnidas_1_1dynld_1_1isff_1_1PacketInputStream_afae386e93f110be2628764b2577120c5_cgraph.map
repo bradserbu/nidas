@@ -1,0 +1,40 @@
+<map id="nidas::dynld::isff::PacketInputStream::readSamples" name="nidas::dynld::isff::PacketInputStream::readSamples">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a4f57b47ab525c419326c0884cd1d5962" title="Distribute a sample to my clients, calling the receive() method of each client, passing the const poi..." alt="" coords="232,70,427,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1dynld_1_1isff_1_1PacketInputStream.html#a98ae0706deb053fe115d569ff376ef3d" title="nidas::dynld::isff\l::PacketInputStream\l::findSampleTag" alt="" coords="253,601,405,657"/>
+<area shape="rect" id="node8" href="$classnidas_1_1dynld_1_1isff_1_1PacketInfo.html#af7b9e67bfddcc42ca6ee7f0716f15b8e" title="nidas::dynld::isff\l::PacketInfo::getChannel" alt="" coords="241,339,417,381"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleT.html#a2484696bc7826cb3468efe8ff5aacb1c" title="Get number of elements of type DataT in data. " alt="" coords="251,405,407,446"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="251,470,407,511"/>
+<area shape="rect" id="node11" href="$classnidas_1_1dynld_1_1isff_1_1PacketInfo.html#a91da36372ca3615be4abaffd48d1b3f7" title="nidas::dynld::isff\l::PacketInfo::getFreqOffset" alt="" coords="235,535,424,577"/>
+<area shape="rect" id="node12" href="$classnidas_1_1dynld_1_1isff_1_1PacketInputStream.html#ab07677696b5d9c8ebf8cd9b273ac14cd" title="nidas::dynld::isff\l::PacketInputStream\l::getGOESProject" alt="" coords="253,259,405,315"/>
+<area shape="rect" id="node20" href="$classnidas_1_1dynld_1_1isff_1_1GOESProject.html#abcd3ca1a43d8ad9d2e13be7c7b5d31fc" title="nidas::dynld::isff\l::GOESProject::getGOESSampleTag" alt="" coords="206,682,453,723"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="244,747,415,789"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="262,865,397,906"/>
+<area shape="rect" id="node25" href="$classnidas_1_1dynld_1_1isff_1_1PacketInputStream.html#ac0984005db336047de9076aefac6cc4a" title="nidas::dynld::isff\l::PacketInputStream\l::getName" alt="" coords="253,996,405,1052"/>
+<area shape="rect" id="node27" href="$classnidas_1_1dynld_1_1isff_1_1PacketInfo.html#a90b91f38c4f696b750f697d57ba4efb2" title="nidas::dynld::isff\l::PacketInfo::getSignalStrength" alt="" coords="220,930,439,971"/>
+<area shape="rect" id="node7" href="$classnidas_1_1dynld_1_1isff_1_1GOESProject.html#a8005eb9ca3e786810924330b298e8223" title="Get the station number, corresponding to a GOES id. " alt="" coords="502,737,741,778"/>
+<area shape="rect" id="node28" href="$classnidas_1_1dynld_1_1isff_1_1PacketInfo.html#a591102f44b423fe6e5d5eecbe25e31de" title="nidas::dynld::isff\l::PacketInfo::getStatusInt" alt="" coords="238,1077,421,1118"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="244,1142,415,1183"/>
+<area shape="rect" id="node30" href="$classnidas_1_1dynld_1_1isff_1_1GOESProject.html#a4e0b29cb4d459a87eb1e19cf402b94d1" title="nidas::dynld::isff\l::GOESProject::getXmitInterval" alt="" coords="221,1207,437,1249"/>
+<area shape="rect" id="node31" href="$classnidas_1_1dynld_1_1isff_1_1GOESProject.html#a5f7dd245b3cf661e9ba73c580de94758" title="nidas::dynld::isff\l::GOESProject::getXmitOffset" alt="" coords="226,1273,433,1314"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="248,1339,411,1365"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1Sample.html#af886d8833e6399c9f36a4d3c1de6bac5" title="Set the id portion of the sample header. " alt="" coords="255,1390,404,1431"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="255,1455,404,1497"/>
+<area shape="rect" id="node39" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="253,1521,406,1562"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleClientList.html#a1d0229196b4d3317468e422af3d3892a" title="get a const_iterator pointing to first element. " alt="" coords="529,5,714,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleClientList.html#a78261da3f72cf13f92354247424fd82a" title="get a const_iterator pointing to one&#45;past&#45;last element. " alt="" coords="529,70,714,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1dynld_1_1isff_1_1GOESProject.html#a9ea606489bee4953d6b96883f2eb2530" title="Get a SampleTag*, corresponding to station and sampleid. " alt="" coords="516,609,727,650"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="549,397,693,438"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1ParameterT.html#af4b0e67235aeb23889b2673bd3dc4888" title="nidas::core::ParameterT\l::getLength" alt="" coords="534,462,709,503"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Project.html#a50fd3eccc69ce8e057bc36e1a965415d" title="nidas::core::Project\l::getName" alt="" coords="549,135,693,177"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Project.html#aeb272a827a613626dbc318a7d382575e" title="nidas::core::Project\l::getParameter" alt="" coords="549,201,693,242"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1Parameter.html#a0128f69c9664ac05e83cf2529bcd0a2c" title="nidas::core::Parameter\l::getType" alt="" coords="538,266,705,307"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1ParameterT.html#a2736665e3f583884d16b90ad886b3137" title="nidas::core::ParameterT\l::getValue" alt="" coords="534,331,709,373"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Parameter.html#a20466f907c896f145af1c48398d9f112" title="nidas::core::Parameter\l::getName" alt="" coords="790,201,957,242"/>
+<area shape="rect" id="node23" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="554,865,689,906"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="806,865,941,906"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1IOChannel.html#ac7b72aca1f3d3a39996ce5cf3a32d490" title="nidas::core::IOChannel\l::getName" alt="" coords="539,1003,704,1045"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="539,1273,703,1314"/>
+<area shape="rect" id="node34" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="588,1339,655,1365"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1SampleHeader.html#ab2747da1d20ec9453ef18a9760ca17e7" title="nidas::core::SampleHeader\l::setId" alt="" coords="523,1390,719,1431"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="523,1455,719,1497"/>
+</map>

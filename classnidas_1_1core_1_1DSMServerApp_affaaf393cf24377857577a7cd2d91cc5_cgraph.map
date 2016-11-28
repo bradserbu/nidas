@@ -1,0 +1,51 @@
+<map id="nidas::core::DSMServerApp::run" name="nidas::core::DSMServerApp::run">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Project.html#a800cc31017656c5ad7e786ac259151f8" title="Look for a server for this project that either has no name or whose name matches hostname. " alt="" coords="307,171,451,213"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1ProjectConfigs.html#aabe5ec6bcb15f9cac73b0f851292e84f" title="nidas::core::ProjectConfigs\l::getConfig" alt="" coords="283,429,474,470"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMServerApp.html#a0a8235f858e0f0f88c939f295a453f38" title="nidas::core::DSMServerApp\l::getDataset" alt="" coords="280,739,477,781"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SampleOutputRequestThread.html#a28719e04dc487030779ca258c08f6ecc" title="Return pointer to instance of singleton, creating instance if necessary. " alt="" coords="540,1285,740,1326"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1SocketAddress.html#ab52dacbe62c2da91ceafd5efeb41fab2" title="return the port number of this address, or &#45;1 if there is no associated port number, e.g. " alt="" coords="285,1526,472,1567"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DSMServer.html#a29cb7ee4409d90eb60037d1ebd3d5fd9" title="nidas::core::DSMServer\l::getStatusSocketAddr" alt="" coords="293,1591,465,1633"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1ProjectConfig.html#acec56b16ebc3abcb8d701c5b2d653f21" title="nidas::core::ProjectConfig\l::getXMLName" alt="" coords="287,1657,471,1698"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1ProjectConfig.html#aed22fff43a2f1b57a57cee63032927ae" title="nidas::core::ProjectConfig\l::initProject" alt="" coords="287,674,471,715"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1DSMServer.html#a22dc71d67dbd210a594547ceedc58b45" title="nidas::core::DSMServer\l::interruptServices" alt="" coords="293,1343,465,1385"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1DSMServer.html#ac9010285c8ff2d3a2a8bf526322c2b30" title="nidas::core::DSMServer\l::joinServices" alt="" coords="293,1409,465,1450"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1DSMServerApp.html#a29f8cab385bd70ea1c290b4de5247dc2" title="nidas::core::DSMServerApp\l::killStatusThread" alt="" coords="541,1219,739,1261"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1ProjectConfigs.html#aaef2bd69d1cde2b7929bbfa5c82d976a" title="nidas::core::ProjectConfigs\l::parseXML" alt="" coords="283,895,474,937"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1DSMServerApp.html#a336c56072ae0680d7a1f321d83e235a7" title="Invoke a XMLCachingParser to parse the XML and initialize the Project. " alt="" coords="280,1023,477,1065"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1DSMServer.html#af1e21a69d7b5ef018cc0a2fe789e10e9" title="nidas::core::DSMServer\l::scheduleServices" alt="" coords="293,1722,465,1763"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1Project.html#aa38fef31999273aa7e77964a11f054fd" title="nidas::core::Project\l::setConfigName" alt="" coords="307,1787,451,1829"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1Project.html#a7e91c412893a1c5a5f92f21a3f94d2fc" title="nidas::core::Project\l::setDataset" alt="" coords="307,1853,451,1894"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1DSMServerIntf.html#a22fb207f98aa179291c7960ac65a4ee1" title="nidas::core::DSMServerIntf\l::setDSMServer" alt="" coords="283,1918,475,1959"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1DSMServer.html#a6b274c35afefc5c9452f13f3320dd586" title="nidas::core::DSMServer\l::setXMLConfigFileName" alt="" coords="291,1983,466,2025"/>
+<area shape="rect" id="node48" href="$classnidas_1_1util_1_1Thread.html#a1f53ee62bd30a7924186ef26150ce262" title="Start the thread running, meaning execute the run method in a separate thread. " alt="" coords="311,2049,446,2090"/>
+<area shape="rect" id="node49" href="$classnidas_1_1core_1_1DSMServerApp.html#a92d40faa1569c78da64fb77cc69cc634" title="nidas::core::DSMServerApp\l::startStatusThread" alt="" coords="280,2114,477,2155"/>
+<area shape="rect" id="node50" href="$classnidas_1_1core_1_1DSMServerApp.html#a9b4c41794a583a4a057e659cb5267dc7" title="Unblock and wait for signals of interest up to timeoutSecs. " alt="" coords="280,2179,477,2221"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="835,1530,989,1571"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a2a740663dd2a3cd8c2774d23fa19d12f" title="nidas::core::Project\l::getDSMServerIterator" alt="" coords="827,273,997,314"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMServerIterator.html#ae42855375cc6bba9005970e063b7e573" title="nidas::core::DSMServerIterator\l::hasNext" alt="" coords="803,5,1021,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMServerIterator.html#a8ff1a50cc6c5efc324e32cec369b31d1" title="nidas::core::DSMServerIterator\l::next" alt="" coords="803,70,1021,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMServer.html#a8b8207ba16507d1d31efa1275e24e538" title="nidas::core::DSMServer\l::getName" alt="" coords="826,137,998,178"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Inet4Address.html#a1c06514b1b23c2a00e43b48754cf7cce" title="Static method returning a list of addresses for a name. " alt="" coords="825,203,999,245"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Project.html#a8aab87273839658e8494ae00e5f23b3f" title="nidas::core::Project\l::findServer" alt="" coords="568,113,712,154"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1ProjectConfig.html#a747edf1e0cbb108cf7d77a6ae12c1db7" title="nidas::core::ProjectConfig\l::getBeginTime" alt="" coords="548,331,732,373"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1UTime.html#aeb55bd955c48b84b5d3113dc2311d3b5" title="Format a UTime into a string. " alt="" coords="574,397,706,438"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1ProjectConfig.html#a1c000360011696e21e81a824e04d64b0" title="nidas::core::ProjectConfig\l::getEndTime" alt="" coords="548,462,732,503"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Process.html#a1106e7c05fa20214f2fc7cdd29cc2871" title="nidas::util::Process\l::expandEnvVars" alt="" coords="569,775,711,817"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Datasets.html#a6e18616448e2114340b248bc602fce08" title="nidas::core::Datasets\l::getDataset" alt="" coords="561,710,719,751"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Datasets.html#a1d2582f53119009b173c94364c8061f8" title="nidas::core::Datasets\l::parseXML" alt="" coords="561,645,719,686"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1Dataset.html#a9ac5b2fc43280aec1513d811f7227b62" title="Update the process environment with the current list of environment variables in the Dataset..." alt="" coords="565,579,715,621"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1XMLParser.html#a5788eb63bb44197c6663979579e8f030" title="nidas::core::XMLParser\l::parse" alt="" coords="829,834,995,875"/>
+<area shape="rect" id="node24" href="$namespacenidas_1_1core.html#a68532040e766cc1c177fd68c2de7b767" title="Utility function which creates a temporary XMLParser, sets the options we typically want and parses t..." alt="" coords="529,528,751,555"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1SampleOutputRequestThread.html#afa9777c8693ba257f17181cb98d47848" title="Clear all current requests. " alt="" coords="543,1350,737,1391"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1DSMService.html#afea4a0364337030bc6cf1907add06244" title="nidas::core::DSMService\l::interrupt" alt="" coords="551,1415,729,1457"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="845,1317,979,1358"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1DSMService.html#a05744631bae950ba60c20ec09ae7e844" title="nidas::core::DSMService\l::getName" alt="" coords="551,1481,729,1522"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1DSMService.html#a55ca26b73194c59e3429cb803d7c60db" title="nidas::core::DSMService\l::join" alt="" coords="551,1546,729,1587"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="845,1447,979,1489"/>
+<area shape="rect" id="node35" href="$classnidas_1_1util_1_1Thread.html#a08fdc084e658645f8c3b5ac54e6ffec0" title="Send a signal to this thread. " alt="" coords="845,1219,979,1261"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1XMLCachingParser.html#a0c435ba5e6ff996df66e867a665668cf" title="nidas::core::XMLCachingParser\l::getInstance" alt="" coords="531,958,749,999"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1XMLCachingParser.html#abcaeb221bd29e5374351f99665b05d73" title="Parse from a file. " alt="" coords="531,1023,749,1065"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1XMLParser.html#a248bc8b17f27ed5138c18ef43720ece7" title="Enable/disable datatype normalization. " alt="" coords="525,1089,755,1130"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1XMLParser.html#a4efd3358eca7e4b2b05308bdd1fe2aeb" title="Enable/disable namespace processing. " alt="" coords="557,1154,723,1195"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1XMLParser.html#a0335f83b75665e1192a99379c0abf19a" title="Enable/disable schema validation. " alt="" coords="544,893,736,934"/>
+</map>

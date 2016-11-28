@@ -1,0 +1,10 @@
+<map id="TestA2DPage::selectionChanged" name="TestA2DPage::selectionChanged">
+<area shape="rect" id="node2" href="$classTreeModel.html#aa9d2620ed71a36c3402a56de1ac51f88" title="TreeModel::data" alt="" coords="328,5,451,32"/>
+<area shape="rect" id="node4" href="$classAutoCalClient.html#a01f7227c8d878333e18b05fd7b7cf824" title="AutoCalClient::GetVoltage\lLevels" alt="" coords="555,65,741,106"/>
+<area shape="rect" id="node5" href="$classAutoCalClient.html#abe595259c85ef38e6968ca81fc9f206c" title="AutoCalClient::setTestVoltage" alt="" coords="285,107,494,133"/>
+<area shape="rect" id="node6" href="$classTestA2DPage.html#ad31e3dfbba353ea76066eff3528351ab" title="TestA2DPage::updateSelection" alt="" coords="281,157,498,184"/>
+<area shape="rect" id="node3" href="$classTreeItem.html#a16641e42c78f004d47a66f3b2c39341f" title="TreeItem::data" alt="" coords="591,5,705,32"/>
+<area shape="rect" id="node7" href="$classAutoCalClient.html#affaa9eb3037b964b28325c3061a76317" title="AutoCalClient::GetA2dSetup" alt="" coords="547,148,749,175"/>
+<area shape="rect" id="node9" href="$classAutoCalClient.html#a3f9e7ada89511d0e8d20d822d56460f0" title="AutoCalClient::GetVarName" alt="" coords="549,199,747,225"/>
+<area shape="rect" id="node8" href="$classAutoCalClient.html#aed5bd69ed207a67f0fe36371d779db4e" title="Reassemble a nidas dsmId and sensorId back into id. " alt="" coords="798,148,925,175"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classnidas_1_1core_1_1Sample.html" title="Interface to a data sample. " alt="" coords="5,111,155,137"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleT.html" title="A typed Sample, with data of type DataT. " alt="" coords="203,5,359,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleT.html" title="nidas::core::SampleT\l\&lt; char \&gt;" alt="" coords="203,70,359,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleT.html" title="nidas::core::SampleT\l\&lt; double \&gt;" alt="" coords="203,135,359,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleT.html" title="nidas::core::SampleT\l\&lt; float \&gt;" alt="" coords="203,201,359,242"/>
+</map>

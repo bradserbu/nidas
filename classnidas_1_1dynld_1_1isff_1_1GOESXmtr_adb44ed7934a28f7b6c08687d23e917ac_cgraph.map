@@ -1,0 +1,5 @@
+<map id="nidas::dynld::isff::GOESXmtr::connect" name="nidas::dynld::isff::GOESXmtr::connect">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html#aa1fabd7e291d47de7cd05540e6eb2f7c" title="nidas::dynld::isff\l::GOESXmtr::open" alt="" coords="211,38,349,79"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SerialPort.html#a3a76b557fec13885a56221b347c3b187" title="nidas::util::SerialPort\l::flushBoth" alt="" coords="398,5,551,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SerialPort.html#ad132913a39c459710cddea8c6ef2d3c6" title="open the serial port. " alt="" coords="398,70,551,111"/>
+</map>

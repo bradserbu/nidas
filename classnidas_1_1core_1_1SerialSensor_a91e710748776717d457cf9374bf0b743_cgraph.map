@@ -1,0 +1,4 @@
+<map id="nidas::core::SerialSensor::open" name="nidas::core::SerialSensor::open">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1CharacterSensor.html#ac47fdba4319ca33f6ad9feb05bf66fbd" title="Open the sensor device port for real&#45;time sampling. " alt="" coords="235,5,443,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="491,5,666,46"/>
+</map>

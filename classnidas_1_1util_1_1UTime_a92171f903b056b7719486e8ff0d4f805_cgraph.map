@@ -1,0 +1,5 @@
+<map id="nidas::util::UTime::format" name="nidas::util::UTime::format">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1UTime.html#a52575a28c1078b25856f4d71bf17cd6b" title="Format a UTime into a string using the format returned by getFormat(). " alt="" coords="187,5,319,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1UTime.html#aa5eba746aa62da834c8a6eb623f10b24" title="Get the format used when converting this UTime to a string with format(utc), or format(), or on a ostream. " alt="" coords="369,34,501,75"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1UTime.html#a9ea1ee741c91b50bce2ff2ed8f2d576e" title="nidas::util::UTime\l::getDefaultFormat" alt="" coords="550,34,693,75"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nidas::dynld::StatisticsProcessor::selectRequestedSampleTags" name="nidas::dynld::StatisticsProcessor::selectRequestedSampleTags">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleIOProcessor.html#a11a6f93f16c5030c8ddcf50a12552ccd" title="nidas::core::SampleIOProcessor\l::getSampleId" alt="" coords="329,5,554,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#afc355b8efce676022f31783481892041" title="Get the sensor+sample portion of the id. " alt="" coords="356,70,527,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="376,135,507,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleIOProcessor.html#a90f47e2ec55b8a197217bd272d235340" title="Allow subclasses to remove requested SampleTags. " alt="" coords="329,201,554,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="376,266,507,307"/>
+</map>

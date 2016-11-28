@@ -1,0 +1,16 @@
+<map id="nidas::util::Logger::msg" name="nidas::util::Logger::msg">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogMessage.html#a7d5e95a9b7813abc7c330a62d93529df" title="nidas::util::LogMessage\l::getMessage" alt="" coords="224,175,395,217"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#abc29e54d0b7bbe6620d05f4536041862" title="Send a log message for the given LogContext lc. " alt="" coords="224,241,395,268"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#af4e5b3c04cf09dd7ff1bb42fdc2035ff" title="Other Log classes call this method to log a message when the log mutex is already locked..." alt="" coords="443,234,578,275"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1LogContext.html#a8616a5e2a925928023b540a04c1843bb" title="nidas::util::LogContext\l::filename" alt="" coords="627,5,791,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1LogContext.html#ac3280b636c628214f7772e7b2aeef333" title="nidas::util::LogContext\l::line" alt="" coords="627,70,791,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1LogContext.html#ae28382b5999edf4640d4e2ccfebf4c43" title="nidas::util::LogContext\l::levelName" alt="" coords="627,135,791,177"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1LogContext.html#af9ae629fe7ffcaa4b0e00da5683c6bee" title="nidas::util::LogContext\l::function" alt="" coords="627,201,791,242"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Thread.html#adc078afbfc16f8686cb8b186c39d06a1" title="Convenience routine to return the name for the current thread, or a string indicating that the name o..." alt="" coords="642,266,777,307"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1UTime.html#a9e9f1e3ef8419ebb4f005f0302aac2c6" title="Format this UTime relative to UTC, or the local timezone? " alt="" coords="643,331,775,373"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1UTime.html#aad6ca4e6f9521f8f7074b90bfc9d5998" title="Set the format used when converting this UTime to a string with format(utc), or format(), or on a ostream. " alt="" coords="643,397,775,438"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1LogContext.html#ac970753e1dcec8b83d832e1e2155d527" title="nidas::util::LogContext\l::level" alt="" coords="627,462,791,503"/>
+<area shape="rect" id="node8" href="$group__Logging.html#ga5e85e54338bb820df23390f203c0581e" title="Convert an integral log level to a string name. " alt="" coords="840,143,1035,169"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Thread.html#a46662ffa7482f1c1e52b654c51639fd2" title="Return the thread object for the current thread. " alt="" coords="870,234,1005,275"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="870,299,1005,341"/>
+</map>

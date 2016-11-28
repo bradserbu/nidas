@@ -1,0 +1,10 @@
+<map id="nidas::core::ServerSocket::close" name="nidas::core::ServerSocket::close">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1ServerSocket.html#a0245d40096ca089255c67303eebf17e6" title="close the socket. " alt="" coords="257,134,434,175"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1ServerSocket_1_1ConnectionThread.html#a22539b8208e02af404ed5212c91e0057" title="Interrupt this thread. " alt="" coords="241,199,450,241"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketImpl.html#ac4407b5d18cab939e96ababd8006d5fd" title="nidas::util::SocketImpl\l::close" alt="" coords="508,37,671,78"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1ServerSocket.html#a93121a3756947e2e48f1512604873f5a" title="nidas::util::ServerSocket\l::getDomain" alt="" coords="501,102,678,143"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1ServerSocket.html#a07252c8257ea7923f85deef66c811ddd" title="Fetch the local address that this socket is bound to. " alt="" coords="499,167,679,209"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="733,165,920,206"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SocketImpl.html#aed0edf6bcfa48a862f2f95ac18ca4bf3" title="Get local socket address of this socket. " alt="" coords="737,5,917,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketImpl.html#a823649cca15b0c841266621653f5e026" title="Get remote socket address of this socket. " alt="" coords="729,70,925,111"/>
+</map>

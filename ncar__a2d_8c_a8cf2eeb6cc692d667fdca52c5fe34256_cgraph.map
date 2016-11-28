@@ -1,0 +1,7 @@
+<map id="i2c_put_byte" name="i2c_put_byte">
+<area shape="rect" id="node2" href="$ncar__a2d_8c.html#a4569e7baa3569cbbdcb9180f77a4cef1" title="i2c_clock_hi" alt="" coords="302,5,399,32"/>
+<area shape="rect" id="node3" href="$ncar__a2d_8c.html#ac7d5f43ef0a9b98263626a306936a12a" title="i2c_clock_lo" alt="" coords="302,107,399,133"/>
+<area shape="rect" id="node4" href="$ncar__a2d_8c.html#a73af34f5a93fbd331577e88239164be1" title="i2c_data_hi" alt="" coords="158,81,253,108"/>
+<area shape="rect" id="node5" href="$ncar__a2d_8c.html#aa2647b6754e7bc09d6bc5ba6be45a875" title="i2c_data_lo" alt="" coords="158,132,253,159"/>
+<area shape="rect" id="node6" href="$ncar__a2d_8c.html#a2523bac7d00534b4eb6dae9ccfa533e4" title="i2c_getAck" alt="" coords="160,31,251,57"/>
+</map>

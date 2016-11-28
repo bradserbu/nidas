@@ -1,0 +1,15 @@
+<map id="ConfigWindow::quit" name="ConfigWindow::quit">
+<area shape="rect" id="node2" href="$classConfigWindow.html#a7c2c25358db2db6f92c5cfa7d6439aec" title="ConfigWindow::askSaveFile\lAndContinue" alt="" coords="195,112,386,154"/>
+<area shape="rect" id="node3" href="$classDocument.html#a344c2daa36962d7ea8c7601ac694bdd7" title="Document::getFilename" alt="" coords="1150,93,1325,120"/>
+<area shape="rect" id="node4" href="$classDocument.html#ad0e02c3754201da1e0cb552374da16fa" title="Document::isChanged" alt="" coords="445,69,609,96"/>
+<area shape="rect" id="node5" href="$classDocument.html#a1b5eb955534bdd684c9c758a6fabf989" title="Document::isChangedBig" alt="" coords="435,120,619,146"/>
+<area shape="rect" id="node6" href="$classConfigWindow.html#a19e91156ea6e52ec8b6c0dfa966020be" title="ConfigWindow::saveAsFile" alt="" coords="435,170,618,197"/>
+<area shape="rect" id="node9" href="$classConfigWindow.html#a34eb1b3a5dc6b361c9a03ed5ee84604c" title="ConfigWindow::saveFile" alt="" coords="671,226,838,253"/>
+<area shape="rect" id="node7" href="$classDocument.html#a3cc8419f8ff1735524f2452d51aa1203" title="Document::getDirectory" alt="" coords="667,122,843,149"/>
+<area shape="rect" id="node8" href="$classDocument.html#a84e3bd1655330803e3ff8e41afaf5c78" title="Document::setFilename" alt="" coords="667,173,842,200"/>
+<area shape="rect" id="node10" href="$classConfigWindow.html#a8aac6852ba4b7d663256342933d598ff" title="ConfigWindow::saveFileCopy" alt="" coords="897,118,1095,145"/>
+<area shape="rect" id="node11" href="$classDocument.html#a3900d1d26f66e22faf3dba01d06b16cd" title="Document::writeDocument" alt="" coords="899,169,1093,196"/>
+<area shape="rect" id="node12" href="$classDocument.html#ae5bd2cdcf78f45904dee5e9a122f82dd" title="Document::getMissingEngCal\lFiles" alt="" coords="891,220,1101,262"/>
+<area shape="rect" id="node13" href="$classDocument.html#a35017bf8f68e61f8938a991df5c48ffd" title="Document::setIsChanged" alt="" coords="904,337,1088,364"/>
+<area shape="rect" id="node14" href="$classDocument.html#a4dcddfe1c04faeed78b472a0edb41ddc" title="Document::setIsChangedBig" alt="" coords="894,388,1098,414"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nidas::core::Variable::Variable" name="nidas::core::Variable::Variable">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Variable.html#a16f69f786705367ba2548af992cfe346" title="Add a parameter to this Variable. " alt="" coords="238,5,389,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Parameter.html#ab222f68c807dc27edd48b7e63cd630e8" title="nidas::core::Parameter\l::clone" alt="" coords="230,70,397,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1VariableConverter.html#aa2373694332756e77d6cbc575a838a5a" title="nidas::core::VariableConverter\l::clone" alt="" coords="206,135,421,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#a81c18946e079eba5be7fba92e1ab966d" title="Get full list of parameters. " alt="" coords="238,201,389,242"/>
+</map>

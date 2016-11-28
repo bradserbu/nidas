@@ -1,0 +1,6 @@
+<map id="pc104sg_board" name="pc104sg_board">
+<area shape="rect" id="node2" href="$structirig__device.html" title="Device structure used in the file operations of the character device which provides IRIG samples..." alt="" coords="5,109,93,136"/>
+<area shape="rect" id="node3" href="$structpc104sg__status.html" title="pc104sg_status" alt="" coords="119,109,241,136"/>
+<area shape="rect" id="node4" href="$structclockSnapShot.html" title="One a second, or when clockAction == RESET_COUNTERS, the interrupt service routine grabs a snapshot o..." alt="" coords="265,109,383,136"/>
+<area shape="rect" id="node5" href="$structtimeval32.html" title="timeval32" alt="" coords="281,5,367,32"/>
+</map>

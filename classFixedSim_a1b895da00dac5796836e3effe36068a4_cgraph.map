@@ -1,0 +1,3 @@
+<map id="FixedSim::sendMessage" name="FixedSim::sendMessage">
+<area shape="rect" id="node2" href="$classSensorSimulator.html#a261b971c21a0c802b125f365d67c2713" title="Subclasses generate the message to send, then call writeMessage() to send it out. ..." alt="" coords="229,5,453,32"/>
+</map>

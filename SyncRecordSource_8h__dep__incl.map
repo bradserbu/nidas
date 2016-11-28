@@ -1,0 +1,11 @@
+<map id="nidas/dynld/raf/SyncRecordSource.h" name="nidas/dynld/raf/SyncRecordSource.h">
+<area shape="rect" id="node2" href="$SyncRecordGenerator_8h.html" title="nidas/dynld/raf/SyncRecord\lGenerator.h" alt="" coords="330,97,523,138"/>
+<area shape="rect" id="node8" href="$SyncRecordReader_8cc.html" title="nidas/dynld/raf/SyncRecord\lReader.cc" alt="" coords="507,369,700,410"/>
+<area shape="rect" id="node10" href="$SyncRecordSource_8cc.html" title="nidas/dynld/raf/SyncRecord\lSource.cc" alt="" coords="719,97,912,138"/>
+<area shape="rect" id="node3" href="$SyncRecordGenerator_8cc.html" title="nidas/dynld/raf/SyncRecord\lGenerator.cc" alt="" coords="107,187,300,229"/>
+<area shape="rect" id="node4" href="$SyncServer_8h.html" title="nidas/dynld/raf/SyncServer.h" alt="" coords="325,195,528,221"/>
+<area shape="rect" id="node5" href="$sync__server_8cc.html" title="nidas/apps/sync_server.cc" alt="" coords="5,285,192,312"/>
+<area shape="rect" id="node6" href="$SyncRecordReader_8h.html" title="nidas/dynld/raf/SyncRecord\lReader.h" alt="" coords="217,278,409,319"/>
+<area shape="rect" id="node9" href="$SyncServer_8cc.html" title="nidas/dynld/raf/SyncServer.cc" alt="" coords="434,285,643,312"/>
+<area shape="rect" id="node7" href="$sync__dump_8cc.html" title="nidas/apps/sync_dump.cc" alt="" coords="220,376,407,403"/>
+</map>

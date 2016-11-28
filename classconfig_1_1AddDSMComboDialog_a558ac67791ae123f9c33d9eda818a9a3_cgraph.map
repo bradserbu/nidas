@@ -1,0 +1,14 @@
+<map id="config::AddDSMComboDialog::setUpDialog" name="config::AddDSMComboDialog::setUpDialog">
+<area shape="rect" id="node2" href="$classconfig_1_1AddDSMComboDialog.html#a4cc6b00e850747d2816adc23fe93102a" title="config::AddDSMComboDialog\l::existingDSM" alt="" coords="265,122,474,163"/>
+<area shape="rect" id="node7" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="803,279,957,305"/>
+<area shape="rect" id="node8" href="$classDocument.html#af1beb57fe055615d4850da02bf9cc8be" title="Document::getNextDSMId" alt="" coords="275,336,464,363"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Exception.html#a822535e7028f32b6a0ea0b9835b2c7f2" title="nidas::util::Exception\l::toString" alt="" coords="293,387,446,429"/>
+<area shape="rect" id="node3" href="$classDSMItem.html#ab3233f0023a46c66d002d15faf11fb95" title="DSMItem::getDSMConfig" alt="" coords="549,5,729,32"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMConfig.html#a48cb5cb6024a9e23f6fd00f5c32c97d5" title="nidas::core::DSMConfig\l::getId" alt="" coords="553,57,724,98"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMConfig.html#a2f11522e7b009f018ca70226b05fce79" title="nidas::core::DSMConfig\l::getLocation" alt="" coords="553,122,724,163"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="553,187,724,229"/>
+<area shape="rect" id="node9" href="$classNidasModel.html#a40cd91b0dffd6bdacc21f56784bdf6ba" title="NidasModel::getCurrentRootItem" alt="" coords="523,304,754,331"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="572,355,705,397"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Site.html#ad4d2683952ca26ecb0a2310a62eb9790" title="nidas::core::Site::\lgetName" alt="" coords="572,421,705,462"/>
+<area shape="rect" id="node12" href="$classSiteItem.html#a52dfd0fbfaf0002ce02baf75d626cfaf" title="SiteItem::getSite" alt="" coords="573,487,704,513"/>
+</map>

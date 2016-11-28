@@ -1,0 +1,3 @@
+<map id="nidas::core::Socket::setKeepAliveIdleSecs" name="nidas::core::Socket::setKeepAliveIdleSecs">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Socket.html#ae5c86145ad49902fe60473fe41c6bef2" title="Set the number of seconds a connection needs to be idle before TCP begins sending out keep&#45;alive prob..." alt="" coords="219,5,383,46"/>
+</map>

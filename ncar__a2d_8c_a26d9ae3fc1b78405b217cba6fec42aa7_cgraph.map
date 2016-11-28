@@ -1,0 +1,13 @@
+<map id="ncar_a2d_release" name="ncar_a2d_release">
+<area shape="rect" id="node2" href="$ncar__a2d_8c.html#ac621d95948eff6a7ee50914e9eac8159" title="Stop data collection on the selected board. " alt="" coords="189,157,277,184"/>
+<area shape="rect" id="node3" href="$pc104sg_8c.html#ae0aacc0145154de250d49a3def0888af" title="Modules call this function to dequeue their callbacks. " alt="" coords="325,5,496,32"/>
+<area shape="rect" id="node4" href="$pc104sg_8c.html#aaf72cc4ce7d06abb88b67911ad702f9d" title="flush_irig_callbacks" alt="" coords="339,56,482,83"/>
+<area shape="rect" id="node5" href="$ncar__a2d_8c.html#af25e7f0cd4905e95ad24831876fd4733" title="AD7725StatusAll" alt="" coords="345,107,476,133"/>
+<area shape="rect" id="node8" href="$ncar__a2d_8c.html#af44891d124cf1fd0decf4f734b922773" title="A2DNotAuto" alt="" coords="359,157,462,184"/>
+<area shape="rect" id="node9" href="$ncar__a2d_8c.html#a6b129a171a87a7ce1675296e9d9a42a5" title="A2DStopReadAll" alt="" coords="348,208,473,235"/>
+<area shape="rect" id="node11" href="$ncar__a2d_8c.html#a4affad92243b65f4e0dd448ddbe43676" title="freeFilters" alt="" coords="369,259,453,285"/>
+<area shape="rect" id="node12" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="341,309,480,336"/>
+<area shape="rect" id="node6" href="$ncar__a2d_8c.html#ae28add5302cda2a6d055b0626a093cd5" title="AD7725Status" alt="" coords="544,120,659,147"/>
+<area shape="rect" id="node7" href="$ncar__a2d_8c.html#adc6b3dee0ff56987f46568f68956a594" title="CHAN_ADDR16" alt="" coords="707,152,827,179"/>
+<area shape="rect" id="node10" href="$ncar__a2d_8c.html#ad6d9a5198c0ccc3deb3b7d27a9fa5049" title="A2DStopRead" alt="" coords="546,183,657,209"/>
+</map>

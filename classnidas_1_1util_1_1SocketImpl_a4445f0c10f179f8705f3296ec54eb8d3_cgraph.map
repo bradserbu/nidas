@@ -1,0 +1,4 @@
+<map id="nidas::util::SocketImpl::getTcpNoDelay" name="nidas::util::SocketImpl::getTcpNoDelay">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1SocketImpl.html#a91a3a5f0f7b3ed15c5f3b74559e2a50e" title="Get the domain of this socket: AF_UNIX, AF_INET, etc, from sys/socket.h. " alt="" coords="228,5,391,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketAddress.html#add6af6ba09e0ae7aff3c3db7c20b9ed5" title="Java style toString, but no DNS lookup. " alt="" coords="216,70,403,111"/>
+</map>

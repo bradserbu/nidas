@@ -1,0 +1,13 @@
+<map id="nidas::dynld::raf::CVIOutput::setIOChannel" name="nidas::dynld::raf::CVIOutput::setIOChannel">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DerivedDataReader.html#a2b65ab5a6195322fce33f2be0056cf73" title="Add a client to DerivedDataReader. " alt="" coords="242,50,422,91"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DerivedDataReader.html#a251a0410a3bf65d021bb2b5ee8bf1982" title="Fetch the pointer to the instance of DerivedDataReader. " alt="" coords="242,115,422,157"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleOutputBase.html#a99ed3bd80a3a029e354fa1680c2b3573" title="nidas::core::SampleOutput\lBase::getIOChannel" alt="" coords="235,181,429,222"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="235,246,429,287"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleOutputBase.html#a060e0b33bbbcbbacfc0eba4327b9d52f" title="Set the IOChannel for this SampleOutput. " alt="" coords="235,311,429,353"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleOutputBase.html#a2c2fe5e787de769f9604f68778afe397" title="nidas::core::SampleOutput\lBase::setName" alt="" coords="235,377,429,418"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="720,5,851,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DerivedDataReader.html#aa488e7aa9bc5fdb5c9520072c5118745" title="nidas::core::DerivedData\lReader::removeClient" alt="" coords="485,50,665,91"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="720,83,851,125"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleOutputBase.html#a0c1310a8fff6513a58fb8411edd7f041" title="nidas::core::SampleOutput\lBase::getDSMConfig" alt="" coords="478,278,671,319"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1IOChannel.html#ae98b295be6f1293dec855675ad98245c" title="What DSM is this IOChannel connected to? " alt="" coords="492,343,657,385"/>
+</map>

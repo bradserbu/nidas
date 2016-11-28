@@ -1,0 +1,29 @@
+<map id="nidas::core::ServerSocket" name="nidas::core::ServerSocket">
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1ServerSocket_1_1ConnectionThread.html" title="nidas::core::ServerSocket\l::ConnectionThread" alt="" coords="2472,606,2659,647"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IOChannel.html" title="A channel for Input or Output of data. " alt="" coords="1749,659,1915,685"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,761,182,788"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1DSMConfig.html" title="Class that should include all that is configurable about a DSM. " alt="" coords="1308,527,1479,553"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1Site.html" title="A measurement site. " alt="" coords="1001,411,1127,437"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Project.html" title="nidas::core::Project" alt="" coords="677,588,821,615"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="308,711,487,737"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="299,761,495,788"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements, keyed by the ID attributes. " alt="" coords="300,812,495,839"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1ConnectionInfo.html" title="Extra information associated with an IOChannel concerning the connection. " alt="" coords="1296,731,1491,757"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Inet4Address.html" title="Support for IP version 4 host address. " alt="" coords="662,767,837,793"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html" title="nidas::util::Inet4Network\lInterface" alt="" coords="977,690,1151,731"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1Dataset.html" title="A Dataset is a named collection of parameters, that are used in data processing. " alt="" coords="322,508,473,535"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="682,107,817,133"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="321,5,474,32"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Inet4SocketAddress.html" title="A IP version 4 socket address, containing a host address, and a port number. " alt="" coords="981,897,1147,938"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="656,904,843,931"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1SocketImpl.html" title="Implementation of a socket, providing a C++ interface to system socket calls: socket,bind,listen,accept,setsockopt, etc. " alt="" coords="983,963,1145,989"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DSMConfig_1_1MyDictionary.html" title="nidas::core::DSMConfig\l::MyDictionary" alt="" coords="1747,474,1917,515"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="667,305,831,332"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="992,542,1136,583"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="1327,362,1460,403"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="332,107,463,133"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,84,199,111"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="323,56,472,83"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1IOChannelRequester.html" title="Interface for an object that requests connections to Inputs or Outputs. " alt="" coords="1717,772,1947,799"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1ServerSocket.html" title="A stream (TCP) socket that is used to listen for connections. " alt="" coords="1515,960,1693,987"/>
+</map>

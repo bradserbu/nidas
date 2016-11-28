@@ -1,0 +1,10 @@
+<map id="arinc_init" name="arinc_init">
+<area shape="rect" id="node2" href="$main_8c.html#a2ba2c64b70757fd2e3de7b82ce7a97c4" title="arinc_cleanup" alt="" coords="155,56,266,83"/>
+<area shape="rect" id="node7" href="$main_8c.html#a94e3e0ad223253a856d5d1196108111a" title="arinc_timesync" alt="" coords="151,107,270,133"/>
+<area shape="rect" id="node5" href="$main_8c.html#af6d22f870920f923d85f982217bacfff" title="log_error" alt="" coords="382,157,461,184"/>
+<area shape="rect" id="node8" href="$pc104sg_8c.html#a6be98cca820db8ed3d7b06aecfafc2ab" title="Module function that allows other modules to register their callback function to be called at the giv..." alt="" coords="133,208,288,235"/>
+<area shape="rect" id="node9" href="$main_8c.html#a49c988d3d5f7418335ac78bfc602e004" title="scan_ceiisa" alt="" coords="163,259,258,285"/>
+<area shape="rect" id="node3" href="$pc104sg_8c.html#aaf72cc4ce7d06abb88b67911ad702f9d" title="flush_irig_callbacks" alt="" coords="350,5,493,32"/>
+<area shape="rect" id="node4" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="352,56,491,83"/>
+<area shape="rect" id="node6" href="$pc104sg_8c.html#ae0aacc0145154de250d49a3def0888af" title="Modules call this function to dequeue their callbacks. " alt="" coords="336,107,507,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="dmmat_ioctl_cntr" name="dmmat_ioctl_cntr">
+<area shape="rect" id="node2" href="$dmd__mmat_8c.html#a7b7d51a9fce97b2dc8f20c38110f1e75" title="General function to start a counter. " alt="" coords="190,56,277,83"/>
+<area shape="rect" id="node3" href="$dmd__mmat_8c.html#ad9008b868afb52059fb71976ec7cfc07" title="General function to stop a counter. " alt="" coords="377,5,461,32"/>
+<area shape="rect" id="node5" href="$dmd__mmat_8c.html#ad0d78fac7ecfa5c8fc2d52fce9a52156" title="dmd_mmat_add_irq_user" alt="" coords="325,56,512,83"/>
+<area shape="rect" id="node4" href="$dmd__mmat_8c.html#a12f3ad46bc07ae7009f994f5751ab185" title="dmd_mmat_remove_irq_user" alt="" coords="560,5,771,32"/>
+<area shape="rect" id="node6" href="$dmd__mmat_8c.html#ad6a9edfb683f76cf648c3d72012217af" title="dmmat_irq_handler" alt="" coords="592,56,739,83"/>
+<area shape="rect" id="node7" href="$dmd__mmat_8c.html#ae3e8d69dfe31cc7435f3d115be2bf1df" title="dmmat_cntr_handler" alt="" coords="819,31,975,57"/>
+<area shape="rect" id="node8" href="$dmd__mmat_8c.html#a6305a955c7979ab86e5889ec9990ae38" title="dmmat_a2d_handler" alt="" coords="820,81,975,108"/>
+<area shape="rect" id="node9" href="$dmd__mmat_8c.html#a55ef3b4f0cc765d38cd86d9128ec2e48" title="getA2DDeviceName" alt="" coords="1024,81,1176,108"/>
+</map>

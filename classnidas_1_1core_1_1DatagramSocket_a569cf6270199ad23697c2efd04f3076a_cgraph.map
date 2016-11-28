@@ -1,0 +1,18 @@
+<map id="nidas::core::DatagramSocket::connect" name="nidas::core::DatagramSocket::connect">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1DatagramSocket.html#a44715fe558938e5893a48a5617524b79" title="Bind the DatagramSocket to the specified local address. " alt="" coords="269,5,469,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1DatagramSocket.html#a55d5e8ac17fd3374ceaae05cdbbd45c2" title="Datagrams are connectionless, so this doesn&#39;t establish a true connection, it just sets the default d..." alt="" coords="269,70,469,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SocketAddress.html#a9a0749f3122491935c86a5b98895d239" title="nidas::util::SocketAddress\l::getConstSockAddrPtr" alt="" coords="276,135,463,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1SocketAddress.html#afa988ac5e32b61dfb899d87f10671002" title="Get the family of this SocketAddress, one of the values from /usr/include/sys/socket.h: AF_UNIX, AF_INET, AF_INET6, etc. " alt="" coords="276,201,463,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a5a980fd49b48f9cc36250f08efae7e19" title="Return the IP address portion. " alt="" coords="276,266,463,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DatagramSocket.html#aaf4197785b025003856b2581929261b5" title="nidas::core::DatagramSocket\l::getName" alt="" coords="265,331,474,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DatagramSocket.html#aeeb00ac24c12bd37fe63676619fa75fb" title="nidas::core::DatagramSocket\l::getSocketAddress" alt="" coords="265,397,474,438"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DatagramSocket.html#a8d5439a89cd84c3b9b5c9c9ffe332335" title="Return isNonBlocking() of underlying socket. " alt="" coords="265,462,474,503"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1DatagramSocket.html#ab88cab15dcf2a448228e7e1d664c9d7d" title="Do fcntl system call to set O_NONBLOCK file descriptor flag on the socket. " alt="" coords="269,527,469,569"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="293,593,446,634"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="541,266,715,307"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1DatagramSocket.html#a3566131a78636603f208474d6c74d94c" title="Set address for this socket. " alt="" coords="523,331,733,373"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1DatagramSocket.html#a2391788736c6877c09a16118ec6152f3" title="Get the unix path name. " alt="" coords="523,397,733,438"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DatagramSocket.html#a22ed41e79a77135a6280ac9c43f7b4a9" title="nidas::core::DatagramSocket\l::setName" alt="" coords="523,462,733,503"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1SocketAddress.html#a704d2610cf7adfbe39dd5120c693f7fc" title="Virtual constructor. " alt="" coords="781,331,968,373"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1DatagramSocket.html#a9632eb5fe5c990055ba49797553cfce1" title="nidas::util::DatagramSocket\l::isNonBlocking" alt="" coords="528,527,728,569"/>
+</map>

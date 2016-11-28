@@ -1,0 +1,7 @@
+<map id="nidas::dynld::isff::GOESXmtr::fromDOMElement" name="nidas::dynld::isff::GOESXmtr::fromDOMElement">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1XDOMAttr.html#a2b378f967bc25e190f8b920936a675d9" title="nidas::core::XDOMAttr\l::getName" alt="" coords="275,5,437,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Termios.html#a7b5b9aa3cf04153b7e2cfbc05673038b" title="nidas::util::Termios\l::setBaudRate" alt="" coords="286,70,426,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Termios.html#a30e721108250bc3c21848daa477ac5a8" title="Set number of data bits to 5,6,7 or 8. " alt="" coords="286,135,426,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Termios.html#ae562c4a0e74b745b6c297c9be8ba9856" title="nidas::util::Termios\l::setParity" alt="" coords="286,201,426,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Termios.html#aa1cd954b1498c4a2a92c74bc455e7eea" title="Set number of stop bits, to 1 or 2. " alt="" coords="286,266,426,307"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="nidas::core::SampleClient" name="nidas::core::SampleClient">
+<area shape="rect" id="node2" href="$classAutoCalClient.html" title="Hodge podge class. " alt="" coords="283,689,391,716"/>
+<area shape="rect" id="node3" href="$classCounterClient.html" title="CounterClient" alt="" coords="283,740,392,767"/>
+<area shape="rect" id="node4" href="$classDumpClient.html" title="DumpClient" alt="" coords="289,791,386,817"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html" title="DSMSensor provides the basic support for reading, processing and distributing samples from a sensor a..." alt="" coords="250,841,425,868"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1RemoteSerialConnection.html" title="nidas::core::RemoteSerial\lConnection" alt="" coords="245,1107,430,1149"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1Resampler.html" title="Interface for a resampler, simply a SampleClient and a SampleSource. " alt="" coords="254,1173,421,1200"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1SampleOutput.html" title="Interface of an output stream of samples. " alt="" coords="241,1224,434,1251"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1SampleThread.html" title="Interface for a Thread for buffering samples. " alt="" coords="241,1275,434,1301"/>
+<area shape="rect" id="node47" href="$classnidas_1_1dynld_1_1raf_1_1CVIProcessor.html" title="Processor to support Counter&#45;flow Virtual Impactor. " alt="" coords="272,1326,403,1367"/>
+<area shape="rect" id="node48" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordReader.html" title="SyncRecordReader handles sync samples and provides an interface to access Variables and read sync rec..." alt="" coords="267,1391,407,1433"/>
+<area shape="rect" id="node49" href="$classTestClient.html" title="TestClient" alt="" coords="296,1457,379,1484"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1CharacterSensor.html" title="Implementation of support for a sensor which generates character output. " alt="" coords="492,195,700,221"/>
+<area shape="rect" id="node13" href="$classnidas_1_1dynld_1_1A2DSensor.html" title="One or more sensors connected to an A2D. " alt="" coords="507,403,685,429"/>
+<area shape="rect" id="node16" href="$classnidas_1_1dynld_1_1DSC__Event.html" title="Sensor support for a simple event detector. " alt="" coords="507,453,685,480"/>
+<area shape="rect" id="node17" href="$classnidas_1_1dynld_1_1DSC__FreqCounter.html" title="Sensor support for a frequency counter device. " alt="" coords="487,504,705,531"/>
+<area shape="rect" id="node20" href="$classnidas_1_1dynld_1_1DSC__PulseCounter.html" title="Sensor support for a simple pulse counter device. " alt="" coords="483,555,709,581"/>
+<area shape="rect" id="node21" href="$classnidas_1_1dynld_1_1IR104__Relays.html" title="Support for the digital IO on a Diamond Systems IR104 board. " alt="" coords="525,606,667,647"/>
+<area shape="rect" id="node22" href="$classnidas_1_1dynld_1_1raf_1_1A2DBoardTempSensor.html" title="The I2C temperature sensor on the ADS3 A2D board. " alt="" coords="513,671,679,713"/>
+<area shape="rect" id="node23" href="$classnidas_1_1dynld_1_1raf_1_1DSMArincSensor.html" title="A sensor connected to an ARINC port. " alt="" coords="531,737,661,778"/>
+<area shape="rect" id="node29" href="$classnidas_1_1dynld_1_1raf_1_1DSMMesaSensor.html" title="Sensors connected to the Mesa AnythingIO card. " alt="" coords="531,802,661,843"/>
+<area shape="rect" id="node30" href="$classnidas_1_1dynld_1_1raf_1_1IRIGSensor.html" title="Sensor class for controlling and recieving data from an IRIG clock. " alt="" coords="531,867,661,909"/>
+<area shape="rect" id="node31" href="$classnidas_1_1dynld_1_1raf_1_1LamsSensor.html" title="Sensor class supporting the NCAR/EOL Laser Air Motion Sensor (LAMS) via a DSM. " alt="" coords="531,933,661,974"/>
+<area shape="rect" id="node32" href="$classnidas_1_1dynld_1_1raf_1_1TwoD__USB.html" title="Base class for PMS 2D particle probes on a USB interface. " alt="" coords="531,998,661,1039"/>
+<area shape="rect" id="node34" href="$classTestMesa.html" title="TestMesa" alt="" coords="555,1064,637,1091"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SerialSensor.html" title="Support for a sensor that is sending packets on a TCP socket, a UDP socket, a Bluetooth RF Comm socke..." alt="" coords="779,5,960,32"/>
+<area shape="rect" id="node8" href="$classnidas_1_1dynld_1_1raf_1_1CVI__LV__Input.html" title="Support for reading the output from the LabView process on the CVI PC. " alt="" coords="804,57,935,98"/>
+<area shape="rect" id="node9" href="$classnidas_1_1dynld_1_1raf_1_1LamsNetSensor.html" title="Sensor class supporting the NCAR/EOL Laser Air Motion Sensor (LAMS 3&#45;beam) via Ethernet UDP connectio..." alt="" coords="804,122,935,163"/>
+<area shape="rect" id="node10" href="$classnidas_1_1dynld_1_1raf_1_1PSI9116__Sensor.html" title="Support for sampling a PSI 9116 pressure scanner from EsterLine Pressure Systems. ..." alt="" coords="804,187,935,229"/>
+<area shape="rect" id="node11" href="$classnidas_1_1dynld_1_1raf_1_1SidsNetSensor.html" title="Sensor class supporting the NCAR/EOL SID2H modifications via Ethernet UDP connection. " alt="" coords="804,253,935,294"/>
+<area shape="rect" id="node12" href="$classnidas_1_1dynld_1_1UDPSocketSensor.html" title="Sensor class using a UDPSocketIODevice for reading from a UDP socket. " alt="" coords="758,319,981,345"/>
+<area shape="rect" id="node14" href="$classnidas_1_1dynld_1_1DSC__A2DSensor.html" title="One or more sensors connected to a Diamond Systems Corp A2D. " alt="" coords="763,369,976,396"/>
+<area shape="rect" id="node15" href="$classnidas_1_1dynld_1_1raf_1_1DSMAnalogSensor.html" title="A sensor connected to the DSM A2D. " alt="" coords="799,421,940,462"/>
+<area shape="rect" id="node18" href="$classnidas_1_1dynld_1_1ParoSci__202BG__P.html" title="Sensor support for a ParoScientific 202BG pressure sensor connected to a Diamond Systems GPIO&#45;MM card..." alt="" coords="793,486,946,527"/>
+<area shape="rect" id="node19" href="$classnidas_1_1dynld_1_1ParoSci__202BG__T.html" title="Sensor support for a ParoScientific 202BG temperature sensor connected to a Diamond Systems GPIO&#45;MM c..." alt="" coords="793,551,946,593"/>
+<area shape="rect" id="node24" href="$classnidas_1_1dynld_1_1raf_1_1ADC__HW__EB7022597.html" title="ARINC ADC label processor. " alt="" coords="790,617,949,658"/>
+<area shape="rect" id="node25" href="$classnidas_1_1dynld_1_1raf_1_1Arinc__IRS.html" title="An Inertial Reference Sensor (IRS) connected to an ARINC port. " alt="" coords="804,682,935,723"/>
+<area shape="rect" id="node26" href="$classnidas_1_1dynld_1_1raf_1_1GPS__HW__HG2021GB02.html" title="ARINC IRS label processor. " alt="" coords="784,747,955,789"/>
+<area shape="rect" id="node27" href="$classnidas_1_1dynld_1_1raf_1_1LSZ__HW__EB7032239.html" title="ARINC LSZ label processor. " alt="" coords="791,813,947,854"/>
+<area shape="rect" id="node28" href="$classTestArinc.html" title="TestArinc" alt="" coords="830,879,909,905"/>
+<area shape="rect" id="node33" href="$classnidas_1_1dynld_1_1raf_1_1TwoD32__USB.html" title="Sensor class for the standard PMS2D probes where the data signals are converted to USB by a converter..." alt="" coords="804,998,935,1039"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1NearestResampler.html" title="A simple, nearest&#45;point resampler, for generating merged samples from variables from one or more samp..." alt="" coords="487,1115,705,1141"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1NearestResamplerAtRate.html" title="A simple, nearest&#45;point resampler, for generating merged samples from variables from one or more samp..." alt="" coords="487,1166,705,1207"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1SampleAverager.html" title="nidas::core::SampleAverager" alt="" coords="493,1232,699,1259"/>
+<area shape="rect" id="node40" href="$classnidas_1_1dynld_1_1raf_1_1SyncRecordSource.html" title="nidas::dynld::raf::\lSyncRecordSource" alt="" coords="525,1283,667,1325"/>
+<area shape="rect" id="node41" href="$classnidas_1_1dynld_1_1StatisticsCruncher.html" title="nidas::dynld::Statistics\lCruncher" alt="" coords="513,1349,679,1390"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1SampleOutputBase.html" title="Implementation of portions of SampleOutput. " alt="" coords="483,1415,709,1441"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1SampleBuffer.html" title="A SampleClient that buffers its received samples, using a pair of STL vectors, and then sends the buf..." alt="" coords="503,1465,689,1492"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1SampleSorter.html" title="A SampleClient that sorts its received samples, using an STL multiset, and then sends the sorted samp..." alt="" coords="501,1516,691,1543"/>
+</map>

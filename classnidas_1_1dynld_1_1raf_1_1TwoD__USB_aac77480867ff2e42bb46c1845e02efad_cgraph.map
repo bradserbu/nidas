@@ -1,0 +1,10 @@
+<map id="nidas::dynld::raf::TwoD_USB::close" name="nidas::dynld::raf::TwoD_USB::close">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a45a3ee15931af1e00b6ee409f1f491a7" title="close my associated device. " alt="" coords="187,70,362,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DerivedDataReader.html#a251a0410a3bf65d021bb2b5ee8bf1982" title="Fetch the pointer to the instance of DerivedDataReader. " alt="" coords="185,135,365,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DerivedDataReader.html#aa488e7aa9bc5fdb5c9520072c5118745" title="nidas::core::DerivedData\lReader::removeClient" alt="" coords="185,201,365,242"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IODevice.html#a7c0d765a4897e64a0762954a7df713dd" title="Close the device. " alt="" coords="423,5,579,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="414,70,589,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#ae3f9496427de8c4ffc833855d3e99aa8" title="nidas::core::DSMSensor\l::getTimeoutCount" alt="" coords="414,135,589,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="436,201,567,242"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="436,266,567,307"/>
+</map>

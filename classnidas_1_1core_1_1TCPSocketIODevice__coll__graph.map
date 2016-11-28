@@ -1,0 +1,7 @@
+<map id="nidas::core::TCPSocketIODevice" name="nidas::core::TCPSocketIODevice">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SocketIODevice.html" title="A IODevice providing support for UDP and TCP sockets. " alt="" coords="100,203,300,229"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IODevice.html" title="An interface to an IO device. " alt="" coords="5,111,160,137"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Socket.html" title="A stream (TCP) socket. " alt="" coords="325,203,459,229"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketImpl.html" title="Implementation of a socket, providing a C++ interface to system socket calls: socket,bind,listen,accept,setsockopt, etc. " alt="" coords="311,111,473,137"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="299,5,485,32"/>
+</map>

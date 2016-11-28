@@ -1,0 +1,4 @@
+<map id="nidas::util::FlipConverter::int64Value" name="nidas::util::FlipConverter::int64Value">
+<area shape="rect" id="node2" href="$namespacenidas_1_1util.html#addf3fe23dd351c130e95c5ea055a6e41" title="nidas::util::flipInt64" alt="" coords="229,12,371,39"/>
+<area shape="rect" id="node3" href="$namespacenidas_1_1util.html#af1cc6bad2bc9d2f002bfd02d7bdf9f8b" title="Function for reading 8 bytes from an address, flipping the bytes, and returning the int64_t value..." alt="" coords="419,12,571,39"/>
+</map>

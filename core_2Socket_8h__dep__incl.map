@@ -1,0 +1,18 @@
+<map id="nidas/core/Socket.h" name="nidas/core/Socket.h">
+<area shape="rect" id="node2" href="$Calibrator_8cc.html" title="nidas/apps/auto_cal\l/Calibrator.cc" alt="" coords="5,81,155,122"/>
+<area shape="rect" id="node3" href="$data__dump_8cc.html" title="nidas/apps/data_dump.cc" alt="" coords="179,88,365,115"/>
+<area shape="rect" id="node4" href="$data__stats_8cc.html" title="nidas/apps/data_stats.cc" alt="" coords="389,88,571,115"/>
+<area shape="rect" id="node5" href="$prep_8cc.html" title="nidas/apps/isff/prep.cc" alt="" coords="595,88,759,115"/>
+<area shape="rect" id="node6" href="$nidas__udp__relay_8cc.html" title="nidas/apps/nidas_udp\l_relay.cc" alt="" coords="784,81,944,122"/>
+<area shape="rect" id="node7" href="$sensor__extract_8cc.html" title="nidas/apps/sensor_extract.cc" alt="" coords="968,88,1176,115"/>
+<area shape="rect" id="node8" href="$statsproc_8cc.html" title="nidas/apps/statsproc.cc" alt="" coords="1200,88,1373,115"/>
+<area shape="rect" id="node9" href="$sync__dump_8cc.html" title="nidas/apps/sync_dump.cc" alt="" coords="1511,269,1697,296"/>
+<area shape="rect" id="node10" href="$IOChannel_8cc.html" title="nidas/core/IOChannel.cc" alt="" coords="1449,88,1623,115"/>
+<area shape="rect" id="node11" href="$core_2McSocket_8cc.html" title="nidas/core/McSocket.cc" alt="" coords="1647,88,1819,115"/>
+<area shape="rect" id="node12" href="$core_2Socket_8cc.html" title="nidas/core/Socket.cc" alt="" coords="1844,88,1999,115"/>
+<area shape="rect" id="node13" href="$SyncServer_8h.html" title="nidas/dynld/raf/SyncServer.h" alt="" coords="2023,88,2225,115"/>
+<area shape="rect" id="node14" href="$sync__server_8cc.html" title="nidas/apps/sync_server.cc" alt="" coords="1702,179,1889,205"/>
+<area shape="rect" id="node15" href="$SyncRecordReader_8h.html" title="nidas/dynld/raf/SyncRecord\lReader.h" alt="" coords="1914,171,2107,213"/>
+<area shape="rect" id="node17" href="$SyncServer_8cc.html" title="nidas/dynld/raf/SyncServer.cc" alt="" coords="2131,179,2340,205"/>
+<area shape="rect" id="node16" href="$SyncRecordReader_8cc.html" title="nidas/dynld/raf/SyncRecord\lReader.cc" alt="" coords="1914,262,2107,303"/>
+</map>

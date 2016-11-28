@@ -1,0 +1,6 @@
+<map id="nidas::core::DSMSensor::getBytesAvailable" name="nidas::core::DSMSensor::getBytesAvailable">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IODevice.html#acd5a004ee17344bccda5ad7732f9deca" title="Return how many bytes are available to read on this IODevice. " alt="" coords="230,70,386,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IODevice.html#a319ef1fd16ca1af6b0835aac031dcac1" title="nidas::core::IODevice\l::getName" alt="" coords="435,5,591,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1IODevice.html#a7f5a6146adcbb4d0c49923f95b501ce0" title="The file descriptor used when reading from this sensor. " alt="" coords="435,70,591,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1IODevice.html#a026c063c04528a4c82e6848dfa2d5739" title="nidas::core::IODevice\l::ioctl" alt="" coords="435,135,591,177"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="nidas::dynld::SampleOutputStream::setLatency" name="nidas::dynld::SampleOutputStream::setLatency">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#a7ea1dcc25a7aea9b02e67486160b8e23" title="Set desired latency, providing some control over the response time vs buffer efficiency tradeoff..." alt="" coords="254,5,447,46"/>
+</map>

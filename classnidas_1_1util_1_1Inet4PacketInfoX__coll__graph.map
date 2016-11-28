@@ -1,0 +1,7 @@
+<map id="nidas::util::Inet4PacketInfoX" name="nidas::util::Inet4PacketInfoX">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Inet4PacketInfo.html" title="Ancillary information that can be determined about an incoming UDP packet. " alt="" coords="571,73,759,100"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Inet4Address.html" title="Support for IP version 4 host address. " alt="" coords="6,33,181,60"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Inet4NetworkInterface.html" title="nidas::util::Inet4Network\lInterface" alt="" coords="299,66,474,107"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Inet4SocketAddress.html" title="A IP version 4 socket address, containing a host address, and a port number. " alt="" coords="582,125,749,166"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="293,132,480,159"/>
+</map>

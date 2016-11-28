@@ -1,0 +1,28 @@
+<map id="ConfigWindow::buildDSMActions" name="ConfigWindow::buildDSMActions">
+<area shape="rect" id="node2" href="$classConfigWindow.html#abfcb3513b8835034106c7ef52aac0b87" title="ConfigWindow::addDSMCombo" alt="" coords="277,439,493,465"/>
+<area shape="rect" id="node17" href="$classConfigWindow.html#ab4e778bc45f327ef3032692352bb54a6" title="ConfigWindow::deleteDSM" alt="" coords="812,639,999,665"/>
+<area shape="rect" id="node27" href="$classConfigWindow.html#a1021a1276ea443d3384eadef2029daaf" title="ConfigWindow::editDSMCombo" alt="" coords="277,388,493,415"/>
+<area shape="rect" id="node3" href="$classconfig_1_1AddDSMComboDialog.html#a746ae25af8c95cc3853256153b2e8b1c" title="config::AddDSMComboDialog\l::show" alt="" coords="542,381,751,422"/>
+<area shape="rect" id="node4" href="$classconfig_1_1AddDSMComboDialog.html#a558ac67791ae123f9c33d9eda818a9a3" title="config::AddDSMComboDialog\l::setUpDialog" alt="" coords="801,231,1010,273"/>
+<area shape="rect" id="node5" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="1619,464,1773,491"/>
+<area shape="rect" id="node6" href="$classconfig_1_1AddDSMComboDialog.html#a4cc6b00e850747d2816adc23fe93102a" title="config::AddDSMComboDialog\l::existingDSM" alt="" coords="1059,355,1269,397"/>
+<area shape="rect" id="node11" href="$classDocument.html#af1beb57fe055615d4850da02bf9cc8be" title="Document::getNextDSMId" alt="" coords="1069,121,1259,148"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Exception.html#a822535e7028f32b6a0ea0b9835b2c7f2" title="nidas::util::Exception\l::toString" alt="" coords="1087,173,1241,214"/>
+<area shape="rect" id="node7" href="$classDSMItem.html#ab3233f0023a46c66d002d15faf11fb95" title="DSMItem::getDSMConfig" alt="" coords="1343,487,1523,513"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="1348,290,1519,331"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DSMConfig.html#a48cb5cb6024a9e23f6fd00f5c32c97d5" title="nidas::core::DSMConfig\l::getId" alt="" coords="1348,355,1519,397"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1DSMConfig.html#a2f11522e7b009f018ca70226b05fce79" title="nidas::core::DSMConfig\l::getLocation" alt="" coords="1348,421,1519,462"/>
+<area shape="rect" id="node12" href="$classNidasModel.html#a40cd91b0dffd6bdacc21f56784bdf6ba" title="NidasModel::getCurrentRootItem" alt="" coords="1318,188,1549,215"/>
+<area shape="rect" id="node13" href="$classSiteItem.html#a52dfd0fbfaf0002ce02baf75d626cfaf" title="SiteItem::getSite" alt="" coords="1368,5,1499,32"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Site.html#ad4d2683952ca26ecb0a2310a62eb9790" title="nidas::core::Site::\lgetName" alt="" coords="1367,57,1500,98"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="1367,122,1500,163"/>
+<area shape="rect" id="node18" href="$classNidasModel.html#a839b3d7903e9bfc7b48b663007fc115b" title="NidasModel::removeIndexes" alt="" coords="1063,639,1265,665"/>
+<area shape="rect" id="node26" href="$classDocument.html#a4dcddfe1c04faeed78b472a0edb41ddc" title="Document::setIsChangedBig" alt="" coords="1062,689,1266,716"/>
+<area shape="rect" id="node19" href="$classNidasModel.html#aa3fcdc2f107a9c1d62b1655a7f8375f4" title="NidasModel::index" alt="" coords="1364,791,1503,817"/>
+<area shape="rect" id="node21" href="$classNidasModel.html#abf6ce7e736a182c2dfe5e3ded9cff572" title="NidasModel::removeRows" alt="" coords="1341,740,1525,767"/>
+<area shape="rect" id="node23" href="$classNidasItem.html#a1478aadaf025bf43bfb540cfe0f13e3d" title="NidasItem::row" alt="" coords="1375,537,1492,564"/>
+<area shape="rect" id="node24" href="$classNidasItem.html#a9d0ad16ace06c567c8bc911bbcdeccf2" title="NidasItem::parent" alt="" coords="1365,588,1502,615"/>
+<area shape="rect" id="node25" href="$classNidasItem.html#a24bdfe920cf1b5e070c1c9e7a0bbef0c" title="NidasItem::createIndex" alt="" coords="1348,639,1519,665"/>
+<area shape="rect" id="node20" href="$classNidasItem.html#a06208cd74e7d82d8f674820c43bfcea6" title="return the ith child of this item. " alt="" coords="1634,791,1758,817"/>
+<area shape="rect" id="node22" href="$classNidasItem.html#af5ddd83f6c88bf72e820746cf314a62c" title="NidasItem::removeChildren" alt="" coords="1598,740,1794,767"/>
+</map>

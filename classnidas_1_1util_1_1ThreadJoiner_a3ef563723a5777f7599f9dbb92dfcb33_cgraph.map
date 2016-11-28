@@ -1,0 +1,7 @@
+<map id="nidas::util::ThreadJoiner::run" name="nidas::util::ThreadJoiner::run">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="466,5,601,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="263,69,398,110"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="254,134,407,175"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="457,70,610,111"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="466,135,601,177"/>
+</map>

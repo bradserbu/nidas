@@ -1,0 +1,27 @@
+<map id="nidas/apps/isff/ck_goes.cc" name="nidas/apps/isff/ck_goes.cc">
+<area shape="rect" id="node2" href="$SE__GOESXmtr_8h.html" title="nidas/dynld/isff/SE\l_GOESXmtr.h" alt="" coords="2298,97,2435,138"/>
+<area shape="rect" id="node3" href="$GOESXmtr_8h.html" title="GOESXmtr.h" alt="" coords="1839,187,1940,213"/>
+<area shape="rect" id="node4" href="$IOChannel_8h.html" title="nidas/core/IOChannel.h" alt="" coords="1009,261,1177,288"/>
+<area shape="rect" id="node28" href="$SampleTag_8h.html" title="nidas/core/SampleTag.h" alt="" coords="2046,411,2220,437"/>
+<area shape="rect" id="node38" href="$UTime_8h.html" title="nidas/util/UTime.h" alt="" coords="643,485,779,512"/>
+<area shape="rect" id="node45" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="2704,485,2843,512"/>
+<area shape="rect" id="node49" href="$EndianConverter_8h.html" title="nidas/util/EndianConverter.h" alt="" coords="2480,485,2680,512"/>
+<area shape="rect" id="node32" href="$SerialPort_8h.html" title="nidas/util/SerialPort.h" alt="" coords="1448,411,1605,437"/>
+<area shape="rect" id="node5" href="$ConnectionInfo_8h.html" title="ConnectionInfo.h" alt="" coords="1242,336,1371,363"/>
+<area shape="rect" id="node15" href="$Datagrams_8h.html" title="Datagrams.h" alt="" coords="837,336,944,363"/>
+<area shape="rect" id="node17" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="1267,485,1359,512"/>
+<area shape="rect" id="node21" href="$Sample_8h.html" title="Sample.h" alt="" coords="1923,485,2005,512"/>
+<area shape="rect" id="node13" href="$IOException_8h.html" title="IOException.h" alt="" coords="45,568,155,595"/>
+<area shape="rect" id="node7" href="$Inet4Address_8h.html" title="Inet4Address.h" alt="" coords="1779,485,1897,512"/>
+<area shape="rect" id="node6" href="$Inet4NetworkInterface_8h.html" title="nidas/util/Inet4NetworkInterface.h" alt="" coords="1189,411,1424,437"/>
+<area shape="rect" id="node14" href="$Inet4SocketAddress_8h.html" title="nidas/util/Inet4SocketAddress.h" alt="" coords="1630,411,1852,437"/>
+<area shape="rect" id="node8" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="2055,568,2184,595"/>
+<area shape="rect" id="node16" href="$SocketAddrs_8h.html" title="SocketAddrs.h" alt="" coords="833,411,948,437"/>
+<area shape="rect" id="node18" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1139,561,1329,602"/>
+<area shape="rect" id="node19" href="$DOMObjectFactory_8h.html" title="DOMObjectFactory.h" alt="" coords="1354,568,1504,595"/>
+<area shape="rect" id="node20" href="$XDOM_8h.html" title="XDOM.h" alt="" coords="1529,568,1601,595"/>
+<area shape="rect" id="node22" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="920,568,1115,595"/>
+<area shape="rect" id="node29" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="2187,485,2303,512"/>
+<area shape="rect" id="node37" href="$Termios_8h.html" title="Termios.h" alt="" coords="239,485,321,512"/>
+<area shape="rect" id="node43" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="645,568,776,595"/>
+</map>

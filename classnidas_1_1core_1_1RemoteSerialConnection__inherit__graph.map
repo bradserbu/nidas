@@ -1,0 +1,4 @@
+<map id="nidas::core::RemoteSerialConnection" name="nidas::core::RemoteSerialConnection">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="5,5,189,32"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Polled.html" title="Interface for objects with a file descriptor, providing a virtual method to be called when system cal..." alt="" coords="215,5,353,32"/>
+</map>

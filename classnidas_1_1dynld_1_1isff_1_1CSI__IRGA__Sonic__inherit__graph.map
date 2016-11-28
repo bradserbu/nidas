@@ -1,0 +1,10 @@
+<map id="nidas::dynld::isff::CSI_IRGA_Sonic" name="nidas::dynld::isff::CSI_IRGA_Sonic">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1isff_1_1CSAT3__Sonic.html" title="A class for making sense of data from a Campbell Scientific Inc CSAT3 3D sonic anemometer. " alt="" coords="255,395,379,437"/>
+<area shape="rect" id="node3" href="$classnidas_1_1dynld_1_1isff_1_1SonicAnemometer.html" title="A class for performing the common processes on wind data from a 3D sonic anemometer. " alt="" coords="242,305,392,346"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SerialSensor.html" title="Support for a sensor that is sending packets on a TCP socket, a UDP socket, a Bluetooth RF Comm socke..." alt="" coords="227,229,408,256"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1CharacterSensor.html" title="Implementation of support for a sensor which generates character output. " alt="" coords="213,155,421,181"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html" title="DSMSensor provides the basic support for reading, processing and distributing samples from a sensor a..." alt="" coords="230,80,404,107"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="225,5,409,32"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="434,5,592,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nidas::core::DSMSensor::getName" name="nidas::core::DSMSensor::getName">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="230,5,405,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="230,70,405,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="453,70,624,111"/>
+</map>

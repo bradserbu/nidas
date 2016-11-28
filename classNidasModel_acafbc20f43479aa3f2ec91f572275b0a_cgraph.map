@@ -1,0 +1,8 @@
+<map id="NidasModel::appendChild" name="NidasModel::appendChild">
+<area shape="rect" id="node2" href="$classNidasItem.html#a24bdfe920cf1b5e070c1c9e7a0bbef0c" title="NidasItem::createIndex" alt="" coords="237,5,408,32"/>
+<area shape="rect" id="node3" href="$classNidasModel.html#a7d0359347c5992019669278ad8ff80f7" title="Create a QModelIndex for the NidasItem that points to nidasData and is a descendant of startItem..." alt="" coords="237,107,408,133"/>
+<area shape="rect" id="node7" href="$classNidasModel.html#abd81f24e00f512015be955cb6f86ad37" title="NidasModel::rowCount" alt="" coords="241,56,405,83"/>
+<area shape="rect" id="node4" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="460,107,615,133"/>
+<area shape="rect" id="node5" href="$classNidasItem.html#a06208cd74e7d82d8f674820c43bfcea6" title="return the ith child of this item. " alt="" coords="667,107,791,133"/>
+<area shape="rect" id="node6" href="$classNidasItem.html#a017b61c9cb82f301b131d3d9cfb876ed" title="NidasItem::childCount" alt="" coords="456,56,619,83"/>
+</map>

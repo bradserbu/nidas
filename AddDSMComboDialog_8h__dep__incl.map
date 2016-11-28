@@ -1,0 +1,11 @@
+<map id="nidas/apps/config/AddDSMComboDialog.h" name="nidas/apps/config/AddDSMComboDialog.h">
+<area shape="rect" id="node2" href="$configwindow_8h.html" title="nidas/apps/config/configwindow.h" alt="" coords="767,96,997,123"/>
+<area shape="rect" id="node4" href="$AddDSMComboDialog_8cc.html" title="nidas/apps/config/AddDSMCombo\lDialog.cc" alt="" coords="5,171,243,213"/>
+<area shape="rect" id="node3" href="$AddA2DVariableComboDialog_8cc.html" title="nidas/apps/config/AddA2DVariable\lComboDialog.cc" alt="" coords="268,171,508,213"/>
+<area shape="rect" id="node5" href="$AddSensorComboDialog_8cc.html" title="nidas/apps/config/AddSensor\lComboDialog.cc" alt="" coords="533,171,739,213"/>
+<area shape="rect" id="node6" href="$configwindow_8cc.html" title="nidas/apps/config/configwindow.cc" alt="" coords="764,179,1001,205"/>
+<area shape="rect" id="node7" href="$Document_8cc.html" title="nidas/apps/config/Document.cc" alt="" coords="1026,179,1248,205"/>
+<area shape="rect" id="node8" href="$config_2main_8cc.html" title="nidas/apps/config/main.cc" alt="" coords="1273,179,1460,205"/>
+<area shape="rect" id="node9" href="$NewProjectDialog_8cc.html" title="nidas/apps/config/NewProject\lDialog.cc" alt="" coords="1484,171,1692,213"/>
+<area shape="rect" id="node10" href="$VariableComboDialog_8cc.html" title="nidas/apps/config/Variable\lComboDialog.cc" alt="" coords="1717,171,1904,213"/>
+</map>

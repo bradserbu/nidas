@@ -1,0 +1,34 @@
+<map id="dmmat_ioctl_d2d" name="dmmat_ioctl_d2d">
+<area shape="rect" id="node2" href="$dmd__mmat_8c.html#afbb27251cce74dcc06641d74b69bbb5d" title="addA2DSampleConfig" alt="" coords="187,220,349,247"/>
+<area shape="rect" id="node13" href="$dmd__mmat_8c.html#a1dc0fbb954bc3e3dd6b6aaf01905c581" title="configA2D" alt="" coords="446,499,533,525"/>
+<area shape="rect" id="node12" href="$dmd__mmat_8c.html#a55ef3b4f0cc765d38cd86d9128ec2e48" title="getA2DDeviceName" alt="" coords="1288,549,1440,576"/>
+<area shape="rect" id="node17" href="$dmd__mmat_8c.html#a0ce977efb7fc52892b5506835156d8ea" title="getD2A_conv" alt="" coords="215,828,321,855"/>
+<area shape="rect" id="node18" href="$dmd__mmat_8c.html#a67a14810f651686d9f8ca4277a89c6e6" title="startD2D" alt="" coords="228,575,308,601"/>
+<area shape="rect" id="node30" href="$dmd__mmat_8c.html#a823284ef66933a96f335a3fb2fc82c4b" title="stopD2D" alt="" coords="229,777,307,804"/>
+<area shape="rect" id="node3" href="$short__filters_8c.html#a2134445ca6627a81887917354c98bb7d" title="Return structure of pointers to the methods for a given filter. " alt="" coords="398,220,581,247"/>
+<area shape="rect" id="node4" href="$short__filters_8c.html#a00ffd5be1ac12a4775b8e3d2d43a18d8" title="Constructor for a pickoff filter. " alt="" coords="690,245,779,272"/>
+<area shape="rect" id="node5" href="$short__filters_8c.html#a4ac9195c19afb5286aa73b790053a5c7" title="Configure a pickoff filter. " alt="" coords="681,296,789,323"/>
+<area shape="rect" id="node6" href="$short__filters_8c.html#a0feada1af68344f932a2bd92f388e416" title="Pickoff filter method. " alt="" coords="685,347,784,373"/>
+<area shape="rect" id="node7" href="$short__filters_8c.html#a4ac108c1899e56f62255a8e5dc89087e" title="Destructor for a pickoff filter. " alt="" coords="675,397,795,424"/>
+<area shape="rect" id="node8" href="$short__filters_8c.html#af8a8c39dbfbc44705fbedb4edb1a8a05" title="Constructor for a boxcar filter. " alt="" coords="689,43,780,69"/>
+<area shape="rect" id="node9" href="$short__filters_8c.html#a6e33223474426de92931f239a5ffd209" title="Configure a boxcar filter. " alt="" coords="679,93,790,120"/>
+<area shape="rect" id="node10" href="$short__filters_8c.html#a4772e1ab6d22fe2dc465da8cb569f1c1" title="Boxcar filter method. " alt="" coords="685,144,785,171"/>
+<area shape="rect" id="node11" href="$short__filters_8c.html#a4f44612a66c322d744dc73e7f6b4c769" title="Destructor for a boxcar filter. " alt="" coords="673,195,796,221"/>
+<area shape="rect" id="node14" href="$dmd__mmat_8c.html#a5cf0e371108908bf0f2112b998b20f61" title="Reset state of data processing. " alt="" coords="655,651,814,677"/>
+<area shape="rect" id="node15" href="$dmd__mmat_8c.html#a4cb57e483e03da52ef8e6277ddf5d43c" title="freeA2DFilters" alt="" coords="906,701,1017,728"/>
+<area shape="rect" id="node16" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="892,752,1031,779"/>
+<area shape="rect" id="node19" href="$dmd__mmat_8c.html#ac10b3076f85c41ce2fd130e2982ac536" title="startWaveforms" alt="" coords="428,600,551,627"/>
+<area shape="rect" id="node23" href="$dmd__mmat_8c.html#a8703acf92d75e29134680ee0dd62a71f" title="startA2D" alt="" coords="450,752,529,779"/>
+<area shape="rect" id="node20" href="$dmd__mmat_8c.html#ac4e63a34bb8b0bd9775fcd2a57587603" title="setupClock12" alt="" coords="681,600,789,627"/>
+<area shape="rect" id="node21" href="$dmd__mmat_8c.html#a33b4f7074a420eae05f11e55cf1e9afa" title="div_10" alt="" coords="930,600,993,627"/>
+<area shape="rect" id="node22" href="$dmd__mmat_8c.html#a84c7b29f15529e4b982a75eb6624ecd3" title="Set counter value in a 82C54 clock. " alt="" coords="905,651,1017,677"/>
+<area shape="rect" id="node24" href="$nidas__util_8c.html#a300153253ae0c68c2c41206be69adb45" title="alloc_dsm_circ_buf" alt="" coords="663,701,806,728"/>
+<area shape="rect" id="node25" href="$dmd__mmat_8c.html#ad0d78fac7ecfa5c8fc2d52fce9a52156" title="dmd_mmat_add_irq_user" alt="" coords="641,853,828,880"/>
+<area shape="rect" id="node29" href="$dmd__mmat_8c.html#a12f3ad46bc07ae7009f994f5751ab185" title="dmd_mmat_remove_irq_user" alt="" coords="629,904,840,931"/>
+<area shape="rect" id="node26" href="$dmd__mmat_8c.html#ad6a9edfb683f76cf648c3d72012217af" title="dmmat_irq_handler" alt="" coords="888,853,1035,880"/>
+<area shape="rect" id="node27" href="$dmd__mmat_8c.html#ae3e8d69dfe31cc7435f3d115be2bf1df" title="dmmat_cntr_handler" alt="" coords="1083,904,1239,931"/>
+<area shape="rect" id="node28" href="$dmd__mmat_8c.html#a6305a955c7979ab86e5889ec9990ae38" title="dmmat_a2d_handler" alt="" coords="1084,853,1239,880"/>
+<area shape="rect" id="node31" href="$dmd__mmat_8c.html#a291c12d7b697bf823818377e6181a61e" title="General function to stop the D2A waveform. " alt="" coords="429,980,549,1007"/>
+<area shape="rect" id="node33" href="$dmd__mmat_8c.html#a7db4e98c5aeb108ad611480cf5514775" title="General function to stop the A2D. " alt="" coords="451,904,528,931"/>
+<area shape="rect" id="node32" href="$dmd__mmat_8c.html#af2af3b3155c0133048cb9ca2e922263a" title="releaseClock12" alt="" coords="675,1005,794,1032"/>
+</map>

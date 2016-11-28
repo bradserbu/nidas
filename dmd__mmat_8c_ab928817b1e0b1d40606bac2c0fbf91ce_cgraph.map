@@ -1,0 +1,11 @@
+<map id="dmmat_release_d2d" name="dmmat_release_d2d">
+<area shape="rect" id="node2" href="$dmd__mmat_8c.html#a823284ef66933a96f335a3fb2fc82c4b" title="stopD2D" alt="" coords="209,31,287,57"/>
+<area shape="rect" id="node3" href="$dmd__mmat_8c.html#a291c12d7b697bf823818377e6181a61e" title="General function to stop the D2A waveform. " alt="" coords="336,5,456,32"/>
+<area shape="rect" id="node5" href="$dmd__mmat_8c.html#a7db4e98c5aeb108ad611480cf5514775" title="General function to stop the A2D. " alt="" coords="357,56,435,83"/>
+<area shape="rect" id="node4" href="$dmd__mmat_8c.html#af2af3b3155c0133048cb9ca2e922263a" title="releaseClock12" alt="" coords="550,5,669,32"/>
+<area shape="rect" id="node6" href="$dmd__mmat_8c.html#a12f3ad46bc07ae7009f994f5751ab185" title="dmd_mmat_remove_irq_user" alt="" coords="504,56,715,83"/>
+<area shape="rect" id="node7" href="$dmd__mmat_8c.html#a55ef3b4f0cc765d38cd86d9128ec2e48" title="getA2DDeviceName" alt="" coords="533,107,685,133"/>
+<area shape="rect" id="node8" href="$dmd__mmat_8c.html#a5cf0e371108908bf0f2112b998b20f61" title="Reset state of data processing. " alt="" coords="530,157,689,184"/>
+<area shape="rect" id="node9" href="$dmd__mmat_8c.html#a4cb57e483e03da52ef8e6277ddf5d43c" title="freeA2DFilters" alt="" coords="777,132,887,159"/>
+<area shape="rect" id="node10" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="763,183,901,209"/>
+</map>

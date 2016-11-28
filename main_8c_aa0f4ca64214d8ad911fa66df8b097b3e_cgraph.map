@@ -1,0 +1,6 @@
+<map id="arinc_open" name="arinc_open">
+<area shape="rect" id="node2" href="$main_8c.html#af6d22f870920f923d85f982217bacfff" title="log_error" alt="" coords="185,5,263,32"/>
+<area shape="rect" id="node3" href="$nidas__util_8c.html#ab21a87a4d11fcab518965b8ac4f2eda4" title="realloc_dsm_circ_buf" alt="" coords="147,56,301,83"/>
+<area shape="rect" id="node4" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="352,31,491,57"/>
+<area shape="rect" id="node5" href="$nidas__util_8c.html#a300153253ae0c68c2c41206be69adb45" title="alloc_dsm_circ_buf" alt="" coords="350,81,493,108"/>
+</map>

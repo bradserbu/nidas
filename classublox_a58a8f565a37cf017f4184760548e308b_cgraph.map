@@ -1,0 +1,9 @@
+<map id="ublox::write_rdwr" name="ublox::write_rdwr">
+<area shape="rect" id="node2" href="$classublox__pkt.html#aa37ef4f550979598dec40b3cb94cbe89" title="ublox_pkt::beginp" alt="" coords="185,5,319,32"/>
+<area shape="rect" id="node3" href="$classublox__pkt.html#af797a897eae8d8b04367fc9d7907febc" title="ublox_pkt::id" alt="" coords="201,56,303,83"/>
+<area shape="rect" id="node4" href="$classublox__pkt.html#a6481ac7af1fb60faad07bd86624d54e1" title="ublox_pkt::len" alt="" coords="197,107,307,133"/>
+<area shape="rect" id="node5" href="$classublox__pkt.html#a9b64ed2caf0ede12d5b699783b041cbc" title="ublox_pkt::payload" alt="" coords="181,157,323,184"/>
+<area shape="rect" id="node6" href="$classublox__pkt.html#a25d1711ef033706f4c685b5015073d58" title="ublox_pkt::sync1" alt="" coords="188,208,316,235"/>
+<area shape="rect" id="node7" href="$classublox__pkt.html#a0dcb68357354617ff44efd8e3ec71379" title="ublox_pkt::sync2" alt="" coords="188,259,316,285"/>
+<area shape="rect" id="node8" href="$classublox__pkt.html#a1a53ea16db219ab85fedb602626a2563" title="ublox_pkt::uclass" alt="" coords="187,309,317,336"/>
+</map>

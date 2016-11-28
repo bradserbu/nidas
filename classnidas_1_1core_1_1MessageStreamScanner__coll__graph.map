@@ -1,0 +1,8 @@
+<map id="nidas::core::MessageStreamScanner" name="nidas::core::MessageStreamScanner">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleScanner.html" title="A scanner of sample data. " alt="" coords="105,291,308,317"/>
+<area shape="rect" id="node3" href="$structdsm__sample.html" title="dsm_sample" alt="" coords="5,187,109,213"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Sample.html" title="Interface to a data sample. " alt="" coords="287,187,436,213"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleHeader.html" title="The header fields of a Sample: a time_tag, a data length field, and an identifier. " alt="" coords="194,96,389,123"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="415,96,545,123"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="383,5,576,32"/>
+</map>

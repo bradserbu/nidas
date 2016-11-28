@@ -1,0 +1,7 @@
+<map id="nidas::dynld::isff::WisardMote::unpackTRH" name="nidas::dynld::isff::WisardMote::unpackTRH">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleT.html#a2484696bc7826cb3468efe8ff5aacb1c" title="Get number of elements of type DataT in data. " alt="" coords="245,5,401,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleT.html#a48159f734fbd9a234b27646f5b1a59df" title="nidas::core::SampleT\l::getDataPtr" alt="" coords="245,70,401,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Variable.html#ace69670cdee25d3e63ff1f284b5c6e2f" title="nidas::core::Variable\l::getMaxValue" alt="" coords="247,135,398,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#a7f9b5dce0107542c5b4e5b0465de2f3c" title="nidas::core::Variable\l::getMinValue" alt="" coords="247,201,398,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleTag.html#a790923429494213072b51b9463cca14c" title="Provide a reference to a variable &#45; allowing one to modify it. " alt="" coords="237,266,408,307"/>
+</map>

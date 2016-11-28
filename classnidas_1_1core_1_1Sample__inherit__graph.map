@@ -1,0 +1,6 @@
+<map id="nidas::core::Sample" name="nidas::core::Sample">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleT.html" title="A typed Sample, with data of type DataT. " alt="" coords="206,79,362,121"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleT.html" title="nidas::core::SampleT\l\&lt; char \&gt;" alt="" coords="489,175,645,217"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleT.html" title="nidas::core::SampleT\l\&lt; double \&gt;" alt="" coords="489,5,645,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleT.html" title="nidas::core::SampleT\l\&lt; float \&gt;" alt="" coords="489,83,645,125"/>
+</map>

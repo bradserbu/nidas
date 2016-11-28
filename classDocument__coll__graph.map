@@ -1,0 +1,39 @@
+<map id="Document" name="Document">
+<area shape="rect" id="node20" href="$classconfig_1_1AddDSMComboDialog.html" title="config::AddDSMComboDialog" alt="" coords="3570,343,3779,369"/>
+<area shape="rect" id="node17" href="$classConfigWindow.html" title="ConfigWindow" alt="" coords="4023,393,4132,420"/>
+<area shape="rect" id="node28" href="$classconfig_1_1VariableComboDialog.html" title="config::VariableComboDialog" alt="" coords="3572,500,3777,527"/>
+<area shape="rect" id="node47" href="$classconfig_1_1AddA2DVariableComboDialog.html" title="config::AddA2DVariableCombo\lDialog" alt="" coords="3566,621,3783,662"/>
+<area shape="rect" id="node49" href="$classconfig_1_1AddSensorComboDialog.html" title="config::AddSensorComboDialog" alt="" coords="3563,292,3787,319"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Project.html" title="nidas::core::Project" alt="" coords="733,1576,877,1603"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="1105,1549,1249,1590"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1Site.html" title="A measurement site. " alt="" coords="1115,1275,1240,1301"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,1409,182,1436"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="329,1561,508,1588"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="321,1612,517,1639"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements, keyed by the ID attributes. " alt="" coords="321,1663,516,1689"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1CalFile.html" title="A class for reading ASCII files containing a time series of calibration data. " alt="" coords="2199,608,2339,635"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1DSMSensor.html" title="DSMSensor provides the basic support for reading, processing and distributing samples from a sensor a..." alt="" coords="1854,852,2029,879"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1DSMConfig.html" title="Class that should include all that is configurable about a DSM. " alt="" coords="1537,1029,1708,1056"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1SampleTag.html" title="Class describing a group of variables that are sampled and handled together. " alt="" coords="2184,897,2355,924"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1Variable.html" title="Class describing a sampled variable. " alt="" coords="2506,1135,2657,1161"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1VariableConverter.html" title="nidas::core::VariableConverter" alt="" coords="2809,1089,3023,1116"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="723,1359,887,1385"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1DSMSensor_1_1MyDictionary.html" title="nidas::core::DSMSensor\l::MyDictionary" alt="" coords="2182,1122,2357,1163"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="1556,1210,1689,1251"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="353,772,484,799"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1Looper.html" title="Looper is a Thread that periodically loops, calling the LooperClient::looperNotify() method of Looper..." alt="" coords="912,823,1056,849"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1SampleSourceSupport.html" title="A source of samples. " alt="" coords="1525,761,1720,802"/>
+<area shape="rect" id="node44" href="$classnidas_1_1util_1_1UTime.html" title="A class for parsing, formatting and doing operations on time, based on Unix time conventions, where leap seconds are ignored, so that there are always 60 seconds in a minute, 3600 seconds in an hour and 86400 seconds in a day. " alt="" coords="739,249,871,276"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,1092,199,1119"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Dataset.html" title="A Dataset is a named collection of parameters, that are used in data processing. " alt="" coords="343,1460,494,1487"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1IODevice.html" title="An interface to an IO device. " alt="" coords="542,401,698,428"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1SampleScanner.html" title="A scanner of sample data. " alt="" coords="1299,552,1501,579"/>
+<area shape="rect" id="node30" href="$classVariableItem.html" title="VariableItem" alt="" coords="3270,608,3373,635"/>
+<area shape="rect" id="node15" href="$classDocument_1_1MyErrorHandler.html" title="Document::MyErrorHandler" alt="" coords="2818,1241,3014,1268"/>
+<area shape="rect" id="node26" href="$classconfig_1_1NewProjectDialog.html" title="config::NewProjectDialog" alt="" coords="4296,375,4475,401"/>
+<area shape="rect" id="node19" href="$classUserFriendlyExceptionHandler.html" title="UserFriendlyExceptionHandler" alt="" coords="3569,444,3781,471"/>
+<area shape="rect" id="node23" href="$classNidasModel.html" title="NidasModel" alt="" coords="2533,367,2629,393"/>
+<area shape="rect" id="node25" href="$classNidasItem.html" title="NidasItem" alt="" coords="2873,456,2959,483"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="1080,873,1275,900"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="1530,877,1715,904"/>
+</map>

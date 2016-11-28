@@ -1,0 +1,27 @@
+<map id="WriterThread::run" name="WriterThread::run">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Socket.html#a75ee749264ccbcfc4dfbf5442e55dcb8" title="nidas::core::Socket\l::close" alt="" coords="228,5,372,46"/>
+<area shape="rect" id="node4" href="$classPacketReader.html#aed0ab4505d39002b3f3d2eec1b2bf178" title="PacketReader::dataReady" alt="" coords="209,71,391,97"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1DatagramPacketT.html#a281de8522545df7f504dfc79f37d4442" title="nidas::util::DatagramPacket\lT::getData" alt="" coords="201,122,399,163"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Exception.html#a980845bb9a0fb107d8b216e8099c1b0b" title="nidas::util::Exception\l::getErrno" alt="" coords="485,505,638,546"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1DatagramPacketBase.html#aab1a729e8bb33b1f00e5249246b3608c" title="Get the value for the current number of bytes in data. " alt="" coords="201,253,399,294"/>
+<area shape="rect" id="node8" href="$classPacketReader.html#aa9fc24ddc7c40fca3d90bf6e3943f9ce" title="PacketReader::getMaxPacketSize" alt="" coords="184,319,416,345"/>
+<area shape="rect" id="node9" href="$classPacketReader.html#a06b755626c859e3b1eeb5c881bcf40d6" title="PacketReader::getPackets" alt="" coords="207,369,393,396"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Socket.html#a8340f0503fbe84199c2ee97a73fdf4fb" title="This method does a DNS lookup of the value of getRemoteHost(), and so it can throw an UnknownHostExce..." alt="" coords="202,187,398,229"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Cond.html#a069efcc951a01cf6a901dd4c92f14ebe" title="Lock the mutex associated with the condition variable. " alt="" coords="221,420,379,447"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1Socket.html#a466fa3fa0d685821ff97b6e2743322c0" title="Do setNonBlocking(val) on underlying socket. " alt="" coords="228,654,372,695"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="207,589,393,630"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1Cond.html#afe6c8b703dd232a4f7c88b9f0f019c40" title="Unlock the mutex associated with the condition variable. " alt="" coords="234,719,366,761"/>
+<area shape="rect" id="node23" href="$classnidas_1_1util_1_1Cond.html#a2b603f8bcd511d35350c4ab964e8cf5f" title="Wait on the condition variable. " alt="" coords="221,851,379,877"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="223,785,377,826"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1IOStream.html#a8eaa8ac91411f9d880620f600434ab08" title="Write data. " alt="" coords="219,471,381,513"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Socket.html#a170b8a45ba456cc0d24b99b3b2b5c6ba" title="nidas::util::Socket\l::close" alt="" coords="494,5,629,46"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="474,227,649,269"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Socket.html#a0bd441d30210ccc81721e64ad9826439" title="nidas::core::Socket\l::setRemoteSocketAddress" alt="" coords="464,293,659,334"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Socket.html#a9250c4ed3e5d80148db0de3a2d45afeb" title="Get the name of the remote host. " alt="" coords="483,97,639,138"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Socket.html#ab6dce90e79e44c6b0666c979689b4eaa" title="nidas::core::Socket\l::setName" alt="" coords="489,162,633,203"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1SocketAddress.html#a704d2610cf7adfbe39dd5120c693f7fc" title="Virtual constructor. " alt="" coords="707,293,893,334"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="496,413,627,454"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Socket.html#a1b3dae4e515ea1935b1fa020bf77c698" title="Do fcntl system call to set O_NONBLOCK file descriptor flag on the socket. " alt="" coords="494,654,629,695"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="496,719,627,761"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Mutex.html#a704c5544ed1d8bd7dcd4824097e814b1" title="Get the pointer to the pthread_mutex_t. " alt="" coords="483,851,639,877"/>
+</map>

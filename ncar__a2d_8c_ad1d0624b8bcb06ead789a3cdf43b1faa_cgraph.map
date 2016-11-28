@@ -1,0 +1,49 @@
+<map id="ncar_a2d_init" name="ncar_a2d_init">
+<area shape="rect" id="node2" href="$ncar__a2d_8c.html#aa681835b273f833e3c6ae9c21757ce09" title="a2d_bottom_half" alt="" coords="171,5,301,32"/>
+<area shape="rect" id="node4" href="$ncar__a2d_8c.html#af44891d124cf1fd0decf4f734b922773" title="A2DNotAuto" alt="" coords="566,512,669,539"/>
+<area shape="rect" id="node5" href="$ncar__a2d_8c.html#af8eb92f4eaa6367f69345e19ba767337" title="AD7725 sets some of the bits of the previous instruction in its status register. " alt="" coords="963,1145,1130,1172"/>
+<area shape="rect" id="node6" href="$ncar__a2d_8c.html#adc6b3dee0ff56987f46568f68956a594" title="CHAN_ADDR16" alt="" coords="987,208,1107,235"/>
+<area shape="rect" id="node7" href="$ncar__a2d_8c.html#a6bb5fee72aa738e7e4aff7cc672f6592" title="getSerialNumber" alt="" coords="360,600,491,627"/>
+<area shape="rect" id="node9" href="$ncar__a2d_8c.html#a6828b96eaf1d6bad3a9ceea17c949bf4" title="ncar_a2d_cleanup" alt="" coords="167,335,305,361"/>
+<area shape="rect" id="node19" href="$ncar__a2d_8c.html#a8feb093a04535a8f0c2ec72e586ffcaf" title="resetBoardWorkFunc" alt="" coords="160,708,312,735"/>
+<area shape="rect" id="node47" href="$ncar__a2d_8c.html#a3fc8d9756a1d0d386a979665b9fdbe45" title="test_ISA_Writes" alt="" coords="365,56,485,83"/>
+<area shape="rect" id="node48" href="$ncar__a2d_8c.html#acedf8c00f00b8d824acaa4a05fcd26fa" title="UnSetVcal" alt="" coords="191,1272,281,1299"/>
+<area shape="rect" id="node3" href="$ncar__a2d_8c.html#a1871a4e46493ff994dcefeb4562d7f66" title="Invoke filters. " alt="" coords="385,5,465,32"/>
+<area shape="rect" id="node8" href="$ncar__a2d_8c.html#a6ae6f08ad05c2dcb4fb7e91baad1c3cb" title="Return the status from the card. " alt="" coords="982,816,1111,843"/>
+<area shape="rect" id="node10" href="$ncar__a2d_8c.html#af25e7f0cd4905e95ad24831876fd4733" title="AD7725StatusAll" alt="" coords="552,208,683,235"/>
+<area shape="rect" id="node12" href="$pc104sg_8c.html#aaf72cc4ce7d06abb88b67911ad702f9d" title="flush_irig_callbacks" alt="" coords="546,360,689,387"/>
+<area shape="rect" id="node13" href="$nidas__util_8c.html#a35b6ad4d4ef9f630b31570c9a20e6ee3" title="free_dsm_circ_buf" alt="" coords="548,157,687,184"/>
+<area shape="rect" id="node14" href="$ncar__a2d_8c.html#ac621d95948eff6a7ee50914e9eac8159" title="Stop data collection on the selected board. " alt="" coords="381,309,469,336"/>
+<area shape="rect" id="node15" href="$pc104sg_8c.html#ae0aacc0145154de250d49a3def0888af" title="Modules call this function to dequeue their callbacks. " alt="" coords="744,512,915,539"/>
+<area shape="rect" id="node11" href="$ncar__a2d_8c.html#ae28add5302cda2a6d055b0626a093cd5" title="AD7725Status" alt="" coords="772,208,887,235"/>
+<area shape="rect" id="node16" href="$ncar__a2d_8c.html#a6b129a171a87a7ce1675296e9d9a42a5" title="A2DStopReadAll" alt="" coords="555,411,680,437"/>
+<area shape="rect" id="node18" href="$ncar__a2d_8c.html#a4affad92243b65f4e0dd448ddbe43676" title="freeFilters" alt="" coords="575,259,659,285"/>
+<area shape="rect" id="node17" href="$ncar__a2d_8c.html#ad6d9a5198c0ccc3deb3b7d27a9fa5049" title="A2DStopRead" alt="" coords="774,335,885,361"/>
+<area shape="rect" id="node20" href="$ncar__a2d_8c.html#a38cffd6b64aa5ab64a54870a9e252935" title="resetBoard" alt="" coords="379,791,472,817"/>
+<area shape="rect" id="node21" href="$ncar__a2d_8c.html#a1668bae5760da72c97f4ea2031077680" title="A2DClearFIFO" alt="" coords="563,715,672,741"/>
+<area shape="rect" id="node22" href="$ncar__a2d_8c.html#a3a1c798bd42dc6d690c497e630584d9d" title="waitFor1PPS" alt="" coords="567,664,667,691"/>
+<area shape="rect" id="node24" href="$ncar__a2d_8c.html#a6d373bed93703370cb4c10f217312a8c" title="ppsCallback1" alt="" coords="776,816,883,843"/>
+<area shape="rect" id="node25" href="$ncar__a2d_8c.html#afefed8b1a82ea05274f98935b4affb85" title="A2DStartAll" alt="" coords="569,1019,665,1045"/>
+<area shape="rect" id="node27" href="$ncar__a2d_8c.html#af07f2d5ecc9c9a013ddfe1007b7a1424" title="A2DSetSYNC" alt="" coords="564,867,671,893"/>
+<area shape="rect" id="node28" href="$ncar__a2d_8c.html#a23d78d5dabe51982933ce9b9edd789e7" title="A2DAuto" alt="" coords="578,917,657,944"/>
+<area shape="rect" id="node29" href="$ncar__a2d_8c.html#a7a227076f6405cfa628a7620c1eebcbe" title="A2DEnable1PPS" alt="" coords="555,968,680,995"/>
+<area shape="rect" id="node23" href="$pc104sg_8c.html#a6be98cca820db8ed3d7b06aecfafc2ab" title="Module function that allows other modules to register their callback function to be called at the giv..." alt="" coords="752,715,907,741"/>
+<area shape="rect" id="node30" href="$ncar__a2d_8c.html#abc59a1559a62610bcf6df0bfee25881a" title="ReadSampleCallback" alt="" coords="540,1120,695,1147"/>
+<area shape="rect" id="node34" href="$ncar__a2d_8c.html#aa32b5095386083be586f57311cfa5a26" title="TemperatureCallback" alt="" coords="539,1171,695,1197"/>
+<area shape="rect" id="node31" href="$ncar__a2d_8c.html#a4bbaefd6604ad268bc8362b4e832b39f" title="Get the FIFO fill level: " alt="" coords="764,1069,895,1096"/>
+<area shape="rect" id="node26" href="$ncar__a2d_8c.html#a4a02b14a439b6b83366c9b65cdc3faf4" title="A2DStart" alt="" coords="789,1019,870,1045"/>
+<area shape="rect" id="node32" href="$ncar__a2d_8c.html#aa4f5420d74d31fc9b9eda7fcd0a61078" title="readA2DFifo" alt="" coords="780,1120,879,1147"/>
+<area shape="rect" id="node33" href="$ncar__a2d_8c.html#a3eb22ce1f914a87e2ab80cd13d73007f" title="discardA2DFifo" alt="" coords="989,1095,1105,1121"/>
+<area shape="rect" id="node35" href="$ncar__a2d_8c.html#a840d863bb8fd69cce1d8de3f4bb7624d" title="Read on&#45;board LM92 temperature sensor via i2c serial bus The signed short returned is (16 * temperatu..." alt="" coords="788,1297,871,1324"/>
+<area shape="rect" id="node36" href="$ncar__a2d_8c.html#a142be24085e510eb21557c5a4bf86841" title="i2c_get_byte" alt="" coords="1201,1095,1303,1121"/>
+<area shape="rect" id="node39" href="$ncar__a2d_8c.html#a8cf2eeb6cc692d667fdca52c5fe34256" title="i2c_put_byte" alt="" coords="995,1247,1098,1273"/>
+<area shape="rect" id="node43" href="$ncar__a2d_8c.html#a72f8e98c93c5504c374076b35e215866" title="i2c_putAck" alt="" coords="1207,1399,1297,1425"/>
+<area shape="rect" id="node44" href="$ncar__a2d_8c.html#ab64f7b3ab59b15b95cf93308a07e20d5" title="i2c_putNoAck" alt="" coords="1197,1297,1307,1324"/>
+<area shape="rect" id="node45" href="$ncar__a2d_8c.html#a74b71240e24b66d12860df136d767807" title="i2c_start_sequence" alt="" coords="1179,1348,1325,1375"/>
+<area shape="rect" id="node46" href="$ncar__a2d_8c.html#ae6b0349cd30809c1482b240cd8d89774" title="i2c_stop_sequence" alt="" coords="1180,1500,1324,1527"/>
+<area shape="rect" id="node37" href="$ncar__a2d_8c.html#a4569e7baa3569cbbdcb9180f77a4cef1" title="i2c_clock_hi" alt="" coords="1374,1297,1471,1324"/>
+<area shape="rect" id="node38" href="$ncar__a2d_8c.html#ac7d5f43ef0a9b98263626a306936a12a" title="i2c_clock_lo" alt="" coords="1374,1221,1471,1248"/>
+<area shape="rect" id="node40" href="$ncar__a2d_8c.html#a73af34f5a93fbd331577e88239164be1" title="i2c_data_hi" alt="" coords="1375,1399,1470,1425"/>
+<area shape="rect" id="node41" href="$ncar__a2d_8c.html#aa2647b6754e7bc09d6bc5ba6be45a875" title="i2c_data_lo" alt="" coords="1375,1475,1470,1501"/>
+<area shape="rect" id="node42" href="$ncar__a2d_8c.html#a2523bac7d00534b4eb6dae9ccfa533e4" title="i2c_getAck" alt="" coords="1207,1196,1297,1223"/>
+</map>

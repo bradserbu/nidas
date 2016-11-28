@@ -1,0 +1,31 @@
+<map id="PSI::run" name="PSI::run">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1ServerSocket.html#a30aa9e584d99cf5f7a77b336989ba450" title="Accept connection, return a connected Socket instance. " alt="" coords="126,70,303,111"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1ServerSocket.html#a0245d40096ca089255c67303eebf17e6" title="close the socket. " alt="" coords="126,135,303,177"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Thread.html#a1f53ee62bd30a7924186ef26150ce262" title="Start the thread running, meaning execute the run method in a separate thread. " alt="" coords="147,402,282,443"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SocketImpl.html#ac4407b5d18cab939e96ababd8006d5fd" title="nidas::util::SocketImpl\l::close" alt="" coords="372,135,535,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1ServerSocket.html#a93121a3756947e2e48f1512604873f5a" title="nidas::util::ServerSocket\l::getDomain" alt="" coords="365,5,542,46"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1ServerSocket.html#a07252c8257ea7923f85deef66c811ddd" title="Fetch the local address that this socket is bound to. " alt="" coords="363,70,543,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="608,198,795,239"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1SocketImpl.html#aed0edf6bcfa48a862f2f95ac18ca4bf3" title="Get local socket address of this socket. " alt="" coords="611,133,791,174"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1SocketImpl.html#a823649cca15b0c841266621653f5e026" title="Get remote socket address of this socket. " alt="" coords="603,67,799,109"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="625,282,778,323"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="386,435,521,477"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Thread.html#ac87ca027e08548964a48c84058bc28f4" title="nidas::util::Thread\l::makeFullName" alt="" coords="386,631,521,673"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Thread.html#a15080a5dc63e04c8e752904c3a37e824" title="Register this current thread with a static registry of threads by id. " alt="" coords="386,566,521,607"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Thread.html#a808c9d72433555d1ba91a7cfb92a1d32" title="nidas::util::Thread\l::setThreadSchedulerNolock" alt="" coords="353,253,554,294"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1Thread.html#afe8f2c69743f06ad71ee7adf04cd24a0" title="nidas::util::Thread\l::thr_run" alt="" coords="386,501,521,542"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1Thread.html#a68d19fd0e974e692a90eebef1732146c" title="nidas::util::Thread\l::thr_run_detached" alt="" coords="382,370,525,411"/>
+<area shape="rect" id="node14" href="$classnidas_1_1util_1_1Thread.html#af51d756d74e29093b4e33fbd0e6bb56d" title="Convenience function to return a string for the given scheduler policy: &quot;Non&#45;RT&quot;, &quot;RT:FIFO&quot;..." alt="" coords="634,631,769,673"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Thread.html#a08d3dc81b99d4ebdde3757e6339458e7" title="nidas::util::Thread\l::thr_cleanup" alt="" coords="634,555,769,597"/>
+<area shape="rect" id="node21" href="$classnidas_1_1util_1_1Thread.html#a40ff907091176225b9ed16d0d2ec05b4" title="nidas::util::Thread\l::pRun" alt="" coords="634,365,769,406"/>
+<area shape="rect" id="node19" href="$classnidas_1_1util_1_1Thread.html#aa8a1a7ffac686e7d797cca2cc094de72" title="nidas::util::Thread\l::unregisterThread" alt="" coords="868,621,1007,662"/>
+<area shape="rect" id="node20" href="$classnidas_1_1util_1_1Thread.html#a96c8067714dffaffa9b3078186ca9671" title="Return a name with a bunch of descriptive fields, specifying whether it is detached, the real&#45;time priority, etc. " alt="" coords="870,555,1005,597"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1Mutex.html#a704c5544ed1d8bd7dcd4824097e814b1" title="Get the pointer to the pthread_mutex_t. " alt="" coords="859,308,1015,335"/>
+<area shape="rect" id="node23" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="872,425,1003,466"/>
+<area shape="rect" id="node24" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="870,359,1005,401"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Runnable.html#ac804aacbcda5473d328d73e3a2ab0518" title="The method which will run in its own thread. " alt="" coords="848,191,1027,217"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1Exception.html#a231e721a7c01a2d8b61e6d697d55e565" title="nidas::util::Exception\l::clone" alt="" coords="861,242,1014,283"/>
+<area shape="rect" id="node27" href="$classnidas_1_1util_1_1Exception.html#a787cf8bb0c3c737452e0d51319479795" title="nidas::util::Exception\l::Exception" alt="" coords="1075,242,1229,283"/>
+<area shape="rect" id="node29" href="$classnidas_1_1util_1_1Thread.html#a47d9837c942aec77a3d1a28eeb8900d3" title="nidas::util::Thread\l::thr_cleanup_delete" alt="" coords="625,490,777,531"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="872,490,1003,531"/>
+</map>

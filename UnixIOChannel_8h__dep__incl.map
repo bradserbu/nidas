@@ -1,0 +1,7 @@
+<map id="nidas/core/UnixIOChannel.h" name="nidas/core/UnixIOChannel.h">
+<area shape="rect" id="node2" href="$pdecode_8cc.html" title="nidas/apps/isff/pdecode.cc" alt="" coords="5,80,195,107"/>
+<area shape="rect" id="node3" href="$n__hdr__util_8cc.html" title="nidas/apps/n_hdr_util.cc" alt="" coords="219,80,393,107"/>
+<area shape="rect" id="node4" href="$UnixIOChannel_8cc.html" title="nidas/core/UnixIOChannel.cc" alt="" coords="419,80,621,107"/>
+<area shape="rect" id="node5" href="$AsciiOutput_8cc.html" title="nidas/dynld/AsciiOutput.cc" alt="" coords="645,80,835,107"/>
+<area shape="rect" id="node6" href="$CVIOutput_8cc.html" title="nidas/dynld/raf/CVIOutput.cc" alt="" coords="859,80,1061,107"/>
+</map>

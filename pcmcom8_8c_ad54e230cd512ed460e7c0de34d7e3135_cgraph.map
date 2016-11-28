@@ -1,0 +1,4 @@
+<map id="pcmcom8_load_config_from_eeprom" name="pcmcom8_load_config_from_eeprom">
+<area shape="rect" id="node2" href="$pcmcom8_8c.html#aefd2e03356c2377c5287b1a7b83befc8" title="pcmcom8_read_config" alt="" coords="222,5,389,32"/>
+<area shape="rect" id="node3" href="$pcmcom8_8c.html#a88dd1578f88b30bd6864b4ac473bc80f" title="pcmcom8_wait_eedone" alt="" coords="219,56,392,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TestA2DPage::updateSelection" name="TestA2DPage::updateSelection">
+<area shape="rect" id="node2" href="$classAutoCalClient.html#affaa9eb3037b964b28325c3061a76317" title="AutoCalClient::GetA2dSetup" alt="" coords="272,5,475,32"/>
+<area shape="rect" id="node4" href="$classAutoCalClient.html#a3f9e7ada89511d0e8d20d822d56460f0" title="AutoCalClient::GetVarName" alt="" coords="274,56,473,83"/>
+<area shape="rect" id="node5" href="$classAutoCalClient.html#a01f7227c8d878333e18b05fd7b7cf824" title="AutoCalClient::GetVoltage\lLevels" alt="" coords="280,107,467,149"/>
+<area shape="rect" id="node3" href="$classAutoCalClient.html#aed5bd69ed207a67f0fe36371d779db4e" title="Reassemble a nidas dsmId and sensorId back into id. " alt="" coords="523,5,650,32"/>
+</map>

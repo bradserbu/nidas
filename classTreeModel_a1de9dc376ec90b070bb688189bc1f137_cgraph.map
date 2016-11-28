@@ -1,0 +1,6 @@
+<map id="TreeModel::TreeModel" name="TreeModel::TreeModel">
+<area shape="rect" id="node2" href="$classTreeModel.html#a29ef8c31bf8c8f0ce6e67122ed4d3373" title="TreeModel::setupModelData" alt="" coords="214,31,413,57"/>
+<area shape="rect" id="node3" href="$classTreeModel.html#a210d05503fb8758b7bad1c4fd4c5ae6b" title="TreeModel::parent" alt="" coords="461,31,597,57"/>
+<area shape="rect" id="node4" href="$classTreeItem.html#a392ec493dfab91ee474d7ff83e2c0211" title="TreeItem::parent" alt="" coords="646,5,773,32"/>
+<area shape="rect" id="node5" href="$classTreeItem.html#a5a062d24b35421360ad1d101c564e9be" title="TreeItem::row" alt="" coords="656,56,763,83"/>
+</map>

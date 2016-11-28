@@ -1,0 +1,5 @@
+<map id="NidasModel::rowCount" name="NidasModel::rowCount">
+<area shape="rect" id="node2" href="$classNidasItem.html#a017b61c9cb82f301b131d3d9cfb876ed" title="NidasItem::childCount" alt="" coords="219,5,381,32"/>
+<area shape="rect" id="node4" href="$classNidasModel.html#afaed9b3c8880526a56cbddd46dd38ee5" title="NidasModel::getItem" alt="" coords="223,56,377,83"/>
+<area shape="rect" id="node3" href="$classNidasItem.html#a06208cd74e7d82d8f674820c43bfcea6" title="return the ith child of this item. " alt="" coords="430,5,554,32"/>
+</map>

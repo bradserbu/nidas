@@ -1,0 +1,7 @@
+<map id="nidas::core::SampleSourceSupport::removeAllSampleClients" name="nidas::core::SampleSourceSupport::removeAllSampleClients">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="760,7,891,49"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleClientList.html#a5305738f7cedffa634ec29e9a1000569" title="Big cleanup. " alt="" coords="291,55,477,97"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="760,102,891,143"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleClientList.html#a23fde5a659d2c8b1239b3deff47591a0" title="Lock this list. " alt="" coords="526,22,711,63"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleClientList.html#a070d4a7cc5bfd5308dfdf35d1133d9d5" title="Unlock this list. " alt="" coords="526,87,711,129"/>
+</map>

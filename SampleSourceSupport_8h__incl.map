@@ -1,0 +1,18 @@
+<map id="nidas/core/SampleSourceSupport.h" name="nidas/core/SampleSourceSupport.h">
+<area shape="rect" id="node2" href="$SampleSource_8h.html" title="SampleSource.h" alt="" coords="696,80,824,107"/>
+<area shape="rect" id="node33" href="$SampleClientList_8h.html" title="SampleClientList.h" alt="" coords="531,80,672,107"/>
+<area shape="rect" id="node3" href="$NidsIterators_8h.html" title="NidsIterators.h" alt="" coords="1398,304,1513,331"/>
+<area shape="rect" id="node6" href="$SampleStats_8h.html" title="SampleStats.h" alt="" coords="693,155,811,181"/>
+<area shape="rect" id="node32" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1425,454,1615,495"/>
+<area shape="rect" id="node7" href="$Sample_8h.html" title="Sample.h" alt="" coords="636,229,719,256"/>
+<area shape="rect" id="node8" href="$SampleLengthException_8h.html" title="SampleLengthException.h" alt="" coords="707,379,896,405"/>
+<area shape="rect" id="node13" href="$ThreadSupport_8h.html" title="nidas/util/ThreadSupport.h" alt="" coords="390,461,580,488"/>
+<area shape="rect" id="node17" href="$MutexCount_8h.html" title="nidas/util/MutexCount.h" alt="" coords="409,379,580,405"/>
+<area shape="rect" id="node18" href="$time__constants_8h.html" title="nidas/util/time_constants.h" alt="" coords="989,304,1184,331"/>
+<area shape="rect" id="node19" href="$types_8h.html" title="nidas/linux/types.h" alt="" coords="310,304,449,331"/>
+<area shape="rect" id="node25" href="$SamplePool_8h.html" title="SamplePool.h" alt="" coords="854,304,964,331"/>
+<area shape="rect" id="node9" href="$Exception_8h.html" title="nidas/util/Exception.h" alt="" coords="601,544,759,571"/>
+<area shape="rect" id="node26" href="$Logger_8h.html" title="Header file for the nidas::util logging facility. " alt="" coords="971,379,1109,405"/>
+<area shape="rect" id="node34" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="542,155,660,181"/>
+<area shape="rect" id="node35" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="103,461,273,488"/>
+</map>

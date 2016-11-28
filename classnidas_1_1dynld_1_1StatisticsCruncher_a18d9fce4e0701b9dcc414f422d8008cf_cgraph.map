@@ -1,0 +1,10 @@
+<map id="nidas::dynld::StatisticsCruncher::setupMoments" name="nidas::dynld::StatisticsCruncher::setupMoments">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#adb0e42568c0a11b93d0a50249caa9863" title="Add a variable to this SampleTag. " alt="" coords="237,5,408,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#a790923429494213072b51b9463cca14c" title="Provide a reference to a variable &#45; allowing one to modify it. " alt="" coords="237,70,408,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="237,135,408,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1dynld_1_1StatisticsCruncher.html#a2d7f8fcb16b853d98f94d3a78efbcf4f" title="Create a derived variable name from input variables i,j,k,l. " alt="" coords="240,201,405,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1dynld_1_1StatisticsCruncher.html#a04140d7eaac0b3d7c08a6a1ddb5f019b" title="Create a derived units field from input variables i,j,k,l. " alt="" coords="240,266,405,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Variable.html#a8f4c4db9944a63fa3f1c2a6787cce368" title="Descriptive, long name, e.g. " alt="" coords="247,331,398,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Variable.html#a5f4fb95e6cc453a415a12d47052f068c" title="Set the full name. " alt="" coords="247,397,398,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Variable.html#aa487faa9a2b4def6a2786158a6b8fbc3" title="The string discription of the units for this variable. " alt="" coords="247,462,398,503"/>
+</map>

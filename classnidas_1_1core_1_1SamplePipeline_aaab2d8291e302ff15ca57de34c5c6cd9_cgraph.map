@@ -1,0 +1,12 @@
+<map id="nidas::core::SamplePipeline::addSampleClientForTag" name="nidas::core::SamplePipeline::addSampleClientForTag">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a232f59c76788bb8f52f7409e0409076c" title="Add a SampleClient to this SampleSource. " alt="" coords="257,5,431,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a21b15d8d57bbd34f9a2aa2de79f5fd02" title="Add a SampleClient to this SampleSource. " alt="" coords="254,70,434,111"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1DSMSensor.html#a29f82df18232c1d5f9e6a2baf3404ff4" title="Convenience function to get my one&#45;and&#45;only raw SampleTag(). " alt="" coords="257,135,431,177"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a65f2f4bc3f469025d2f15a791f2b8aae" title="Add a SampleClient to this SampleSource. " alt="" coords="501,5,696,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a64bf264413b611f84b773832e87d51da" title="Add a SampleClient to this SampleSource. " alt="" coords="483,70,714,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleClientList.html#aa5cf65a21e085a43948f814d38d1bfa3" title="Add a SampleClient to this list. " alt="" coords="763,70,949,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleClientList.html#a23fde5a659d2c8b1239b3deff47591a0" title="Lock this list. " alt="" coords="998,37,1183,78"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleClientList.html#a070d4a7cc5bfd5308dfdf35d1133d9d5" title="Unlock this list. " alt="" coords="998,102,1183,143"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Mutex.html#a1b339b057ef83bb1b20ffdfcfee62359" title="Lock the Mutex. " alt="" coords="1232,37,1363,78"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Mutex.html#a9783dd94b7691d13a352043cbc0bc2da" title="Unlock the Mutex. " alt="" coords="1232,102,1363,143"/>
+</map>

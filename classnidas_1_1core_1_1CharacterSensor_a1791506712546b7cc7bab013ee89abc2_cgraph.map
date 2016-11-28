@@ -1,0 +1,9 @@
+<map id="nidas::core::CharacterSensor::togglePrompting" name="nidas::core::CharacterSensor::togglePrompting">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1CharacterSensor.html#a94fa4a1b328df89205fd9f85a79238b4" title="Is prompting active, i.e. " alt="" coords="261,5,469,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1CharacterSensor.html#a3056f986734e1253e03ceb89cd6dbeed" title="nidas::core::CharacterSensor\l::startPrompting" alt="" coords="261,70,469,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1CharacterSensor.html#a8ea62de5aff8c8d6d916c9a4cca1fa66" title="nidas::core::CharacterSensor\l::stopPrompting" alt="" coords="261,135,469,177"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a30515f6161b8be06923c68934cd8a633" title="Return a name that should fully identify this sensor. " alt="" coords="518,103,693,145"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="742,70,917,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DSMSensor.html#a7a07fe4a0e82901c8a4c33071ead8f64" title="Fetch the DSM name. " alt="" coords="742,135,917,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMConfig.html#a0b176c84b108a5e59aa214c85e946376" title="nidas::core::DSMConfig\l::getName" alt="" coords="965,135,1136,177"/>
+</map>

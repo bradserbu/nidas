@@ -1,0 +1,5 @@
+<map id="nidas::core::IOStream::read" name="nidas::core::IOStream::read">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IOStream.html#ac344a3623556041834de14a3c7f0d02c" title="Number of bytes available to be copied from the buffer of IOStream. " alt="" coords="218,5,379,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOChannel.html#adaca05f9427f6e679b8d891bfa076098" title="Some IOChannels, namely FileSet, which opens successive files, need to indicate when a read is from t..." alt="" coords="216,70,381,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1IOChannel.html#a7c98044adfd3710b9d618f732a99c296" title="Physical read method which must be implemented in derived classes. " alt="" coords="216,135,381,177"/>
+</map>

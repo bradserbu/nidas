@@ -1,0 +1,26 @@
+<map id="nidas/apps/sensor_sim.cc" name="nidas/apps/sensor_sim.cc">
+<area shape="rect" id="node6" href="$Looper_8h.html" title="nidas/core/Looper.h" alt="" coords="603,229,749,256"/>
+<area shape="rect" id="node25" href="$CharacterSensor_8h.html" title="nidas/core/CharacterSensor.h" alt="" coords="1779,80,1989,107"/>
+<area shape="rect" id="node39" href="$SerialPort_8h.html" title="nidas/util/SerialPort.h" alt="" coords="2177,155,2335,181"/>
+<area shape="rect" id="node45" href="$SerialOptions_8h.html" title="nidas/util/SerialOptions.h" alt="" coords="2634,155,2813,181"/>
+<area shape="rect" id="node49" href="$auto__ptr_8h.html" title="nidas/util/auto_ptr.h" alt="" coords="2791,80,2939,107"/>
+<area shape="rect" id="node7" href="$LooperClient_8h.html" title="LooperClient.h" alt="" coords="307,304,421,331"/>
+<area shape="rect" id="node8" href="$Thread_8h.html" title="nidas/util/Thread.h" alt="" coords="680,304,819,331"/>
+<area shape="rect" id="node13" href="$ThreadSupport_8h.html" title="ThreadSupport.h" alt="" coords="961,387,1089,413"/>
+<area shape="rect" id="node18" href="$IOException_8h.html" title="nidas/util/IOException.h" alt="" coords="1589,304,1760,331"/>
+<area shape="rect" id="node20" href="$InvalidParameterException_8h.html" title="nidas/util/InvalidParameter\lException.h" alt="" coords="1166,379,1356,421"/>
+<area shape="rect" id="node10" href="$Exception_8h.html" title="Exception.h" alt="" coords="1307,469,1403,496"/>
+<area shape="rect" id="node26" href="$DSMSensor_8h.html" title="DSMSensor.h" alt="" coords="1286,155,1393,181"/>
+<area shape="rect" id="node37" href="$Prompt_8h.html" title="Prompt.h" alt="" coords="2169,387,2249,413"/>
+<area shape="rect" id="node38" href="$util_2util_8h.html" title="nidas/util/util.h" alt="" coords="1827,229,1941,256"/>
+<area shape="rect" id="node27" href="$SampleClient_8h.html" title="SampleClient.h" alt="" coords="1433,229,1551,256"/>
+<area shape="rect" id="node29" href="$SampleSourceSupport_8h.html" title="SampleSourceSupport.h" alt="" coords="5,304,184,331"/>
+<area shape="rect" id="node30" href="$SampleScanner_8h.html" title="SampleScanner.h" alt="" coords="1054,229,1188,256"/>
+<area shape="rect" id="node31" href="$SampleTag_8h.html" title="SampleTag.h" alt="" coords="824,229,928,256"/>
+<area shape="rect" id="node33" href="$IODevice_8h.html" title="IODevice.h" alt="" coords="1627,229,1717,256"/>
+<area shape="rect" id="node32" href="$DOMable_8h.html" title="DOMable.h" alt="" coords="1009,304,1100,331"/>
+<area shape="rect" id="node35" href="$Dictionary_8h.html" title="Dictionary.h" alt="" coords="1516,469,1612,496"/>
+<area shape="rect" id="node28" href="$Sample_8h.html" title="Sample.h" alt="" coords="1432,304,1515,331"/>
+<area shape="rect" id="node43" href="$Termios_8h.html" title="Termios.h" alt="" coords="2375,229,2457,256"/>
+<area shape="rect" id="node47" href="$ParseException_8h.html" title="ParseException.h" alt="" coords="2599,387,2729,413"/>
+</map>

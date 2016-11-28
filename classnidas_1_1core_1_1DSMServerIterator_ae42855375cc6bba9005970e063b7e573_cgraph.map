@@ -1,0 +1,5 @@
+<map id="nidas::core::DSMServerIterator::hasNext" name="nidas::core::DSMServerIterator::hasNext">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Site.html#a683b10f50e5cf60759c6507f7d523751" title="nidas::core::Site::\lgetServers" alt="" coords="292,5,425,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="273,70,445,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="273,135,445,177"/>
+</map>

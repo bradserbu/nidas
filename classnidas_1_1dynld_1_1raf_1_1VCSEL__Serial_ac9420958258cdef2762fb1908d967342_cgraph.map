@@ -1,0 +1,9 @@
+<map id="nidas::dynld::raf::VCSEL_Serial::process" name="nidas::dynld::raf::VCSEL_Serial::process">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Sample.html#a773f6f7732f631184c0daab9522baba9" title="Get the id portion of the sample header. " alt="" coords="219,5,368,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1Sample.html#a5d1d88e519d7645ab3abd92de748f28e" title="Time&#45;tag in non&#45;leap microseconds since Jan 1, 1970 00:00 GMT. " alt="" coords="219,70,368,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Sample.html#a5fb35a1da497c72048bc31c57864af74" title="Get a void* pointer to the data portion of the sample. " alt="" coords="219,135,368,177"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Sample.html#aa5437dc999f1c1e7dc8a13b2624a990d" title="nidas::core::Sample\l::setTimeTag" alt="" coords="219,201,368,242"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleHeader.html#a91a71e15fd149e79d7a94a310d880fda" title="nidas::core::SampleHeader\l::getId" alt="" coords="417,5,613,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleHeader.html#a32ae6b06b5eb335b59d0e950a35336c2" title="nidas::core::SampleHeader\l::getTimeTag" alt="" coords="417,70,613,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1SampleHeader.html#a1dffc34c2b7cc94cd1af45fb3b8f4164" title="nidas::core::SampleHeader\l::setTimeTag" alt="" coords="417,201,613,242"/>
+</map>

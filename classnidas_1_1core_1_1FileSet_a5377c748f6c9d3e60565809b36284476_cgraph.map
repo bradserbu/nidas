@@ -1,0 +1,9 @@
+<map id="nidas::core::FileSet::setFileName" name="nidas::core::FileSet::setFileName">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1IOChannel.html#a885eb72c6cfd6fac063ebeb1df22c644" title="What DSM is this IOChannel connected to? May be NULL. " alt="" coords="197,5,363,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Project.html#a0b2cde871d434cdf8e96644ad2e338dd" title="Project is a singleton. " alt="" coords="208,70,352,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1FileSet.html#a3887e4aafcaf39809386a79bd326e01c" title="Get the full path, the concatenation of getDir() and getFileName(). " alt="" coords="213,135,347,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1FileSet.html#a5377c748f6c9d3e60565809b36284476" title="Set file name portion of file path. " alt="" coords="213,201,347,242"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1FileSet.html#a546437de6ad14a07407b6f35b4981863" title="Recognizeable name of this IOChannel &#45; used for informative messages. " alt="" coords="209,266,351,307"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1FileSet.html#acb3643ae0019a1dd9bdd4cdf596d582e" title="Utility function to create a full path name from a directory and file portion. " alt="" coords="411,169,544,210"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1FileSet.html#aad86623e69ad347926336d214bd80715" title="nidas::util::FileSet\l::getDir" alt="" coords="411,234,544,275"/>
+</map>

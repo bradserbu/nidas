@@ -1,0 +1,51 @@
+<map id="StatsProcess::main" name="StatsProcess::main">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1LogScheme.html#a66b794432baaae5b1565c6cba7b1e99f" title="Push a new LogConfig onto the list of existing configs. " alt="" coords="222,5,389,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="1022,93,1157,134"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="794,143,929,185"/>
+<area shape="rect" id="node6" href="$classStatsProcess.html#ad43d05b36ba56cc399a6a59a44b2e300" title="StatsProcess::getLogLevel" alt="" coords="210,2721,401,2748"/>
+<area shape="rect" id="node7" href="$statsproc_8cc.html#ae2937bb93c1bb7fa81daf23df7c8a092" title="getmyhostname" alt="" coords="241,2772,369,2799"/>
+<area shape="rect" id="node8" href="$group__LoggerSchemes.html#gacafd09879fe30a5e2045356b25211bfd" title="Get a copy of the scheme with the given name. " alt="" coords="794,2170,929,2211"/>
+<area shape="rect" id="node9" href="$classStatsProcess.html#a5bbbf55c2df2d32191a0aa6a68234277" title="StatsProcess::listOutput\lSamples" alt="" coords="217,1942,393,1983"/>
+<area shape="rect" id="node27" href="$classStatsProcess.html#acf8d540ac32ce651220a5d7a31acc745" title="StatsProcess::parseRunstring" alt="" coords="201,2496,410,2523"/>
+<area shape="rect" id="node31" href="$classStatsProcess.html#a2713a2b519e797bf9721588a73c6441b" title="StatsProcess::run" alt="" coords="238,1067,373,1093"/>
+<area shape="rect" id="node13" href="$group__LoggerSchemes.html#gaf9823a4aaef1f9e189a9ede8ad77f6cd" title="Set the current scheme. " alt="" coords="794,2501,929,2542"/>
+<area shape="rect" id="node48" href="$classnidas_1_1util_1_1LogScheme.html#abf096193e761b41a18d874c628894e34" title="Set the fields to show in log messages and their order. " alt="" coords="222,2823,389,2865"/>
+<area shape="rect" id="node49" href="$dmd__mmat__test_8cc.html#aecb57712e6b25f9bfc3a56f52feb7176" title="setupSignals" alt="" coords="253,2889,357,2916"/>
+<area shape="rect" id="node50" href="$classnidas_1_1util_1_1Exception.html#a822535e7028f32b6a0ea0b9835b2c7f2" title="nidas::util::Exception\l::toString" alt="" coords="229,2941,382,2982"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="1206,93,1341,134"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Process.html#a1106e7c05fa20214f2fc7cdd29cc2871" title="nidas::util::Process\l::expandEnvVars" alt="" coords="791,1446,932,1487"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Project.html#ae4c7c9b27de36fe464dd80d30d39ba7b" title="Initialize myself from a xercesc::DOMElement. " alt="" coords="508,1942,652,1983"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1ProjectConfigs.html#aabe5ec6bcb15f9cac73b0f851292e84f" title="nidas::core::ProjectConfigs\l::getConfig" alt="" coords="485,1307,675,1349"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="505,2255,655,2297"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SampleIOProcessor.html#ac0d24a63b52b5d397ef8e8cc2dcbce11" title="nidas::core::SampleIOProcessor\l::getRequestedSampleTags" alt="" coords="467,2321,693,2362"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1SampleIOProcessor.html#a11a6f93f16c5030c8ddcf50a12552ccd" title="nidas::core::SampleIOProcessor\l::getSampleId" alt="" coords="467,2059,693,2101"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1SampleTag.html#afc355b8efce676022f31783481892041" title="Get the sensor+sample portion of the id. " alt="" coords="495,2125,665,2166"/>
+<area shape="rect" id="node21" href="$classStatsProcess.html#affad4980b1695f01c87ea3f5f7acda1e" title="StatsProcess::getStatistics\lProcessor" alt="" coords="483,1709,677,1750"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="495,2190,665,2231"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1ProjectConfig.html#aed22fff43a2f1b57a57cee63032927ae" title="nidas::core::ProjectConfig\l::initProject" alt="" coords="488,1475,672,1517"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1ProjectConfigs.html#aaef2bd69d1cde2b7929bbfa5c82d976a" title="nidas::core::ProjectConfigs\l::parseXML" alt="" coords="485,1774,675,1815"/>
+<area shape="rect" id="node24" href="$namespacenidas_1_1core.html#a68532040e766cc1c177fd68c2de7b767" title="Utility function which creates a temporary XMLParser, sets the options we typically want and parses t..." alt="" coords="750,1541,973,1568"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1UTime.html#ad78a3d0c9e9c2cba94c7633db9ef33de" title="nidas::util::UTime\l::toUsecs" alt="" coords="514,1643,646,1685"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="785,1971,938,2013"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1ProjectConfig.html#a747edf1e0cbb108cf7d77a6ae12c1db7" title="nidas::core::ProjectConfig\l::getBeginTime" alt="" coords="769,714,953,755"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1ProjectConfig.html#a1c000360011696e21e81a824e04d64b0" title="nidas::core::ProjectConfig\l::getEndTime" alt="" coords="769,1278,953,1319"/>
+<area shape="rect" id="node28" href="$classnidas_1_1util_1_1UTime.html#a5e6a55c2268fa5444564ad58b484a020" title="Parse a character string into a UTime, using these formats until success: [CC]YY [cmon|mon] day h:m[:..." alt="" coords="514,2554,646,2595"/>
+<area shape="rect" id="node29" href="$arinc__out_8cc.html#a4d7e598eb9f90dfa71f9a963e620a961" title="usage" alt="" coords="549,2437,611,2464"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="493,2489,667,2530"/>
+<area shape="rect" id="node32" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="499,273,661,300"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1Project.html#a7e91c412893a1c5a5f92f21a3f94d2fc" title="nidas::core::Project\l::setDataset" alt="" coords="508,325,652,366"/>
+<area shape="rect" id="node34" href="$classStatsProcess.html#ae29c266a1066beb78dad5dd780d22b02" title="StatsProcess::getDataset" alt="" coords="487,1373,673,1400"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1ProjectConfig.html#acec56b16ebc3abcb8d701c5b2d653f21" title="nidas::core::ProjectConfig\l::getXMLName" alt="" coords="488,390,672,431"/>
+<area shape="rect" id="node36" href="$classnidas_1_1util_1_1Socket.html#ae5c86145ad49902fe60473fe41c6bef2" title="Set the number of seconds a connection needs to be idle before TCP begins sending out keep&#45;alive prob..." alt="" coords="498,455,662,497"/>
+<area shape="rect" id="node37" href="$classnidas_1_1util_1_1Socket.html#a5a124be1d5892e485f64db1794f8a283" title="Get remote address of this socket. " alt="" coords="482,521,678,562"/>
+<area shape="rect" id="node38" href="$classnidas_1_1util_1_1SocketAddress.html#a8637108b2e476f37042982f8a9b000d5" title="Java style toString. " alt="" coords="487,586,673,627"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1Project.html#a1bab4a3b2c7a01a69c9323c57b6cd2df" title="Find SampleOutputStreamFileSets belonging to the given DSM. " alt="" coords="459,651,701,693"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1Project.html#a22d571b0c2ed1d6a2440ceb34e856ecf" title="Find SampleOutputStreamFileSets belonging to SampleArchivers of DSMServers whose name matches the arg..." alt="" coords="462,717,698,773"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1FileSet.html#aaad2b5a638aeac36a3a128d97c260467" title="Clone myself. " alt="" coords="509,798,651,839"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1FileSet.html#a0ad062e9699f58d7e84f120fcf4ae730" title="nidas::core::FileSet\l::setStartTime" alt="" coords="509,863,651,905"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1FileSet.html#a3565f461e58b57ee5b4112f9cdb8de3c" title="nidas::core::FileSet\l::setEndTime" alt="" coords="509,929,651,970"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1FileSet.html#adf8ef81cad8e5ead98c6d943d4920a35" title="Convienence function to return a pointer to a nidas::core::FileSet, given a list of files..." alt="" coords="509,994,651,1035"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1SamplePipeline.html#a7adb315f7a2e2cf10994df9bbb67c27c" title="nidas::core::SamplePipeline\l::setRealTime" alt="" coords="481,1059,679,1101"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1SamplePipeline.html#a73b5e78ee9c670c0294e6576eabe3445" title="Set length of raw SampleSorter, in seconds. " alt="" coords="481,1125,679,1166"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1SamplePipeline.html#afbd699d0eb07d138f29b301101283fe2" title="Set length of processed SampleSorter, in seconds. " alt="" coords="481,1190,679,1231"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="nidas::core::SerialSensor::startPrompting" name="nidas::core::SerialSensor::startPrompting">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Looper.html#a778a2a36b07456268ad1c869ef65d7e6" title="Add a client to the Looper whose LooperClient::looperNotify() method should be called every msec numb..." alt="" coords="283,63,427,105"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#af947f15794c9e75d94a428ca6312ba09" title="Fetch a pointer to a static instance of a Looper thread. " alt="" coords="267,129,442,170"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SerialSensor_1_1Prompter.html#a0074411ef017f0a44de9b7bf4952d753" title="nidas::core::SerialSensor\l::Prompter::getPromptOffsetMsec" alt="" coords="236,194,473,235"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SerialSensor_1_1Prompter.html#a8664227715cc16595b1264729fe10280" title="nidas::core::SerialSensor\l::Prompter::getPromptPeriodMsec" alt="" coords="235,259,474,301"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1CharacterSensor.html#af5106ee7fe87f2f94328e093842d6f44" title="Is this a prompted sensor. " alt="" coords="251,325,459,366"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="537,5,671,46"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#af51d756d74e29093b4e33fbd0e6bb56d" title="Convenience function to return a string for the given scheduler policy: &quot;Non&#45;RT&quot;, &quot;RT:FIFO&quot;..." alt="" coords="537,70,671,111"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="523,136,685,163"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Thread.html#af311f08172482d11d45389c65f9ea19b" title="nidas::util::Thread\l::setThreadScheduler" alt="" coords="525,187,683,229"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="527,253,681,294"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="749,5,883,46"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="947,5,1082,46"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="734,99,898,141"/>
+<area shape="rect" id="node10" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="783,165,849,192"/>
+</map>

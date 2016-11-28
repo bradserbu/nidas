@@ -1,0 +1,12 @@
+<map id="nidas::dynld::StatisticsCruncher::initStats" name="nidas::dynld::StatisticsCruncher::initStats">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#adb0e42568c0a11b93d0a50249caa9863" title="Add a variable to this SampleTag. " alt="" coords="255,5,425,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="265,70,415,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1dynld_1_1StatisticsProcessor.html#aee64e3696067f776e9e23bc45107ec19" title="All output samples (and StatisticsCrunchers) should have a unique name for their counts output variab..." alt="" coords="219,135,461,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="255,201,425,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Variable.html#a5f4fb95e6cc453a415a12d47052f068c" title="Set the full name. " alt="" coords="265,266,415,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1Variable.html#a311e982fd8a58d717627fe5a4a89306a" title="nidas::core::Variable\l::setStation" alt="" coords="265,331,415,373"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1Variable.html#a1e6a3b0f611da021f88645db5d599a11" title="nidas::core::Variable\l::setType" alt="" coords="265,397,415,438"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Variable.html#aa487faa9a2b4def6a2786158a6b8fbc3" title="The string discription of the units for this variable. " alt="" coords="265,462,415,503"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Site.html#a03c9baf2d9b0633360916e73956490f2" title="nidas::core::Site::\lgetSuffix" alt="" coords="519,299,652,341"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Variable.html#a4c4262fd33f1cc834ea736feb5757417" title="nidas::core::Variable\l::setSiteSuffix" alt="" coords="510,365,661,406"/>
+</map>

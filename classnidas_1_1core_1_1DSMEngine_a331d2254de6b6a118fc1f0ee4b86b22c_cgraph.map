@@ -1,0 +1,51 @@
+<map id="nidas::core::DSMEngine::main" name="nidas::core::DSMEngine::main">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1DSMSensor.html#a13dbbaa57f5f9d5a754530a0722a0808" title="nidas::core::DSMSensor\l::deleteLooper" alt="" coords="255,169,430,210"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMEngine.html#a84c0806355e8d96e9c5c8894f3ded1c1" title="nidas::core::DSMEngine\l::getCommand" alt="" coords="256,234,429,275"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SamplePoolInterface.html#a5362cfae76e6df9da488930ba06f9adb" title="nidas::core::SamplePoolInterface\l::getNLargeSamplesIn" alt="" coords="227,299,459,341"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SamplePoolInterface.html#a67684fab621cc0130dc579fa9f71a7e4" title="nidas::core::SamplePoolInterface\l::getNMediumSamplesIn" alt="" coords="227,365,459,406"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SamplePoolInterface.html#ae304d33f707e191c22d871b7ee9bea5f" title="nidas::core::SamplePoolInterface\l::getNSamplesOut" alt="" coords="227,430,459,471"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SamplePoolInterface.html#a3a8e233a8ad8411edc12f3e50ce2fe14" title="nidas::core::SamplePoolInterface\l::getNSmallSamplesIn" alt="" coords="227,495,459,537"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMEngine.html#a95fa8eecbd7fc74a37e33c649f713838" title="Initialize the Logger. " alt="" coords="256,561,429,602"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1DSMEngine.html#a9d7c87da34409d1957aad0213e801ae0" title="Initialize various process parameters, uid, etc. " alt="" coords="256,626,429,667"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1DSMEngine.html#a218038b31b0058153a81de71c4a977a0" title="nidas::core::DSMEngine\l::killXmlRpcThread" alt="" coords="256,982,429,1023"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1DSMEngine.html#ac948df9bcfca2a7a370499718b8de01d" title="Parse the runstring parameters. " alt="" coords="533,789,707,830"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1DSMEngine.html#a8edd17d6aac89a29193573d9d9b3d7ad" title="main loop " alt="" coords="241,1576,444,1603"/>
+<area shape="rect" id="node49" href="$classnidas_1_1util_1_1Process.html#a1688ead28883a89f78c40550431ff060" title="Fork and execute a command and associated arguments and environment. " alt="" coords="272,1743,413,1785"/>
+<area shape="rect" id="node50" href="$classnidas_1_1core_1_1DSMEngine.html#a620d9cfc40f6fd91dcc304b9be2273b1" title="nidas::core::DSMEngine\l::startXmlRpcThread" alt="" coords="256,1678,429,1719"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1XMLImplementation.html#a4e5ee90cfc04350fd0073e45cc94fe0a" title="nidas::core::XMLImplementation\l::terminate" alt="" coords="507,2153,733,2194"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="805,1007,958,1049"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1LogScheme.html#a66b794432baaae5b1565c6cba7b1e99f" title="Push a new LogConfig onto the list of existing configs. " alt="" coords="537,135,703,177"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="553,201,687,242"/>
+<area shape="rect" id="node11" href="$group__LoggerSchemes.html#gaf9823a4aaef1f9e189a9ede8ad77f6cd" title="Set the current scheme. " alt="" coords="553,266,687,307"/>
+<area shape="rect" id="node12" href="$classnidas_1_1util_1_1LogScheme.html#abf096193e761b41a18d874c628894e34" title="Set the fields to show in log messages and their order. " alt="" coords="537,5,703,46"/>
+<area shape="rect" id="node13" href="$classnidas_1_1util_1_1Exception.html#a822535e7028f32b6a0ea0b9835b2c7f2" title="nidas::util::Exception\l::toString" alt="" coords="543,70,697,111"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Process.html#aa63c8f861989005209f5572f4a01d8a3" title="Add an effective capability to this process. " alt="" coords="535,593,705,634"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1Process.html#aff468d52068284fe269db5f6d244e995" title="Check if another process is running, using the named process id file. " alt="" coords="549,658,691,699"/>
+<area shape="rect" id="node17" href="$classnidas_1_1util_1_1FileSet.html#a9b1abea862c313aefcca984396158768" title="nidas::util::FileSet\l::createDirectory" alt="" coords="553,723,687,765"/>
+<area shape="rect" id="node18" href="$classnidas_1_1util_1_1Process.html#af390d51e76b281207db8659160396f9d" title="Check if this process has an effective capability. " alt="" coords="537,331,703,373"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1DSMEngine.html#a165e76033d3646cc5629430d079e7bf3" title="nidas::core::DSMEngine\l::getGroupID" alt="" coords="533,397,707,438"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1DSMEngine.html#a540d32f65735fc0d156f6f7507c7011b" title="nidas::core::DSMEngine\l::getUserID" alt="" coords="533,462,707,503"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DSMEngine.html#a8c3b09aa483d7c0fc6b7d46ae0417900" title="nidas::core::DSMEngine\l::getUserName" alt="" coords="533,527,707,569"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1XmlRpcThread.html#ac3a500e4bbab846182bf7511fb947c6e" title="Interrupt this thread. " alt="" coords="525,1007,715,1049"/>
+<area shape="rect" id="node25" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="814,1226,949,1267"/>
+<area shape="rect" id="node26" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="1030,1359,1183,1401"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1Version.html#a5d0f899b4fdad8f2b62f608cd617decf" title="nidas::core::Version\l::getSoftwareVersion" alt="" coords="804,730,959,771"/>
+<area shape="rect" id="node29" href="$arinc__out_8cc.html#a4d7e598eb9f90dfa71f9a963e620a961" title="usage" alt="" coords="851,796,912,823"/>
+<area shape="rect" id="node30" href="$classnidas_1_1util_1_1Inet4Address.html#ab5bb7ebbfa62177e896ee9fc0962dd90" title="Return an address of a name, the first one found by getAllByName. " alt="" coords="794,847,969,889"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1SampleOutputRequestThread.html#a28719e04dc487030779ca258c08f6ecc" title="Return pointer to instance of singleton, creating instance if necessary. " alt="" coords="781,1321,981,1362"/>
+<area shape="rect" id="node33" href="$classnidas_1_1util_1_1Thread.html#a1f53ee62bd30a7924186ef26150ce262" title="Start the thread running, meaning execute the run method in a separate thread. " alt="" coords="814,1715,949,1757"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1DSMEngine.html#a6796a7f10547288b37d49ac1c057be00" title="nidas::core::DSMEngine\l::quitCommand" alt="" coords="533,1839,707,1881"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1DSMEngine.html#aad7c60684212e730653b778d7e6751ff" title="nidas::core::DSMEngine\l::joinDataThreads" alt="" coords="533,1226,707,1267"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1DSMEngine.html#a6e3656d82614bcf75eaf943db021eb4c" title="nidas::core::DSMEngine\l::disconnectProcessors" alt="" coords="533,1905,707,1946"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1DSMEngine.html#a3db7312af2d9973f76599bfc9ee2ee90" title="nidas::core::DSMEngine\l::closeOutputs" alt="" coords="533,1291,707,1333"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1DSMEngine.html#a9bf20a6c8df7f823466fe3edc45484a6" title="nidas::core::DSMEngine\l::deleteDataThreads" alt="" coords="533,1970,707,2011"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1DSMEngine.html#a7268cd648cb3f7b14afc55268547cb5b" title="Unblock and wait for signals of interest. " alt="" coords="795,1493,968,1534"/>
+<area shape="rect" id="node40" href="$namespacenidas_1_1core.html#a0d06fcc4313aca0a7667ace4865bc99e" title="Request the XML configuration via a McSocket request to a given multicast socket address. " alt="" coords="513,1124,727,1151"/>
+<area shape="rect" id="node41" href="$classnidas_1_1util_1_1Process.html#a1106e7c05fa20214f2fc7cdd29cc2871" title="nidas::util::Process\l::expandEnvVars" alt="" coords="549,2035,691,2077"/>
+<area shape="rect" id="node42" href="$namespacenidas_1_1core.html#a68532040e766cc1c177fd68c2de7b767" title="Utility function which creates a temporary XMLParser, sets the options we typically want and parses t..." alt="" coords="509,2101,731,2128"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1DSMEngine.html#a235ed15a7de5f13f55ab856af1d821f3" title="Initialize the DSMEngine based on the parameters in the DOMDocument. " alt="" coords="533,1409,707,1450"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1DSMConfig.html#a1bbb75d6de207e5e876bf963ab8b33b7" title="nidas::core::DSMConfig\l::getDerivedDataSocketAddr" alt="" coords="517,1474,723,1515"/>
+<area shape="rect" id="node46" href="$classnidas_1_1util_1_1SocketAddress.html#ab52dacbe62c2da91ceafd5efeb41fab2" title="return the port number of this address, or &#45;1 if there is no associated port number, e.g. " alt="" coords="527,1539,713,1581"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1DerivedDataReader.html#aeef7e5769b2956fffae7c98e01c0e513" title="Create the instance of DerivedDataReader. " alt="" coords="530,1774,710,1815"/>
+<area shape="rect" id="node48" href="$classnidas_1_1core_1_1DSMEngine.html#aac67bf8b30e82b2fda0dde148dcf7bf5" title="nidas::core::DSMEngine\l::openSensors" alt="" coords="533,1657,707,1698"/>
+</map>

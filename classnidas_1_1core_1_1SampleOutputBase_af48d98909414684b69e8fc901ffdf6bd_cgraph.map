@@ -1,0 +1,8 @@
+<map id="nidas::core::SampleOutputBase::SampleOutputBase" name="nidas::core::SampleOutputBase::SampleOutputBase">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#a23538ad217f8fc21e10f8fcbb54517d6" title="Some SampleOutputs don&#39;t send out all the Samples that they receive. " alt="" coords="250,5,473,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleOutputBase.html#ac03351b23083a71727ba354f0a758ab8" title="Some SampleOutputs like to be informed of what SampleTags they will be receiving from their SampleSou..." alt="" coords="261,70,462,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleOutputBase.html#a0c1310a8fff6513a58fb8411edd7f041" title="nidas::core::SampleOutput\lBase::getDSMConfig" alt="" coords="265,135,458,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleOutputBase.html#ad68731f787b33eeed30e71e8905e2fa6" title="nidas::core::SampleOutput\lBase::getRequestedSampleTags" alt="" coords="248,201,475,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleOutputBase.html#abe38448255a568d2a73fe8a3069b868f" title="nidas::core::SampleOutput\lBase::getSourceSampleTags" alt="" coords="259,266,464,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1IOChannel.html#ae98b295be6f1293dec855675ad98245c" title="What DSM is this IOChannel connected to? " alt="" coords="279,331,444,373"/>
+</map>

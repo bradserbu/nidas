@@ -1,0 +1,49 @@
+<map id="nidas::dynld::isff::GOESProject::GOESProject" name="nidas::dynld::isff::GOESProject::GOESProject">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#adb0e42568c0a11b93d0a50249caa9863" title="Add a variable to this SampleTag. " alt="" coords="281,5,452,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleTag.html#a081af219b97f212b46b17f475edde9ca" title="Get the 26 bit id, containing the DSM id and the sensor+sample id. " alt="" coords="281,70,452,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1ParameterT.html#af4b0e67235aeb23889b2673bd3dc4888" title="nidas::core::ParameterT\l::getLength" alt="" coords="279,135,454,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1Variable.html#afe5da71e570b3ab45dfd0452adb9353c" title="nidas::core::Variable\l::getLongName" alt="" coords="291,201,442,242"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1Site.html#aa5a980e760d66a7d2e7b50efa750fa8e" title="nidas::core::Site::\lgetNumber" alt="" coords="300,266,433,307"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1SampleIOProcessor.html#a3f9ecba308221d22139677ed1fdf5cef" title="nidas::core::SampleIOProcessor\l::getOutputs" alt="" coords="254,331,479,373"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1Site.html#a0c8b5f9987afeb3af76287a9eb8f51f2" title="nidas::core::Site::\lgetProcessorIterator" alt="" coords="290,397,443,438"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1SampleOutputBase.html#ad68731f787b33eeed30e71e8905e2fa6" title="nidas::core::SampleOutput\lBase::getRequestedSampleTags" alt="" coords="253,462,480,503"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1SampleTag.html#afc355b8efce676022f31783481892041" title="Get the sensor+sample portion of the id. " alt="" coords="281,527,452,569"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Parameter.html#a0128f69c9664ac05e83cf2529bcd0a2c" title="nidas::core::Parameter\l::getType" alt="" coords="283,593,450,634"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Variable.html#a65758a64115d33b93af192286a35fe62" title="nidas::core::Variable\l::getUnits" alt="" coords="291,658,442,699"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1ParameterT.html#a2736665e3f583884d16b90ad886b3137" title="nidas::core::ParameterT\l::getValue" alt="" coords="279,723,454,765"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleTag.html#a790923429494213072b51b9463cca14c" title="Provide a reference to a variable &#45; allowing one to modify it. " alt="" coords="281,789,452,830"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="552,1014,723,1055"/>
+<area shape="rect" id="node16" href="$classnidas_1_1dynld_1_1isff_1_1GOESOutput.html#a354f1385570ef692614d6a2b9c820991" title="The GOES transmit interval, in seconds. " alt="" coords="259,854,475,895"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SiteIterator.html#a50d8635b56be521610e7bfd327ed87d2" title="nidas::core::SiteIterator\l::hasNext" alt="" coords="1609,911,1781,953"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1ProcessorIterator.html#a74f6dfcf9bcd9c22b76965e066ea1139" title="nidas::core::ProcessorIterator\l::hasNext" alt="" coords="803,915,1013,957"/>
+<area shape="rect" id="node32" href="$classnidas_1_1core_1_1VariableIterator.html#a9c5acde211bde12deabfe1040b8c085e" title="nidas::core::VariableIterator\l::hasNext" alt="" coords="267,1073,466,1114"/>
+<area shape="rect" id="node26" href="$classnidas_1_1core_1_1SiteIterator.html#a5994452193595e8d68a95ffedd1b5d0a" title="nidas::core::SiteIterator\l::next" alt="" coords="1609,1043,1781,1085"/>
+<area shape="rect" id="node39" href="$classnidas_1_1core_1_1ProcessorIterator.html#a47af38621d246014dc1ac1d1299c6880" title="nidas::core::ProcessorIterator\l::next" alt="" coords="803,1242,1013,1283"/>
+<area shape="rect" id="node42" href="$classnidas_1_1core_1_1VariableIterator.html#a3313ba0fb52778eb0806b0698c0377e4" title="nidas::core::VariableIterator\l::next" alt="" coords="267,1241,466,1282"/>
+<area shape="rect" id="node43" href="$classnidas_1_1core_1_1SampleTag.html#a04570eacb965a6f2112589b9890918a8" title="Set the DSM portion of the id. " alt="" coords="281,1306,452,1347"/>
+<area shape="rect" id="node44" href="$classnidas_1_1core_1_1Variable.html#a8f4c4db9944a63fa3f1c2a6787cce368" title="Descriptive, long name, e.g. " alt="" coords="291,1371,442,1413"/>
+<area shape="rect" id="node45" href="$classnidas_1_1core_1_1Variable.html#a5f4fb95e6cc453a415a12d47052f068c" title="Set the full name. " alt="" coords="291,1437,442,1478"/>
+<area shape="rect" id="node46" href="$classnidas_1_1core_1_1SampleTag.html#a72dfc0aa83fa71473e2ee6f7b96aca62" title="Set sampling period (1/rate) in sec. " alt="" coords="281,1502,452,1543"/>
+<area shape="rect" id="node47" href="$classnidas_1_1core_1_1SampleTag.html#aa5d96c63244aa51ce7bda046a818b36c" title="Set the sample portion of the shortId. " alt="" coords="281,1567,452,1609"/>
+<area shape="rect" id="node48" href="$classnidas_1_1core_1_1Variable.html#aa487faa9a2b4def6a2786158a6b8fbc3" title="The string discription of the units for this variable. " alt="" coords="291,1633,442,1674"/>
+<area shape="rect" id="node17" href="$classnidas_1_1dynld_1_1isff_1_1GOESXmtr.html#ae0f35e9320159c998506e7148845f338" title="nidas::dynld::isff\l::GOESXmtr::getXmitInterval" alt="" coords="536,846,739,887"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1DSMService.html#acca64a915e14c7cfe739681d582f2e44" title="nidas::core::DSMService\l::getProcessors" alt="" coords="1093,981,1270,1022"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DSMConfig.html#abad2c5a48e6a470fbdea70c477e76287" title="nidas::core::DSMConfig\l::getProcessors" alt="" coords="1096,850,1267,891"/>
+<area shape="rect" id="node22" href="$classnidas_1_1core_1_1DSMServiceIterator.html#ab18f70c36cfbd0bb425545224c796afd" title="nidas::core::DSMServiceIterator\l::hasNext" alt="" coords="1069,785,1293,826"/>
+<area shape="rect" id="node28" href="$classnidas_1_1core_1_1DSMConfigIterator.html#ada8e225f2b4d78698a4ab85f352c6be1" title="nidas::core::DSMConfigIterator\l::hasNext" alt="" coords="1073,1046,1290,1087"/>
+<area shape="rect" id="node30" href="$classnidas_1_1core_1_1DSMServiceIterator.html#ad782a68a992e686b1e111a002bc5e160" title="nidas::core::DSMServiceIterator\l::next" alt="" coords="1069,915,1293,957"/>
+<area shape="rect" id="node31" href="$classnidas_1_1core_1_1DSMConfigIterator.html#a60330a8080d726e4334d385e6f15aa63" title="nidas::core::DSMConfigIterator\l::next" alt="" coords="1073,1111,1290,1153"/>
+<area shape="rect" id="node23" href="$classnidas_1_1core_1_1DSMServer.html#a15c34947133e2d6d322d24f9f6b713b7" title="nidas::core::DSMServer\l::getServices" alt="" coords="1365,850,1537,891"/>
+<area shape="rect" id="node24" href="$classnidas_1_1core_1_1DSMServerIterator.html#ae42855375cc6bba9005970e063b7e573" title="nidas::core::DSMServerIterator\l::hasNext" alt="" coords="1341,974,1560,1015"/>
+<area shape="rect" id="node27" href="$classnidas_1_1core_1_1DSMServerIterator.html#a8ff1a50cc6c5efc324e32cec369b31d1" title="nidas::core::DSMServerIterator\l::next" alt="" coords="1341,785,1560,826"/>
+<area shape="rect" id="node25" href="$classnidas_1_1core_1_1Site.html#a683b10f50e5cf60759c6507f7d523751" title="nidas::core::Site::\lgetServers" alt="" coords="1628,977,1761,1018"/>
+<area shape="rect" id="node29" href="$classnidas_1_1core_1_1Site.html#a25ea57be30e8e89a1f84b3f7d1621bab" title="nidas::core::Site::\lgetDSMConfigs" alt="" coords="1384,1102,1517,1143"/>
+<area shape="rect" id="node33" href="$classnidas_1_1core_1_1SampleTagIterator.html#a67ac05bec706f73542e4cdaf189a0b95" title="nidas::core::SampleTagIterator\l::hasNext" alt="" coords="529,1079,746,1121"/>
+<area shape="rect" id="node41" href="$classnidas_1_1core_1_1SampleTagIterator.html#abeb5ebe551e3aa7e0e0b0ff5bf1e837b" title="nidas::core::SampleTagIterator\l::next" alt="" coords="529,1145,746,1186"/>
+<area shape="rect" id="node34" href="$classnidas_1_1core_1_1SampleIOProcessor.html#ac0d24a63b52b5d397ef8e8cc2dcbce11" title="nidas::core::SampleIOProcessor\l::getRequestedSampleTags" alt="" coords="795,981,1021,1022"/>
+<area shape="rect" id="node35" href="$classnidas_1_1core_1_1DSMSensor.html#ae0a23210df32b4296a473c2089297d30" title="Implementation of SampleSource::getSampleTags(). " alt="" coords="821,1111,995,1153"/>
+<area shape="rect" id="node37" href="$classnidas_1_1core_1_1SensorIterator.html#a28b96c2a778fb999ad10d8cf8b90a24c" title="nidas::core::SensorIterator\l::hasNext" alt="" coords="812,1046,1004,1087"/>
+<area shape="rect" id="node40" href="$classnidas_1_1core_1_1SensorIterator.html#ad941790929716a792881727f02b6c792" title="nidas::core::SensorIterator\l::next" alt="" coords="812,1177,1004,1218"/>
+<area shape="rect" id="node36" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a2a2fca8de4087ee4921e0dc1d358fc3d" title="What SampleTags am I a SampleSource for? " alt="" coords="1084,1242,1279,1283"/>
+<area shape="rect" id="node38" href="$classnidas_1_1core_1_1DSMConfig.html#a8c7a41a6aeb67c42be06ebe1a1a61024" title="nidas::core::DSMConfig\l::getSensors" alt="" coords="1096,1177,1267,1218"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="nidas::core::DSMSensor" name="nidas::core::DSMSensor">
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1CharacterSensor.html" title="Implementation of support for a sensor which generates character output. " alt="" coords="481,463,689,489"/>
+<area shape="rect" id="node24" href="$classnidas_1_1dynld_1_1A2DSensor.html" title="One or more sensors connected to an A2D. " alt="" coords="496,676,675,703"/>
+<area shape="rect" id="node28" href="$classnidas_1_1dynld_1_1DSC__Event.html" title="Sensor support for a simple event detector. " alt="" coords="497,727,674,753"/>
+<area shape="rect" id="node29" href="$classnidas_1_1dynld_1_1DSC__FreqCounter.html" title="Sensor support for a frequency counter device. " alt="" coords="476,777,695,804"/>
+<area shape="rect" id="node32" href="$classnidas_1_1dynld_1_1DSC__PulseCounter.html" title="Sensor support for a simple pulse counter device. " alt="" coords="472,828,699,855"/>
+<area shape="rect" id="node33" href="$classnidas_1_1dynld_1_1IR104__Relays.html" title="Support for the digital IO on a Diamond Systems IR104 board. " alt="" coords="515,879,656,921"/>
+<area shape="rect" id="node34" href="$classnidas_1_1dynld_1_1raf_1_1A2DBoardTempSensor.html" title="The I2C temperature sensor on the ADS3 A2D board. " alt="" coords="502,945,669,986"/>
+<area shape="rect" id="node35" href="$classnidas_1_1dynld_1_1raf_1_1DSMArincSensor.html" title="A sensor connected to an ARINC port. " alt="" coords="520,1010,651,1051"/>
+<area shape="rect" id="node43" href="$classnidas_1_1dynld_1_1raf_1_1DSMMesaSensor.html" title="Sensors connected to the Mesa AnythingIO card. " alt="" coords="520,1075,651,1117"/>
+<area shape="rect" id="node44" href="$classnidas_1_1dynld_1_1raf_1_1IRIGSensor.html" title="Sensor class for controlling and recieving data from an IRIG clock. " alt="" coords="520,1141,651,1182"/>
+<area shape="rect" id="node45" href="$classnidas_1_1dynld_1_1raf_1_1LamsSensor.html" title="Sensor class supporting the NCAR/EOL Laser Air Motion Sensor (LAMS) via a DSM. " alt="" coords="520,1206,651,1247"/>
+<area shape="rect" id="node46" href="$classnidas_1_1dynld_1_1raf_1_1TwoD__USB.html" title="Base class for PMS 2D particle probes on a USB interface. " alt="" coords="520,1271,651,1313"/>
+<area shape="rect" id="node49" href="$classTestMesa.html" title="TestMesa" alt="" coords="545,1337,626,1364"/>
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleSource.html" title="Pure virtual interface for a source of Samples. " alt="" coords="5,901,200,928"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1SampleClient.html" title="Pure virtual interface of a client of Samples. " alt="" coords="10,952,195,979"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,1003,182,1029"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SerialSensor.html" title="Support for a sensor that is sending packets on a TCP socket, a UDP socket, a Bluetooth RF Comm socke..." alt="" coords="768,273,949,300"/>
+<area shape="rect" id="node17" href="$classnidas_1_1dynld_1_1raf_1_1CVI__LV__Input.html" title="Support for reading the output from the LabView process on the CVI PC. " alt="" coords="793,325,924,366"/>
+<area shape="rect" id="node18" href="$classnidas_1_1dynld_1_1raf_1_1LamsNetSensor.html" title="Sensor class supporting the NCAR/EOL Laser Air Motion Sensor (LAMS 3&#45;beam) via Ethernet UDP connectio..." alt="" coords="793,390,924,431"/>
+<area shape="rect" id="node19" href="$classnidas_1_1dynld_1_1raf_1_1PSI9116__Sensor.html" title="Support for sampling a PSI 9116 pressure scanner from EsterLine Pressure Systems. ..." alt="" coords="793,455,924,497"/>
+<area shape="rect" id="node20" href="$classnidas_1_1dynld_1_1raf_1_1SidsNetSensor.html" title="Sensor class supporting the NCAR/EOL SID2H modifications via Ethernet UDP connection. " alt="" coords="793,521,924,562"/>
+<area shape="rect" id="node21" href="$classnidas_1_1dynld_1_1UDPSocketSensor.html" title="Sensor class using a UDPSocketIODevice for reading from a UDP socket. " alt="" coords="747,587,970,613"/>
+<area shape="rect" id="node7" href="$classnidas_1_1dynld_1_1DSMSerialSensor.html" title="A sensor connected to a serial port. " alt="" coords="1019,111,1237,137"/>
+<area shape="rect" id="node12" href="$classnidas_1_1dynld_1_1isff_1_1CSI__CRX__Binary.html" title="A class for parsing the binary output of Campbell Scientific CR10X and CR23X data loggers..." alt="" coords="1063,162,1193,203"/>
+<area shape="rect" id="node13" href="$classnidas_1_1dynld_1_1isff_1_1CU__Coldwire.html" title="A class for parsing the binary output of Dale Lawrence&#39;s cold&#45;wire sensor package. " alt="" coords="1066,227,1190,269"/>
+<area shape="rect" id="node14" href="$classnidas_1_1dynld_1_1isff_1_1Licor7500.html" title="Sensor class for the Licor 7500 gas analyzer. " alt="" coords="1066,293,1190,334"/>
+<area shape="rect" id="node15" href="$classnidas_1_1dynld_1_1isff_1_1NCAR__TRH.html" title="Sensor class for the NCAR hygrothermometer, built at EOL. " alt="" coords="1066,358,1190,399"/>
+<area shape="rect" id="node16" href="$classnidas_1_1dynld_1_1isff_1_1SonicAnemometer.html" title="A class for performing the common processes on wind data from a 3D sonic anemometer. " alt="" coords="1053,423,1203,465"/>
+<area shape="rect" id="node8" href="$classnidas_1_1dynld_1_1GPS__NMEA__Serial.html" title="A class for reading NMEA records from a GPS. " alt="" coords="1285,5,1464,46"/>
+<area shape="rect" id="node9" href="$classnidas_1_1dynld_1_1IEEE__Float.html" title="A class for unpacking binary IEEE float values from a record into samples. " alt="" coords="1308,70,1441,111"/>
+<area shape="rect" id="node10" href="$classnidas_1_1dynld_1_1isff_1_1MOSMote.html" title="A DSMSerialSensor for support of an early, buggy version of a Mantis OS Mote, which insert null..." alt="" coords="1313,135,1437,177"/>
+<area shape="rect" id="node11" href="$classnidas_1_1dynld_1_1isff_1_1PropVane.html" title="A serial prop vane wind sensor. " alt="" coords="1313,201,1437,242"/>
+<area shape="rect" id="node22" href="$classnidas_1_1dynld_1_1iss_1_1WICORSensor.html" title="nidas::dynld::iss::\lWICORSensor" alt="" coords="1063,514,1193,555"/>
+<area shape="rect" id="node23" href="$classnidas_1_1dynld_1_1raf_1_1UDPSocketSensor.html" title="nidas::dynld::raf::UPDSocketSensor is the same as a nidas::dynld::UDPSocketSensor, but kept around for legacy reasons &#45; it&#39;s in quite a few XMLs. " alt="" coords="1059,579,1197,621"/>
+<area shape="rect" id="node25" href="$classnidas_1_1dynld_1_1DSC__A2DSensor.html" title="One or more sensors connected to a Diamond Systems Corp A2D. " alt="" coords="752,641,965,668"/>
+<area shape="rect" id="node27" href="$classnidas_1_1dynld_1_1raf_1_1DSMAnalogSensor.html" title="A sensor connected to the DSM A2D. " alt="" coords="788,693,929,734"/>
+<area shape="rect" id="node26" href="$classnidas_1_1dynld_1_1Twins.html" title="One or more sensors connected to a Diamond Systems Corp A2D. " alt="" coords="1059,645,1197,672"/>
+<area shape="rect" id="node30" href="$classnidas_1_1dynld_1_1ParoSci__202BG__P.html" title="Sensor support for a ParoScientific 202BG pressure sensor connected to a Diamond Systems GPIO&#45;MM card..." alt="" coords="782,758,935,799"/>
+<area shape="rect" id="node31" href="$classnidas_1_1dynld_1_1ParoSci__202BG__T.html" title="Sensor support for a ParoScientific 202BG temperature sensor connected to a Diamond Systems GPIO&#45;MM c..." alt="" coords="782,823,935,865"/>
+<area shape="rect" id="node36" href="$classnidas_1_1dynld_1_1raf_1_1ADC__HW__EB7022597.html" title="ARINC ADC label processor. " alt="" coords="779,889,938,930"/>
+<area shape="rect" id="node37" href="$classnidas_1_1dynld_1_1raf_1_1Arinc__IRS.html" title="An Inertial Reference Sensor (IRS) connected to an ARINC port. " alt="" coords="793,954,924,995"/>
+<area shape="rect" id="node40" href="$classnidas_1_1dynld_1_1raf_1_1GPS__HW__HG2021GB02.html" title="ARINC IRS label processor. " alt="" coords="773,1019,944,1061"/>
+<area shape="rect" id="node41" href="$classnidas_1_1dynld_1_1raf_1_1LSZ__HW__EB7032239.html" title="ARINC LSZ label processor. " alt="" coords="781,1085,937,1126"/>
+<area shape="rect" id="node42" href="$classTestArinc.html" title="TestArinc" alt="" coords="819,1151,898,1177"/>
+<area shape="rect" id="node38" href="$classnidas_1_1dynld_1_1raf_1_1IRS__HW__HG2001GD.html" title="ARINC IRS label processor. " alt="" coords="1053,921,1203,962"/>
+<area shape="rect" id="node39" href="$classnidas_1_1dynld_1_1raf_1_1IRS__HW__YG1854.html" title="ARINC IRS label processor. " alt="" coords="1063,986,1193,1027"/>
+<area shape="rect" id="node47" href="$classnidas_1_1dynld_1_1raf_1_1TwoD32__USB.html" title="Sensor class for the standard PMS2D probes where the data signals are converted to USB by a converter..." alt="" coords="793,1210,924,1251"/>
+<area shape="rect" id="node48" href="$classnidas_1_1dynld_1_1raf_1_1TwoD64__USB.html" title="Class for the USB Fast&#45;2DC. " alt="" coords="793,1275,924,1317"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="nidas::dynld::UDPSampleOutput::ConnectionMonitor::updatePollfds" name="nidas::dynld::UDPSampleOutput::ConnectionMonitor::updatePollfds">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Socket.html#a170b8a45ba456cc0d24b99b3b2b5c6ba" title="nidas::util::Socket\l::close" alt="" coords="299,5,434,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Socket.html#a1a8c83e98fdea6d442a4e6ac6f5d2788" title="Fetch the file descriptor associate with this socket. " alt="" coords="299,70,434,111"/>
+</map>

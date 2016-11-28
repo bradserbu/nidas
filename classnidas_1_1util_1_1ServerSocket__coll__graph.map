@@ -1,0 +1,4 @@
+<map id="nidas::util::ServerSocket" name="nidas::util::ServerSocket">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1SocketImpl.html" title="Implementation of a socket, providing a C++ interface to system socket calls: socket,bind,listen,accept,setsockopt, etc. " alt="" coords="17,109,180,136"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="5,5,192,32"/>
+</map>

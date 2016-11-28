@@ -1,0 +1,5 @@
+<map id="nidas::core::DSMEngineStat" name="nidas::core::DSMEngineStat">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1StatusThread.html" title="A thread that runs periodically checking and multicasting the status of a DSMEngine. " alt="" coords="12,155,199,181"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="38,80,172,107"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="31,5,180,32"/>
+</map>

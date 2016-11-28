@@ -1,0 +1,12 @@
+<map id="nidas::dynld::UDPSampleOutput::close" name="nidas::dynld::UDPSampleOutput::close">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleOutputBase.html#a7cca225499b66837e23ddf095fb2adac" title="nidas::core::SampleOutput\lBase::close" alt="" coords="297,37,490,78"/>
+<area shape="rect" id="node5" href="$classnidas_1_1dynld_1_1UDPSampleOutput_1_1XMLSocketListener.html#a7f3a986dc35a92fe7394694580dfe475" title="Interrupt this thread. " alt="" coords="280,102,507,143"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Thread.html#a1da77fcda48cbee7ae54bd47ecc7bcf5" title="Interrupt this thread. " alt="" coords="326,167,461,209"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Thread.html#a1786ec279b170345ee66a9f1c534ac5e" title="Is this thread running? " alt="" coords="326,233,461,274"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Thread.html#a7c3b04b32b4327923cc4c9553a403e32" title="The calling thread joins this thread, waiting until the thread finishes, which means either that the ..." alt="" coords="326,298,461,339"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOChannel.html#aa3d9e2949bee9a54712eb4d7addbe3e4" title="nidas::core::IOChannel\l::close" alt="" coords="569,5,735,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleOutputBase.html#ab64cb1c15d4b918239a440988f33cc30" title="nidas::core::SampleOutput\lBase::getName" alt="" coords="555,70,749,111"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Exception.html#a0b2742acde4e674fce39626ca78cb8ea" title="Return string description of an errno (from errno.h). " alt="" coords="575,233,729,274"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Thread.html#aa56ddf07716d284acaae430c234274a9" title="nidas::util::Thread\l::getId" alt="" coords="585,298,719,339"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Thread.html#a1a6fd6560835791af769fab3b2b1e8db" title="Return the name of this thread. " alt="" coords="585,363,719,405"/>
+</map>

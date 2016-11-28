@@ -1,0 +1,4 @@
+<map id="A2DStart" name="A2DStart">
+<area shape="rect" id="node2" href="$ncar__a2d_8c.html#af8eb92f4eaa6367f69345e19ba767337" title="AD7725 sets some of the bits of the previous instruction in its status register. " alt="" coords="137,5,303,32"/>
+<area shape="rect" id="node3" href="$ncar__a2d_8c.html#adc6b3dee0ff56987f46568f68956a594" title="CHAN_ADDR16" alt="" coords="160,56,280,83"/>
+</map>

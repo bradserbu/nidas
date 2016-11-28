@@ -1,0 +1,9 @@
+<map id="nidas::core::GetClocks" name="nidas::core::GetClocks">
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1StatusListener.html" title="thread that listens to multicast messages from all of the DSMs. " alt="" coords="243,269,436,296"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1StatusHandler.html" title="This class implements handling routines for the SAX2 parser. " alt="" coords="384,360,576,387"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Thread.html" title="nidas::util::Thread" alt="" coords="273,191,407,217"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Runnable.html" title="nidas::util::Runnable" alt="" coords="224,97,373,124"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="69,97,200,124"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="38,5,231,32"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Exception.html" title="nidas::util::Exception" alt="" coords="398,97,551,124"/>
+</map>

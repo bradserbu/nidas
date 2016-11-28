@@ -1,0 +1,9 @@
+<map id="Garmin::enableAllMessages" name="Garmin::enableAllMessages">
+<area shape="rect" id="node2" href="$classGarmin.html#a3a95f63c3833e13d69285b20b218fc00" title="Garmin::readMessage" alt="" coords="253,77,416,104"/>
+<area shape="rect" id="node5" href="$classGarmin.html#acc8d1b42d686458a4f4f279ec4c49a00" title="Garmin::substCRNL" alt="" coords="261,135,408,161"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="258,186,411,227"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1SerialPort.html#ae4d09a43fe7d99a714858a88bdccd8fe" title="nidas::util::SerialPort\l::write" alt="" coords="258,251,411,293"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1SerialPort.html#ac81cf836e8032838eb425276d025fdfa" title="Read bytes until either the term character is read, or len&#45;1 number of characters have been read..." alt="" coords="477,5,630,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1SerialPort.html#aa586f39ea8cb368b66730df42fe6058a" title="Get device name of the SerialPort. " alt="" coords="477,70,630,111"/>
+<area shape="rect" id="node6" href="$namespacenidas_1_1util.html#a1902a11460fd068872aca208a4f1b57d" title="Utility function for substituting backslash sequences back into a string. " alt="" coords="464,135,643,177"/>
+</map>

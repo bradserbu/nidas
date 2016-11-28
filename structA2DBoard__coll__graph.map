@@ -1,0 +1,4 @@
+<map id="A2DBoard" name="A2DBoard">
+<area shape="rect" id="node2" href="$structncar__a2d__status.html" title="ncar_a2d_status" alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node3" href="$structncar__a2d__cal__config.html" title="ncar_a2d_cal_config" alt="" coords="158,5,308,32"/>
+</map>

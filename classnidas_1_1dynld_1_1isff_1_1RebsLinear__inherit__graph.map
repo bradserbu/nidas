@@ -1,0 +1,5 @@
+<map id="nidas::dynld::isff::RebsLinear" name="nidas::dynld::isff::RebsLinear">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1Polynomial.html" title="nidas::core::Polynomial" alt="" coords="27,155,196,181"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1VariableConverter.html" title="nidas::core::VariableConverter" alt="" coords="5,80,219,107"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="33,5,191,32"/>
+</map>

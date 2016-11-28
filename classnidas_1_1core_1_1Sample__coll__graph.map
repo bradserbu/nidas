@@ -1,0 +1,5 @@
+<map id="nidas::core::Sample" name="nidas::core::Sample">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleHeader.html" title="The header fields of a Sample: a time_tag, a data length field, and an identifier. " alt="" coords="5,96,200,123"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="225,96,356,123"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="194,5,387,32"/>
+</map>

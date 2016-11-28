@@ -1,0 +1,19 @@
+<map id="DSMItem" name="DSMItem">
+<area shape="rect" id="node2" href="$classNidasItem.html" title="NidasItem" alt="" coords="1341,95,1427,121"/>
+<area shape="rect" id="node3" href="$classNidasModel.html" title="NidasModel" alt="" coords="1629,44,1725,71"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMConfig.html" title="Class that should include all that is configurable about a DSM. " alt="" coords="1299,191,1469,217"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1DSMConfig_1_1MyDictionary.html" title="nidas::core::DSMConfig\l::MyDictionary" alt="" coords="1592,251,1763,293"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1DOMable.html" title="Interface of an object that can be instantiated from a DOM element, via the fromDOMElement method..." alt="" coords="23,489,182,516"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1Site.html" title="A measurement site. " alt="" coords="935,505,1060,532"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1Project.html" title="nidas::core::Project" alt="" coords="656,505,800,532"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1DSMCatalog.html" title="A catalog of DSM DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="308,413,487,440"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1ServiceCatalog.html" title="A catalog of dsm DOMElements, implemented with std::map, containing dsm DOMElements, keyed by the ID attributes. " alt="" coords="299,464,495,491"/>
+<area shape="rect" id="node18" href="$classnidas_1_1core_1_1SensorCatalog.html" title="A catalog of sensor DOMElements, implemented with std::map, containing sensor DOMElements, keyed by the ID attributes. " alt="" coords="300,515,495,541"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1SocketAddress.html" title="An interface for a socket address. " alt="" coords="904,140,1091,167"/>
+<area shape="rect" id="node9" href="$classnidas_1_1core_1_1Dictionary.html" title="Interface for a Dictionary class, which can return a string value for a string token name..." alt="" coords="21,784,185,811"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1Project_1_1MyDictionary.html" title="nidas::core::Project\l::MyDictionary" alt="" coords="325,667,469,709"/>
+<area shape="rect" id="node20" href="$classnidas_1_1core_1_1Site_1_1MyDictionary.html" title="nidas::core::Site::\lMyDictionary" alt="" coords="1317,543,1451,585"/>
+<area shape="rect" id="node19" href="$classnidas_1_1core_1_1Dataset.html" title="A Dataset is a named collection of parameters, that are used in data processing. " alt="" coords="322,241,473,268"/>
+<area shape="rect" id="node15" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="332,616,463,643"/>
+<area shape="rect" id="node16" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,707,199,733"/>
+</map>

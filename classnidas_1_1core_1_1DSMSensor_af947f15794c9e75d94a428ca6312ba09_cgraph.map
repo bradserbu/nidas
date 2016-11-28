@@ -1,0 +1,11 @@
+<map id="nidas::core::DSMSensor::getLooper" name="nidas::core::DSMSensor::getLooper">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="243,5,378,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Thread.html#af51d756d74e29093b4e33fbd0e6bb56d" title="Convenience function to return a string for the given scheduler policy: &quot;Non&#45;RT&quot;, &quot;RT:FIFO&quot;..." alt="" coords="243,70,378,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="229,136,392,163"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1Thread.html#af311f08172482d11d45389c65f9ea19b" title="nidas::util::Thread\l::setThreadScheduler" alt="" coords="231,187,390,229"/>
+<area shape="rect" id="node10" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="234,253,387,294"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="455,5,590,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="654,5,789,46"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="441,99,605,141"/>
+<area shape="rect" id="node8" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="489,165,556,192"/>
+</map>

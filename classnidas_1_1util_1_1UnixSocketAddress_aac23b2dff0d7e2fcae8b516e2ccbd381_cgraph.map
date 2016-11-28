@@ -1,0 +1,4 @@
+<map id="nidas::util::UnixSocketAddress::clone" name="nidas::util::UnixSocketAddress::clone">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1UnixSocketAddress.html#a4f12ca20fef6642654604602d42e4e9c" title="Default constructor, path of &quot;&quot;, empty string. " alt="" coords="270,5,485,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1UnixSocketAddress.html#a9e1168e33060c74e81a9a06f9976de0a" title="Return the address family, AF_UNIX. " alt="" coords="534,5,749,46"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Extract2D" name="Extract2D">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1HeaderSource.html" title="An interface for sending a SampleHeader to a SampleOutput. " alt="" coords="5,208,197,235"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1SampleInputHeader.html" title="nidas::core::SampleInput\lHeader" alt="" coords="371,201,552,242"/>
+<area shape="rect" id="node5" href="$structnidas_1_1core_1_1SampleInputHeader_1_1headerField.html" title="nidas::core::SampleInput\lHeader::headerField" alt="" coords="371,6,552,47"/>
+</map>

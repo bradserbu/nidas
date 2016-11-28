@@ -1,0 +1,39 @@
+<map id="pc104sg_init" name="pc104sg_init">
+<area shape="rect" id="node2" href="$pc104sg_8c.html#a5d2c89e71466805c8f6a69ab85d6a75d" title="counterRejam" alt="" coords="195,68,306,95"/>
+<area shape="rect" id="node4" href="$pc104sg_8c.html#ac928e2ad48c95a94c86aa08962f32410" title="Enable external time tag interrupt. " alt="" coords="426,397,531,424"/>
+<area shape="rect" id="node5" href="$pc104sg_8c.html#a274ddac1815204b14f718e7de3dbefb8" title="Enable heart beat interrupts. " alt="" coords="177,701,324,728"/>
+<area shape="rect" id="node7" href="$pc104sg_8c.html#a7d31718700b10da9a5ca0032e15dd1d7" title="get_irig_time_tv32" alt="" coords="409,955,549,981"/>
+<area shape="rect" id="node12" href="$pc104sg_8c.html#a532b77817b333266c5de6eb671c7ea86" title="oneHzFunction" alt="" coords="193,1005,309,1032"/>
+<area shape="rect" id="node15" href="$pc104sg_8c.html#aed23bdab82ef3a1206f5890b2c0d20ed" title="Tasklet called 100 times/second in softare interrupt context. " alt="" coords="177,600,324,627"/>
+<area shape="rect" id="node21" href="$pc104sg_8c.html#aaab00cb0f54ed7cb6a67e20eab87281e" title="pc104sg_cleanup" alt="" coords="184,487,317,513"/>
+<area shape="rect" id="node24" href="$pc104sg_8c.html#aaf941eb0fe5482665c540a976d2b220a" title="pc104sg_isr" alt="" coords="201,803,300,829"/>
+<area shape="rect" id="node29" href="$pc104sg_8c.html#a6be98cca820db8ed3d7b06aecfafc2ab" title="Module function that allows other modules to register their callback function to be called at the giv..." alt="" coords="173,1056,328,1083"/>
+<area shape="rect" id="node27" href="$pc104sg_8c.html#ad8f771cfe673267603932b907013adeb" title="The requestDPRAM()/getRequestedDPRAM() pair allow us to break a dual&#45;port read into two parts..." alt="" coords="643,853,759,880"/>
+<area shape="rect" id="node30" href="$pc104sg_8c.html#a2077081dfbe4d67b39c8a0a743b5f27f" title="setHeartBeatOutput" alt="" coords="175,347,327,373"/>
+<area shape="rect" id="node32" href="$pc104sg_8c.html#adb929ec8d4c69d83a4b4d9134ff41374" title="The major time consists of the day&#45;of&#45;year, hour, minute and second fields. " alt="" coords="197,144,305,171"/>
+<area shape="rect" id="node34" href="$pc104sg_8c.html#a318a007c64a1bd79e457a01c703690bb" title="Set the primary time reference. " alt="" coords="158,245,343,272"/>
+<area shape="rect" id="node35" href="$pc104sg_8c.html#ae2ec41a4045a974e5c6f4ccf7ee2f0cb" title="setRate2Output" alt="" coords="189,296,312,323"/>
+<area shape="rect" id="node36" href="$pc104sg_8c.html#a47acaa00ccc88f829fa6730daf6f17a1" title="setTimeCodeInputSelect" alt="" coords="161,5,340,32"/>
+<area shape="rect" id="node37" href="$pc104sg_8c.html#a42c439fe41aa10b813fb26efea64beab" title="timevalToirig" alt="" coords="200,1107,301,1133"/>
+<area shape="rect" id="node3" href="$pc104sg_8c.html#a57fdfe15265a20ca1347a96d84dbe25e" title="Set a value in dual port RAM. " alt="" coords="653,144,750,171"/>
+<area shape="rect" id="node6" href="$pc104sg_8c.html#a59be4e9f51e3e4c7cba41fd4244ab801" title="After receiving a heartbeat interrupt, one must reset the heartbeat latch in the handler. " alt="" coords="401,752,557,779"/>
+<area shape="rect" id="node8" href="$pc104sg_8c.html#abdb74e80c66172da496b8908c84ab2b8" title="Get main clock. " alt="" coords="649,904,754,931"/>
+<area shape="rect" id="node11" href="$pc104sg_8c.html#a38b43c62a116640469a2281a5cda4d3d" title="Convert a struct irigTime into a struct timeval32. " alt="" coords="643,955,760,981"/>
+<area shape="rect" id="node9" href="$pc104sg_8c.html#ab63a2129e5c40030d8a7455b9f38674b" title="Read time from the registers. " alt="" coords="840,879,949,905"/>
+<area shape="rect" id="node10" href="$pc104sg_8c.html#a98e0bc7ad9fa3c2e4fed4581b87ece40" title="Convert a struct irigTime into a struct timespec. " alt="" coords="838,929,951,956"/>
+<area shape="rect" id="node13" href="$pc104sg_8c.html#aaa653a40c114547800a6bf381440cb56" title="Try to determine if our software clock and client callbacks are keeping up with real&#45;time. " alt="" coords="417,1005,540,1032"/>
+<area shape="rect" id="node14" href="$pc104sg_8c.html#a011f0657825d40831b8eac637e2bcea5" title="clockStateString" alt="" coords="638,1005,765,1032"/>
+<area shape="rect" id="node16" href="$pc104sg_8c.html#aa73b925b4cef457efc768966179f095b" title="Invoke the callback functions for a given rate. " alt="" coords="424,549,533,576"/>
+<area shape="rect" id="node17" href="$pc104sg_8c.html#a44ac6443e8cb3692ba6fe664d1307d9e" title="Invoke all resync callback functions. " alt="" coords="407,600,550,627"/>
+<area shape="rect" id="node18" href="$pc104sg_8c.html#a0d33fce3e2b16674e7015304617be580" title="Handle pending adds and removes of callbacks from the active list for the appropriate rate..." alt="" coords="613,575,789,601"/>
+<area shape="rect" id="node19" href="$pc104sg_8c.html#ac9aa0f7f6e66c028b3842c03411f8fc8" title="Set the software clock and the tasklet loop counter based on a clock value in a timeval struct..." alt="" coords="423,701,535,728"/>
+<area shape="rect" id="node20" href="$sing_8cc.html#a7cd7c66065ead3daabafb674047c78a8" title="if" alt="" coords="682,701,721,728"/>
+<area shape="rect" id="node22" href="$pc104sg_8c.html#a4a6e50ded9d3f5c70e8bd2b7409b5370" title="Cleanup function that un&#45;registers all callbacks. " alt="" coords="423,499,535,525"/>
+<area shape="rect" id="node23" href="$pc104sg_8c.html#ae0aacc0145154de250d49a3def0888af" title="Modules call this function to dequeue their callbacks. " alt="" coords="393,448,564,475"/>
+<area shape="rect" id="node25" href="$pc104sg_8c.html#aefe6cedb99237a8eda75efad5dfa4468" title="requestExtendedStatus" alt="" coords="392,803,565,829"/>
+<area shape="rect" id="node28" href="$pc104sg_8c.html#a5171347c11b66993adf4d8d37915a9cc" title="do_gettimeofday_tv32" alt="" coords="396,853,561,880"/>
+<area shape="rect" id="node26" href="$pc104sg_8c.html#aa9376577710fef9a923b2bfcb8cf7bc8" title="getRequestedDPRAM" alt="" coords="624,803,779,829"/>
+<area shape="rect" id="node31" href="$pc104sg_8c.html#a1135b8eef3e16d1c2e3b2b26380e6198" title="Read dual port RAM. " alt="" coords="431,296,527,323"/>
+<area shape="rect" id="node33" href="$pc104sg_8c.html#ad1d97dfdfffe705858d994fe50095a62" title="Get external event time. " alt="" coords="445,144,513,171"/>
+<area shape="rect" id="node38" href="$pc104sg_8c.html#aef5abbfb2b7452e89344e147b0ee88fb" title="Break a struct timeval32 into the fields of a struct irigTime. " alt="" coords="422,1107,535,1133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="nidas::util::McSocket::getInterfaces" name="nidas::util::McSocket::getInterfaces">
+<area shape="rect" id="node2" href="$classnidas_1_1util_1_1MulticastSocket.html#a4127d0182b2038385d73ad99ff5977b2" title="Return the IP addresses of all my network interfaces. " alt="" coords="208,5,400,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Inet4SocketAddress.html#a3f70de15bd05eb31407b30e1f4f2e841" title="Return the port number. " alt="" coords="221,70,387,111"/>
+</map>

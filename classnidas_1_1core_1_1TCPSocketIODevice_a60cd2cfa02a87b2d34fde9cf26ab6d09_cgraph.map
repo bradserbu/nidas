@@ -1,0 +1,12 @@
+<map id="nidas::core::TCPSocketIODevice::~TCPSocketIODevice" name="nidas::core::TCPSocketIODevice::~TCPSocketIODevice">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1TCPSocketIODevice.html#a80dfd02c494f4df0d5b2df581974394b" title="close the device. " alt="" coords="278,129,501,170"/>
+<area shape="rect" id="node3" href="$classnidas_1_1util_1_1Socket.html#a1a8c83e98fdea6d442a4e6ac6f5d2788" title="Fetch the file descriptor associate with this socket. " alt="" coords="563,5,698,46"/>
+<area shape="rect" id="node4" href="$classnidas_1_1util_1_1Logger.html#afec28ae6d7bdf8f6a0734cb20756de10" title="Return a pointer to the currently active Logger singleton. " alt="" coords="563,70,698,111"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1Logger.html#a92324d8de9c5c1af756ac38bcf7c7add" title="Build a message from a printf&#45;format string and variable args, and log the message. " alt="" coords="549,136,712,163"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1IODevice.html#a319ef1fd16ca1af6b0835aac031dcac1" title="nidas::core::IODevice\l::getName" alt="" coords="553,187,709,229"/>
+<area shape="rect" id="node11" href="$classnidas_1_1util_1_1Socket.html#a170b8a45ba456cc0d24b99b3b2b5c6ba" title="nidas::util::Socket\l::close" alt="" coords="563,253,698,294"/>
+<area shape="rect" id="node5" href="$classnidas_1_1util_1_1Logger.html#aadfe16c4bc0e883db07fa104c0e7b777" title="Create a syslog&#45;type Logger. " alt="" coords="775,63,910,105"/>
+<area shape="rect" id="node6" href="$classnidas_1_1util_1_1Logger.html#abc41bfb031d896170c7675fa96a6b30c" title="nidas::util::Logger\l::Logger" alt="" coords="974,63,1109,105"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1LogContext.html#a167f8434b26431ae43c4966d5d72b936" title="Return true if log messages from this context would be accepted. " alt="" coords="761,129,925,170"/>
+<area shape="rect" id="node9" href="$Logger_8cc.html#a2a043eb19141f7a27d9f01f8ce4b9f9b" title="fillError" alt="" coords="809,195,876,221"/>
+</map>

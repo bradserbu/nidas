@@ -1,0 +1,4 @@
+<map id="nidas::dynld::isff::PacketInputStream::clone" name="nidas::dynld::isff::PacketInputStream::clone">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1isff_1_1PacketInputStream.html#a87ff5fb5243a2acb05dd62526f60fb66" title="Copy constructor, with a new, connected IOChannel. " alt="" coords="205,5,357,61"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1IOChannel.html#a22543d1f061ff855a67c764b451299e2" title="Return suggested buffer length. " alt="" coords="405,13,571,54"/>
+</map>

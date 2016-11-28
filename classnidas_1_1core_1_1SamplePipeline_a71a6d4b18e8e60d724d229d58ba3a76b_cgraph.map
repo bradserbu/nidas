@@ -1,0 +1,6 @@
+<map id="nidas::core::SamplePipeline::removeSampleClient" name="nidas::core::SamplePipeline::removeSampleClient">
+<area shape="rect" id="node2" href="$classnidas_1_1core_1_1SampleTag.html#a3695fca9419619def30fb58d690d9427" title="nidas::core::SampleTag\l::getDSMSensor" alt="" coords="256,5,427,46"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a29f82df18232c1d5f9e6a2baf3404ff4" title="Convenience function to get my one&#45;and&#45;only raw SampleTag(). " alt="" coords="254,70,429,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#aa594de9737163828c9f18d10f15362d2" title="Remove a SampleClient from this SampleSource This will also remove a SampleClient if it has been adde..." alt="" coords="254,135,429,177"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1SampleSourceSupport.html#a2b73c9552b47124016bc783361c5f5a8" title="Remove a SampleClient from this SampleSource This will also remove a SampleClient if it has been adde..." alt="" coords="478,135,693,177"/>
+</map>

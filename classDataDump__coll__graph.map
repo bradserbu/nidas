@@ -1,0 +1,9 @@
+<map id="DataDump" name="DataDump">
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1NidasAppArg.html" title="A NidasAppArg identifies a particular kind of command&#45;line argument which can be handled by NidasApp..." alt="" coords="574,220,757,247"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1NidasAppInputFilesArg.html" title="Extend NidasAppArg so the default input specifier and port can be customized, which in turn updates t..." alt="" coords="925,122,1118,163"/>
+<area shape="rect" id="node7" href="$classnidas_1_1util_1_1UTime.html" title="A class for parsing, formatting and doing operations on time, based on Unix time conventions, where leap seconds are ignored, so that there are always 60 seconds in a minute, 3600 seconds in an hour and 86400 seconds in a day. " alt="" coords="599,397,731,424"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1NidasApp.html" title="Handle common options for NIDAS applications. " alt="" coords="1283,273,1445,300"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1SampleMatcher.html" title="Match samples according to DSM and Sample ID ranges, and configure the ranges with criteria in text f..." alt="" coords="921,397,1122,424"/>
+<area shape="rect" id="node8" href="$classnidas_1_1util_1_1Mutex.html" title="A C++ wrapper for a POSIX mutex. " alt="" coords="291,397,421,424"/>
+<area shape="rect" id="node9" href="$classnidas_1_1util_1_1MutexAttributes.html" title="A C++ wrapper for a POSIX mutex attributes. " alt="" coords="6,397,199,424"/>
+</map>

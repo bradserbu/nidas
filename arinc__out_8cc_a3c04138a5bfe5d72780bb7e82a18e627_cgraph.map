@@ -1,0 +1,23 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classnidas_1_1dynld_1_1raf_1_1DSMArincSensor.html#a4b01b3daa7612c4dd7590a5122d7eb6f" title="This closes the associated device. " alt="" coords="112,119,283,161"/>
+<area shape="rect" id="node7" href="$classnidas_1_1core_1_1DSMSensor.html#a5af16ad72e45318083f77f8e5502478b" title="nidas::core::DSMSensor\l::getWriteFd" alt="" coords="110,282,285,323"/>
+<area shape="rect" id="node9" href="$classnidas_1_1dynld_1_1raf_1_1DSMArincSensor.html#aa3ef812e544c251e1bc9c303b06613fe" title="This opens the associated device. " alt="" coords="113,397,282,438"/>
+<area shape="rect" id="node18" href="$arinc__out_8cc.html#a8d395a68b83ebaabd2c1f02a19eb681f" title="parseRunstring" alt="" coords="139,463,256,489"/>
+<area shape="rect" id="node20" href="$sing_8cc.html#a2e979734b0b9990f54aa1285db767d39" title="printf" alt="" coords="170,513,225,540"/>
+<area shape="rect" id="node21" href="$classnidas_1_1core_1_1DSMSensor.html#adb0328dc61d65c51936f449442f35563" title="Set the name of the system device that the sensor is connected to. " alt="" coords="110,565,285,606"/>
+<area shape="rect" id="node22" href="$classnidas_1_1util_1_1Exception.html#ab9aed0e81a77fc788f543ade801ae817" title="nidas::util::Exception\l::what" alt="" coords="121,630,274,671"/>
+<area shape="rect" id="node3" href="$classnidas_1_1core_1_1DSMSensor.html#a45a3ee15931af1e00b6ee409f1f491a7" title="close my associated device. " alt="" coords="334,70,509,111"/>
+<area shape="rect" id="node4" href="$classnidas_1_1core_1_1DSMSensor.html#a381ec6238275e3e2339e96dfa6c867f3" title="Fetch the name of the system device that the sensor is connected to. " alt="" coords="558,5,733,46"/>
+<area shape="rect" id="node5" href="$classnidas_1_1core_1_1DSMSensor.html#ae3f9496427de8c4ffc833855d3e99aa8" title="nidas::core::DSMSensor\l::getTimeoutCount" alt="" coords="558,70,733,111"/>
+<area shape="rect" id="node6" href="$classnidas_1_1core_1_1IODevice.html#a7c0d765a4897e64a0762954a7df713dd" title="Close the device. " alt="" coords="567,135,723,177"/>
+<area shape="rect" id="node8" href="$classnidas_1_1core_1_1IODevice.html#a55f096db8084a6075f437ccbed0f77ff" title="The file descriptor used when writing to this sensor. " alt="" coords="343,135,499,177"/>
+<area shape="rect" id="node10" href="$classnidas_1_1core_1_1DSMSensor.html#ab5a972d19d7902900e3a65db4fa4f2b3" title="Open the device. " alt="" coords="334,201,509,242"/>
+<area shape="rect" id="node11" href="$classnidas_1_1core_1_1SampleTag.html#a5ca3fbedfe97836dcef9c5b9063624ed" title="Get the sample portion of the shortId. " alt="" coords="336,266,507,307"/>
+<area shape="rect" id="node12" href="$classnidas_1_1core_1_1SampleTag.html#a0dcde9f4a71b2a5ab32ff27014d8d1ef" title="Get sampling rate in samples/sec. " alt="" coords="336,331,507,373"/>
+<area shape="rect" id="node13" href="$classnidas_1_1core_1_1SampleTag.html#a94e0b85fcb9bebd694525f0005a5dbaf" title="nidas::core::SampleTag\l::getVariables" alt="" coords="336,397,507,438"/>
+<area shape="rect" id="node14" href="$classnidas_1_1core_1_1SampleTag.html#a00fac76b3c7acec34730700d74fa1d7b" title="Test to see if this sample is to be post processed. " alt="" coords="336,462,507,503"/>
+<area shape="rect" id="node15" href="$classnidas_1_1core_1_1Variable.html#a65758a64115d33b93af192286a35fe62" title="nidas::core::Variable\l::getUnits" alt="" coords="346,527,497,569"/>
+<area shape="rect" id="node16" href="$classnidas_1_1core_1_1Variable.html#a1063f07815680409b4e5f0aa0be2b98e" title="nidas::core::Variable\l::getName" alt="" coords="346,593,497,634"/>
+<area shape="rect" id="node17" href="$classnidas_1_1core_1_1Variable.html#afe5da71e570b3ab45dfd0452adb9353c" title="nidas::core::Variable\l::getLongName" alt="" coords="346,658,497,699"/>
+<area shape="rect" id="node19" href="$arinc__out_8cc.html#a4d7e598eb9f90dfa71f9a963e620a961" title="usage" alt="" coords="391,724,452,751"/>
+</map>
