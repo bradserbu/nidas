@@ -29,7 +29,6 @@
 #include <nidas/core/Parameter.h>
 #include <nidas/core/Variable.h>
 #include <nidas/util/Logger.h>
-#include <chrono>
 
 using namespace nidas::core;
 using namespace nidas::dynld::raf;
@@ -49,7 +48,7 @@ const size_t PIP_Serial::VDC5_MON_INDX = 6;
 const size_t PIP_Serial::FCB_TMP_INDX = 7;
 
 
-PIP_Serial::PIP_Serial(): SppSerial("CDP"),
+PIP_Serial::PIP_Serial(): SppSerial("PIP"),
     _dofReject(1), _airspeedSource(1)
 {
     //
@@ -66,12 +65,11 @@ PIP_Serial::PIP_Serial(): SppSerial("CDP"),
     chksumPtr = (char*)&(init.chksum);
     assert((chksumPtr - headPtr) == (_InitPacketSize - 2));
     
-    _nChannels = MAX_CHANNELS; // use a packet length containing all channels
+    _nChannels = N_PIP_CHANNELS;
     PIP_blk data;
     headPtr = (char*)&data;
     chksumPtr = (char*)&(data.chksum);
     assert((chksumPtr - headPtr) == (packetLen() - 2));
-    _nChannels = 0; // back to zero until it gets set via configuration
     
     //
     // This number should match the housekeeping added in ::process, so that
@@ -84,20 +82,14 @@ PIP_Serial::PIP_Serial(): SppSerial("CDP"),
 void PIP_Serial::validate()
     throw(n_u::InvalidParameterException)
 {
-    // If fixed record delimiter.
-    if (getMessageSeparator().length() > 0) {	// PACDEX
-        _dataType = Delimited;
-        _recDelimiter = 0xffff;
-    }
     //pretty sure this isn't going to be needed
     //as both pas and dofreject will be static for PIP
-    /*    const Parameter *p;
+    const Parameter *p;
 
     p = getParameter("DOF_REJ");
     if (!p) throw n_u::InvalidParameterException(getName(),
           "DOF_REJ","not found");
     _dofReject = (unsigned short)p->getNumericValue(0);
-    */
 
     // Initialize the message parameters to something that passes
     // SppSerial::validate(). The packet length
@@ -119,20 +111,23 @@ void PIP_Serial::sendInitString() throw(n_u::IOException)
 {
     // zero initialize
     InitPIP_blk setup_pkt = InitPIP_blk();
-    SetAbsoluteTime setTime_pkt = SetAbsoluteTime();
-    SendPIP_blk sendData_pkt = SendPIP_blk();
-    
-    //data packet setup
+
+    //init packet setup
     setup_pkt.esc = 0x1b;
     setup_pkt.id = 0x01;
     PackDMT_UShort(setup_pkt.airspeedSource, _airspeedSource); //0x0001: host = computer which sends packet
     PackDMT_UShort(setup_pkt.dofRej, _dofReject);
     setup_pkt.pSizeDim = 0x01;
     setup_pkt.rc = 0xFF;
-    //time
+
+    //send time to probe.
+    SetAbsoluteTime setTime_pkt = SetAbsoluteTime();
     setTime_pkt.esc = 0x1b;
     setTime_pkt.id = 0x05;
-    //figure out how to get time, probably should do that right before sending the packet out./
+    //figure out how to get time, probably should do that right before sending the packet out.
+    // gettimeofday() ?
+
+/* 
     //send data setup
     //currently just going to set this to a constant, not actually calculate airspeed 
     sendData_pkt.esc = 0x1b;
@@ -140,31 +135,22 @@ void PIP_Serial::sendInitString() throw(n_u::IOException)
     //DMT_UShort  hostSyncCounter;//0x01
     //DMT_ULong PASCoefficient; //??? 0x02df2e0c for 25 um, 35 m/s pas.
     //DMT_UShort  relayControl; //0x00
+*/
 
 
-
-
-
-
-
-    for (int i = 0; i < _nChannels; i++)
-	PackDMT_UShort(setup_pkt.OPCthreshold[i], _opcThreshold[i]);
 
     // exclude chksum from the computation
     PackDMT_UShort(setup_pkt.chksum,
 		   computeCheckSum((unsigned char*)&setup_pkt,
 				   _InitPacketSize - 2));
 
-    // Expect 4 byte ack from CDP, instead of normal 2 for other probes.
+    // Expect 4 byte ack from PIP, instead of normal 2 for other probes.
     sendInitPacketAndCheckAck(&setup_pkt, _InitPacketSize, 4);
 
     //set time
     
     //send setTime packet
     
-    //calculate PAS
-
-    //send datapcaket? 
     //may need lock on xml or something to prevent half formed pas
     //can I just modify the 4 relevant bytes?
 
