@@ -1,4 +1,4 @@
-uuu/ -*- mode: C++; indent-tabs-mode: nil; c-basic-offset: 4; tab-width: 4; -*-
+// -*- mode: C++; indent-tabs-mode: nil; c-basic-offset: 4; tab-width: 4; -*-
 // vim: set shiftwidth=4 softtabstop=4 expandtab:
 /*
  ********************************************************************
@@ -51,6 +51,8 @@ public:
   bool process(const Sample* samp,std::list<const Sample*>& results)
         throw();
 
+  static const size_t N_PIP_CHANNELS = 62;
+  static const size_t N_PIP_HSKP = 16;
 
   // Packet to initialize probe with.
   struct InitPIP_blk
@@ -94,7 +96,7 @@ public:
   };
 
   /**
-   * Data packet back from probe.  This is max size with 61 bins.
+   * Data packet back from probe.
    */
   struct PIP_blk
   {
@@ -102,11 +104,11 @@ public:
       char header2;
       DMT_UShort packetByteCount;
       DMT_UShort oversizeReject;
-      DMT_UShort binCount[61];
+      DMT_UShort binCount[N_PIP_CHANNELS];
       //DMT_ULong rejDOF;
       DMT_UShort DOFRejectCount;
       DMT_UShort EndRejectCount; 
-      DMT_UShort housekeeping[15];
+      DMT_UShort housekeeping[N_PIP_HSKP];
       char laserPower;
       DMT_UShort ParticleCounter;   
       DMT_UShort SecMili; //Seconds and Milliseconds
@@ -123,12 +125,13 @@ protected:
   int packetLen() const {
     return (179);    //use _nChannels if binCount ends up being variable
   }
-// These are instantiated in in .cc
+
+  // These are instantiated in in .cc
   static const size_t FLSR_CUR_INDX, FLSR_PWR_INDX, FWB_TMP_INDX, FLSR_TMP_INDX,
     SIZER_BLINE_INDX, QUAL_BLINE_INDX, VDC5_MON_INDX, FCB_TMP_INDX;
 
-    unsigned short _dofReject;
-    unsigned short _airspeedSource;
+  unsigned short _dofReject;
+  unsigned short _airspeedSource;
 };
 
 }}}	// namespace nidas namespace dynld raf
