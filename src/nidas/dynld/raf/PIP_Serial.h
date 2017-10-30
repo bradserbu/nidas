@@ -123,7 +123,7 @@ public:
 protected:
 
   int packetLen() const {
-    return (179);    //use _nChannels if binCount ends up being variable
+    return (180);    //use _nChannels if binCount ends up being variable
   }
 
   // These are instantiated in in .cc

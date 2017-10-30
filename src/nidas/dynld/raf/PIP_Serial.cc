@@ -165,7 +165,7 @@ void PIP_Serial::sendInitString() throw(n_u::IOException)
 bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
 	throw()
 {
- /*   if (! appendDataAndFindGood(samp))
+    if (! appendDataAndFindGood(samp))
         return false;
 
     // * Copy the good record into our PIP_blk struct.
@@ -190,37 +190,48 @@ bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
     const float * dend = dout + _noutValues;
     unsigned int ivar = 0;
 
+
     // these values must correspond to the sequence of
-    // <variable> tags in the <sample> for this sensor.
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.cabinChan[FLSR_CUR_INDX]) * (76.3 / 1250),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.cabinChan[FLSR_PWR_INDX]) * (0.5 / 408),ivar++);
+    // <variable> tags in the <sample(xml)> for this sensor.
+    //*dout++ = convert(ttag,UnpackDMT_UShort(inRec.header1),ivar++);
+    //*dout++ = convert(ttag,UnpackDMT_UShort(inRec.header2),ivar++);
+   /* *dout++ = convert(ttag,UnpackDMT_UShort(inRec.packetByteCount),ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.oversizeReject),ivar++);
+    //laser power is a char
+    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.laserPower),ivar++);
+    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.DOFRejectCount),ivar++);
+    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.EndRejectCount),ivar++);
+    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.ParticleCounter),ivar++);
+    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.SecMili),ivar++);
+    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.HourMin),ivar++);
+    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.hostSyncCounter),ivar++);
+    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.resetFlag),ivar++);
+    // if reset Flag==1, send init packet
+    */
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPEDV0]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPEDV64]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPEDV32]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPQC]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPPS]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPLWC]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPLWCSLV]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPCBTMP]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPRH]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPRT]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPLSRC]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPLSRP]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[REJOFLOW]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[REJDOF]), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[REJEND]), ivar++);
+    
 
-    value = UnpackDMT_UShort(inRec.cabinChan[FWB_TMP_INDX]);
-    *dout++ = convert(ttag,(1.0 / ((1.0 / 3750.0) * log((4096.0 / value) - 1.0) + (1.0 / 298.0))) - 273.0,ivar++);
-
-    value = UnpackDMT_UShort(inRec.cabinChan[FLSR_TMP_INDX]);
-    *dout++ = convert(ttag,(1.0 / ((1.0 / 3900.0) * log((4096.0 / value) - 1.0) + (1.0 / 298.0))) - 273.0,ivar++);
-
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.cabinChan[SIZER_BLINE_INDX]) * (0.5 / 408),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.cabinChan[QUAL_BLINE_INDX]) * (0.5 / 408),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.cabinChan[VDC5_MON_INDX]) * (0.5 / 408),ivar++);
-    value = UnpackDMT_UShort(inRec.cabinChan[FCB_TMP_INDX]);
-    *dout++ = convert(ttag,0.06401 * value - 50.0,ivar++);
-
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.rejDOF),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.QualBndwdth),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.QualThrshld),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.AvgTransit) * 0.025,ivar++);   // 40MHz clock.
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.SizerBndwdth),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.SizerThrshld),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.ADCoverflow),ivar++);
 
     #ifdef ZERO_BIN_HACK
     // add a bogus zeroth bin for historical reasons
     *dout++ = 0.0;
     #endif
     for (int iout = 0; iout < _nChannels; ++iout)
-	*dout++ = UnpackDMT_ULong(inRec.OPCchan[iout]);
+	*dout++ = UnpackDMT_ULong(inRec.binCount[iout]);
 
     // Compute DELTAT.
     if (_outputDeltaT) {
@@ -234,12 +245,7 @@ bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
     assert(dout == dend);
 
     results.push_back(outs);
- */ 
-      
-
-
-
-
+ 
 
 
 	return true;
