@@ -38,14 +38,21 @@ namespace n_u = nidas::util;
 
 NIDAS_CREATOR_FUNCTION_NS(raf,PIP_Serial)
 
-const size_t PIP_Serial::FLSR_CUR_INDX = 0;
-const size_t PIP_Serial::FLSR_PWR_INDX = 1;
-const size_t PIP_Serial::FWB_TMP_INDX = 2;
-const size_t PIP_Serial::FLSR_TMP_INDX = 3;
-const size_t PIP_Serial::SIZER_BLINE_INDX = 4;
-const size_t PIP_Serial::QUAL_BLINE_INDX = 5;
-const size_t PIP_Serial::VDC5_MON_INDX = 6;
-const size_t PIP_Serial::FCB_TMP_INDX = 7;
+const size_t PIP_Serial::PIPEDV0 = 0;
+const size_t PIP_Serial::PIPEDV64= 1;
+const size_t PIP_Serial::PIPEDV32= 2;
+const size_t PIP_Serial::PIPQC= 3;
+const size_t PIP_Serial::PIPPS= 4;
+const size_t PIP_Serial::PIPLWC = 5;
+const size_t PIP_Serial::PIPLWCSLV= 6;
+const size_t PIP_Serial::PIPCBTMP = 7;
+const size_t PIP_Serial::PIPRH = 0;
+const size_t PIP_Serial::PIPRT = 0;
+const size_t PIP_Serial::PIPLSRC = 0;
+const size_t PIP_Serial::PIPLSRP = 0;
+const size_t PIP_Serial::REJOFLOW = 0;
+const size_t PIP_Serial::REJDOF = 0;
+const size_t PIP_Serial::REJEND = 0;
 
 
 PIP_Serial::PIP_Serial(): SppSerial("PIP"),
