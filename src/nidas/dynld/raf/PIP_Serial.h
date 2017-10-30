@@ -126,9 +126,9 @@ protected:
     return (180);    //use _nChannels if binCount ends up being variable
   }
 
-  // These are instantiated in in .cc
-  static const size_t FLSR_CUR_INDX, FLSR_PWR_INDX, FWB_TMP_INDX, FLSR_TMP_INDX,
-    SIZER_BLINE_INDX, QUAL_BLINE_INDX, VDC5_MON_INDX, FCB_TMP_INDX;
+  // These are instantiated in .cc, used for indexing into the housekeeping array
+  static const size_t PIPEDV0,PIPEDV64,PIPEDV32,PIPQC,PIPPS,PIPLWC,PIPLWCSLV,
+	  PIPCBTMP,PIPRH,PIPRT,PIPLSRC,PIPLSRP,REJOFLOW,REJDOF,REJEND;
 
   unsigned short _dofReject;
   unsigned short _airspeedSource;
