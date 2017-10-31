@@ -46,13 +46,11 @@ const size_t PIP_Serial::PIPPS= 4;
 const size_t PIP_Serial::PIPLWC = 5;
 const size_t PIP_Serial::PIPLWCSLV= 6;
 const size_t PIP_Serial::PIPCBTMP = 7;
-const size_t PIP_Serial::PIPRH = 0;
-const size_t PIP_Serial::PIPRT = 0;
-const size_t PIP_Serial::PIPLSRC = 0;
-const size_t PIP_Serial::PIPLSRP = 0;
-const size_t PIP_Serial::REJOFLOW = 0;
-const size_t PIP_Serial::REJDOF = 0;
-const size_t PIP_Serial::REJEND = 0;
+const size_t PIP_Serial::PIPRH = 8;
+//skipping the optional input 1-4, which are currently undefined
+const size_t PIP_Serial::PIPRT = 13;
+const size_t PIP_Serial::PIPLSRC = 14;
+const size_t PIP_Serial::PIPLSRP = 15;
 
 
 PIP_Serial::PIP_Serial(): SppSerial("PIP"),
@@ -76,7 +74,7 @@ PIP_Serial::PIP_Serial(): SppSerial("PIP"),
     PIP_blk data;
     headPtr = (char*)&data;
     chksumPtr = (char*)&(data.chksum);
-    assert((chksumPtr - headPtr) == (packetLen() - 2));
+    assert((chksumPtr - headPtr) == (packetLen() - 4));
     
     //
     // This number should match the housekeeping added in ::process, so that
@@ -89,8 +87,13 @@ PIP_Serial::PIP_Serial(): SppSerial("PIP"),
 void PIP_Serial::validate()
     throw(n_u::InvalidParameterException)
 {
-    //pretty sure this isn't going to be needed
-    //as both pas and dofreject will be static for PIP
+    // Need this if fixed record delimiter, to ensure 
+    // it doesn't try to check the checksum at packetLen()-2
+    // seeing as this has the checksum at packetLen()-4 due to the trailers.
+    if (getMessageSeparator().length() > 0) {
+        _dataType = Delimited;
+    }
+
     const Parameter *p;
 
     p = getParameter("DOF_REJ");
@@ -179,7 +182,7 @@ bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
     PIP_blk inRec;
 
     ::memcpy(&inRec, _waitingData, packetLen() - 2);
-    ::memcpy(&inRec.chksum, _waitingData + packetLen() - 2, 2);
+    ::memcpy(&inRec.chksum, _waitingData + packetLen() - 4, 2);
 
     // * Shift the remaining data in _waitingData to the head of the line
     _nWaitingData -= packetLen();
@@ -197,46 +200,28 @@ bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
     const float * dend = dout + _noutValues;
     unsigned int ivar = 0;
 
-
-    // these values must correspond to the sequence of
-    // <variable> tags in the <sample(xml)> for this sensor.
-    //*dout++ = convert(ttag,UnpackDMT_UShort(inRec.header1),ivar++);
-    //*dout++ = convert(ttag,UnpackDMT_UShort(inRec.header2),ivar++);
-   /* *dout++ = convert(ttag,UnpackDMT_UShort(inRec.packetByteCount),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.oversizeReject),ivar++);
-    //laser power is a char
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.laserPower),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.DOFRejectCount),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.EndRejectCount),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.ParticleCounter),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.SecMili),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.HourMin),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.hostSyncCounter),ivar++);
-    *dout++ = convert(ttag,UnpackDMT_ULong(inRec.resetFlag),ivar++);
-    // if reset Flag==1, send init packet
-    */
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPEDV0]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPEDV64]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPEDV32]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPQC]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPPS]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPLWC]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPLWCSLV]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPCBTMP]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPRH]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPRT]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPLSRC]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[PIPLSRP]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[REJOFLOW]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[REJDOF]), ivar++);
-    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.housekeeping[REJEND]), ivar++);
+    *dout++ = convert(ttag,20*(UnpackDMT_UShort(inRec.housekeeping[PIPEDV0]/4095)), ivar++);
+    *dout++ = convert(ttag,20*(UnpackDMT_UShort(inRec.housekeeping[PIPEDV64]/4095)), ivar++);
+    *dout++ = convert(ttag,20*(UnpackDMT_UShort(inRec.housekeeping[PIPEDV32]/4095)), ivar++);
+    *dout++ = convert(ttag,70.786*5*(UnpackDMT_UShort(inRec.housekeeping[PIPQC])/4095), ivar++);
+    *dout++ = convert(ttag,206.88*5*(UnpackDMT_UShort(inRec.housekeeping[PIPPS])/4095), ivar++);
+    *dout++ = convert(ttag,10*(UnpackDMT_UShort(inRec.housekeeping[PIPLWC]/4095)), ivar++);
+    *dout++ = convert(ttag,10*(UnpackDMT_UShort(inRec.housekeeping[PIPLWCSLV]/4095)), ivar++);
+    *dout++ = convert(ttag,(UnpackDMT_UShort(inRec.housekeeping[PIPCBTMP]-599)*20/4095), ivar++);
+    *dout++ = convert(ttag,32.258*10(UnpackDMT_UShort(inRec.housekeeping[PIPRH]/4095)-25.81), ivar++);
+    *dout++ = convert(ttag,((UnpackDMT_UShort(inRec.housekeeping[PIPRT])*100/4095)-50), ivar++);
+    *dout++ = convert(ttag,(UnpackDMT_UShort(inRec.housekeeping[PIPLSRC500]*.122)), ivar++);
+    *dout++ = convert(ttag,(UnpackDMT_UShort(inRec.housekeeping[PIPLSRP]*10/4095)), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.oversizeReject), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.DOFRejectCount), ivar++);
+    *dout++ = convert(ttag,UnpackDMT_UShort(inRec.EndRejectCount), ivar++);
     
 
 
-    #ifdef ZERO_BIN_HACK
+#ifdef ZERO_BIN_HACK
     // add a bogus zeroth bin for historical reasons
     *dout++ = 0.0;
-    #endif
+#endif
     for (int iout = 0; iout < _nChannels; ++iout)
 	*dout++ = UnpackDMT_ULong(inRec.binCount[iout]);
 
@@ -253,7 +238,5 @@ bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
 
     results.push_back(outs);
  
-
-
-	return true;
+    return true;
 }
