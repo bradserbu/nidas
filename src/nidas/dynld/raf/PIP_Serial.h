@@ -109,7 +109,6 @@ public:
       DMT_UShort DOFRejectCount;
       DMT_UShort EndRejectCount; 
       DMT_UShort housekeeping[N_PIP_HSKP];
-      char laserPower;
       DMT_UShort ParticleCounter;   
       DMT_UShort SecMili; //Seconds and Milliseconds
       DMT_UShort HourMin; //Hour and minute
