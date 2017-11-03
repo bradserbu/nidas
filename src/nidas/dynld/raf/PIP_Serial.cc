@@ -29,7 +29,6 @@
 #include <nidas/core/Parameter.h>
 #include <nidas/core/Variable.h>
 #include <nidas/util/Logger.h>
-
 using namespace nidas::core;
 using namespace nidas::dynld::raf;
 using namespace std;
@@ -54,7 +53,7 @@ const size_t PIP_Serial::PIPLSRP = 15;
 
 
 PIP_Serial::PIP_Serial(): SppSerial("PIP"),
-    _dofReject(1), _airspeedSource(1)
+    _dofReject(1), _airspeedSource(1), _trueAirSpeed(0.0)
 {
     //
     // Make sure we got compiled with the packet structs packed appropriately.
@@ -80,19 +79,20 @@ PIP_Serial::PIP_Serial(): SppSerial("PIP"),
     // This number should match the housekeeping added in ::process, so that
     // an output sample of the correct size is created.
     //
-    _nHskp = 15;
+    _nHskp = 9;
 
 }
 
+/*---------------------------------------------------------------------------*/
 void PIP_Serial::validate()
     throw(n_u::InvalidParameterException)
 {
     // Need this if fixed record delimiter, to ensure 
     // it doesn't try to check the checksum at packetLen()-2
     // seeing as this has the checksum at packetLen()-4 due to the trailers.
-    if (getMessageSeparator().length() > 0) {
-        _dataType = Delimited;
-    }
+//    if (getMessageSeparator().length() > 0) {
+//        _dataType = Delimited;
+//    }
 
     const Parameter *p;
 
@@ -117,6 +117,7 @@ void PIP_Serial::validate()
     SppSerial::validate();
 }
 
+/*---------------------------------------------------------------------------*/
 void PIP_Serial::sendInitString() throw(n_u::IOException)
 {
     // zero initialize
@@ -131,9 +132,10 @@ void PIP_Serial::sendInitString() throw(n_u::IOException)
     setup_pkt.rc = 0xFF;
 
     //send time to probe.
-    SetAbsoluteTime setTime_pkt = SetAbsoluteTime();
+    /*SetAbsoluteTime setTime_pkt = SetAbsoluteTime();
     setTime_pkt.esc = 0x1b;
     setTime_pkt.id = 0x05;
+    */
     //figure out how to get time, probably should do that right before sending the packet out.
     // gettimeofday() ?
 
@@ -175,8 +177,10 @@ void PIP_Serial::sendInitString() throw(n_u::IOException)
 bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
 	throw()
 {
+cerr<<"PIP process\n";
     if (! appendDataAndFindGood(samp))
         return false;
+
 
     // * Copy the good record into our PIP_blk struct.
     PIP_blk inRec;
@@ -188,7 +192,13 @@ bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
     _nWaitingData -= packetLen();
     ::memmove(_waitingData, _waitingData + packetLen(), _nWaitingData);
 
-   //  * Create the output stuff
+    //check reset flag, if==1, resend init packet
+    //discard current packet?
+cerr<<"reset flag:"<<UnpackDMT_UShort(inRec.resetFlag)<<endl;
+cerr<<"time hourmin:"<<UnpackDMT_UShort(inRec.HourMin)<<endl;
+cerr<<"time secMili:"<<UnpackDMT_UShort(inRec.SecMili)<<endl;
+   
+    //  * Create the output stuff
     SampleT<float>* outs = getSample<float>(_noutValues);
 
     dsm_time_t ttag = samp->getTimeTag();
@@ -196,22 +206,24 @@ bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
     outs->setId(getId() + 1);
 
     float * dout = outs->getDataPtr();
-    float value;
     const float * dend = dout + _noutValues;
     unsigned int ivar = 0;
 
-    *dout++ = convert(ttag,20*(UnpackDMT_UShort(inRec.housekeeping[PIPEDV0]/4095)), ivar++);
-    *dout++ = convert(ttag,20*(UnpackDMT_UShort(inRec.housekeeping[PIPEDV64]/4095)), ivar++);
-    *dout++ = convert(ttag,20*(UnpackDMT_UShort(inRec.housekeeping[PIPEDV32]/4095)), ivar++);
-    *dout++ = convert(ttag,70.786*5*(UnpackDMT_UShort(inRec.housekeeping[PIPQC])/4095), ivar++);
-    *dout++ = convert(ttag,206.88*5*(UnpackDMT_UShort(inRec.housekeeping[PIPPS])/4095), ivar++);
-    *dout++ = convert(ttag,10*(UnpackDMT_UShort(inRec.housekeeping[PIPLWC]/4095)), ivar++);
-    *dout++ = convert(ttag,10*(UnpackDMT_UShort(inRec.housekeeping[PIPLWCSLV]/4095)), ivar++);
-    *dout++ = convert(ttag,(UnpackDMT_UShort(inRec.housekeeping[PIPCBTMP]-599)*20/4095), ivar++);
-    *dout++ = convert(ttag,32.258*10(UnpackDMT_UShort(inRec.housekeeping[PIPRH]/4095)-25.81), ivar++);
-    *dout++ = convert(ttag,((UnpackDMT_UShort(inRec.housekeeping[PIPRT])*100/4095)-50), ivar++);
-    *dout++ = convert(ttag,(UnpackDMT_UShort(inRec.housekeeping[PIPLSRC500]*.122)), ivar++);
-    *dout++ = convert(ttag,(UnpackDMT_UShort(inRec.housekeeping[PIPLSRP]*10/4095)), ivar++);
+    *dout++ = convert(ttag,20.0*(UnpackDMT_UShort(inRec.housekeeping[PIPEDV0])/4095.0), ivar++);
+    *dout++ = convert(ttag,20.0*(UnpackDMT_UShort(inRec.housekeeping[PIPEDV64])/4095.0), ivar++);
+    *dout++ = convert(ttag,20.0*(UnpackDMT_UShort(inRec.housekeeping[PIPEDV32])/4095.0), ivar++);
+
+//    *dout++ = convert(ttag,70.786*5*(UnpackDMT_UShort(inRec.housekeeping[PIPQC])/4095.0), ivar++);
+//    *dout++ = convert(ttag,206.88*5*(UnpackDMT_UShort(inRec.housekeeping[PIPPS])/4095.0), ivar++);
+//    *dout++ = convert(ttag,10.0*(UnpackDMT_UShort(inRec.housekeeping[PIPLWC])/4095.0), ivar++);
+//    *dout++ = convert(ttag,10.0*(UnpackDMT_UShort(inRec.housekeeping[PIPLWCSLV])/4095.0), ivar++);
+
+    *dout++ = convert(ttag,(UnpackDMT_UShort(inRec.housekeeping[PIPCBTMP])-599.0)*20.0/4095.0, ivar++);
+
+ //   *dout++ = convert(ttag,32.258*10*(UnpackDMT_UShort(inRec.housekeeping[PIPRH])/4095.0)-25.81, ivar++);
+ //   *dout++ = convert(ttag,((UnpackDMT_UShort(inRec.housekeeping[PIPRT])*100.0/4095.0)-50), ivar++);
+    *dout++ = convert(ttag,(UnpackDMT_UShort(inRec.housekeeping[PIPLSRC])*.122), ivar++);
+    *dout++ = convert(ttag,(UnpackDMT_UShort(inRec.housekeeping[PIPLSRP])*10.0/4095.0), ivar++);
     *dout++ = convert(ttag,UnpackDMT_UShort(inRec.oversizeReject), ivar++);
     *dout++ = convert(ttag,UnpackDMT_UShort(inRec.DOFRejectCount), ivar++);
     *dout++ = convert(ttag,UnpackDMT_UShort(inRec.EndRejectCount), ivar++);
@@ -223,10 +235,11 @@ bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
     *dout++ = 0.0;
 #endif
     for (int iout = 0; iout < _nChannels; ++iout)
-	*dout++ = UnpackDMT_ULong(inRec.binCount[iout]);
+	*dout++ = UnpackDMT_UShort(inRec.binCount[iout]);
 
     // Compute DELTAT.
     if (_outputDeltaT) {
+cerr<<"deltat compute\n";
         if (_prevTime != 0)
             *dout++ = (ttag - _prevTime) / USECS_PER_SEC;
         else *dout++ = 0.0;
@@ -240,3 +253,138 @@ bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
  
     return true;
 }
+
+/*---------------------------------------------------------------------------*/
+int PIP_Serial::appendDataAndFindGood(const Sample* samp)
+{
+    if ((signed)samp->getDataByteLength() != packetLen())
+        return false;
+
+    /*
+     * Add the sample to our waiting data buffer
+     */
+    assert(_nWaitingData <= packetLen());
+    ::memcpy(_waitingData + _nWaitingData, samp->getConstVoidDataPtr(),
+            packetLen());
+    _nWaitingData += packetLen();
+
+    /*
+     * Hunt in the waiting data until we find a packetLen() sized stretch
+     * where the last two bytes are a good checksum for the rest or match
+     * the expected record delimiter.  Most of the time, we should find it 
+     * on the first pass through the loop.
+     */
+    bool foundRecord = 0;
+    for (int offset = 0; offset <= (_nWaitingData - packetLen()); offset++) {
+        unsigned char *input = _waitingData + offset;
+        DMT_UShort packetCheckSum;
+        ::memcpy(&packetCheckSum, input + packetLen() - 4, 2); //compensate for trailer
+        switch (_dataType)
+        {
+        case Delimited:
+            foundRecord = (UnpackDMT_UShort(packetCheckSum) == _recDelimiter);
+            break;
+        case FixedLength:
+            foundRecord = (computeCheckSum(input + 2, packetLen() - 6) == //compensate for trailer and header
+                    UnpackDMT_UShort(packetCheckSum));
+            break;
+        }
+
+        if (foundRecord)
+        {
+            /*
+             * Drop data so that the good record is at the beginning of
+             * _waitingData
+             */
+            if (offset > 0)     {
+                _nWaitingData -= offset;
+                ::memmove(_waitingData, _waitingData + offset, _nWaitingData);
+
+                _skippedBytes += offset;
+            }
+
+            if (_skippedBytes) {
+                //        cerr << "SppSerial::appendDataAndFind(" << _probeName << ") skipped " <<
+                //              _skippedBytes << " bytes to find a good " << packetLen() << "-byte record.\n";
+                _skippedBytes = 0;
+                _skippedRecordCount++;
+            }
+
+            _totalRecordCount++;
+            return true;
+        }
+    }
+
+    /*
+     * If we didn't find a good record, keep the last packetLen()-1 bytes of
+     * the waiting data and wait for the next blob of input.
+     */
+    int nDrop = _nWaitingData - (packetLen() - 1);
+    _nWaitingData -= nDrop;
+    ::memmove(_waitingData, _waitingData + nDrop, _nWaitingData);
+
+    _skippedBytes += nDrop;
+
+    return false;
+}
+
+/*---------------------------------------------------------------------------*/
+
+// Don't know if these are needed with the derived data notify
+/*void PIP_Serial::open(int flags)
+    throw(n_u::IOException,n_u::InvalidParameterException)
+{
+cerr<<"PIP Open"<<endl;
+    DSMSensor::open(flags);
+//    init_parameters();
+
+    if (DerivedDataReader::getInstance())
+        DerivedDataReader::getInstance()->addClient(this);
+    else
+        n_u::Logger::getInstance()->log(LOG_WARNING,"%s: %s",
+                getName().c_str(),
+                "no DerivedDataReader. <dsm> tag needs a derivedData attribute");
+}
+
+void PIP_Serial::close() throw(n_u::IOException)
+{
+cerr<<"Pip Close"<<endl;
+    if (DerivedDataReader::getInstance())
+            DerivedDataReader::getInstance()->removeClient(this);
+    DSMSensor::close();
+}
+*/
+
+/*---------------------------------------------------------------------------*/
+
+void PIP_Serial::derivedDataNotify(const nidas::core::DerivedDataReader * s) throw()
+{
+cerr<<"inderived data notify"<<endl;
+
+    SendPIP_BLK send_data_pkt;
+    send_data_pkt.esc = 0x1b;
+    send_data_pkt.id = 0x02;
+    PackDMT_UShort(send_data_pkt.hostSyncCounter , 0x0001); //use packDMT_Ushort here, right below and checksum 
+    PackDMT_UShort(send_data_pkt.relayControl,  0x0000);
+    // std::cerr << "atx " << s->getAmbientTemperature() << std::endl;
+    _trueAirSpeed = s->getTrueAirspeed();   // save it to display in printStatus 
+cerr<<"trueairspeed:"<<_trueAirSpeed<<endl;
+    // could have a check to make sure update is necessary: if (!(_trueAirSpeed ==_oldTAS))...    
+    //calculate tas - get resolution out of validate
+    unsigned long n = _trueAirSpeed/(10e-4)*34.415;
+cerr<<"n:"<<n<<endl; 
+   //should also packDMT_ULong here
+    PackDMT_ULong(send_data_pkt.PASCoefficient, n);
+    PackDMT_UShort(send_data_pkt.chksum , computeCheckSum((unsigned char*)&send_data_pkt, 10));
+    string* temp;
+        ::memcpy(temp,&send_data_pkt , 12);
+cerr<<temp<<":temp"<<endl;
+    try {
+        setPromptString(*temp);
+    }
+    catch(const n_u::IOException & e)
+    {
+        n_u::Logger::getInstance()->log(LOG_WARNING, "%s", e.what());
+    }
+}
+

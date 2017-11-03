@@ -28,7 +28,8 @@
 #define NIDAS_DYNLD_RAF_PIP_SERIAL_H
 
 #include "SppSerial.h"
-
+//#include <nidas/core/DSMSensor.h>
+#include <nidas/core/DerivedDataClient.h>
 #include <iostream>
 
 namespace nidas { namespace dynld { namespace raf {
@@ -37,7 +38,7 @@ namespace nidas { namespace dynld { namespace raf {
  * A class for reading PMS1D probes with the DMT interface conversion.
  * RS-422 @ 38400 baud.
  */
-class PIP_Serial : public SppSerial
+class PIP_Serial : public SppSerial, public DerivedDataClient
 {
 public:
 
@@ -57,12 +58,12 @@ public:
   // Packet to initialize probe with.
   struct InitPIP_blk
   {
-    char    esc;                                // ESC 0x1b
-    char    id;                                 // cmd id
+    unsigned char    esc;                                // ESC 0x1b
+    unsigned char    id;                                 // cmd id
     DMT_UShort  airspeedSource;                 // PAS
     DMT_UShort  dofRej;
-    char    pSizeDim;                           // ParticleSizingDimension
-    char    rc;                                 // recovery coefficient
+    unsigned char    pSizeDim;                           // ParticleSizingDimension
+    unsigned char    rc;                                 // recovery coefficient
     DMT_UShort  chksum;                         // cksum
   };
  
@@ -77,8 +78,8 @@ public:
   */
   struct SendPIP_BLK
   {
-    char    esc;                                // ESC 0x1b
-    char    id;                                 // cmd id (2 for this one)
+    unsigned char esc;
+    unsigned char id;                  // ESC 0x1b id =0x02
     DMT_UShort  hostSyncCounter;
     DMT_ULong PASCoefficient;
     DMT_UShort  relayControl;
@@ -88,8 +89,8 @@ public:
   static const int _SendDataPacketSize = 12;
   struct SetAbsoluteTime
   {
-    char esc;
-    char id; //5
+    unsigned char esc;
+    unsigned char id; //5
     DMT_UShort secMili; //seconds and miliseconds
     DMT_UShort hourMin; //set hour and min
     DMT_UShort chksum;
@@ -100,12 +101,11 @@ public:
    */
   struct PIP_blk
   {
-      char header1;
-      char header2;
+      unsigned char header1;
+      unsigned char header2;
       DMT_UShort packetByteCount;
       DMT_UShort oversizeReject;
       DMT_UShort binCount[N_PIP_CHANNELS];
-      //DMT_ULong rejDOF;
       DMT_UShort DOFRejectCount;
       DMT_UShort EndRejectCount; 
       DMT_UShort housekeeping[N_PIP_HSKP];
@@ -115,22 +115,45 @@ public:
       DMT_UShort hostSyncCounter; 
       DMT_UShort resetFlag;
       DMT_UShort chksum;
-      char trailer1;
-      char trailer2;
+      unsigned char trailer1;
+      unsigned char trailer2;
   };
+   
 
+
+
+   /*
+    *  PIP has dynamic TAS
+    */
+    virtual void
+    derivedDataNotify(const nidas::core:: DerivedDataReader * s)
+        throw();
+    /**
+     * open the sensor and perform any intialization to the driver.
+     */
+/*  void open(int flags)
+        throw(nidas::util::IOException,nidas::util::InvalidParameterException);
+
+    void close() throw(nidas::util::IOException);
+*/
 protected:
 
   int packetLen() const {
     return (180);    //use _nChannels if binCount ends up being variable
   }
-
+  
+  int appendDataAndFindGood(const Sample* sample);
+  
   // These are instantiated in .cc, used for indexing into the housekeeping array
   static const size_t PIPEDV0,PIPEDV64,PIPEDV32,PIPQC,PIPPS,PIPLWC,PIPLWCSLV,
 	  PIPCBTMP,PIPRH,PIPRT,PIPLSRC,PIPLSRP,REJOFLOW,REJDOF,REJEND;
 
   unsigned short _dofReject;
   unsigned short _airspeedSource;
+  /**
+    * True air speed, received from IWGADTS feed.
+  */
+  float _trueAirSpeed;
 };
 
 }}}	// namespace nidas namespace dynld raf
