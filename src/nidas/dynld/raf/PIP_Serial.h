@@ -122,38 +122,39 @@ public:
 
 
 
-   /*
-    *  PIP has dynamic TAS
-    */
+    /**
+     *  PIP has dynamic TAS
+     */
     virtual void
     derivedDataNotify(const nidas::core:: DerivedDataReader * s)
         throw();
     /**
      * open the sensor and perform any intialization to the driver.
      */
-/*  void open(int flags)
+    void open(int flags)
         throw(nidas::util::IOException,nidas::util::InvalidParameterException);
 
     void close() throw(nidas::util::IOException);
-*/
+
 protected:
 
-  int packetLen() const {
-    return (180);    //use _nChannels if binCount ends up being variable
-  }
+    int packetLen() const {
+        return (180);    //use _nChannels if binCount ends up being variable
+    }
   
-  int appendDataAndFindGood(const Sample* sample);
+    int appendDataAndFindGood(const Sample* sample);
   
-  // These are instantiated in .cc, used for indexing into the housekeeping array
-  static const size_t PIPEDV0,PIPEDV64,PIPEDV32,PIPQC,PIPPS,PIPLWC,PIPLWCSLV,
-	  PIPCBTMP,PIPRH,PIPRT,PIPLSRC,PIPLSRP,REJOFLOW,REJDOF,REJEND;
+    // These are instantiated in .cc, used for indexing into the housekeeping array
+    static const size_t PIPEDV0,PIPEDV64,PIPEDV32,PIPQC,PIPPS,PIPLWC,PIPLWCSLV,
+            PIPCBTMP,PIPRH,PIPRT,PIPLSRC,PIPLSRP,REJOFLOW,REJDOF,REJEND;
 
-  unsigned short _dofReject;
-  unsigned short _airspeedSource;
-  /**
-    * True air speed, received from IWGADTS feed.
-  */
-  float _trueAirSpeed;
+    unsigned short _dofReject;
+    unsigned short _airspeedSource;
+
+    /**
+     * True air speed, received from IWGADTS feed.
+     */
+    float _trueAirSpeed;
 };
 
 }}}	// namespace nidas namespace dynld raf

@@ -53,7 +53,7 @@ const size_t PIP_Serial::PIPLSRP = 15;
 
 
 PIP_Serial::PIP_Serial(): SppSerial("PIP"),
-    _dofReject(1), _airspeedSource(1), _trueAirSpeed(0.0)
+    _dofReject(1), _airspeedSource(1), _trueAirSpeed(floatNAN)
 {
     //
     // Make sure we got compiled with the packet structs packed appropriately.
@@ -330,12 +330,11 @@ int PIP_Serial::appendDataAndFindGood(const Sample* samp)
 
 /*---------------------------------------------------------------------------*/
 
-// Don't know if these are needed with the derived data notify
-/*void PIP_Serial::open(int flags)
+void PIP_Serial::open(int flags)
     throw(n_u::IOException,n_u::InvalidParameterException)
 {
 cerr<<"PIP Open"<<endl;
-    DSMSensor::open(flags);
+    DSMSerialSensor::open(flags);
 //    init_parameters();
 
     if (DerivedDataReader::getInstance())
@@ -353,13 +352,12 @@ cerr<<"Pip Close"<<endl;
             DerivedDataReader::getInstance()->removeClient(this);
     DSMSensor::close();
 }
-*/
 
 /*---------------------------------------------------------------------------*/
 
 void PIP_Serial::derivedDataNotify(const nidas::core::DerivedDataReader * s) throw()
 {
-cerr<<"inderived data notify"<<endl;
+cerr<<"in derived data notify"<<endl;
 
     SendPIP_BLK send_data_pkt;
     send_data_pkt.esc = 0x1b;
@@ -371,16 +369,18 @@ cerr<<"inderived data notify"<<endl;
 cerr<<"trueairspeed:"<<_trueAirSpeed<<endl;
     // could have a check to make sure update is necessary: if (!(_trueAirSpeed ==_oldTAS))...    
     //calculate tas - get resolution out of validate
-    unsigned long n = _trueAirSpeed/(10e-4)*34.415;
+    unsigned long n = (unsigned long) (_trueAirSpeed / (10e-4) * 34.415);
 cerr<<"n:"<<n<<endl; 
    //should also packDMT_ULong here
     PackDMT_ULong(send_data_pkt.PASCoefficient, n);
     PackDMT_UShort(send_data_pkt.chksum , computeCheckSum((unsigned char*)&send_data_pkt, 10));
-    string* temp;
-        ::memcpy(temp,&send_data_pkt , 12);
-cerr<<temp<<":temp"<<endl;
+    string temp;
+    temp.resize(13);
+    ::memcpy(&temp[0], (const void *)&send_data_pkt , 12);
+    temp[12] = 0;
+
     try {
-        setPromptString(*temp);
+        setPromptString(temp);
     }
     catch(const n_u::IOException & e)
     {
