@@ -1,0 +1,16 @@
+README: sample-bisync-framed
+
+This is a simple example demonstrating use of a 9198 in framed bisync
+mode.  This sample consists of one application: a data loopback.
+NOTE: External clocking must be provided as the 9198 custom hardware does
+not support generation of transmit or receieve clocks.
+
+The first argument for the sample is the SeaMAC serial port desired to perform
+the operations on.  The application can optionally take two more arguments:
+message size and iterations.
+
+$ bif /dev/ttySM0 32 5
+
+The message(s) sent by the application consist of the specified number of data 
+bytes cycling from 2 to 255.  No data checking is performed.
+

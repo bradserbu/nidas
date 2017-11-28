@@ -1,0 +1,49 @@
+# -*- python -*-
+## 2007, Copyright University Corporation for Atmospheric Research
+
+
+##
+##  Import the build environment.
+##
+Import(['env', 'first_mach'])
+mach = env['MACH']
+
+# The Makefile must be listed in the source dependencies
+# so that it is copied/linked to the variant_dir.
+# The Kmake builder runs the make command in variant_dir.
+#
+# Also, the SConscript command that invokes this SConscript
+# file should set duplicate=1, so that all the linux module
+# source files, including the Makefile, are copied to the variant_dir.
+# so that make can find them and do its work outside of the
+# source tree.
+
+if env.has_key("LINUX_MODULES_INST_PATH") and \
+    env.has_key('KERNELDIR') and env['KERNELDIR'] != '':
+
+    revinfo = Dir('./../../include/nidas/linux').File('Revision.h')
+    utilsyms = Dir('./../util_' + mach).File('Module.symvers')
+
+    modules = ['drivers/seamac_core.ko']
+    env.Kmake(modules,['Makefile', revinfo, utilsyms])
+
+    env.Install('$LINUX_MODULES_INST_PATH',modules)
+
+    env.Clean('install',[
+        '$LINUX_MODULES_INST_PATH/' + l for l in modules
+        ])
+
+# Some kernel module header files define symbols that are needed
+# by user code. These must also be installed in $PREFIX/include
+#headers = Split("""
+#    compat.h
+#    debug.h 
+#    ssi9198.h 
+#    z85230.h
+#    seamac.h # this one isn't inthe drivers dir, but in the include dir. 
+#""")
+
+#if first_mach:
+#    env.Install('$PREFIX/include/nidas/linux/seamac/drivers',headers)
+# env.Program('test/twod', 'test/twod.c')
+

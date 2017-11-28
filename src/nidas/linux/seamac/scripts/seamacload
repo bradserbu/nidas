@@ -1,0 +1,181 @@
+#!/bin/sh
+
+# Sample script to load the Seamac and supporting device drivers
+#
+# Set the device options and select which supporting drivers to load
+# by modifying the script variables below.
+
+SCRIPT_ARGS=
+for arg in "$@"; do
+	case "$arg" in
+		*)
+			SCRIPT_ARGS="$SCRIPT_ARGS $arg"
+	esac
+done
+
+
+# All utilities will be looked for in these directories, if you have
+# a nonstandard setup, you may have to add another directory to this list
+PATH=/sbin:/usr/sbin:/bin:/usr/bin
+
+#--------------------------------------------------------------------------
+# This section sets variables specifying arguments to load to the
+# drivers as they are loaded
+#--------------------------------------------------------------------------
+
+# set this variable to "Y" to load the SDLC line discipline driver (n_hdlc.o)
+#
+# Use this if you are doing custom SDLC applications *or* want
+# to run the setseamac diagnostics program.
+
+LOAD_N_HDLC="Y"
+
+
+# n_hdlc driver options (see README.TXT for details)
+#
+# Debug levels other than 0 (disabled) should only be used for diagnosing
+# problems because the debugging output will fill the system log and
+# degrade performance.
+
+N_HDLC_DEBUG_LEVEL="0"
+N_HDLC_MAX_FRAME_SIZE="4096"
+
+
+#--------------------------------------------------------------------------
+# This section builds command line args for the drivers, based on the
+# above configuration items
+#--------------------------------------------------------------------------
+
+# n_hdlc module options
+
+N_HDLC_OPTIONS=""
+if [ $N_HDLC_DEBUG_LEVEL ] ; then
+    N_HDLC_OPTIONS="${N_HDLC_OPTIONS} debuglevel=${N_HDLC_DEBUG_LEVEL}"
+fi
+if [ $N_HDLC_MAX_FRAME_SIZE ] ; then
+    N_HDLC_OPTIONS="${N_HDLC_OPTIONS} maxframe=${N_HDLC_MAX_FRAME_SIZE}"
+fi
+
+# This script has the ability to take parameters from a conf file located in etc
+SEAMAC_OPTIONS=""
+if [ -f /etc/seamac.conf ] ; then
+    . /etc/seamac.conf
+    SEAMAC_OPTIONS="$SCRIPT_ARGS $SEAMAC_OPTIONS"
+fi
+
+#--------------------------------------------------------------------------
+# common routine to load the specified adapter
+# driver and create the device nodes required
+#
+# Args: name prefix [adapters] [ports] [group] [mode]
+#
+# where:
+#	prefix		device name prefix (required)
+#	adapters	number of adapters (optional)
+#				default=4
+#	group		group owner for device nodes (optional)
+#				default=root
+#	mode		access permissions for device nodes (optional)
+#				default=666 (rw for all)
+#
+#--------------------------------------------------------------------------
+load_and_mknode() {
+    DRIVER=seamac
+    DEVICE_PREFIX=$1
+    NUM_ADAPTERS=$2
+    DEVICE_GROUP=$3
+    DEVICE_MODE=$4
+
+    #
+    # set defaults if arguments were not specified
+    #
+    if [ -z $DEVICE_PREFIX ]; then
+        DEVICE_PREFIX=ttySM
+    fi
+    if [ -z $NUM_ADAPTERS ]; then
+        NUM_ADAPTERS=4
+    fi
+    if [ -z $DEVICE_GROUP ]; then
+        DEVICE_GROUP=root
+    fi
+    if [ -z $DEVICE_MODE ]; then
+        DEVICE_MODE=666
+    fi
+      
+    #
+    # load the driver module
+    #
+    if ! lsmod | grep -i "$DRIVER" > /dev/null ; then
+        modprobe $DRIVER $SEAMACA_OPTIONS || {
+    	    echo "Can't load $DRIVER driver."
+	    return 1
+        }
+    fi
+
+    #
+    # Create a list of device names for our adapters
+    #
+    DEVNAMES=
+    adapter=0;
+    while [ $adapter -lt $NUM_ADAPTERS ] ; do
+        DEVNAMES="${DEVNAMES} /dev/${DEVICE_PREFIX}${adapter}"
+        adapter=$((adapter+1))
+    done
+
+    # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    # udev now handles creation of device special files automagically.        !
+    # if udev is not available to you, this is how you would make the device  !
+    # special files using the old coreutils package                           !
+    # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+    # Create device special files using the dynamically
+    # assigned device major number. Device minor numbers
+    # start at 0. Remove any existing device nodes
+    # and create new ones based on the drivers assigned
+    # major value.
+    # 
+#    echo "Removing existing device nodes ..."   
+#    rm -f ${DEVNAMES}
+       
+#    echo "Creating new device nodes ..."
+
+#    ttymajor=`cat /proc/devices | awk "\\$2==\"$DEVICE_PREFIX\" {print \\$1}"`
+#    ttyminor=0
+
+#    for device in ${DEVNAMES} ; do 
+#        mknod ${device} c $ttymajor $ttyminor
+#        ttyminor=$(($ttyminor + 1))
+#    done
+
+    # give appropriate group/permissions
+#    chgrp ${DEVICE_GROUP} ${DEVNAMES}
+#    chmod ${DEVICE_MODE}  ${DEVNAMES}
+}
+
+
+
+
+#--------------------------------------------------------------------------
+# load configured optional drivers
+#--------------------------------------------------------------------------
+
+if [ $LOAD_N_HDLC = "Y" ] ; then
+    if ! lsmod | grep -i "n_hdlc" > /dev/null ; then
+	modprobe n_hdlc $N_HDLC_OPTIONS || {
+	    echo "Can't load n_hdlc driver."
+	    exit 1
+	}
+    fi
+fi
+
+load_and_mknode
+#load_and_mknode ttySM 4 root 666
+#load_and_mknode ttySM 2
+#...
+
+exit 0;
+
+
+
+
+

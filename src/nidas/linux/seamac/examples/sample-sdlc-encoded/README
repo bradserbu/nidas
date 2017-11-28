@@ -1,0 +1,21 @@
+README: sample-sdlc-encoded
+
+This is a simple example demonstrating use of a SeaMAC device in SDLC
+mode.  This sample consists of two applications: a sender and a receiver.  The
+applications expect to be given the device ids of two SeaMAC serial ports
+connected together by a null modem.  The sender's TELEMENT clock signal does not
+need to be routed to the receive's port because the clock will be encoded in
+the data line.
+
+The receive application should be started before the send application.  The
+first argument for each sample is the SeaMAC serial port desired to preform
+the operations on.  The send application can optionally take one more argument:
+message size.
+
+$ receive-sdlc /dev/ttySM1
+$ send-sdlc /dev/ttySM0 8
+
+All received data is captured to the file "data" in the directory from which
+the receive application is run.  The message(s) sent by the send application
+consist of the specified number of data bytes cycling from 0 to 255.
+
