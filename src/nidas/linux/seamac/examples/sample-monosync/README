@@ -1,0 +1,34 @@
+README: sample-monosync
+
+This is a simple example demonstrating use of a SeaMAC device in Monosynchronous
+mode.  This sample consists of two applications: a sender and a receiver.  The
+applications expect to be given the device ids of two SeaMAC serial ports
+connected together by a null modem.  The sending port must also have its 
+TELEMENT clock routed to the TXCLK and RXCLK pins of the receiver.
+
+The receive application should be started before the send application.  The
+first argument for each sample is the SeaMAC serial port desired to preform
+the operations on.  The send application can optionally take two more arguments:
+message size and number of iterations.
+
+$ receive-mono /dev/ttySM1
+$ send-mono /dev/ttySM0 8 5
+
+Received messages following a simple protocol are captured to the file "data" 
+in the directory from which the receive application is run.  The message(s) 
+sent by the send application consist of the specified number of data bytes 
+cycling through all printable ASCII characters.
+
+In order to ensure continued device synchronization, a simple message protocol
+is used in this sample application.  When the receive port is first opened,
+the receiver is in an idle state and does not assemble any characters.  When
+the specified sync flag is detected in the incoming data stream, the receiver
+begins to assemble characters and return them to the user.  This incoming data
+includes sync characters.  To determine when a valid message is received, the
+receive application searches incoming data for the STX (0x02) character.  All
+data received after this character is considered a valid message.  When the ETX
+character (0x03) is detected, the receive application uses the SEAMAC_IOCTL_HUNT
+ioctl to reestablish synchronization for the next message.
+
+Note:  Because this application uses the standard N_TTY line discipline received
+data will be returned to the user in chunks. 

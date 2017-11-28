@@ -1,0 +1,373 @@
+                 ***********************************
+                 *** Seamac Adapters for Linux ***
+                 ***********************************
+
+Contents
+--------
+Overview
+Custom Applications
+Software Map
+License
+Building the Drivers
+Building the Utilities and Samples
+Loading and Unloading Drivers
+HDLC Line Discipline
+setseamac Configuration and Diagnostics Utility
+Customer And Technical Support
+Internet/Email Support
+Warnings/Errata
+Trademark And Copyright
+Using RedHat Kernel Source
+
+
+More information is available in the following files:
+
+dox/API                   How to write custom serial programs.
+utilities/setseamac.1     Man page describing the usage of the setseamac util.
+
+****************
+*** Overview ***
+****************
+
+Seamac is a family of multiprotocol serial adapters for computers
+with PCI, PCI-Express, ISA, and PCMCIA expansion slots.
+
+Seamac
+-------------------------
+* synchronous speeds up to 1Mbps
+* bit synchronous SDLC
+* asynchronous (max speed 115200bps)
+* byte synchronous Bisync and Monosync
+* software selectable RS-232, RS-485, V.35, RS-422(RS-530/RS-530A)
+
+Software support for Linux includes custom serial applications.  The supporting
+software is intended to be independent of a particular Linux distribution,
+but may require some modification for specific distributions.
+
+
+***************************
+*** Custom Applications ***
+***************************
+
+User applications can completely control the adapter to implement
+any serial communications such as SNA, X.25, instrument monitoring
+and control, or other custom applications. Standard Unix system calls
+and the tty/termios programming interface offers a familiar and
+documented method for application contol.
+
+For more details, refer to the API document in this package.
+
+
+********************
+*** Software Map ***
+********************
+
+* Device Drivers
+    - seamac.c            Seamac Multiprotocol Synchronous Serial Driver
+    - seamac.h            common header file for all drivers and applications
+* configuration/diagnostics utility (setseamac.c)
+* sample applications
+    - sample-async        asynchronous application
+    - sample-bisync       bisynchronous application
+    - sample-external     external synchronous application
+    - sample-monosync     monosynchronous application
+    - sample-sdlc         bit synchronous SDLC application
+    - sample-sdlc-encoded bit synchronous SDLC with encoded clock
+* sample shell scripts
+    - seamacload          load the device driver and line discipline
+    - seamacunload        unload the device driver and line discipline
+
+
+***************
+*** License ***
+***************
+Seamac driver source code is released under the GNU General Public License v2
+(GPL v2 -- see COPYING in the dox directory).
+
+Seamac sample and utility source code, scripts, and API are released under the 
+Lesser GNU General Public License v3 (LGPL v3 -- see COPYING.lesser in the dox 
+directory) unless otherwise explicitly specified.
+
+
+****************************
+*** Building the Drivers ***
+****************************
+
+Building the drivers requires the Linux kernel source.
+The kernel source may be provided with your Linux distribution
+or can be obtained from ftp.kernel.org.
+
+Driver source is located in the driver subdirectory of this package.
+
+Kernel Versions
+---------------
+
+Drivers in this package work with the latest 2.6 series kernels available from
+ftp.kernel.org.  This package has been primarily tested with kernel versions
+2.6.36 through 3.13.0 and may require modification to work properly on earlier 
+and later versions.  These drivers may not be compatible with the kernel source
+included with some distributions or with earlier generic kernel versions.
+
+
+Building Drivers in this Package
+--------------------------------
+
+This driver package assumes the kernel source can be located via a symlink
+/lib/modules/(KERNEL_VERSION)/build. You may change the symlink to point to
+your kernel source, pass the KDIR variable to the Makefile
+(`make KDIR=/linux`), or modify the Makefiles and scripts in 
+this package to use a different directory.
+
+The kernel source must have an existing configuration, located
+in the file KDIR/.config and must have build dependencies
+located in files named .depend located throughout the kernel source.
+If the configuration file is missing, a configuration can be
+generated using the 'make menuconfig' command in the kernel
+source directory. The dependency files are created, after generating
+a configuration file, using the 'make dep' command in the kernel
+source directory (ONLY NECESSARY ON 2.4 SERIES KERNELS). Refer to 
+the kernel documentation for more details.
+
+In the Seamac distribution directory use the following commands:
+
+# make
+
+*Build everything in the package.
+
+*Build drivers for use with kernel located in /lib/modules/(KERNEL)/build.
+
+*Built drivers are located in the driver subdirectory.
+
+*Build example applications and configuration utilities.
+
+*All examples are in the examples subdirectory.
+
+# make install
+
+*Copy built drivers to lib/modules/x.y.z directory and
+run depmod to calculate module dependencies.
+
+*Configuration utilities and load/unload scripts are copied to the
+directory specified by the APPSDIR variable (default /usr/bin).
+
+*Application header file is installed to the directory specified by 
+the INCLUDEDIR variable (default /usr/local/include).
+
+*Example applications and scripts are NOT copied to the system, but 
+remain in the package distribution.
+
+*After installation, the drivers are ready for use.
+
+
+**************************************
+*** Building Utilities and Samples ***
+**************************************
+
+The utility and sample programs are built in the Seamac
+distribution directory by typing the command:
+
+   #make
+
+The package builds the drivers and utilities at the same time.
+See previous section.
+
+
+****************************************
+*** Loading and Unloading the Driver ***
+****************************************
+
+The driver is built as a module and must be loaded before use.
+The sample scripts seamacload and seamacunload demonstrate the steps necessary
+to load and unload the drivers as described below.
+
+The seamacload script file can take optional command line arguments:
+    prefix		device name prefix (optional)
+                        default=ttySM
+    adapters		number of adapters (optional)
+			default=4
+    group		group owner for device nodes (optional)
+			default=root
+    mode		access permissions for device nodes (optional)
+			default=666 (rw for all)
+
+
+The seamacunload script removes inactive seamac drivers.
+
+The device driver is loaded and unloaded using the standard module
+utilities modprobe (load module and dependent modules), insmod (insert
+module) and rmmod (remove module). Refer to the man pages for these
+utilities for more information.
+
+* Device major and minor numbers
+
+   Linux internally identifies devices by the device major and minor
+   numbers. The major number identifies a driver. The minor number identifies
+   a device instance. By default, the Seamac major number is set to 240
+   when the driver is loaded. Seamac device minor numbers start at 0.
+
+   After loading the Seamac driver, the device major number can be
+   determined with the command: cat /proc/devices. The Seamac devices
+   will be listed under the 'Character devices' section as ttySM.
+
+   A device name, such as /dev/ttySM0 is mapped to a device major and minor 
+   numbers using the udev system.  The udev system dynamically creates/deletes 
+   device special files on module load/unload.
+
+   If the udev subsystem is unavailable to you, you may use mknod to manually
+   create device special files.  This can be done with the 'seamacload' shell
+   script. This script queries the system for the device numbers and calls
+   mknod to create the device files.
+
+* Unloading the device driver
+
+   When no applications are using the Seamac device driver, the driver
+   may be unloaded with the following command:
+
+      rmmod seamac
+       or
+      modprobe -r seamac
+
+   If the driver is still in use when rmmod is executed, then a message is
+   displayed indicating that the device is busy, and the driver remains
+   loaded.
+
+* Interrupt Sharing
+
+   The Seamac adapters can share interrupts with other devices. The
+   Seamac device driver has been tested in a shared interrupt
+   configuration. Drivers for some devices may not be 'well behaved' and
+   may cause problems when sharing interrupts. If you encounter problems
+   when sharing interrupts, try changing BIOS settings to assign a
+   separate interrupt to the Seamac adapter. If the BIOS does not
+   support interrupt assignment, test the Seamac adapter with other
+   devices removed or disabled.
+
+
+****************************
+*** HDLC Line Discipline ***
+****************************
+
+source file : KDIR/drivers/char/n_hdlc.c
+binary file : n_hdlc.ko
+
+The HDLC line discipline is a driver that provides a frame oriented
+personality for tty drivers.  This driver is not included in this package, but
+is in kernel source in KDIR/drivers/char.  Most distributions already have the
+n_hdlc driver built and installed.  If the n_hdlc driver is not part of your
+default kernel modules, you must install it.  Consult your distribution
+documentation for help installing kernel modules.
+
+* Each write() call is one frame/block of data.
+  The entire frame is accepted or refused (busy).
+
+* Each read() call returns a frame/block of data.
+
+* Data is not altered by the line discipline,
+  regardless of the termios settings
+
+When line discipline is queried for the amount of receive data available,
+0 is returned if no data available, otherwise the count of the next
+available frame is returned (instead of the sum of all received frame
+counts).
+
+The HDLC line discipline driver is loaded and unloaded using the insmod
+and rmmod utilities as described in the device driver section above.
+
+
+*******************************************************
+*** setseamac Configuration and Diagnostics Utility ***
+*******************************************************
+
+source : setseamac.c
+binary : setseamac
+
+This utility allows the user to set the serial options,
+and can be called from shell scripts.
+
+Mimics behavior of setserial to display port configuration information.
+
+This utility also allows for simple loopback tests to be performed on a specific
+port.  Alternatively the port can be tested in slave mode, where it listens
+for incoming frames of data and echoes anything it receives.
+
+Run the app with --help or check the man page setseamac.1
+
+
+**************************************
+*** Customer And Technical Support ***
+**************************************
+
+For support relating to the Sealevel products, contact Sealevel at
+(864)843-4343 M-F during normal business hours.
+
+
+******************************
+*** Internet/Email Support ***
+******************************
+
+Sealevel support personnel may be reached via the Internet by writing
+support@sealevel.com.  Also visit the Sealevel web site (www.sealevel.com)
+for information.
+
+
+*******************************
+*** Trademark And Copyright ***
+*******************************
+
+Sealevel and Seamac are registered trademarks of Sealevel Systems Incorporated.
+All other trademarks and registered trademarks belong to respective owners.
+
+
+***********************
+*** Warnings/Errata ***
+***********************
+
+This release is still in active development and may contain bugs.  If you are
+having problems, please let us know at support@sealevel.com.  Please be as
+descriptive as possible, including console output/error messages if applicable.
+
+As this is a development release, not all of the features of the SPARAMS
+ioctl are currently available.  An effort has been made to make the API document
+follow the status of the driver as closely as possible and should describe only
+the features that are currently available.
+
+
+**********************************
+*** Using RedHat Kernel Source ***
+**********************************
+
+The kernel source installed with a RedHat distribution
+requires preparation before being used to build the
+SeaMAC drivers. In the following steps, the term
+'target kernel' refers to the kernel that will be
+used with the drivers.
+
+1. Change to the directory containing the kernel source.
+
+2. Type the command 'make mrproper'
+
+3. Copy the appropriate config file in the configs subdirectory
+   to a file named '.config' in the base kernel source directory.
+   The source configuration file should match that of
+   the target kernel.
+
+4. Edit the Makefile in the base kernel source directory.
+   Change the EXTRAVERSION value at the top of the file
+   to match the EXTRAVERSION of the target kernel.
+   If the EXTRAVERSION does not match the target kernel, then
+   drivers built based on the incorrect EXTRAVERSION will not load.
+
+5. Type the command 'make menuconfig'
+   After the kernel configuration starts, select 'Exit' and
+   reply 'Yes' when asked to save the configuration.
+   This step creates necessary files based on the .config file.
+
+6. Type the command 'make dep' (only for kernel versions 2.4 and earlier)
+
+The preparation necessary for using the RedHat supplied
+kernel source may change without notice. This is beyond
+the control of Sealevel Systems. If the steps listed
+above do not work, consult the RedHat documentation and
+support facilities for information on how to compile
+and use RedHat supplied kernel source.
+
