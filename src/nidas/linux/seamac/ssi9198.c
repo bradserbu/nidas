@@ -353,8 +353,13 @@ static unsigned int ssi9198_modem_status(struct ssi9198_port *sp, u32 status)
 		port->icount.dcd++;
 		DBGISR(" dcd IRQ toggle count = %i\n", port->icount.dcd);
 	}
-
-	wake_up_interruptible(&port->state->port.delta_msr_wait);
+        // for kernel 2.6.36+
+	//wake_up_interruptible(&port->state->port.delta_msr_wait);
+	// for kernel 2.6.21-
+	// first port here is causing issues:
+	// uart_port 'structure has no member named'port''
+	// though ssi9198_port does.
+        wake_up_interruptible(&port->info->delta_msr_wait);
 
 	DBGISR("end %s\n", __FUNCTION__);
 	return IRQ_HANDLED;

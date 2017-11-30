@@ -1,0 +1,2 @@
+#!/bin/bash
+for i in `lsmod | awk '{print $1}'`; do echo "$i: "; modinfo $i | grep parm; done

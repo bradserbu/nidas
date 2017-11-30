@@ -18,32 +18,34 @@ mach = env['MACH']
 # so that make can find them and do its work outside of the
 # source tree.
 
-if env.has_key("LINUX_MODULES_INST_PATH") and \
-    env.has_key('KERNELDIR') and env['KERNELDIR'] != '':
-
-    revinfo = Dir('./../../include/nidas/linux').File('Revision.h')
-    utilsyms = Dir('./../util_' + mach).File('Module.symvers')
-
-    modules = ['drivers/seamac_core.ko']
-    env.Kmake(modules,['Makefile', revinfo, utilsyms])
-
-    env.Install('$LINUX_MODULES_INST_PATH',modules)
-
-    env.Clean('install',[
-        '$LINUX_MODULES_INST_PATH/' + l for l in modules
-        ])
+if env=='vulcan':
+    if env.has_key("LINUX_MODULES_INST_PATH") and \
+        env.has_key('KERNELDIR') and env['KERNELDIR'] != '':
+    
+        revinfo = Dir('./../../include/nidas/linux').File('Revision.h')
+        utilsyms = Dir('./../util_' + mach).File('Module.symvers')
+    
+        modules = ['seamac.ko']
+        env.Kmake(modules,['ssi9198.h', 'compat.h', 'debug.h', 'seamac.h', 'z85230.c', 'seamac_core.c', 'z85230.h','setseamac.c', 'ssi9198.c', 'Makefile', revinfo, utilsyms])
+    
+        env.Install('$LINUX_MODULES_INST_PATH',modules)
+    
+        env.Clean('install',[
+            '$LINUX_MODULES_INST_PATH/' + l for l in modules
+            ])
 
 # Some kernel module header files define symbols that are needed
 # by user code. These must also be installed in $PREFIX/include
-#headers = Split("""
-#    compat.h
-#    debug.h 
-#    ssi9198.h 
-#    z85230.h
-#    seamac.h # this one isn't inthe drivers dir, but in the include dir. 
-#""")
+headers = Split("""
+    compat.h
+    debug.h 
+    ssi9198.h 
+    z85230.h
+    seamac.h
+""")
 
-#if first_mach:
-#    env.Install('$PREFIX/include/nidas/linux/seamac/drivers',headers)
+if env=='vulcan':
+    if first_mach:
+        env.Install('$PREFIX/include/nidas/linux/seamac/drivers',headers)
 # env.Program('test/twod', 'test/twod.c')
 
