@@ -1,0 +1,9 @@
+README: sample-security-key
+
+This is a simple example demonstrating use of a SeaMAC device driver to
+retrieve the factory programmed per-port security key.  The security key
+can be used by as an authentication method to validate system hardware.
+Custom security key values may be requested when ordering from Sealevel
+Systems, Inc.
+
+$ list-key /dev/ttySM1
