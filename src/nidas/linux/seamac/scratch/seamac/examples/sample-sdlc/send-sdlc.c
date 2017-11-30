@@ -44,39 +44,43 @@ int main(int argc, char* argv[])
 		devname = argv[1];
 	if (argc > 2)
 		size = atoi(argv[2]);
-
-	printf("sending %u byte SDLC frames on %s\n", size, devname);
-
+	printf("test: sending %u byte SDLC frames on %s\n", size, devname);
+printf("test\n");
 	buf = malloc(size);
+printf("there's a buffer\n");
 	if (!buf) {
 		printf("can't allocate buffer\n");
 		return ENOMEM;
 	}
-
+printf("allocated buffer\n");
 	fd = open(devname, O_RDWR, 0);
+printf("after open\n");
 	if (fd < 0) {
 		printf("open on device %s failed with err=%d %s\n",
 			devname, errno, strerror(errno));
 		return fd;
 	}
-
+printf("beforehdlc\n");
 	// set N_HDLC line discipline (used for SDLC mode)
 	rc = ioctl(fd, TIOCSETD, &hdlc_disc);
+printf("hdlc worked\n");
 	if(rc < 0) {
 		printf("ERROR, can't set line discipline error=%d %s\n",
 		       errno, strerror(errno));
 		return rc;
 	}
+printf("set n_hdlc\n");
 
 	// get current device parameters
 	rc = ioctl(fd, SEAMAC_IOCTL_GPARAMS, &params);
+printf("got current device parapms\n");
 	if (rc < 0) {
 		printf("ioctl(SEAMAC_IOCTL_GPARAMS) on device %s"
 		       " failed with err=%d %s\n",
 		       devname, errno, strerror(errno));
 		return rc;
 	}
-
+printf("before params\n");
 	// modify device parameters 
 	params.mode = SEAMAC_MODE_SDLC;
 	params.rate = 1000;    // 1kbps
@@ -100,32 +104,35 @@ int main(int argc, char* argv[])
 	// If the device has software selectable interface, this will set it
 	params.interface = SEAMAC_IF_232;
 
+printf("after params\n");
 
 	// set current device parameters
 	rc = ioctl(fd, SEAMAC_IOCTL_SPARAMS, &params);
+printf("back from ioctl\n");
 	if (rc < 0) {
 		printf("ioctl(SEAMAC_IOCTL_SPARAMS) on device %s"
 		       " failed with err=%d %s\n",
 		       devname, errno, strerror(errno));
 		return rc;
 	}
-
+printf("1\n");
 	// initialize send buffer
 	for (i = 0; i < size; i++)
 		buf[i] = (unsigned char) i;
 
+printf("2\n");
 	rc = write(fd, buf, size);
 	if (rc < 0) {
 		printf("write error=%d %s\n",
 		       errno, strerror(errno));
 		return rc;
 	}
+printf("done write\n");
 
 	// This is especially important when transmitting back-to-back
 	// frames.  If you do not allow enough time to pass between frames,
 	// they can be concatenated into a single frame.
 	rc = tcdrain(fd);
-
 	printf("all data sent rc=%d\n", rc);
 
 	return 0;

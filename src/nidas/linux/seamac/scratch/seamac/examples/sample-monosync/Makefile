@@ -4,7 +4,7 @@
 INCLUDE ?= $(shell pwd)/../../include
 HEADER = $(INCLUDE)/seamac.h
 
-CC ?=      /usr/bin/gcc
+CC =    armbe-linux-gcc
 RM ?=      /bin/rm
 
 

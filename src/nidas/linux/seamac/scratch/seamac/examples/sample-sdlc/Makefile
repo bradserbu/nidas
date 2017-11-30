@@ -4,7 +4,8 @@
 INCLUDE ?= $(shell pwd)/../../include
 HEADER = $(INCLUDE)/seamac.h
 
-CC ?=      /usr/bin/gcc
+#CC ?=      /usr/bin/gcc
+CC =    armbe-linux-gcc
 RM ?=      /bin/rm
 
 
@@ -31,7 +32,7 @@ $(HEADER):
 
 $(OBJS): %.o: %.c $(HEADER)
 	@echo "     Compiling $(MODEL) source: $*.o"
-	@$(CC) $(CFLAGS) -c $< -o $@
+	$(CC) $(CFLAGS) -c $< -o $@
 
 $(APPS): %: %.o
 	@echo "     Linking $^"
