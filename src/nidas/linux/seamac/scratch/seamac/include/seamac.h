@@ -266,6 +266,42 @@ static const struct seamac_params seamac_defaults = {
 	.pretxdelay = 0,
 	.posttxdelay = 0,
 };
+// these 'defaut' to make the sdlc/hdlc driver work
+/*
+static const struct seamac_params seamac_defaults = {
+        .mode = SEAMAC_MODE_SDLC,
+        .interface = SEAMAC_IF_422, //SEAMAC_IF_HWSELECT?
+        .rate = 4000000,
+        .stopbits = SEAMAC_STOP_1,
+        .parity = SEAMAC_PARITY_NONE,
+        .txbits = SEAMAC_BITS_8,
+        .rxbits = SEAMAC_BITS_8,
+        .loopback = 0x00,
+        .encoding = SEAMAC_ENCODE_NRZ,
+        .txclk = SEAMAC_CLK_RXCLK,
+        .rxclk = SEAMAC_CLK_RXCLK,
+        .rxclktype = SEAMAC_RXCLK_TTL,
+        .telement = SEAMAC_TELEMENT_DPLL,
+        .parity = SEAMAC_PARITY_NONE;
+        .txbits = SEAMAC_BITS_8;
+        .rxbits = SEAMAC_BITS_8;
+        .syncflag = 0x7FFE, //example has 0xffff
+        .sixbitflag = 0x00,
+        .addrfilter = 0xFF,
+        .addrrange = 0x00,
+        .crctype = SEAMAC_CRC_CCITT,
+        .crcpreset = SEAMAC_CRC_PRESET1,
+        .idlemode = SEAMAC_IDLE_FLAG,
+        .idlepattern = 0x0000,
+        .underrun = SEAMAC_UNDERRUN_ABORT, //example says FLAG not ABORT, but we've been trying flag so ...
+        .handshaking = SEAMAC_HANDSHAKE_NONE,
+        .rtscontrol = SEAMAC_RTSCONTROL_DISABLE,
+        .pretxdelay = 0,
+        .posttxdelay = 0,
+	.baseclk = 20000000
+	.baseclk = 20000000,
+};
+*/
 
 #endif
 

@@ -29,6 +29,7 @@
 #include <nidas/core/Parameter.h>
 #include <nidas/core/Variable.h>
 #include <nidas/util/Logger.h>
+#include <sys/time.h>
 using namespace nidas::core;
 using namespace nidas::dynld::raf;
 using namespace std;
@@ -117,6 +118,36 @@ void PIP_Serial::validate()
     SppSerial::validate();
 }
 
+void PIP_Serial::sendTimePacket() throw(n_u::IOException)
+{
+    //send time to probe.
+    SetAbsoluteTime setTime_pkt = SetAbsoluteTime();
+    setTime_pkt.esc = 0x1b;
+    setTime_pkt.id = 0x05;
+
+    //is recomended that gettimeofday be replaced with clock_gettime for better accuracy
+    //however, clock_gettime doesn't exist for our version of armbe so keep it
+    //gettimeofday to not break the build.
+    struct timeval tv;
+    if( gettimeofday( &tv,NULL) != -1 ) {
+        //extranious chars here are to deal with overflows
+        char h = (char)tv.tv_sec/3600;
+        setTime_pkt.hour=h; 
+        char m = tv.tv_sec/60;
+        setTime_pkt.hour=m; 
+        char s = tv.tv_sec;
+        setTime_pkt.hour=s; 
+        char mili = (char)tv.tv_usec/1000;
+        setTime_pkt.hour=mili; 
+    } 
+     //time packet should have a size of 8, including checksum
+     PackDMT_UShort(setTime_pkt.chksum,
+                   computeCheckSum((unsigned char*)&setTime_pkt,
+                                   _setTimePacketSize - 2));
+  sendInitPacketAndCheckAck(&setTime_pkt, _setTimePacketSize ,4);
+
+}
+
 /*---------------------------------------------------------------------------*/
 void PIP_Serial::sendInitString() throw(n_u::IOException)
 {
@@ -131,26 +162,6 @@ void PIP_Serial::sendInitString() throw(n_u::IOException)
     setup_pkt.pSizeDim = 0x01;
     setup_pkt.rc = 0xFF;
 
-    //send time to probe.
-    /*SetAbsoluteTime setTime_pkt = SetAbsoluteTime();
-    setTime_pkt.esc = 0x1b;
-    setTime_pkt.id = 0x05;
-    */
-    //figure out how to get time, probably should do that right before sending the packet out.
-    // gettimeofday() ?
-
-/* 
-    //send data setup
-    //currently just going to set this to a constant, not actually calculate airspeed 
-    sendData_pkt.esc = 0x1b;
-    sendData_pkt.id = 0x02;
-    //DMT_UShort  hostSyncCounter;//0x01
-    //DMT_ULong PASCoefficient; //??? 0x02df2e0c for 25 um, 35 m/s pas.
-    //DMT_UShort  relayControl; //0x00
-*/
-
-
-
     // exclude chksum from the computation
     PackDMT_UShort(setup_pkt.chksum,
 		   computeCheckSum((unsigned char*)&setup_pkt,
@@ -159,9 +170,8 @@ void PIP_Serial::sendInitString() throw(n_u::IOException)
     // Expect 4 byte ack from PIP, instead of normal 2 for other probes.
     sendInitPacketAndCheckAck(&setup_pkt, _InitPacketSize, 4);
 
-    //set time
-    
-    //send setTime packet
+    sendTimePacket();
+
     
     //may need lock on xml or something to prevent half formed pas
     //can I just modify the 4 relevant bytes?
@@ -177,28 +187,32 @@ void PIP_Serial::sendInitString() throw(n_u::IOException)
 bool PIP_Serial::process(const Sample* samp,list<const Sample*>& results)
 	throw()
 {
-cerr<<"PIP process\n";
     if (! appendDataAndFindGood(samp))
         return false;
 
 
-    // * Copy the good record into our PIP_blk struct.
+    // Copy the good record into our PIP_blk struct.
     PIP_blk inRec;
 
     ::memcpy(&inRec, _waitingData, packetLen() - 2);
     ::memcpy(&inRec.chksum, _waitingData + packetLen() - 4, 2);
 
-    // * Shift the remaining data in _waitingData to the head of the line
+    // Shift the remaining data in _waitingData to the head of the line
     _nWaitingData -= packetLen();
     ::memmove(_waitingData, _waitingData + packetLen(), _nWaitingData);
 
-    //check reset flag, if==1, resend init packet
-    //discard current packet?
-cerr<<"reset flag:"<<UnpackDMT_UShort(inRec.resetFlag)<<endl;
-cerr<<"time hourmin:"<<UnpackDMT_UShort(inRec.HourMin)<<endl;
-cerr<<"time secMili:"<<UnpackDMT_UShort(inRec.SecMili)<<endl;
+    // check reset flag, if==1, resend init packet
+    if (!(inRec.resetFlag==0)){
+      sendInitString();
+      // discard current packet?
+    }
+#ifdef DEBUG
+    cerr<<"reset flag:"<<UnpackDMT_UShort(inRec.resetFlag)<<endl;
+    cerr<<"time hour:min "<<inRec.hour<<":"<<inRec.min<<endl;
+    cerr<<"time :"<<UnpackDMT_UShort(inRec.SecMili)<<endl;
+#endif
    
-    //  * Create the output stuff
+    // Create the output stuff
     SampleT<float>* outs = getSample<float>(_noutValues);
 
     dsm_time_t ttag = samp->getTimeTag();
@@ -239,7 +253,6 @@ cerr<<"time secMili:"<<UnpackDMT_UShort(inRec.SecMili)<<endl;
 
     // Compute DELTAT.
     if (_outputDeltaT) {
-cerr<<"deltat compute\n";
         if (_prevTime != 0)
             *dout++ = (ttag - _prevTime) / USECS_PER_SEC;
         else *dout++ = 0.0;
@@ -304,8 +317,8 @@ int PIP_Serial::appendDataAndFindGood(const Sample* samp)
             }
 
             if (_skippedBytes) {
-                //        cerr << "SppSerial::appendDataAndFind(" << _probeName << ") skipped " <<
-                //              _skippedBytes << " bytes to find a good " << packetLen() << "-byte record.\n";
+//                cerr << "SppSerial::appendDataAndFind(" << _probeName << ") skipped " <<
+//                _skippedBytes << " bytes to find a good " << packetLen() << "-byte record.\n";
                 _skippedBytes = 0;
                 _skippedRecordCount++;
             }
@@ -333,7 +346,7 @@ int PIP_Serial::appendDataAndFindGood(const Sample* samp)
 void PIP_Serial::open(int flags)
     throw(n_u::IOException,n_u::InvalidParameterException)
 {
-cerr<<"PIP Open"<<endl;
+cerr<<"PIP_Serial Open"<<endl;
     DSMSerialSensor::open(flags);
 //    init_parameters();
 
@@ -347,7 +360,6 @@ cerr<<"PIP Open"<<endl;
 
 void PIP_Serial::close() throw(n_u::IOException)
 {
-cerr<<"Pip Close"<<endl;
     if (DerivedDataReader::getInstance())
             DerivedDataReader::getInstance()->removeClient(this);
     DSMSensor::close();
@@ -357,21 +369,18 @@ cerr<<"Pip Close"<<endl;
 
 void PIP_Serial::derivedDataNotify(const nidas::core::DerivedDataReader * s) throw()
 {
-cerr<<"in derived data notify"<<endl;
-
     SendPIP_BLK send_data_pkt;
     send_data_pkt.esc = 0x1b;
     send_data_pkt.id = 0x02;
     PackDMT_UShort(send_data_pkt.hostSyncCounter , 0x0001); //use packDMT_Ushort here, right below and checksum 
     PackDMT_UShort(send_data_pkt.relayControl,  0x0000);
-    // std::cerr << "atx " << s->getAmbientTemperature() << std::endl;
+
     _trueAirSpeed = s->getTrueAirspeed();   // save it to display in printStatus 
-cerr<<"trueairspeed:"<<_trueAirSpeed<<endl;
-    // could have a check to make sure update is necessary: if (!(_trueAirSpeed ==_oldTAS))...    
+//cerr<<"trueairspeed:"<<_trueAirSpeed<<endl;
+//
     //calculate tas - get resolution out of validate
     unsigned long n = (unsigned long) (_trueAirSpeed / (10e-4) * 34.415);
-cerr<<"n:"<<n<<endl; 
-   //should also packDMT_ULong here
+
     PackDMT_ULong(send_data_pkt.PASCoefficient, n);
     PackDMT_UShort(send_data_pkt.chksum , computeCheckSum((unsigned char*)&send_data_pkt, 10));
     string temp;
@@ -387,4 +396,3 @@ cerr<<"n:"<<n<<endl;
         n_u::Logger::getInstance()->log(LOG_WARNING, "%s", e.what());
     }
 }
-

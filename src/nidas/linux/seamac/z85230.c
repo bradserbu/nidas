@@ -454,7 +454,8 @@ static void z85_change_params(struct z85_port *sp)
 		DBGALL("SDLC defaults\n");
 		params->syncflag = 0x007E;
 		params->sixbitflag = 0;
-		params->crctype = SEAMAC_CRC_CCITT;
+		// params->crctype = SEAMAC_CRC_CCITT;
+		params->crctype = SEAMAC_CRC_16;
 	}
 
 	// make the clocks work right for loopback mode
@@ -656,7 +657,8 @@ static unsigned int z85_rx_chars(struct z85_port *sp)
 		if (sp->params.mode == SEAMAC_MODE_SDLC) {
 			crc = (rr1 & CRC_FRAMING_ERROR);
 			eof = (rr1 & END_OF_FRAME);
-			DBGISR("crc error = %d\n", crc);
+			// DBGISR("crc error = %0x\n", crc);
+			DBGISR("rr1 = %#0x\n", rr1);
 
 			rr1 &= ~(CRC_FRAMING_ERROR | END_OF_FRAME);
 		}
@@ -697,8 +699,10 @@ static unsigned int z85_rx_chars(struct z85_port *sp)
 			zctrl_write(sp, ERROR_RESET, 0);
 		}
 
+		/*
 		if (cpat_uart_handle_sysrq_char(&sp->port, ch))
 			goto ignore_char;
+		*/
 
 		// Allow all other modes, except SDLC/EXT use standard tty ldisc
 		if (sp->params.mode != SEAMAC_MODE_SDLC)
@@ -706,6 +710,7 @@ static unsigned int z85_rx_chars(struct z85_port *sp)
 									flag);
 		else {
 			if (!CIRC_SPACE(rxbuf->head, rxbuf->tail, PAGE_SIZE)) {
+				DBGERR("driver buffer overflow\n");
 				eof = 1;
 				sp->port.icount.buf_overrun++;
 			}

@@ -117,9 +117,10 @@ printf("back from ioctl\n");
 	}
 printf("1\n");
 	// initialize send buffer
-	for (i = 0; i < size; i++)
+	for (i = 0; i < size; i++){
 		buf[i] = (unsigned char) i;
-
+		printf("buffer");
+	}
 printf("2\n");
 	rc = write(fd, buf, size);
 	if (rc < 0) {
@@ -132,7 +133,10 @@ printf("done write\n");
 	// This is especially important when transmitting back-to-back
 	// frames.  If you do not allow enough time to pass between frames,
 	// they can be concatenated into a single frame.
-	rc = tcdrain(fd);
+	//rc = tcdrain(fd);
+	if (tcdrain(fd)<0){
+		printf("tcdrain erroring out");
+	}
 	printf("all data sent rc=%d\n", rc);
 
 	return 0;

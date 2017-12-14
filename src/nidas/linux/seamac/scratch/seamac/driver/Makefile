@@ -25,9 +25,9 @@ TARGET = seamac
 
 
 #ECFLGS += " -I$(INCLUDE) -DPCMCIA_SUPPORT -DISA_SUPPORT"
-#ECFLGS += " -I$(INCLUDE) -DISA_SUPPORT"
+ECFLGS += " -I$(INCLUDE) -DISA_SUPPORT"
 #ECFLGS += " -I$(INCLUDE) -DPCMCIA_SUPPORT"
-ECFLGS += " -I$(INCLUDE)"
+#ECFLGS += " -I$(INCLUDE)"
 
 
 # -----------------------------------------------------------------------------

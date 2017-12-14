@@ -46,7 +46,7 @@ int main(int argc, char* argv[])
 	if (argc > 1)
 		devname = argv[1];
 	else
-		devname = "/dev/ttySM1";
+		devname = "/dev/ttySM0";
 
 	printf("searching for SDLC frames on %s\n", devname);
 
@@ -87,10 +87,9 @@ int main(int argc, char* argv[])
 		       devname, errno, strerror(errno));
 		return rc;
 	}
-
 	// modify device parameters 
 	params.mode = SEAMAC_MODE_SDLC;
-	params.rate = 0;    // this is a slave, getting clk from master
+	params.rate = 0; // this is a slave, getting clk from master
 	params.encoding = SEAMAC_ENCODE_NRZ;
 	params.txclk = SEAMAC_CLK_RXCLK;
 	params.rxclk = SEAMAC_CLK_RXCLK;
@@ -101,13 +100,14 @@ int main(int argc, char* argv[])
 	params.rxbits = SEAMAC_BITS_8;
 	params.addrfilter = 0xFF;
 	params.addrrange = 0;
-	params.crcpreset = SEAMAC_CRC_PRESET0;
+	params.crcpreset = SEAMAC_CRC_PRESET1;
+	params.crctype = SEAMAC_CRC_16;
 	params.idlemode = SEAMAC_IDLE_FLAG;
 	params.underrun = SEAMAC_UNDERRUN_FLAG;
 
 	// If the device has software selectable interface, this will set it
-	params.interface = SEAMAC_IF_232;
-
+	// params.interface = SEAMAC_IF_485T;
+	params.interface = SEAMAC_IF_530;
 
 	// set current device parameters
 	rc = ioctl(fd, SEAMAC_IOCTL_SPARAMS, &params);
@@ -136,6 +136,7 @@ int main(int argc, char* argv[])
 		printf("received %d byte SDLC frame\n", rc);
 
 		// write received data to capture file
+		if (0) {
 		count = fwrite(buf, sizeof(char), rc, fp);
 		if (count != rc) {
 			printf("data file write error=%d (%s)\n",
@@ -143,6 +144,7 @@ int main(int argc, char* argv[])
 			break;
 		}
 		fflush(fp);
+		}
 	}
 
 	return 0;

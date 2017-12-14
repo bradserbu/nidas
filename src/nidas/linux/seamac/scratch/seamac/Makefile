@@ -15,7 +15,8 @@ export CP 	= /bin/cp
 export RM 	= /bin/rm
 export MKDIR 	= /bin/mkdir
 export CHMOD    = /bin/chmod
-export CC 	= /usr/bin/gcc
+#export CC 	= /usr/bin/gcc
+export CC 	= armbe-linux-gcc
 
 export INCLUDE = $(shell pwd)/include
 ## ============================================================================

@@ -5,6 +5,7 @@
 ##
 Import(['env', 'first_mach'])
 mach = env['MACH']
+builds = env['BUILDS']
 
 # The Makefile must be listed in the source dependencies
 # so that it is copied/linked to the variant_dir.
@@ -15,8 +16,7 @@ mach = env['MACH']
 # source files, including the Makefile, are copied to the variant_dir.
 # so that make can find them and do its work outside of the
 # source tree.
-
-if env=='vulcan':
+if builds =='ARMBE':
     if env.has_key("LINUX_MODULES_INST_PATH") and \
         env.has_key('KERNELDIR') and env['KERNELDIR'] != '':
     
@@ -41,8 +41,7 @@ headers = Split("""
     z85230.h
     seamac.h
 """)
-
-if env=='vulcan':
+if builds=='ARMBE':
     if first_mach:
         env.Install('$PREFIX/include/nidas/linux/seamac/drivers',headers)
 # env.Program('test/twod', 'test/twod.c')

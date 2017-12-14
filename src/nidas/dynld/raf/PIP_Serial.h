@@ -28,14 +28,13 @@
 #define NIDAS_DYNLD_RAF_PIP_SERIAL_H
 
 #include "SppSerial.h"
-//#include <nidas/core/DSMSensor.h>
 #include <nidas/core/DerivedDataClient.h>
 #include <iostream>
 
 namespace nidas { namespace dynld { namespace raf {
 
 /**
- * A class for reading PMS1D probes with the DMT interface conversion.
+ * A class for reading DMT PIP/CIP probe histogram data.
  * RS-422 @ 38400 baud.
  */
 class PIP_Serial : public SppSerial, public DerivedDataClient
@@ -58,24 +57,25 @@ public:
   // Packet to initialize probe with.
   struct InitPIP_blk
   {
-    unsigned char    esc;                                // ESC 0x1b
-    unsigned char    id;                                 // cmd id
-    DMT_UShort  airspeedSource;                 // PAS
-    DMT_UShort  dofRej;
-    unsigned char    pSizeDim;                           // ParticleSizingDimension
-    unsigned char    rc;                                 // recovery coefficient
-    DMT_UShort  chksum;                         // cksum
+    unsigned char   esc;               // ESC 0x1b
+    unsigned char   id;                // cmd id
+    DMT_UShort      airspeedSource;    // PAS
+    DMT_UShort      dofRej;
+    unsigned char   pSizeDim;          // ParticleSizingDimension
+    unsigned char   rc;                // recovery coefficient
+    DMT_UShort      chksum;            // cksum
   };
  
   static const int _InitPacketSize = 10;
+  static const int _setTimePacketSize = 8;
 
- /**
-  * Packet sent to probe to begin sending data. 
-  * Usually this is put in the xml, but because
-  * PASCoefficient has to be calculated by the
-  * server, and thus is not static, is here.
-  * Don't actually know that it'll be used though.
-  */
+  /**
+   * Packet sent to probe to begin sending data. 
+   * Usually this is put in the xml, but because
+   * PASCoefficient has to be calculated by the
+   * server, and thus is not static, is here.
+   * Don't actually know that it'll be used though.
+   */
   struct SendPIP_BLK
   {
     unsigned char esc;
@@ -91,8 +91,12 @@ public:
   {
     unsigned char esc;
     unsigned char id; //5
-    DMT_UShort secMili; //seconds and miliseconds
-    DMT_UShort hourMin; //set hour and min
+    unsigned char sec; //sec/milisec may need to be swapped
+    unsigned char milisec; 
+    unsigned char hour; //hour/min may need to be swapped
+    unsigned char min; 
+    //DMT_UShort secMili; //seconds and miliseconds
+   // DMT_UShort hourMin; //set hour and min
     DMT_UShort chksum;
   };
 
@@ -109,9 +113,15 @@ public:
       DMT_UShort DOFRejectCount;
       DMT_UShort EndRejectCount; 
       DMT_UShort housekeeping[N_PIP_HSKP];
-      DMT_UShort ParticleCounter;   
+      DMT_UShort ParticleCounter;
+// mixing types here to see what actually comes out of all this   
+//      unsigned char sec; //sec/milisec may need to be swapped
+//    unsigned char milisec; 
       DMT_UShort SecMili; //Seconds and Milliseconds
-      DMT_UShort HourMin; //Hour and minute
+      unsigned char hour; // hour/min may need to be swapped
+      unsigned char min; 
+    //  DMT_UShort SecMili; //Seconds and Milliseconds
+    //  DMT_UShort HourMin; //Hour and minute
       DMT_UShort hostSyncCounter; 
       DMT_UShort resetFlag;
       DMT_UShort chksum;
@@ -142,6 +152,11 @@ protected:
         return (180);    //use _nChannels if binCount ends up being variable
     }
   
+    /**
+     * Set probe time.
+     */
+    void sendTimePacket()throw(nidas::util::IOException);
+
     int appendDataAndFindGood(const Sample* sample);
   
     // These are instantiated in .cc, used for indexing into the housekeeping array

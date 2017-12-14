@@ -48,12 +48,15 @@ int main(int argc, char* argv[])
 
 	printf("sending %u byte SDLC frames on %s\n", size, devname);
 
+printf("1.0\n");
 	buf = malloc(size);
+
+printf("1.1\n");
 	if (!buf) {
 		printf("can't allocate buffer\n");
 		return ENOMEM;
 	}
-
+printf("1\n");
 	fd = open(devname, O_RDWR, 0);
 	if (fd < 0) {
 		printf("open on device %s failed with err=%d %s\n",
@@ -61,6 +64,7 @@ int main(int argc, char* argv[])
 		return fd;
 	}
 
+printf("2\n");
 	// set N_HDLC line discipline (used for SDLC mode)
 	rc = ioctl(fd, TIOCSETD, &hdlc_disc);
 	if(rc < 0) {
@@ -68,7 +72,7 @@ int main(int argc, char* argv[])
 		       errno, strerror(errno));
 		return rc;
 	}
-
+printf("after n_hdlc\n");
 	// get current device parameters
 	rc = ioctl(fd, SEAMAC_IOCTL_GPARAMS, &params);
 	if (rc < 0) {
@@ -94,7 +98,6 @@ int main(int argc, char* argv[])
 	params.crcpreset = SEAMAC_CRC_PRESET0;
 	params.idlemode = SEAMAC_IDLE_FLAG;
 	params.underrun = SEAMAC_UNDERRUN_FLAG;
-
 	// NOTE: allow extra time for final character + 2 CRC + closing flag
 	params.posttxdelay = (1000 * 8 * 4) / params.rate; 
 
@@ -111,6 +114,7 @@ int main(int argc, char* argv[])
 		return rc;
 	}
 
+printf("after parameters set\n");
 	// initialize send buffer
 	for (i = 0; i < size; i++)
 		buf[i] = (unsigned char) i;

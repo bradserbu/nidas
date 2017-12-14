@@ -28,6 +28,7 @@ subdirs=Split("""
     lams
     mesa
     ncar_a2d
+    seamac
     serial
     viper
     usbtwod
