@@ -4,7 +4,7 @@
  ********************************************************************
  ** NIDAS: NCAR In-situ Data Acquistion Software
  **
- ** 2007, Copyright University Corporation for Atmospheric Research
+ ** 2008, Copyright University Corporation for Atmospheric Research
  **
  ** This program is free software; you can redistribute it and/or modify
  ** it under the terms of the GNU General Public License as published by
@@ -24,40 +24,36 @@
  ********************************************************************
 */
 
-#ifndef _nidas_dynld_raf_pip_image_h
-#define _nidas_dynld_raf_pip_image_h
+#ifndef _nidas_dynld_raf_phips_udp_h_
+#define _nidas_dynld_raf_phips_udp_h_
 
-#include <nidas/core/SerialSensor.h>
-#include <nidas/util/EndianConverter.h>
-#include <nidas/util/InvalidParameterException.h>
+#include <nidas/dynld/raf/UDPSocketSensor.h>
 
 
 namespace nidas { namespace dynld { namespace raf {
 
 using namespace nidas::core;
 
-/*
- * Sensor class to receive PIP images 
+/**
+ * PHIPS - HALO UDP Sensor.  This would be able to use the generic ascii class
+ * except we need to parse a histogram where values are out of sequence.
  */
-class PIP_Image : public SerialSensor
+class PHIPS_UDP : public UDPSocketSensor
 {
+
 public:
+    PHIPS_UDP();
+    ~PHIPS_UDP();
 
     bool process(const Sample* samp,std::list<const Sample*>& results)
         throw();
 
+
 protected:
 
-    // Probe produces Big Endian.
-    static const nidas::util::EndianConverter * bigEndian;
-
-    // Tap2D value sent back from driver has little endian ntap value
-    static const nidas::util::EndianConverter * littleEndian;
-
-private:
+    float scanValue(const char *cp);
 
 };
 
-}}}
- 
+}}}                     // namespace nidas namespace dynld namespace raf
 #endif

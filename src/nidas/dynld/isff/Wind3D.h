@@ -342,16 +342,29 @@ public:
 
     void despike(nidas::core::dsm_time_t tt,float* uvwt,int n, bool* spikeOrMissing)
     	throw();
+
     /**
-     * Do standard bias removal, tilt correction and horizontal
-     * rotation of 3d sonic anemometer data.
+     * Do standard bias removal, tilt correction and horizontal rotation of
+     * 3d sonic anemometer data.
+     *
      * @tt time tag of the data, used to search for a parameter
      *    a file containing a calibration time series.
      * @param uvwt Pointer to an array of 4 floats, containing
      *    u,v,w and tc(virtual temperature). New values
      *    are written back via the pointers.
      */
-    void offsetsTiltAndRotate(nidas::core::dsm_time_t tt,float* uvwt) throw();
+    void offsetsTiltAndRotate(nidas::core::dsm_time_t tt, float* uvwt) throw();
+
+    /**
+     * Apply orientation changes to the wind components.
+     **/
+    void applyOrientation(nidas::core::dsm_time_t tt, float* uvwt) throw();
+
+    /**
+     * Update the settings from the offsets and angles calibration file, if
+     * any.
+     **/
+    void readOffsetsAnglesCalFile(nidas::core::dsm_time_t tt) throw();
 
     /**
      * Validate the configuration of this sensor. Calls the base class
@@ -365,6 +378,16 @@ public:
      * number expected from variables in sample.
      */
     void validateSscanfs() throw(nidas::util::InvalidParameterException);
+
+    /**
+     * Parse the orientation parameter and set the vectors which translate
+     * the axes and signs of the wind sensor components.  The parameter
+     * must be one string: 'normal' (default), 'down', 'lefthanded',
+     * 'flipped' or 'horizontal'.  Throws InvalidParameterException if the
+     * string cannot be parsed.
+     **/
+    void
+    setOrientation(const std::string& orientation);
 
     /**
      * Parse the list of nidas::core::Parameter that are associated with this sensor.
